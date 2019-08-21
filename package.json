@@ -1,0 +1,16 @@
+{
+  "name": "hub",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/studyathome-internationally/hub.git",
+  "author": "Alija Sabic <sabic@technikum-wien.at>",
+  "license": "GPL-3.0",
+  "private": false,
+  "dependencies": {
+    "vuepress": "^1.0.3"
+  },
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs"
+  }
+}
