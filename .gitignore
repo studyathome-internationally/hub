@@ -1,4 +1,5 @@
 # Ignore
+build/
 node_modules/
 
 # Allow
