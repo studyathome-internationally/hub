@@ -1,6 +1,7 @@
+console.log("BASE", process.env.BASE);
 module.exports = {
   dest: "build",
-  // base: "/test-base/",
+  base: process.env.BASE || "/",
   title: "StudyATHome Internationally",
   theme: "@studyathome-internationally/hub",
   themeConfig: {
