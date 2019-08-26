@@ -9,7 +9,7 @@
     "access": "public"
   },
   "dependencies": {
-    "@studyathome-internationally/vuepress-theme-hub": "^0.0.1-alpha.3",
+    "@studyathome-internationally/vuepress-theme-hub": "canary",
     "vuepress": "^1.0.3"
   },
   "scripts": {

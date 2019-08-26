@@ -1,12 +1,12 @@
 module.exports = {
   dest: "build",
+  // base: "/test-base/",
   title: "StudyATHome Internationally",
   theme: "@studyathome-internationally/hub",
   themeConfig: {
-    logo: "./assets/img/logos/studyathome-noir.svg",
+    // logo: "./assets/img/logos/studyathome-noir.svg",
     nav: [
       { text: "Home", link: "/" },
-      { text: "Courses", link: "/courses/" },
       { text: "Project Teams", link: "/projectteams/" },
       // { text: "Guide", link: "/guide/" },
       { text: "More", link: "/more/" }
