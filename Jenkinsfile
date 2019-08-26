@@ -8,6 +8,7 @@ pipeline {
     gitParameter(name: 'BRANCH', branchFilter: 'origin.*?/(.*)', defaultValue: 'master', type: 'PT_BRANCH_TAG', useRepository: 'hub')
   }
   triggers {
+    // pollSCM('H/15 * * * *')
     pollSCM('* * * * *')
   }
   agent none
