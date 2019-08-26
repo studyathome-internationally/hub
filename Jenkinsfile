@@ -36,8 +36,6 @@ pipeline {
               label params.agent
             }
           }
-          environment {
-          }
           steps {
             sh '''
               yarn && yarn build
@@ -87,8 +85,6 @@ pipeline {
           }
           agent {
             label params.agent
-          }
-          environment {
           }
           steps {
             archiveArtifacts artifacts: 'hub.zip', fingerprint: true
