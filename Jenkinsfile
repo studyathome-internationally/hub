@@ -23,21 +23,24 @@ pipeline {
     }
     stage('Build') {
         when { 
-        anyOf { 
-            equals expected: true, actual: params.release
-            equals expected: true, actual: params.store
-        }
+          anyOf { 
+              equals expected: true, actual: params.release
+              equals expected: true, actual: params.store
+          }
         }
         agent {
-        docker {
-            image params.image
-            label params.agent
+          docker {
+              image params.image
+              label params.agent
+          }
         }
+        environment {
+          BASE = "/hub-public/"
         }
         steps {
-        sh '''
-            yarn && yarn build
-        '''
+          sh '''
+              yarn && yarn build
+          '''
         }
     }
     stage('Prepare: Store') {
