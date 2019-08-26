@@ -22,27 +22,23 @@ pipeline {
       }
     }
     stage('Build') {
-      parallel {
-        stage('Build') {
-          when { 
-            anyOf { 
-              equals expected: true, actual: params.release
-              equals expected: true, actual: params.store
-            }
-          }
-          agent {
-            docker {
-              image params.image
-              label params.agent
-            }
-          }
-          steps {
-            sh '''
-              yarn && yarn build
-            '''
-          }
+        when { 
+        anyOf { 
+            equals expected: true, actual: params.release
+            equals expected: true, actual: params.store
         }
-      }
+        }
+        agent {
+        docker {
+            image params.image
+            label params.agent
+        }
+        }
+        steps {
+        sh '''
+            yarn && yarn build
+        '''
+        }
     }
     stage('Prepare: Store') {
       when { 
@@ -68,7 +64,7 @@ pipeline {
           }
           steps {
             sh '''
-              git clone -b gh-pages --single-branch https://github.com/studyathome-internationally/hub-public.git master
+              git clone -b master --single-branch https://github.com/studyathome-internationally/hub-public.git gh-pages
               rm -rf gh-pages/*
               cp -r build/* gh-pages/
               cd gh-pages
