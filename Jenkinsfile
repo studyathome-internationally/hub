@@ -68,7 +68,7 @@ pipeline {
           }
           steps {
             sh '''
-              git clone -b gh-pages --single-branch https://github.com/studyathome-internationally/hub-public.git gh-pages
+              git clone -b gh-pages --single-branch https://github.com/studyathome-internationally/hub-public.git master
               rm -rf gh-pages/*
               cp -r build/* gh-pages/
               cd gh-pages
