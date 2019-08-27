@@ -39,7 +39,7 @@ pipeline {
         }
         steps {
           sh '''
-              yarn && yarn build
+              yarn --no-lockfile && yarn build
           '''
         }
     }
