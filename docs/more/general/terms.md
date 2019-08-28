@@ -1,4 +1,4 @@
-# Partner
+# Terms
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent venenatis mauris id est interdum euismod. Aenean consequat tellus quis nunc malesuada iaculis. Donec tellus nulla, porta at tellus vitae, sollicitudin rhoncus libero. Suspendisse aliquet risus a libero auctor, nec hendrerit nulla gravida. Vivamus sit amet turpis ac diam semper ultricies eget eu dui. Integer justo diam, tempor vel arcu non, consequat scelerisque turpis. Duis ullamcorper ac libero sed mollis.
 
