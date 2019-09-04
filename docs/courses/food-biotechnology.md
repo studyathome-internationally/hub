@@ -3,6 +3,7 @@ state: active
 title: Food Biotechnology
 video: https://youtu.be/DEIlY_3Uy14
 image: https://imoox.at/mooc/pluginfile.php/176907/course/overviewfiles/pickles_260_195.png
+imageAlt: Einmachgläser im Regal
 startDate: 07.10.2019
 endDate: ~
 duration: 7 weeks
