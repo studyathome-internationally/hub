@@ -20,4 +20,4 @@ footer: GPL v3.0 Licensed | Copyright © 2018-present | StudyATHome Internationa
 
 # Courses
 
-<CourseList path="/courses/" />
+<CourseCards path="/courses/" />
