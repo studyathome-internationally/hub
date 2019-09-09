@@ -2,6 +2,7 @@
 build/
 node_modules/
 TODO
+gh-pages/
 workspace/
 .vscode/
 
