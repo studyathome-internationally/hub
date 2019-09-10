@@ -5,7 +5,7 @@ heroText: Hub
 tagline: eLearning Sharing | Virtual Project Teams
 # tagline: StudyATHome Internationally
 actionText: Get Started
-actionLink: /
+actionLink: /courses/
 # features:
 # - title: eLearning Sharing
 #   details: ...details...
