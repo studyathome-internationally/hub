@@ -1,4 +1,25 @@
 ---
+# Registration --> Partnerseite
+enrollment:
+    to:
+    - international@wit.ie
+    cc: 
+    - studyathome@technikum-wien.at
+    bcc:
+    - 
+    subject: Registration as virtual student (StudyATHome Internationally)
+    body: >
+        Dear Sir or Madam,\n\n
+        I ....\n
+        {Course Information} 
+        Name: \n
+        Date of Birth: \m
+        ...
+# Registration link needs WIT username already, see https://www.wit.ie/images/uploads/International_PDF/How_to_register_online_2019_(1).pdf
+# So probably just sending an e-mail would be best
+# optional
+    link: https://studentssp.wit.ie/login/login.aspx?APP=OLNE
+
 layout: Enrollment
 ---
 # Information für Incoming-Studierende
