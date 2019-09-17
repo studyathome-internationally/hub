@@ -1,0 +1,17 @@
+{
+  "folders": [
+    {
+      "path": "."
+    },
+    {
+      "path": "../hub.js"
+    },
+    {
+      "path": "../hub.js/packages/@studyathome-internationally/vuepress-plugin-hub"
+    },
+    {
+      "path": "../hub.js/packages/@studyathome-internationally/vuepress-theme-hub"
+    }
+  ],
+  "settings": {}
+}
