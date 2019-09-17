@@ -16,14 +16,5 @@
     "dev": "vuepress dev docs",
     "build": "vuepress build docs"
   },
-  "devDependencies": {
-    "markdown-it-abbr": "^1.0.4",
-    "markdown-it-checkbox": "^1.1.0",
-    "markdown-it-deflist": "^2.0.3",
-    "markdown-it-footnote": "^3.0.2",
-    "markdown-it-kbd": "^2.0.0",
-    "markdown-it-sub": "^1.0.0",
-    "markdown-it-sup": "^1.0.0",
-    "twemoji": "^12.1.2"
-  }
+  "devDependencies": {}
 }

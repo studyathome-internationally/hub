@@ -8,9 +8,8 @@ module.exports = {
   base,
   title: "StudyATHome Internationally",
   theme: "@studyathome-internationally/hub",
-  extendMarkdown: md => markdownConfiguration(md),
   themeConfig: {
-    // logo: "./assets/img/logos/studyathome-noir.svg",
+    logo: "./assets/img/logos/studyathome-noir.svg",
     nav: navConfiguration(),
     displayAllHeaders: true,
     sidebar: sidebarConfiguration()
@@ -21,26 +20,6 @@ function baseConfiguration() {
   const base = process.env.BASE || "/";
   logger.info(`Building site with base ${chalk.magenta(base)} ...`);
   return base;
-}
-function markdownConfiguration(md) {
-  md.set({ breaks: true, typographer: true, linkify: true });
-  md.use(require("markdown-it-sub"));
-  md.use(require("markdown-it-sup"));
-  md.use(require("markdown-it-footnote"));
-  md.use(require("markdown-it-deflist"));
-  md.use(require("markdown-it-abbr"));
-  // md.use(require("markdown-it-emoji"));
-  md.use(require("markdown-it-checkbox"));
-  // md.use(require("markdown-it-imsize"), { autofill: true });
-  md.use(require("markdown-it-kbd"));
-
-  md.renderer.rules.emoji = function(token, idx) {
-    return twemoji.parse(token[idx].content, {
-      base: "https://twemoji.maxcdn.com/2/",
-      ext: ".svg",
-      folder: "svg"
-    });
-  };
 }
 function navConfiguration() {
   return [
@@ -96,7 +75,6 @@ function navConfiguration() {
 }
 function sidebarConfiguration() {
   return {
-    "/courses/": false,
     "/more/e-learning-sharing/concepts/": [
       ["concept1.md", "Concept 1"],
       ["concept2.md", "Concept 2"],
