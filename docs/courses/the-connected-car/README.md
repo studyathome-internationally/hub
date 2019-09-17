@@ -1,67 +1,47 @@
 ---
 title: The Connected Car
-# A short description of the course
-description: 
-link:
-media:
-    video: https://youtu.be/DEIlY_3Uy14
-    image: XXX
-
-schedule:
-    startDate: 14.01.2020
-    endDate: 27.04.2020
-    duration: XXX
-
-lecturers:
-   - name: XXX
-     description: XXX
-     image: XXX
-     contact: 
-   - name: XXX
-     description: XXX
-     image: XXX
-     contact: 
-
-university:
-    name:
-    faculty:
-    program:
-
-
-
-
-
-# Registration --> Partnerseite
-enrollment:
-    email: international@wit.ie
-# Registration link needs WIT username already, see https://www.wit.ie/images/uploads/International_PDF/How_to_register_online_2019_(1).pdf
-# So probably just sending an e-mail would be best
-    link: https://studentssp.wit.ie/login/login.aspx?APP=OLNE
-
-
-license: XXX
-
+description: >
+    In this module, students explore and use the technologies required to exchange data between Electronic Control Units within the vehicle and with external systems outside of the vehicle, such as other vehicles, diagnostic tools, recharging stations and roadside infrastructure.
+license: XX
+link: XX
 ects: 5
 attendees: 5
-courseLink: XXX
+semester: Summer
+language: 
+  - en
 
+media:
+  image: XX
+  video: XX
 
+schedule:
+  start: 14.01.2020
+  end: 27.04.2020
+  duration:
+
+lecturers:
+  - name: Brendan Jackman
+    email: BJACKMAN@wit.ie
+    description: > 
+      Brendan Jackman has over three decades’ experience in the development, teaching and research of embedded systems. Since joining Waterford Institute of Technology in 1991 Brendan has founded the Automotive Control Group to research the use of software and networks in vehicles. He is also responsible for curriculum development on the undergraduate Automotive & Automation computing programme and the Internet of Things programme.\n
+    image: https://www.wit.ie/images/made/images/uploads/Staff_Profile_Pics/my_photo_150_150_s.jpg
+
+university:
+    name: WIT
+    faculty: Science and Computing
+    program: BSc (Hons) - Applied Computing Automotive & Automation Systems
 
 
 state: active
-# type: mooc | moderated | interactive | iooc
-type: IOOC
-tags: Vehicle communication
-
-
 ---
-## Description
 
-In this module, students explore and use the technologies required to exchange data between Electronic Control
-Units within the vehicle and with external systems outside of the vehicle, such as other vehicles, diagnostic
-tools, recharging stations and roadside infrastructure.
+# {{$frontmatter.title}}
 
-## Indicative Content
+{{ $description }}
+
+## Overview
+
+### Contents
 
 * Vehicle network architectures
 * Event-triggered network protocols (CAN-FD; XCP; ISO 15765)
@@ -73,63 +53,55 @@ tools, recharging stations and roadside infrastructure.
 * Network simulation and testing
 * Network security
 
-## Learning Outcomes
+### Outcomes
 
 On successful completion of this module, a student will be able to:
 
-1. Distinguish the characteristics of the different network protocols.
-2. Compare and contrast common automotive protocols.
-3. Formulate application networking requirements.
-4. Design gateway network protocols.
-5. Evaluate security requirements for a connected vehicle.
-6. Set up and appraise industry standard network development and testing tools.
+* Distinguish the characteristics of the different network protocols.
+* Compare and contrast common automotive protocols.
+* Formulate application networking requirements.
+* Design gateway network protocols.
+* Evaluate security requirements for a connected vehicle.
+* Set up and appraise industry standard network development and testing tools.
 
-## Pre-Requisites
-
-N/A
-
-## Learning and Teaching Methods
+### Methods
 
 * Combination of lectures and laboratory-based practicals.
 * Self-directed learning.
 
-| Learning Type | F/T Hours     | P/T Hours |
-| ------------- |-------------:| -----:|
-| Independent Learning          | 87 |  |
-| Practical     | 24 |   |
-| Lecture | 24 | |
+| Learning Type        | F/T Hours | P/T Hours |
+| -------------------- | --------: | --------: |
+| Independent Learning |        87 |           |
+| Practical            |        24 |           |
+| Lecture              |        24 |           |
 
-## Assessment Methods
+## Assessment
 
-| Type | Weighting     | Outcomes assessed |
-| -------------        |-------------:| -----:|
-| Continous Assessment | 100% |  |
-| Assignment           | 30% | 1,3,5 |
-| Assignment           | 70% | 2,4,6 |
+### Methods
 
-## Assessment Criteria
+| Type                 | Weighting | Outcomes assessed |
+| -------------------- | --------: | ----------------: |
+| Continous Assessment |      100% |                   |
+| Assignment           |       30% |             1,3,5 |
+| Assignment           |       70% |             2,4,6 |
 
-| Percentage | Description |
-| :-------------: |:-------------|
-|< 40% |Inability to specify a coherent network design.|
-|40%–49%| Able to describe the basic network design concepts.|
-|50%–59%| All the above and in addition is able demonstrate a technical understanding of the common automotive network protocols.|
-|60%–69%| In addition, is able to develop and test a network using two or more protocols connected with a gateway.|
-|70%–100%| All of the above and able to debug network issues at a low level.|
+### Criteria
 
-## Certificate
+| Percentage | Description                                                                                                             |
+| :--------: | :---------------------------------------------------------------------------------------------------------------------- |
+|   < 40%    | Inability to specify a coherent network design.                                                                         |
+|  40%–49%   | Able to describe the basic network design concepts.                                                                     |
+|  50%–59%   | All the above and in addition is able demonstrate a technical understanding of the common automotive network protocols. |
+|  60%–69%   | In addition, is able to develop and test a network using two or more protocols connected with a gateway.                |
+|  70%–100%  | All of the above and able to debug network issues at a low level.                                                       |
 
-N/A
+## Requirements
 
-## Supplementary Material(s)
+### Skills
 
-* Schaeuffele, J. and T. Zurawaka. Automotive Software Engineering.. NY: SAE International, 2005.
+* N/A
 
-## Requested Resources
+### Equipment
 
 * Computer
 * CANoe SW for Simulation
-
-## License
-
-N/A
