@@ -6,7 +6,7 @@ license: <<license>>
 link: <<course link>>
 ects: 6
 attendees: 5
-semester: S
+semester: Sommer
 language: 
   - en
   - mk
@@ -76,24 +76,24 @@ Upon completion ofthe course, the student is expected to demonstrate knowledge o
 
 Lectures using presentations, interactive lectures, exercises (using equipment and softwarepackages), teamwork, case studies, invited guest lecturers, independent preparation and defense of a project assignment and seminar work.
 
-| Type        | Effort [h] |
-| ----------- | :--------: |
-| Lectures |     30     |
-| Exercises   |     45     |
-| Project Tasks     |     15     |
-| Independent Learning Tasks     |     15     |
-| Home Learning     |     75     |
+| Type                       | Effort [h] |
+| -------------------------- | :--------: |
+| Lectures                   |     30     |
+| Exercises                  |     45     |
+| Project Tasks              |     15     |
+| Independent Learning Tasks |     15     |
+| Home Learning              |     75     |
 
 ## Assessment
 
 ### Methods
 
-| Type          | Points/Percent |
-| :------------ | :------------: |
-| Tests         |      10%       |
+| Type                    | Points/Percent |
+| :---------------------- | :------------: |
+| Tests                   |      10%       |
 | Seminar paper / Project |      10%       |
-| Activity and Learning       |      10%       |
-| Final exam    |      70%       |
+| Activity and Learning   |      10%       |
+| Final exam              |      70%       |
 
 ### Criteria
 

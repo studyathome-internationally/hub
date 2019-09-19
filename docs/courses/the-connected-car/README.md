@@ -6,7 +6,7 @@ license: XX
 link: XX
 ects: 5
 attendees: 5
-semester: S
+semester: Sommer
 language: 
   - en
 

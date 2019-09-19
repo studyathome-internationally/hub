@@ -5,7 +5,7 @@ license: CC
 link: course.uni.at
 ects: 6
 attendees: 6
-semester: S
+semester: Sommer
 language: 
   - en
   - mk

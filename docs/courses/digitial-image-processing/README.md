@@ -6,7 +6,7 @@ license: <<license>>
 link: <<course link>>
 ects: 6
 attendees: 5
-semester: S
+semester: Sommer
 language: 
   - en
   - mk
@@ -89,22 +89,22 @@ Upon the completion of the course the student is expected to rule and use the ba
 
 Lectures using presentations, interactive lectures, exercises (using equipment and softwarepackages), teamwork, case studies, invited guest lecturers, independent preparation anddefense of a project assignment and seminar work.
 
-| Type        | Effort [h] |
-| ----------- | :--------: |
-| Lectures |     30     |
-| Exercises   |     45     |
-| Project Tasks     |     15     |
-| Independent Learning     |     15     |
-| Home Learning     |     75     |
+| Type                 | Effort [h] |
+| -------------------- | :--------: |
+| Lectures             |     30     |
+| Exercises            |     45     |
+| Project Tasks        |     15     |
+| Independent Learning |     15     |
+| Home Learning        |     75     |
 
 ## Assessment
 
 ### Methods
 
-| Type          | Points/Percent |
-| :------------ | :------------: |
-| Project |      30%       |
-| Final exam    |      70%       |
+| Type       | Points/Percent |
+| :--------- | :------------: |
+| Project    |      30%       |
+| Final exam |      70%       |
 
 ### Criteria
 
