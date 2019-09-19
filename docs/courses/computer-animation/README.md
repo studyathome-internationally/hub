@@ -3,7 +3,7 @@ title: Computer Animation
 description: Course description, tbd.
 license: CC
 link: course.uni.at
-ects: 7
+ects: 6
 attendees: 6
 semester: sommer
 language: 
