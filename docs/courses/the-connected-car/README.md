@@ -11,7 +11,7 @@ language:
   - en
 
 media:
-  image: XX
+  image: 
   video: XX
 
 schedule:

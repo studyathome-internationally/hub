@@ -1,18 +1,18 @@
 ---
 sidebar: true
-title: <<template>>
-description: <<(short) description>>
-license: <<license>>
+title: AsTeRICS - Assistive Technologies
+description: Assistive Technologies Laboratory
+license: GPL-3.0
 link: <<course link>>
 ects: 7
 attendees: 6
 semester: <<sommer|winter>>
-language:
+language: 
   - <<LANG>>
   - <<LANG>>
 
 media:
-  image:
+  image: https://www.i-magazin.com/wp-content/uploads/2019/09/asterics_grid-1024x683.jpg
   video: <<course video>>
 
 schedule:
@@ -31,9 +31,10 @@ lecturers:
     image: <<lecturer 2 image>>
 
 university:
-  name: <<university id>>
-  faculty: <<university faculty>>
-  program: <<university program>>
+    name: <<university id>>
+    faculty: <<university faculty>>
+    program: <<university program>>
+
 
 state: <<open|close>>
 ---

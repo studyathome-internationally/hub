@@ -1,18 +1,18 @@
 ---
 sidebar: true
-title: <<template>>
+title: Digital Image Processing
 description: <<(short) description>>
 license: <<license>>
 link: <<course link>>
 ects: 7
 attendees: 6
 semester: <<sommer|winter>>
-language:
+language: 
   - <<LANG>>
   - <<LANG>>
 
 media:
-  image:
+  image: 
   video: <<course video>>
 
 schedule:
@@ -31,9 +31,10 @@ lecturers:
     image: <<lecturer 2 image>>
 
 university:
-  name: <<university id>>
-  faculty: <<university faculty>>
-  program: <<university program>>
+    name: <<university id>>
+    faculty: <<university faculty>>
+    program: <<university program>>
+
 
 state: <<open|close>>
 ---

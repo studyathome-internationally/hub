@@ -11,7 +11,7 @@ language:
   - DE
 
 media:
-  image: as.png
+  image: 
   video: asas.html
 
 schedule:
@@ -22,10 +22,6 @@ schedule:
 lecturers:
   - name: Ivan Chorbev
     email: ivan@dot.com
-    description: Did something, somewhen
-    image: pic.png
-  - name: Ivan der Schreckliche
-    email: ivan@dot.mk
     description: Did something, somewhen
     image: pic.png
 
