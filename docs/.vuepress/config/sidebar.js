@@ -2,7 +2,7 @@ module.exports = {
   "/studyathome/partner/": [
     ["wit/", "WIT"],
     ["ctu/", "CTU"],
-    ["wit/", "WIT"],
+    ["ukim/", "UKIM"],
     ["uastw/", "UAS TW"]
   ]
 };
