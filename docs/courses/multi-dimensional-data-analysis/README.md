@@ -1,15 +1,14 @@
 ---
 sidebar: true
 title: Multidimensional data analysis and recognition
-description: <<(short) description>>
+description: Cluster analyses, outliers and statistics
 license: <<license>>
 link: <<course link>>
-ects: 7
-attendees: 6
-semester: <<sommer|winter>>
+ects: 4
+attendees: 5
+semester: S
 language: 
-  - <<LANG>>
-  - <<LANG>>
+  - en
 
 media:
   image: 
@@ -31,7 +30,7 @@ lecturers:
     image: <<lecturer 2 image>>
 
 university:
-    name: <<university id>>
+    name: ctu
     faculty: <<university faculty>>
     program: <<university program>>
 
