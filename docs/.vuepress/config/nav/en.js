@@ -22,7 +22,7 @@ module.exports = [
         ]
       },
       {
-        text: "StudyATHome Internationally",
+        text: "General",
         items: [
           { text: "Contact", link: "/studyathome/contact" },
           { text: "Partner", link: "/studyathome/partner/" },
