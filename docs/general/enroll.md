@@ -3,6 +3,7 @@
 enrollment:
     to:
     - international@wit.ie
+    - international@fhtw.at
     cc: 
     - studyathome@technikum-wien.at
     bcc:
@@ -11,9 +12,9 @@ enrollment:
     body: >
         Dear Sir or Madam,\n\n
         I ....\n
-        {Course Information} 
+        <Course Information>
         Name: \n
-        Date of Birth: \m
+        Date of Birth: \n
         ...
 # Registration link needs WIT username already, see https://www.wit.ie/images/uploads/International_PDF/How_to_register_online_2019_(1).pdf
 # So probably just sending an e-mail would be best
@@ -42,5 +43,5 @@ Then you will get an email containing the matriculation receipt and the course l
 Please ensure to enroll before the matriculation deadline.
 
 :::tip Matriculation Deadline
-January, 7th 2020
+January, 7^th^ 2020
 :::
