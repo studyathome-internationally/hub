@@ -1,20 +1,27 @@
 const { logger, chalk } = require("@vuepress/shared-utils");
 
-const base = baseConfiguration();
-
 module.exports = {
   dest: "build",
-  base,
+  base: baseConfiguration(),
   head: headConfiguration(),
   title: "StudyATHome Internationally",
   theme: "@studyathome-internationally/hub",
-  plugins: ["@vuepress/pwa"],
+  plugins: [
+    [
+      "@vuepress/pwa",
+      {
+        serviceWorker: true,
+        updatePopup: true
+      }
+    ]
+  ],
   themeConfig: {
-    logo: "./assets/img/logos/studyathome-noir.svg",
-    nav: navConfiguration(),
+    logo: "/assets/img/logos/studyathome-noir.svg",
+    nav: require("./nav/en"),
     displayAllHeaders: true,
     sidebar: sidebarConfiguration()
-  }
+  },
+  extraWatchFiles: ["./nav/en.js"]
 };
 
 function baseConfiguration() {
@@ -44,58 +51,6 @@ function headConfiguration() {
     ["meta", { name: "msapplication-TileColor", content: "#00aba9" }],
     ["meta", { name: "msapplication-config", content: "assets/favicon/browserconfig.xml" }],
     ["meta", { name: "theme-c</meta>olor", content: "#ffffff" }]
-  ];
-}
-function navConfiguration() {
-  return [
-    { text: "Home", link: "/" },
-    { text: "Project Teams", link: "/projectteams/" },
-    {
-      text: "More",
-      items: [
-        {
-          text: "eLearning Sharing",
-          items: [
-            { text: "Concepts", link: "/more/e-learning-sharing/concepts/" },
-            { text: "Guides", link: "/more/e-learning-sharing/guides/" },
-            { text: "Join!", link: "/more/e-learning-sharing/join" }
-          ]
-        },
-        {
-          text: "Virtual Project Teams",
-          items: [
-            { text: "Concepts", link: "/more/virtual-project-teams/concepts/" },
-            { text: "Guides", link: "/more/virtual-project-teams/guides/" },
-            { text: "Join!", link: "/more/virtual-project-teams/join" }
-          ]
-        },
-        {
-          text: "Hub",
-          items: [
-            // { text: "Concepts", link: "/more/hub/concepts/" },
-            { text: "Guides", link: "/more/hub/guides/" },
-            { text: "Markdown", link: "/more/hub/markdown" }
-          ]
-        },
-        {
-          text: "StudyATHome Internationally",
-          items: [
-            { text: "Contact", link: "/more/studyathome/contact" },
-            { text: "Partner", link: "/more/studyathome/partner" }
-          ]
-        },
-        {
-          text: "General",
-          items: [
-            { text: "Terms", link: "/more/general/terms" },
-            { text: "Privacy", link: "/more/general/privacy" },
-            { text: "Help", link: "/more/general/help" },
-            { text: "Sitemap", link: "/more/general/sitemap" },
-            { text: "About", link: "/more/general/about" }
-          ]
-        }
-      ]
-    }
   ];
 }
 function sidebarConfiguration() {
