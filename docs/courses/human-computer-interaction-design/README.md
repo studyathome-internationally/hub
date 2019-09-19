@@ -1,15 +1,15 @@
 ---
 sidebar: true
 title: Human-computer interaction design
-description: <<(short) description>>
+description: The purpose of the course is to introduce the basic principles for designing interactive computer systems to students.
 license: <<license>>
 link: <<course link>>
-ects: 7
-attendees: 6
-semester: <<sommer|winter>>
+ects: 6
+attendees: 5
+semester: S
 language: 
-  - <<LANG>>
-  - <<LANG>>
+  - en
+  - mk
 
 media:
   image:
@@ -21,19 +21,28 @@ schedule:
   duration: <<course duration>>
 
 lecturers:
-  - name: <<lecturer 1 name>>
+  - name: Suzana Loshkovska
     email: <<lecturer1@email.net>>
     description: <<lecturer 1 description>>
     image: <<lecturer 1 image>>
-  - name: <<lecturer 2 name>>
+  - name: Sonja Gievska
+    email: <<lecturer1@email.net>>
+    description: <<lecturer 2 description>>
+    image: <<lecturer 2 image>>
+  - name: Nevena Ackovska
+    email: <<lecturer1@email.net>>
+    description: <<lecturer 2 description>>
+    image: <<lecturer 2 image>>
+  - name: Ivan Kitanovski
     email: <<lecturer1@email.net>>
     description: <<lecturer 2 description>>
     image: <<lecturer 2 image>>
 
+
 university:
-    name: <<university id>>
-    faculty: <<university faculty>>
-    program: <<university program>>
+    name: ukim
+    faculty: Faculty of Computer Science and Engineering
+    program: Software engineering and information systems
 
 
 state: <<open|close>>
@@ -47,23 +56,33 @@ state: <<open|close>>
 
 ### Contents
 
-* course content 1
-* course content 2
-* course content 3
+The purpose of the course is to introduce the basic principles for designing interactivecomputer systems to students. For this purpose the process of designing interactive systems,   design phases (collection and analysis of requirements, prototyping, implementation and usability testing) will be introduced to students.
+
+* Introduction, terminology, history.
+* Human in the human-computer interaction,physical characteristics, cognitive aspects.
+* Usability, principles, standards, accessibility,user experience.
+* Human computer interaction design process, approaches and featuresof the design process.
+* Collection of requirements, interviewing techniques, observation,defining personas and scenarios.
+* Representation, sketches, storyboards, prototypes, lowfidelity prototypes,  high fidelity prototypes.
+* Task analysis.
+* Principles for interactivedesign, elements of visual interfaces, error handling, help, and documentation.
+* Userinterface evaluation, evaluation methods and techniques, evaluation measures, usabilityheuristics and usability testing principles.
 
 ### Outcomes
 
-* outcome 1
-* outcome 2
-* outcome 3
+Upon completion ofthe course, the student is expected to demonstrate knowledge of the process and phases fordesigning interactive systems and can independently or in a team design and implement aprototype of interactive system.
 
 ### Methods
 
+Lectures using presentations, interactive lectures, exercises (using equipment and softwarepackages), teamwork, case studies, invited guest lecturers, independent preparation and defense of a project assignment and seminar work.
+
 | Type        | Effort [h] |
 | ----------- | :--------: |
-| Independent |     40     |
-| Practical   |     40     |
-| Lecture     |     40     |
+| Lectures |     30     |
+| Exercises   |     45     |
+| Project Tasks     |     15     |
+| Independent Learning Tasks     |     15     |
+| Home Learning     |     75     |
 
 ## Assessment
 
@@ -71,11 +90,10 @@ state: <<open|close>>
 
 | Type          | Points/Percent |
 | :------------ | :------------: |
-| Tests         |      13%       |
-| Seminar paper |      12%       |
-| Project       |      13%       |
-| Tasks         |      12%       |
-| Final exam    |      50%       |
+| Tests         |      10%       |
+| Seminar paper / Project |      10%       |
+| Activity and Learning       |      10%       |
+| Final exam    |      70%       |
 
 ### Criteria
 
@@ -92,10 +110,8 @@ state: <<open|close>>
 
 ### Skills
 
-* common sense
-* intermediate calculating skills
+N/A
 
 ### Equipment
 
-* pencil(s)
-* calculator
+N/A

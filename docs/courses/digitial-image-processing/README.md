@@ -1,15 +1,15 @@
 ---
 sidebar: true
 title: Digital Image Processing
-description: <<(short) description>>
+description: The basics of digital image processing.
 license: <<license>>
 link: <<course link>>
-ects: 7
-attendees: 6
-semester: <<sommer|winter>>
+ects: 6
+attendees: 5
+semester: S
 language: 
-  - <<LANG>>
-  - <<LANG>>
+  - en
+  - mk
 
 media:
   image: 
@@ -21,19 +21,19 @@ schedule:
   duration: <<course duration>>
 
 lecturers:
-  - name: <<lecturer 1 name>>
+  - name:  Ivica Dimitrovski
     email: <<lecturer1@email.net>>
     description: <<lecturer 1 description>>
     image: <<lecturer 1 image>>
-  - name: <<lecturer 2 name>>
+  - name: Andrea Kulakov
     email: <<lecturer1@email.net>>
     description: <<lecturer 2 description>>
     image: <<lecturer 2 image>>
 
 university:
-    name: <<university id>>
-    faculty: <<university faculty>>
-    program: <<university program>>
+    name: ukim
+    faculty: Faculty of Computer Science and Engineering
+    program: Software engineering and information systems
 
 
 state: <<open|close>>
@@ -47,23 +47,55 @@ state: <<open|close>>
 
 ### Contents
 
-* course content 1
-* course content 2
-* course content 3
+* The basics of digital image processing
+* Representation and digitalization of images
+* Tools and programs for digital image processing
+* Digital images and pixels
+* Color components
+* Application domains
+* 2-D sampling and reconstruction
+* Quantization
+* Digitalization
+* Introduction to OpenCV and Python
+* Basic operations with images
+* Pointbased operations
+* Image histograms
+* Contrast and gamma
+* Histogram equalization
+* Adaptive histogram equalization
+* Color space
+* Theory of colour, Colour correction and special effects
+* Linear filters and convolution
+* Blurring and Sharpening Images
+* Edge detection
+* Image segmentation
+* Morphological operations: 
+  * dilatation / erosion
+  * opening / closing
+* Contour extraction
+* Region filling
+* Skeletonization
+* Transformations
+  * effects, filters and deformation
+* Visual descriptors
+* Key-point extraction
+* Panoramastitching
 
 ### Outcomes
 
-* outcome 1
-* outcome 2
-* outcome 3
+Upon the completion of the course the student is expected to rule and use the basic toolsand methods for image processing.
 
 ### Methods
 
+Lectures using presentations, interactive lectures, exercises (using equipment and softwarepackages), teamwork, case studies, invited guest lecturers, independent preparation anddefense of a project assignment and seminar work.
+
 | Type        | Effort [h] |
 | ----------- | :--------: |
-| Independent |     40     |
-| Practical   |     40     |
-| Lecture     |     40     |
+| Lectures |     30     |
+| Exercises   |     45     |
+| Project Tasks     |     15     |
+| Independent Learning     |     15     |
+| Home Learning     |     75     |
 
 ## Assessment
 
@@ -71,11 +103,8 @@ state: <<open|close>>
 
 | Type          | Points/Percent |
 | :------------ | :------------: |
-| Tests         |      13%       |
-| Seminar paper |      12%       |
-| Project       |      13%       |
-| Tasks         |      12%       |
-| Final exam    |      50%       |
+| Project |      30%       |
+| Final exam    |      70%       |
 
 ### Criteria
 
@@ -92,10 +121,8 @@ state: <<open|close>>
 
 ### Skills
 
-* common sense
-* intermediate calculating skills
+N/A
 
 ### Equipment
 
-* pencil(s)
-* calculator
+N/A
