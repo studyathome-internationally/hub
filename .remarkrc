@@ -3,6 +3,10 @@
     "preset-lint-recommended",
     "preset-lint-consistent",
 
+    ["lint-no-shortcut-reference-link", false],
+    ["lint-no-undefined-references", false],
+    ["lint-code-block-style", "fenced"],
+    ["lint-no-literal-urls", false],
     ["lint-list-item-indent", "space"],
     ["lint-heading-style", false]
   ]

@@ -3,33 +3,33 @@ sidebar: auto
 title: AsTeRICS - Assistive Technologies
 description: Assistive Technologies Laboratory
 license: GPL-3.0
-link: <<course link>>
+link: =course link=
 ects: 2
 attendees: 5
 semester: Summer
 degrees:
-  - bachelor
+- bachelor
 language: 
-  - en
+- en
 
 media:
-  image: https://www.i-magazin.com/wp-content/uploads/2019/09/asterics_grid-1024x683.jpg
-  video: <<course video>>
+  image: <https://www.i-magazin.com/wp-content/uploads/2019/09/asterics_grid-1024x683.jpg>
+  video: =course video=
 
 schedule:
   start: 15.2.2019
-  end: <<course end>>
-  duration: <<course duration>>
+  end: =course end=
+  duration: =course duration=
 
 lecturers:
-  - name: <<lecturer 1 name>>
-    email: <<lecturer1@email.net>>
-    description: <<lecturer 1 description>>
-    image: <<lecturer 1 image>>
-  - name: <<lecturer 2 name>>
-    email: <<lecturer1@email.net>>
-    description: <<lecturer 2 description>>
-    image: <<lecturer 2 image>>
+- name: =lecturer 1 name=
+  email: =lecturer1@email.net=
+  description: =lecturer 1 description=
+  image: =lecturer 1 image=
+- name: =lecturer 2 name=
+  email: =lecturer1@email.net=
+  description: =lecturer 2 description=
+  image: =lecturer 2 image=
 
 university:
   name: fhtw
@@ -39,8 +39,8 @@ university:
 
 state: true
 tags:
-  - Assistive Technologies
-  - Smart Homes
+- Assistive Technologies
+- Smart Homes
 ---
 
 # {{ $frontmatter.title }}

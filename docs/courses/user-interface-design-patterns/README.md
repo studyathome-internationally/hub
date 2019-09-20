@@ -1,48 +1,47 @@
 ---
 sidebar: auto
 title: User interfaces design patterns
-description: <<(short) description>>
-license: <<license>>
-link: <<course link>>
+description: =(short) description=
+license: =license=
+link: =course link=
 ects: 6
 attendees: 5
 semester: Winter
 degrees:
-  - bachelor
+- bachelor
 language: 
-  - en
-  - mk
+- en
+- mk
 
 media:
   image: 
-  video: <<course video>>
+  video: =course video=
 
 schedule:
-  start: <<course start>>
-  end: <<course end>>
-  duration: <<course duration>>
+  start: =course start=
+  end: =course end=
+  duration: =course duration=
 
 lecturers:
-  - name: Suzana Loshkovska
-    email: <<lecturer1@email.net>>
-    description: <<lecturer 1 description>>
-    image: <<lecturer 1 image>>
-  - name: Ivica Dimitrovski
-    email: <<lecturer1@email.net>>
-    description: <<lecturer 2 description>>
-    image: <<lecturer 2 image>>
+- name: Suzana Loshkovska
+  email: =lecturer1@email.net=
+  description: =lecturer 1 description=
+  image: =lecturer 1 image=
+- name: Ivica Dimitrovski
+  email: =lecturer1@email.net=
+  description: =lecturer 2 description=
+  image: =lecturer 2 image=
 
 university:
-    name: <<university id>>
-    faculty: <<university faculty>>
-    program: <<university program>>
-
+  name: =university id=
+  faculty: =university faculty=
+  program: =university program=
 
 state: true
 tags:
-  - UI Design
-  - Navigation
-  - Interaction Patterns
+- UI Design
+- Navigation
+- Interaction Patterns
 ---
 
 # {{ $frontmatter.title }}

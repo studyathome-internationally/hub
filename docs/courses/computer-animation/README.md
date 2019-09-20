@@ -1,34 +1,32 @@
 ---
 sidebar: auto
 title: Computer Animation
-description: <<(short) description>>
-license: <<license>>
-link: <<course link>>
+description: =(short) description=
+license: =license=
+link: =course link=
 ects: 6
 attendees: 6
 semester: Summer
 degrees:
-  - bachelor
-  - master
-  - phd
+- bachelor
 language: 
-  - en
-  - mk
+- en
+- mk
 
 media:
   image: 
-  video: <<course video>>
+  video: =course video=
 
 schedule:
-  start: <<course start>>
-  end: <<course end>>
-  duration: <<course duration>>
+  start: =course start=
+  end: =course end=
+  duration: =course duration=
 
 lecturers:
-  - name: Ivan Chorbev
-    email: ivan@dot.com
-    description: Did something, somewhen
-    image: pic.png
+- name: Ivan Chorbev
+  email: ivan@dot.com
+  description: Did something, somewhen
+  image: pic.png
 
 university:
     name: ukim
@@ -37,8 +35,8 @@ university:
 
 state: true
 tags:
-  - Animation
-  - Rendering
+- Animation
+- Rendering
 ---
 
 # {{$page.title}}
