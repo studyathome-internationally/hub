@@ -721,9 +721,9 @@
   integrity sha512-YCw2Q2m4fxzyFsPOH3uDYMoJztTD+pT+AAyse4LFpbdrBg+r8ueaVT8BFnXEjrGwMDJJeXrwJ5AOC6q/JWBI4w==
 
 "@hapi/address@2.x.x":
-  version "2.1.1"
-  resolved "https://registry.yarnpkg.com/@hapi/address/-/address-2.1.1.tgz#61395b5ed94c4cb19c2dc4c85969cff3d40d583f"
-  integrity sha512-DYuHzu978pP1XW1GD3HGvLnAFjbQTIgc2+V153FGkbS2pgo9haigCdwBnUDrbhaOkgiJlbZvoEqDrcxSLHpiWA==
+  version "2.1.2"
+  resolved "https://registry.yarnpkg.com/@hapi/address/-/address-2.1.2.tgz#1c794cd6dbf2354d1eb1ef10e0303f573e1c7222"
+  integrity sha512-O4QDrx+JoGKZc6aN64L04vqa7e41tIiLU+OvKdcYaEMP97UttL0f9GIi9/0A4WAMx0uBd6SidDIhktZhgOcN8Q==
 
 "@hapi/bourne@1.x.x":
   version "1.3.2"
@@ -802,24 +802,24 @@
   dependencies:
     any-observable "^0.3.0"
 
-"@studyathome-internationally/vuepress-plugin-hub@0.0.1-beta.34":
-  version "0.0.1-beta.34"
-  resolved "https://registry.yarnpkg.com/@studyathome-internationally/vuepress-plugin-hub/-/vuepress-plugin-hub-0.0.1-beta.34.tgz#706e889b40adabd9866c32f28778b03dda6136d1"
-  integrity sha512-IDTUKUOCXv8nxQzAHShu/iyFuMPksgbNvxt6cCZ2yogVfhEMfHbx1cCcnRcBHnAanFgQHeKD1sO6w9Oex5vl6Q==
+"@studyathome-internationally/vuepress-plugin-hub@0.0.1-beta.35":
+  version "0.0.1-beta.35"
+  resolved "https://registry.yarnpkg.com/@studyathome-internationally/vuepress-plugin-hub/-/vuepress-plugin-hub-0.0.1-beta.35.tgz#380767f26d53a4708b951cec7731951ee4580582"
+  integrity sha512-oV1kmW/XIuW96lHxT/f9Cp9gEfYYB38QKgXPhd3Hgof5mquiZlDN6OQv0vG5xBjK/8ziGiIkIE7UxcRwHK88Tg==
   dependencies:
     chalk "^2.4.2"
 
 "@studyathome-internationally/vuepress-theme-hub@canary":
-  version "0.0.1-beta.34"
-  resolved "https://registry.yarnpkg.com/@studyathome-internationally/vuepress-theme-hub/-/vuepress-theme-hub-0.0.1-beta.34.tgz#90fcdaa07d3fe182faee5190f180b663fc4805ca"
-  integrity sha512-8utR7pO0u1+UTA+UvSf1IWLltHMC3A7bLUq0uKc6breQSwpw736oncIQvK5vPbyLr4LYFx1UdrXXpCVMdW9xYw==
+  version "0.0.1-beta.35"
+  resolved "https://registry.yarnpkg.com/@studyathome-internationally/vuepress-theme-hub/-/vuepress-theme-hub-0.0.1-beta.35.tgz#7ba139722760cd462860665faa0c33cf91f4fc52"
+  integrity sha512-NM3xgqkd0wIg2DAmI6pVE5gnd2bP7ayzTOzngkQufAPJoxgPF8VocG6EIZtOz/aOjMJjzWqIWU4YeIIU67P8Dw==
   dependencies:
     "@fortawesome/fontawesome-svg-core" "^1.2.22"
     "@fortawesome/free-brands-svg-icons" "^5.10.2"
     "@fortawesome/free-regular-svg-icons" "^5.10.2"
     "@fortawesome/free-solid-svg-icons" "^5.10.2"
     "@fortawesome/vue-fontawesome" "^0.1.7"
-    "@studyathome-internationally/vuepress-plugin-hub" "0.0.1-beta.34"
+    "@studyathome-internationally/vuepress-plugin-hub" "0.0.1-beta.35"
     "@vuepress/plugin-back-to-top" "^1.1.0"
     "@vuepress/plugin-medium-zoom" "^1.1.0"
     bootstrap "^4.3.1"
@@ -1920,9 +1920,9 @@ boolbase@^1.0.0, boolbase@~1.0.0:
   integrity sha1-aN/1++YMUes3cl6p4+0xDcwed24=
 
 bootstrap-vue@^2.0.0-rc.28:
-  version "2.0.1"
-  resolved "https://registry.yarnpkg.com/bootstrap-vue/-/bootstrap-vue-2.0.1.tgz#970d3de2fe2064e123507c59959e328afd66e8a7"
-  integrity sha512-mb2MP0f3KNRi/D8W0cItX2joM+XbwciFx1JKjtdKzt4uIXNx2SpOwF/wle26CszB1S35ArXJ/ZVN0dX8ry4yng==
+  version "2.0.2"
+  resolved "https://registry.yarnpkg.com/bootstrap-vue/-/bootstrap-vue-2.0.2.tgz#92082574e0fe34a65ce4c07b8777471b7a1402dd"
+  integrity sha512-hbGJjc/om9JfVNUFK76dnh+YutlZdZlKbpWw6OE9gHTkmbwstP/KxxELpZZgK/4SYtdxUPt/6W1CvdaeT1bNvQ==
   dependencies:
     "@nuxt/opencollective" "^0.3.0"
     bootstrap ">=4.3.1 <5.0.0"
