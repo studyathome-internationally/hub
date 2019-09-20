@@ -47,31 +47,31 @@ tags:
 
 ### Contents
 
-* basic principles of 3D space
-* describing digital scenes
-* hierarchical organization
-* polygonal geometry
-* modeling of digital objects and characters
+* Basic principles of 3D space
+* Describing digital scenes
+* Hierarchical organization
+* Polygonal geometry
+* Modeling of digital objects and characters
 * NURBS modeling
-* deformation techniques
-* rigging of objects and characters
-* principles of animation
-* animating digital characters
-* shading and materials
-* texturing
+* Deformation techniques
+* Rigging of objects and characters
+* Principles of animation
+* Animating digital characters
+* Shading and materials
+* Texturing
 * UV coordinates
-* lights in digital scenes
-* cameras
-* scripting and automation
-* compositing and post-production
+* Lights in digital scenes
+* Cameras
+* Scripting and automation
+* Compositing and post-production
 
 ### Outcomes
 
 After the completion of the course it is expected for students to be
 
-* capable of using basic methods for productive creation of computer based animations
-* working with applications for creating animations
-* model, apply textures, rig, add lights, animate, render and compose digital scenes
+* Capable of using basic methods for productive creation of computer based animations
+* Working with applications for creating animations
+* Model, apply textures, rig, add lights, animate, render and compose digital scenes
 
 ### Methods
 
@@ -124,10 +124,10 @@ Tests; project; final exam
 
 ### Skills
 
-* common sense
-* intermediate calculating skills
+* Common sense
+* Intermediate calculating skills
 
 ### Equipment
 
-* pencil(s)
-* calculator
+* Pencil(s)
+* Calculator

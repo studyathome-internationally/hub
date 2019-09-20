@@ -55,20 +55,20 @@ tags:
 * Introduction
 * User behavior when working with interactive systems, patterns to describe user behavior
 * Content organization in interactive systems
-  * organizational schemes
-  * structure organization
-  * patterns for organizing and displaying data
+  * Organizational schemes
+  * Structure organization
+  * Patterns for organizing and displaying data
 * Navigation
-  * problems and principles for good navigation 
-  * patterns in interactive systems
-    * navigation models
-    * combining appearance and navigation models
-    * tagging
-    * animated transition
+  * Problems and principles for good navigation 
+  * Patterns in interactive systems
+    * Navigation models
+    * Combining appearance and navigation models
+    * Tagging
+    * Animated transition
 * Screen organization
-  * basic concepts
-    * visual hierarchy
-    * visual flow
+  * Basic concepts
+    * Visual hierarchy
+    * Visual flow
 * Techniques for grouping and arranging elements
 * Gestalt principles
 * Patterns for organizing screens
@@ -79,8 +79,8 @@ tags:
 * Actions and commands
   * Representation and rendering of actions
   * Commands patterns
-    * display of actions
-    * improvement of action selection
+    * Display of actions
+    * Improvement of action selection
     * ...
 * Interaction with data lists
 * Information architecture
@@ -95,9 +95,9 @@ The purpose of the course is to introduce basic problems of user interfaces and 
 
 Upon completion of the course, the student is expected to
 
-* demonstrate knowledge of the basic principles of effective and efficient user interaction
-* the principles for their design
-* independently develop interactive applications using programming tools following the learned principles
+* Demonstrate knowledge of the basic principles of effective and efficient user interaction
+* The principles for their design
+* Independently develop interactive applications using programming tools following the learned principles
 
 
 ### Methods
@@ -116,8 +116,8 @@ Lectures using presentations, interactive lectures, exercises (using equipment a
 
  | Author                   | Title                                                                                        | Publisher      | Year |
  | :----------------------- | :------------------------------------------------------------------------------------------- | :------------- | :--- |
- | Jenifer Tidwell          | Designing Interfaces, (2^nd^ edition)                                                        | O'Reilly Media | 2010 |
- | Bill Scott, Theresa Neil | Designing Web: Interfaces Principles and Patterns for Rich Interactions                      | O'Reilly Media | 2009 |
+ | Jenifer Tidwell          | Designing Interfaces, (2^nd^ edition)                                                        | O’Reilly Media | 2010 |
+ | Bill Scott, Theresa Neil | Designing Web: Interfaces Principles and Patterns for Rich Interactions                      | O’Reilly Media | 2009 |
  | Jesse James Garrett      | The Elements of User Experience: User-Centered Design for the Web and Beyond (2^nd^ Edition) | New Riders     | 2010 |
 
 ## Assessment
@@ -145,11 +145,11 @@ Lectures using presentations, interactive lectures, exercises (using equipment a
 
 ### Skills
 
-* common sense
-* intermediate calculating skills
+* Common sense
+* Intermediate calculating skills
 
 ### Equipment
 
-* pencil(s)
-* calculator
+* Pencil(s)
+* Calculator
 

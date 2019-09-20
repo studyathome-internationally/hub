@@ -60,31 +60,31 @@ tags:
 ## Overview
 
 ::: post-it
-Normally attendence phase at start, but optional,
+Normally attendance phase at start, but optional,
 Course perfectly designed
 Participants of this course will learn how to
 
-* design digital integrated circuits and systems with the hardware
+* Design digital integrated circuits and systems with the hardware
   description language VHDL and FPGAs as target Technology
-* design and implement multi-task embedded software applications
+* Design and implement multi-task embedded software applications
   under a real-time operating system which is running on a microcontroller platform
-* as well as how to write a bachelor thesis under supervision in
+* Write a bachelor thesis under supervision in
   a technical field (which includes all practical work)
 :::
 
 ### Contents
 
-* course content 1
-* course content 2
-* course content 3
+* Course content 1
+* Course content 2
+* Course content 3
 
 ### Outcomes
 
 Participants of this course will learn how to
 
-* design digital integrated circuits and systems with the hardware description language VHDL and FPGAs as target Technology
-* design and implement multi-task embedded software applications under a real-time operating system which is running on a microcontroller platform
-* as well as how to write a bachelor thesis under supervision in a technical field (which includes all practical work)
+* Design digital integrated circuits and systems with the hardware description language VHDL and FPGAs as target Technology
+* Design and implement multi-task embedded software applications under a real-time operating system which is running on a microcontroller platform
+* Write a bachelor thesis under supervision in a technical field (which includes all practical work)
 
 ### Methods
 
@@ -125,8 +125,8 @@ Written exam + practical assignments (simulation)
 
 ### Skills
 
-* common sense
-* intermediate calculating skills
+* Common sense
+* Intermediate calculating skills
 
 ### Equipment
 

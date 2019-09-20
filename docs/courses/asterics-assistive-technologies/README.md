@@ -13,7 +13,7 @@ language:
 - en
 
 media:
-  image: <https://www.i-magazin.com/wp-content/uploads/2019/09/asterics_grid-1024x683.jpg>
+  image: https://www.i-magazin.com/wp-content/uploads/2019/09/asterics_grid-1024x683.jpg
   video: =course video=
 
 schedule:
@@ -56,15 +56,15 @@ AsTeRICS eLearning course as of project work package
 
 ### Contents
 
-* course content 1
-* course content 2
-* course content 3
+* Course content 1
+* Course content 2
+* Course content 3
 
 ### Outcomes
 
-* outcome 1
-* outcome 2
-* outcome 3
+* Outcome 1
+* Outcome 2
+* Outcome 3
 
 ### Methods
 
@@ -105,8 +105,8 @@ SW project
 
 ### Skills
 
-* common sense
-* intermediate calculating skills
+* Common Sense
+* Intermediate calculating skills
 
 ### Equipment
 
@@ -115,5 +115,5 @@ AsTeRICS
 Webcam, Selected HW (optionally)
 :::
 
-* pencil(s)
-* calculator
+* Pencil(s)
+* Calculator

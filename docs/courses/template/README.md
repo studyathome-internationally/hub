@@ -53,15 +53,15 @@ tags:
 
 ### Contents
 
-* course content 1
-* course content 2
-* course content 3
+* Course content 1
+* Course content 2
+* Course content 3
 
 ### Outcomes
 
-* outcome 1
-* outcome 2
-* outcome 3
+* Outcome 1
+* Outcome 2
+* Outcome 3
 
 ### Methods
 
@@ -106,10 +106,10 @@ tags:
 
 ### Skills
 
-* common sense
-* intermediate calculating skills
+* Common sense
+* Intermediate calculating skills
 
 ### Equipment
 
-* pencil(s)
-* calculator
+* Pencil(s)
+* Calculator

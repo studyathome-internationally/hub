@@ -62,7 +62,7 @@ tags:
 * Image processing in frequency domain
 * Image pyramid
 * Machine learning:
-  * clustering and classification
+  * Clustering and classification
   * Edge detection and line overlapping
   * Robust line overlapping (Hough transformation, RANSAC, etc.)
   * Clustering and image segmentation
@@ -80,14 +80,14 @@ tags:
 The goal of this course is to introduce the students to the basic concepts and principles of computer vision.
 The students who will successfully finish the course will be able to
 
-* design efficient systems for computer vision for handwriting recognition
-* detection and recognition of faces
-* movement detection
-* human and vehicle tracking
-* gesture recognition
-* classification and recognition of visual objects
-* scene analysis and understanding
-* etc.
+* Design efficient systems for computer vision for handwriting recognition
+* Detection and recognition of faces
+* Movement detection
+* Human and vehicle tracking
+* Gesture recognition
+* Classification and recognition of visual objects
+* Scene analysis and understanding
+* Etc.
 
 ### Methods
 
@@ -144,10 +144,10 @@ Prerequisites would be Digital image processing or Machine learning, but probabl
 
 ### Skills
 
-* common sense
-* intermediate calculating skills
+* Common sense
+* Intermediate calculating skills
 
 ### Equipment
 
-* pencil(s)
-* calculator
+* Pencil(s)
+* Calculator

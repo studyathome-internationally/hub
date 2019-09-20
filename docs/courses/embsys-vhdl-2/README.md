@@ -59,22 +59,22 @@ tags:
 ## Overview
 
 ::: post-it
-Normally attendence phase at start, but optional
+Normally attendance phase at start, but optional
 Course perfectly designed
 :::
 
 
 ### Contents
 
-* course content 1
-* course content 2
-* course content 3
+* Course content 1
+* Course content 2
+* Course content 3
 
 ### Outcomes
 
-* outcome 1
-* outcome 2
-* outcome 3
+* Outcome 1
+* Outcome 2
+* Outcome 3
 
 ### Methods
 
@@ -119,8 +119,8 @@ Written exam+project work (HW required)
 VHDL Part 1
 :::
 
-* common sense
-* intermediate calculating skills
+* Common sense
+* Intermediate calculating skills
 
 ### Equipment
 
@@ -130,5 +130,5 @@ Basys3 Xilinx FPGA Developmentboard
 Can simulation be used as well?
 :::
 
-* pencil(s)
-* calculator
+* Pencil(s)
+* Calculator
