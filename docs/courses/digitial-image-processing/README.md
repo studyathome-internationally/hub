@@ -1,12 +1,14 @@
 ---
-sidebar: true
+sidebar: auto
 title: Digital Image Processing
 description: The basics of digital image processing.
 license: <<license>>
 link: <<course link>>
 ects: 6
 attendees: 5
-semester: Sommer
+semester: Summer
+degrees:
+  - bachelor
 language: 
   - en
   - mk
@@ -33,10 +35,16 @@ lecturers:
 university:
     name: ukim
     faculty: Faculty of Computer Science and Engineering
-    program: Software engineering and information systems
+    program: Software Engineering and Information Systems
 
 
-state: <<open|close>>
+state: true
+tags:
+  - Colors
+  - Histogramm
+  - Filters
+  - Edge Detection
+  - OpenCV
 ---
 
 # {{ $frontmatter.title }}
@@ -89,39 +97,50 @@ Upon the completion of the course the student is expected to rule and use the ba
 
 Lectures using presentations, interactive lectures, exercises (using equipment and softwarepackages), teamwork, case studies, invited guest lecturers, independent preparation anddefense of a project assignment and seminar work.
 
-| Type                 | Effort [h] |
-| -------------------- | :--------: |
-| Lectures             |     30     |
-| Exercises            |     45     |
-| Project Tasks        |     15     |
-| Independent Learning |     15     |
-| Home Learning        |     75     |
+| Type                 | Effort \[h\] |
+| :------------------- | :----------: |
+| Lectures             |      30      |
+| Exercises            |      45      |
+| Project Tasks        |      15      |
+| Independent Learning |      15      |
+| Home Learning        |      75      |
+
+### Materials
+
+ | Author                               | Title                                    | Publisher        | Year |
+ | :----------------------------------- | :--------------------------------------- | :--------------- | :--- |
+ | Rafael C. Gonzalez, Richard E. Woods | Digital Image Processing (4^th^ Edition) | Pearson          | 2017 |
+ | Prateek Joshi                        | OpenCV with Python By  Example           | Packt Publishing | 2015 |
 
 ## Assessment
+
+::: post-it
+Project; Final Exam
+:::
 
 ### Methods
 
 | Type       | Points/Percent |
-| :--------- | :------------: |
-| Project    |      30%       |
-| Final exam |      70%       |
+| :--------- | :------------- |
+| Project    | 30 points      |
+| Final exam | 70 points      |
 
 ### Criteria
 
-| Grade | Grade (letter) |            Scale |
-| :---: | -------------- | ---------------: |
-|   5   | F              |  up to 50 points |
-|   6   | E              |  51 to 60 points |
-|   7   | D              |  61 to 70 points |
-|   8   | C              |  71 to 80 points |
-|   9   | B              |  81 to 90 points |
-|  10   | A              | 91 to 100 points |
+| Grade | Grade (letter) | Scale            |
+| :---- | :------------- | :--------------- |
+| 5     | F              | up to 50 points  |
+| 6     | E              | 51 to 60 points  |
+| 7     | D              | 61 to 70 points  |
+| 8     | C              | 71 to 80 points  |
+| 9     | B              | 81 to 90 points  |
+| 10    | A              | 91 to 100 points |
 
 ## Requirements
 
 ### Skills
 
-N/A
+* Discrete Mathematics
 
 ### Equipment
 

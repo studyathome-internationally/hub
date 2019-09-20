@@ -1,23 +1,25 @@
 ---
 sidebar: auto
-title: AsTeRICS - Assistive Technologies
-description: Assistive Technologies Laboratory
-license: GPL-3.0
+title: Artificial Intelligence
+description: <<(short) description>>
+license: <<license>>
 link: <<course link>>
-ects: 2
+ects: 4
 attendees: 5
-semester: Summer
+semester: Winter
 degrees:
   - bachelor
-language: 
+  - master
+  - phd
+language:
   - en
 
 media:
-  image: https://www.i-magazin.com/wp-content/uploads/2019/09/asterics_grid-1024x683.jpg
+  image:
   video: <<course video>>
 
 schedule:
-  start: 15.2.2019
+  start: <<course start>>
   end: <<course end>>
   duration: <<course duration>>
 
@@ -32,15 +34,13 @@ lecturers:
     image: <<lecturer 2 image>>
 
 university:
-  name: fhtw
-  faculty: Electronic-Based Systems
-  program: Smart Homes & Assistive Technologies
-
+  name: ctu
+  faculty: <<university faculty>>
+  program: <<university program>>
 
 state: true
 tags:
-  - Assistive Technologies
-  - Smart Homes
+  - Artificial Intelligence
 ---
 
 # {{ $frontmatter.title }}
@@ -50,8 +50,7 @@ tags:
 ## Overview
 
 ::: post-it
-AsTeRICS eLearning course as of project work package
-- FLipMouse, PiROSBot not suitable
+adaptable to prior knowledge; graph search, basic machine learning, data representation; 
 :::
 
 ### Contents
@@ -74,10 +73,16 @@ AsTeRICS eLearning course as of project work package
 | Practical   | 40           |
 | Lecture     | 40           |
 
+### Materials
+
+ | Author | Title | Publisher | Year |
+ | :----- | :---- | :-------- | :--- |
+ |        |       |           |      |
+
 ## Assessment
 
 ::: post-it
-SW project
+written test; practical exercises could be added
 :::
 
 ### Methods
@@ -109,11 +114,6 @@ SW project
 * intermediate calculating skills
 
 ### Equipment
-
-::: post-it
-AsTeRICS
-Webcam, Selected HW (optionally)
-:::
 
 * pencil(s)
 * calculator
