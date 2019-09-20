@@ -2,6 +2,7 @@
 
 The StudyATHome network consists of the following partners:
 
-        <<Add network image>>
-
+::: full-width-image
+![Project Partners](/assets/img/partner/partners.svg "StudyATHome Internationally - Partners")
+:::
 
