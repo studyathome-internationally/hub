@@ -73,12 +73,6 @@ adaptable to prior knowledge; graph search, basic machine learning, data represe
 | Practical   | 40           |
 | Lecture     | 40           |
 
-### Materials
-
- | Author | Title | Publisher | Year |
- | :----- | :---- | :-------- | :--- |
- |        |       |           |      |
-
 ## Assessment
 
 ::: post-it
