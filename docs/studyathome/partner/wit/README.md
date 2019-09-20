@@ -4,8 +4,9 @@ Waterford Institute of Technology (WIT) is a university-level institution in the
 
 WIT offers tuition and research programmes in various areas from Higher Certificate to Degree to PhD.
 
+::: full-width-image
 ![Image of illuminated WIT University Building](https://www.wit.ie/images/uploads/About_Pics/WIT_front.JPG "Waterford Institute of Technology (WIT)")
-
+:::
 
 ## Range and scope
 

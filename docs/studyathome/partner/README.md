@@ -3,6 +3,6 @@
 The StudyATHome network consists of the following partners:
 
 ::: full-width-image
-![Project Partners](/assets/img/partner/partners.svg "StudyATHome Internationally - Partners")
+![Project Partners](./partners.svg "StudyATHome Internationally - Partners")
 :::
 
