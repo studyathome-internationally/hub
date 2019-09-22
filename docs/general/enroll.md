@@ -4,10 +4,10 @@ enrollment:
   to:
     - international@wit.ie
     - international@fhtw.at
-  cc: 
+  cc:
     - studyathome@technikum-wien.at
   bcc:
-    - 
+    -
   subject: Matriculation / Course Enrollment (StudyATHome Internationally)
   body: >
     Dear Sir or Madam,\n\n
@@ -20,21 +20,21 @@ enrollment:
 # Registration link needs WIT username already, see https://www.wit.ie/images/uploads/International_PDF/How_to_register_online_2019_(1).pdf
 # So probably just sending an e-mail would be best
 # optional
-
 ---
+
 # Course Enrollment
 
 The course enrollment requires your matriculation first.
 
-Please send an email to the International Office of the University holding the course by clicking ```Join``` below.
+Please send an email to the International Office of the University holding the course by clicking `Open E-Mail Template` below.
 
 The email must contain the following data:
 
 ::: tip Matriculation Data
-    First name, Family Name
-    Date of Birth
-    Email Address
-    Course Name / Link
+First name, Family Name
+Date of Birth
+Email Address
+Course Name / Link
 :::
 
 Then you will get an email containing the matriculation receipt and the course login information.
