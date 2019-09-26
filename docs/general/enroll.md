@@ -1,25 +1,18 @@
 ---
-# Registration --> Partnerseite
+layout: Enrollment
 enrollment:
-  to:
-    - international@wit.ie
-    - international@fhtw.at
   cc:
     - studyathome@technikum-wien.at
   bcc:
-    -
+    - studyathome.bcc@technikum-wien.at
   subject: Matriculation / Course Enrollment (StudyATHome Internationally)
   body: >
     Dear Sir or Madam,\n\n
-    I ....\n
-    <Course Information>
-    Name: \n
-    Date of Birth: \n ...
-  link: https://studentssp.wit.ie/login/login.aspx?APP=OLNE
-  layout: Enrollment
-# Registration link needs WIT username already, see https://www.wit.ie/images/uploads/International_PDF/How_to_register_online_2019_(1).pdf
-# So probably just sending an e-mail would be best
-# optional
+    I would like to enroll to course: {{ title }} (cf. {{ link }}).\n\n
+    Name: ...\n
+    Date of Birth: ...\n
+    University: ...\n\n
+    Kind regards,\n\n
 ---
 
 # Course Enrollment

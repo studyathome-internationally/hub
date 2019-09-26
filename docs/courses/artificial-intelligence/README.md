@@ -50,7 +50,7 @@ tags:
 ## Overview
 
 ::: post-it
-adaptable to prior knowledge; graph search, basic machine learning, data representation; 
+adaptable to prior knowledge; graph search, basic machine learning, data representation;
 :::
 
 ### Contents

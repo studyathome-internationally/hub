@@ -32,7 +32,7 @@ lecturers:
   image: =lecturer 2 image=
 
 university:
-  name: fhtw
+  name: uastw
   faculty: Electronic-Based Systems
   program: Smart Homes & Assistive Technologies
 
