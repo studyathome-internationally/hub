@@ -1,7 +1,12 @@
-# eLearning Sharing - Concepts
+# eLearning Sharing Concept
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent venenatis mauris id est interdum euismod. Aenean consequat tellus quis nunc malesuada iaculis. Donec tellus nulla, porta at tellus vitae, sollicitudin rhoncus libero. Suspendisse aliquet risus a libero auctor, nec hendrerit nulla gravida. Vivamus sit amet turpis ac diam semper ultricies eget eu dui. Integer justo diam, tempor vel arcu non, consequat scelerisque turpis. Duis ullamcorper ac libero sed mollis.
+In this example, there are 3 universities: Uni A, Uni B, Uni C.
+Imagine each of the universities manages and hosts its own courses in a local instance of a learning management system (LMS) e.g. moodle. The courses are numbered A1…​An, B1…​Bn, C1…​Cn, respectively.
+The universities would like to share some of the eLearning courses with other universities in a way that students from other universities can enroll into the shared course, participate at moderated sessions, do exercises and finally get graded by the foreign lecturer.
+A central course listing is used to disseminate the shared courses and to make it easier for students to search for topics of interest and respective courses.
+In the example shown in the image, course A2 is hosted at university A and has 3 enrolled students from university A, 1 from University B, and 1 from University C.
+Course C1 has 3 students from University C and 1 from University B.
 
-Mauris non viverra risus. Curabitur pellentesque sapien a nibh sagittis, at sagittis lorem laoreet. Sed ut malesuada ante, in gravida mi. Nunc tincidunt consequat dui, id imperdiet justo mattis molestie. Cras ultricies sodales laoreet. Maecenas elementum mattis odio. Sed vel dictum massa. In vitae orci nec mi tempor sagittis. Sed vestibulum vestibulum nunc, et malesuada dui ultrices sit amet. Praesent accumsan, mi eu iaculis mollis, elit lectus pretium mi, ac eleifend arcu est nec enim.
-
-Vivamus et orci vel dui mattis placerat. Vivamus pretium viverra placerat. Vivamus sit amet eros lorem. Curabitur venenatis quam quam, sit amet mattis nunc congue vitae. Etiam congue pellentesque augue. Nam vehicula nulla ac risus tincidunt, a ornare nunc aliquet. Sed sed sem eget elit dignissim maximus at sed diam. Ut et lacus et purus egestas facilisis. Sed pharetra sapien bibendum ipsum pulvinar viverra. Curabitur faucibus tellus a orci placerat auctor. Praesent gravida nulla id tortor auctor, sit amet tempus mauris sodales.
+::: full-width-image
+![3 university pictures and 1 listing of courses in the center of the image](./img/elearning_course_sharing.svg "eLearning Sharing Concept Illustration")
+:::
