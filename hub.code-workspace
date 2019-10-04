@@ -13,5 +13,12 @@
       "path": "../hub.js/packages/@studyathome-internationally/vuepress-theme-hub"
     }
   ],
-  "settings": {}
+  "settings": {
+    "files.exclude": {
+      "**/.classpath": true,
+      "**/.project": true,
+      "**/.settings": true,
+      "**/.factorypath": true
+    }
+  }
 }
