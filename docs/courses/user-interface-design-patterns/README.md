@@ -33,7 +33,7 @@ lecturers:
   image: =lecturer 2 image=
 
 university:
-  name: =university id=
+  name: ctu
   faculty: =university faculty=
   program: =university program=
 

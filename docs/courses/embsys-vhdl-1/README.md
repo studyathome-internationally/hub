@@ -41,7 +41,7 @@ lecturers:
   image: <https://www.technikum-wien.at/sites/default/files/styles/ansprechpartner/public/ansprechpartner/andreas-puhm-fhtw-web.png?itok=gHheHIyH>
 
 university:
-  name: fhtw
+  name: uastw
   faculty: Electronic-Based Systems
   program: Electronics and Business
 
