@@ -4,37 +4,42 @@ sidebar: auto
 
 # FAQ
 
-## How can I enroll?
+On this page **F**requently **A**sked **Q**uestions about eLearning Sharing can be found.
 
-## Will I get a grade certificate?
+## Enrollment
 
-## Is the course recognized by my home university?
+### How can I enroll?
 
-## Do I have to do an exam or assignments?
+### The course starts before my semester start. Can I enroll nevertheless?
 
-## What if I fail the exam?
+### What do I need for an enrollment?
 
-## The course starts before my semester start. Can I enroll nevertheless?
+## Exam
 
-## How does a course look like?
+### Do I have to do an exam or assignments?
 
-## What is a typcial schedule of a course?
+### What if I fail the exam?
 
-## Do I have travel to the partner university?
+## Course Recognition
 
-## How do I get my course certificate?
+### Will I get a grade certificate?
 
-## Who can I ask in case of problems?
+### Is the course recognized by my home university?
 
-## What do I need for enrollment?
+### How do I get my course certificate?
 
-## What do I need for the course?
+## Course Structure
 
-## Will there be web conferences?
+### How does a course look like?
 
-## How does a typcial assignment look like?
+### What is a typcial schedule of a course?
 
-## How does a typcial exam look like?
+### What do I need for the course?
 
-## Will the exams be online?
+### Will there be web conferences?
 
+### Do I have travel to the partner university?
+
+## Support
+
+### Who can I ask in case of problems?
