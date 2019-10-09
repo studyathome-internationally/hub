@@ -8,11 +8,11 @@ tagline: Sharing of eLearning courses between partner universities
 footer: GPL v3.0 Licensed | Copyright © 2019-present | StudyATHome Internationally @ UAS Technikum Wien
 ---
 
-## What is it?
-
 ::: danger Under construction
 The page is currently under construction. The first iteration of eLearning Sharing will start in January 2020.
 :::
+
+## What is it?
 
 This StudyATHome hub is a listing of eLearning courses hosted and operated by universities of the StudyATHome [partner network](./studyathome/partner/). Students which are matriculatd at any of the partner universities may enroll in one of the listed [courses](./courses/).
 
