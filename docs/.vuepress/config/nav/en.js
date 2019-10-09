@@ -12,10 +12,6 @@ module.exports = [
             text: "Concepts",
             link: "/e-learning-sharing/concepts/"
           },
-          {
-            text: "Guides",
-            link: "/e-learning-sharing/guides/"
-          },
           { text: "FAQ", link: "/e-learning-sharing/faq" }
         ]
       },
