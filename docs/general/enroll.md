@@ -24,10 +24,10 @@ Please send an email to the International Office of the University holding the c
 The email must contain the following data:
 
 ::: tip Matriculation Data
-First name, Family Name
-Date of Birth
-Email Address
-Course Name / Link
+First name, Family Name  
+Date of Birth  
+Email Address  
+Course Name / Link  
 :::
 
 Then you will get an email containing the matriculation receipt and the course login information.
