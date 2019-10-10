@@ -14,7 +14,7 @@ The page is currently under construction. The first iteration of eLearning Shari
 
 ## What is it?
 
-This StudyATHome hub is a listing of eLearning courses hosted and operated by universities of the StudyATHome [partner network](./studyathome/partner/). Students which are matriculatd at any of the partner universities may enroll in one of the listed [courses](./courses/).
+The StudyATHome hub is a listing of eLearning courses hosted and operated by universities of the StudyATHome [partner network](./studyathome/partner/). Students which are matriculated at any of the partner universities may enroll in one of the listed [courses](./courses/). They will have to do exams and assignments remotely and will get a grade certificate issued by the partner university upon completion of the course. Finally, the students will have to take the certificate for recognition at the home university.
 
 ## How does it work?
 
