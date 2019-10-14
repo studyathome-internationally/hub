@@ -34,10 +34,7 @@ An assignment is typically a graded exercise, where your result must be uploaded
 
 ### What if I fail the exam?
 
-WIT example: Course in Summer Semester: 2nd attempt: Resubmit project: --> 2nd exam board in September
-::: post-it
-As you are matriculated as an ordinary student at the partner university you have....
-:::
+You are matriculated as a regular student at the partner university and have the same rights and duties as such. If you fail, you will have to redo respective assignments and/or exams until you pass the course. The number of attempts and dates should be announced by the lecturers of the course. If all attempts fail, you will not be able to get grades for recognition at your home university.
 
 ## Course Recognition
 
@@ -47,14 +44,8 @@ Yes. As soon as you have passed the course successfully, you will get a grade ce
 
 ### How do I get my course certificate?
 
-::: post-it
-Send a message to the lecturer?|international office? of the course.
-
-In case of problems contact: [studyathome@technikum-wien.at](mailto:studyathome@technikum-wien.at)
-
-
-**Should we provide a "course request" page?**
-:::
+Send a message to the lecturer of the course or the international office of the partner university.
+In case of problems contact: [studyathome@technikum-wien.at](mailto:studyathome@technikum-wien.at).
 
 ### Is the course recognized by my home university?
 
@@ -115,10 +106,7 @@ Typically the course starts with a video conference. The lecturer may also decid
 ### Do I have to travel to the partner university?
 
 No, but you are encouraged to do so.
-
-::: post-it
-If both involved universities do have an ERASMUS agreement, the trip can be subsided...
-:::
+If you consider travelling abroad, ask your international office for funding opportunities.
 
 ## Support
 
