@@ -14,15 +14,16 @@ The page is currently under construction. The first iteration of eLearning Shari
 
 ## What is it?
 
-The StudyATHome hub is a listing of eLearning courses hosted and operated by universities of the StudyATHome [partner network](./studyathome/partner/). Students which are matriculated at any of the partner universities may enroll in one of the listed [courses](./courses/). They will have to do exams and assignments remotely and will get a grade certificate issued by the partner university upon completion of the course. Finally, the students will have to take the certificate for recognition at the home university.
-
+The StudyATHome hub is a listing of eLearning courses hosted and operated by universities of the StudyATHome [partner network](/studyathome/partner/).
 ## How does it work?
 
-::: full-width-image
-![Workflow of eLearning Sharing: Search, Enroll, Study, Get Graded](./e-learning-sharing/concepts/img/simple-workflow-all.svg "eLearning Sharing Workflow Illustration")
-:::
+Students which are matriculated at any of the partner universities may enroll in one of the listed [courses](/courses/). They will have to do exams and assignments remotely and will get a grade certificate issued by the partner university upon completion of the course. Finally, the students will have to take the certificate for recognition at the home university.
 
-<!-- ![Workflow of eLearning Sharing: Search, Enroll, Study, Get Graded](./e-learning-sharing/concepts/img/simple-workflow-all.svg "eLearning sharing Workflow Illustration" =400x) -->
+<!-- ::: full-width-image
+![Workflow of eLearning Sharing: Search, Enroll, Study, Get Graded](./e-learning-sharing/concepts/img/simple-workflow-all.svg "eLearning Sharing Workflow Illustration")
+::: -->
+
+![Workflow of eLearning Sharing: Search, Enroll, Study, Get Graded](./e-learning-sharing/concepts/img/simple-workflow-all.svg "eLearning sharing Workflow Illustration" =400x)
 
 # Courses
 

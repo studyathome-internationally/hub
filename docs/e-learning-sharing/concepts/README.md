@@ -6,7 +6,7 @@ sidebar: auto
 
 eLearning Sharing is the concept of sharing eLearning courses between partner universities.
 
-## How does it work?
+## Example
 
 In this example, there are 3 universities: Uni A, Uni B, Uni C.
 Imagine each of the universities manages and hosts its own courses in a local instance of a learning management system (LMS) e.g. moodle. The courses are numbered A1…​An, B1…​Bn, C1…​Cn, respectively.
@@ -21,7 +21,10 @@ Course C1 has 3 students from University C and 1 from University B.
 
 ## Workflow
 
-::: full-width-image
-![Workflow of eLearning Sharing: Search, Enroll, Study, Get Graded](./img/simple-workflow-all.svg
- "eLearning Sharing Workflow Illustration")
-:::
+Students which are matriculated at any of the partner universities may enroll in one of the listed [courses](/courses/). They will have to do exams and assignments remotely and will get a grade certificate issued by the partner university upon completion of the course. Finally, the students will have to take the certificate for recognition at the home university.
+
+<!-- ::: full-width-image
+![Workflow of eLearning Sharing: Search, Enroll, Study, Get Graded](./img/simple-workflow-all.svg "eLearning Sharing Workflow Illustration")
+::: -->
+
+![Workflow of eLearning Sharing: Search, Enroll, Study, Get Graded](./img/simple-workflow-all.svg "eLearning sharing Workflow Illustration" =400x)
