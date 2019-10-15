@@ -9938,7 +9938,7 @@ vuepress-plugin-directory-classifier@^0.0.1:
   dependencies:
     "@vuepress/shared-utils" "^1.1.0"
 
-vuepress@^1.1.0:
+vuepress@=1.1.0:
   version "1.1.0"
   resolved "https://registry.yarnpkg.com/vuepress/-/vuepress-1.1.0.tgz#ca0d787d93188b2fd05820a650d7e3643c9e7675"
   integrity sha512-LAgS9nXsmvjTuCc/LHPWnIsPOuVuZtxh1MjVZf/xJ3Yy5kXoPhqbGUptlQdQt3izjIlns9zin5K6MNBY3u5l5g==
