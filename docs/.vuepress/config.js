@@ -12,7 +12,7 @@ module.exports = ctx => ({
   plugins: require("./config/plugins.js"),
   extraWatchFiles: [".vuepress/config/**/*.js"],
   themeConfig: {
-    // repo: "studyathome-internationally/hub",
+    docsRepo: "studyathome-internationally/hub",
     docsDir: "docs",
     editLinks: true,
     editLinkText: "Edit this page on GitHub",
