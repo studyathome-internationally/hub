@@ -1,6 +1,7 @@
 ---
 home: true
 heroImage: ./assets/img/logos/studyathome-noir.svg
+# heroImage: ./assets/img//online-4091231_640.jpg
 heroText: StudyATHome Hub
 tagline: Sharing of eLearning courses between partner universities
 # actionText: Get Started
@@ -23,7 +24,7 @@ Students which are matriculated at any of the partner universities may enroll in
 ![Workflow of eLearning Sharing: Search, Enroll, Study, Get Graded](./e-learning-sharing/concepts/img/simple-workflow-all.svg "eLearning Sharing Workflow Illustration")
 ::: -->
 
-![Workflow of eLearning Sharing: Search, Enroll, Study, Get Graded](./e-learning-sharing/concepts/img/simple-workflow-all.svg "eLearning sharing Workflow Illustration" =400x)
+![Workflow of eLearning Sharing: Select Course, Enroll Virtually, Study at Home, Get Credits](./e-learning-sharing/img/simple-workflow-all.svg "eLearning sharing Workflow Illustration" =400x)
 
 # Courses
 

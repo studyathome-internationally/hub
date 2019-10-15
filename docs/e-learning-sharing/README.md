@@ -1,6 +1,6 @@
----
+<!-- ---
 sidebar: auto
----
+--- -->
 
 # eLearning Sharing
 
