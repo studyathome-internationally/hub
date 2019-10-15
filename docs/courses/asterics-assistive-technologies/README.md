@@ -13,7 +13,7 @@ language:
 - en
 
 media:
-  image: https://www.i-magazin.com/wp-content/uploads/2019/09/asterics_grid-1024x683.jpg
+  image: /assets/img/courses/asterics-grid.jpg
   video: =course video=
 
 schedule:

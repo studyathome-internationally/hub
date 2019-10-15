@@ -27,4 +27,6 @@ Students which are matriculated at any of the partner universities may enroll in
 ![Workflow of eLearning Sharing: Search, Enroll, Study, Get Graded](./img/simple-workflow-all.svg "eLearning Sharing Workflow Illustration")
 ::: -->
 
+::: centered-image
 ![Workflow of eLearning Sharing: Search, Enroll, Study, Get Graded](./img/simple-workflow-all.svg "eLearning sharing Workflow Illustration" =400x)
+:::
