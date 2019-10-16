@@ -28,6 +28,15 @@ Students which are matriculated at any of the partner universities may enroll in
 ![Workflow of eLearning Sharing: Select Course, Enroll Virtually, Study at Home, Get Credits](./e-learning-sharing/img/simple-workflow-all.svg "eLearning sharing Workflow Illustration" =400x)
 :::
 
-# Courses
+## Courses
 
 <CourseCards path="/courses/" />
+
+## Funding
+
+The StudyATHome Internationally project is funded by the **City of Vienna, Department MA23, Grant nr. 22-07**.
+
+The duration of the project is from Feb. 2018 to Jan. 2022.
+
+![Logo of City of Vienna](./.vuepress/public/assets/img/logos/ma23_funded.png "Logo of the City of Vienna")
+
