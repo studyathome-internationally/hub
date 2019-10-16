@@ -6,13 +6,30 @@ enrollment:
   bcc:
     - studyathome.bcc@technikum-wien.at
   subject: Matriculation / Course Enrollment (StudyATHome Internationally)
-  body: >
-    Dear Sir or Madam,\n\n
-    I would like to enroll to course: {{ title }} (cf. {{ link }}).\n\n
-    Name: ...\n
-    Date of Birth: ...\n
-    University: ...\n\n
-    Kind regards,\n\n
+  body:
+    before: >
+      Dear Sir or Madam,\n\n
+      I would like to enroll to course: {{ title }} (cf. {{ link }}).\n\n
+    form: >
+      Name:  \n
+      Surname (Family name):  \n
+      Date of Birth:  \n
+      Sex:  \n
+      Nationality:  \n\n
+      Address:  \n
+      Post Code:  \n
+      Municipality:  \n
+      Country:  \n
+      University:  \n\n\n
+      A-Levels  \n\n
+      Bachelor  \n
+       * Date:  \n
+       * Country of Awarding Institution:  \n\n
+      Master (+Bachelor; only when required)  \n
+       * Date:  \n
+       * Country of Awarding Institution:  \n\n
+    after: >
+      Kind regards,\n\n
 ---
 
 # Course Enrollment
@@ -24,10 +41,25 @@ Please send an email to the International Office of the University holding the c
 The email must contain the following data:
 
 ::: tip Matriculation Data
-First name, Family Name  
-Date of Birth  
-Email Address  
-Course Name / Link  
+
+* Course Name / Link
+* Personal
+  * Name
+  * Surname (Family name)
+  * Date of Birth
+  * Sex
+  * Nationality
+  * Address
+  * Post Code
+  * Municipality
+  * University
+* A-Levels
+  * Bachelor
+    * Date
+    * Country of Awarding Institution
+  * Master (+Bachelor; only when required)
+    * Date
+    * Country of Awarding Institution
 :::
 
 Then you will get an email containing the matriculation receipt and the course login information.
