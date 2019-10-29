@@ -11,7 +11,6 @@
   "dependencies": {
     "@studyathome-internationally/vuepress-theme-hub": "canary",
     "@textlint-rule/textlint-rule-no-unmatched-pair": "^1.0.7",
-    "@vuepress/plugin-back-to-top": "1.2.0",
     "lint-staged": "^9.2.5",
     "remark-cli": "^7.0.0",
     "remark-lint": "^6.0.5",
@@ -37,6 +36,6 @@
     "lint-md": "yarn lint-md:style && yarn lint-md:wording"
   },
   "devDependencies": {
-    "@vuepress/plugin-pwa": "^1.1.0"
+    "@vuepress/plugin-pwa": "^1.2.0"
   }
 }
