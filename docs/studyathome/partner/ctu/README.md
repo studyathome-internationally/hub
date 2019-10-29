@@ -1,3 +1,10 @@
+---
+short: ctu
+international-office:
+  - international-coordinator@ctu.cz
+  - international-office@ctu.cz
+---
+
 # Czech Technical University Prague
 
 The Czech Technical University in Prague (CTU) is one of the biggest and oldest technical universities in Europe.

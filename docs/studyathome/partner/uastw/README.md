@@ -1,7 +1,8 @@
 ---
+short: uastw
 international-office:
-  - international@wit.ie
-  - international@fhtw.at
+  - international-coordinator@technikum-wien.at
+  - international-office@technikum-wien.at
 ---
 
 # UAS Technikum Wien

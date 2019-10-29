@@ -1,3 +1,10 @@
+---
+short: ukim
+international-office:
+  - international-coordinator@ukim.at
+  - international-office@ukim.at
+---
+
 # Ss. Cyril and Methodius University Skopje
 
 The Ss. Cyril and Methodius University in Skopje (UKIM) is the first state University in the Republic of North Macedonia, founded in 1949, initially with three faculties. At the moment, the University represents a functional community of 23 faculties, 5 research institutes, 4 public scientific institutions - associate members, 1 associate member - other higher education institution and 7 associate members - other organizations. Its activities are stipulated by the Law on Higher Education and the Statute of the University.

@@ -1,3 +1,10 @@
+---
+short: wit
+international-office:
+  - international-coordinator@wit.at
+  - international-office@wit.at
+---
+
 # Waterford Institute of Technology
 
 Waterford Institute of Technology (WIT) is a university-level institution in the South-East of Ireland with over 10,000 students and 1,000 staff.
