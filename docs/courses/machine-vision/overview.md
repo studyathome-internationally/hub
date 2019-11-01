@@ -1,3 +1,7 @@
+---
+layout: Layout
+---
+
 ### Contents
 
 * Introduction to computer vision

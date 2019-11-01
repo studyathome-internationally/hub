@@ -1,3 +1,7 @@
+---
+layout: Layout
+---
+
 ### Methods
 
 | Type                  | Points/Percent |

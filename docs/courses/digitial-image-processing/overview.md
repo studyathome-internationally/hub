@@ -1,3 +1,7 @@
+---
+layout: Layout
+---
+
 ### Contents
 
 * The basics of digital image processing

@@ -1,3 +1,7 @@
+---
+layout: Layout
+---
+
 ::: post-it
 Labs with HW requirements,
 collaborative project with WIT and CMU

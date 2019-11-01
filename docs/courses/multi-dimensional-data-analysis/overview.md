@@ -1,3 +1,7 @@
+---
+layout: Layout
+---
+
 ::: post-it
 Cluster Analysis, Outliers, Statistik; 
 

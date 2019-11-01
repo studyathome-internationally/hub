@@ -1,3 +1,7 @@
+---
+layout: Layout
+---
+
 ::: post-it
 Prerequisites would be Digital image processing or Machine learning, but probably be waived
 :::

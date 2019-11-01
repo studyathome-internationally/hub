@@ -1,3 +1,7 @@
+---
+layout: Layout
+---
+
 ### Contents
 
 The purpose of the course is to introduce the basic principles for designing interactivecomputer systems to students. For this purpose the process of designing interactive systems,   design phases (collection and analysis of requirements, prototyping, implementation and usability testing) will be introduced to students.

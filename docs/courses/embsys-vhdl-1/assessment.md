@@ -1,3 +1,7 @@
+---
+layout: Layout
+---
+
 ::: post-it
 Written exam + practical assignments (simulation)
 :::

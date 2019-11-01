@@ -1,15 +1,6 @@
-::: post-it
-Normally attendance phase at start, but optional,
-Course perfectly designed
-Participants of this course will learn how to
-
-* Design digital integrated circuits and systems with the hardware
-  description language VHDL and FPGAs as target Technology
-* Design and implement multi-task embedded software applications
-  under a real-time operating system which is running on a microcontroller platform
-* Write a bachelor thesis under supervision in
-  a technical field (which includes all practical work)
-:::
+---
+layout: Layout
+---
 
 ### Contents
 

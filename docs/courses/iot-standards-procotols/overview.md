@@ -1,3 +1,7 @@
+---
+layout: Layout
+---
+
 ### Contents
 
 * Course content 1

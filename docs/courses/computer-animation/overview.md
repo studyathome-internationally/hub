@@ -1,3 +1,7 @@
+---
+layout: Layout
+---
+
 ### Contents
 
 * Basic principles of 3D space

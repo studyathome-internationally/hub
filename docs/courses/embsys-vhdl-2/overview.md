@@ -1,3 +1,7 @@
+---
+layout: Layout
+---
+
 ::: post-it
 Normally attendance phase at start, but optional
 Course perfectly designed

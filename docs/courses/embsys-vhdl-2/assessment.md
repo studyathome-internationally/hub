@@ -1,3 +1,7 @@
+---
+layout: Layout
+---
+
 ::: post-it
 Written exam+project work (HW required)
 :::

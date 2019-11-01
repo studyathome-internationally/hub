@@ -1,3 +1,7 @@
+---
+layout: Layout
+---
+
 ::: post-it
 AsTeRICS eLearning course as of project work package
 - FLipMouse, PiROSBot not suitable
