@@ -22,3 +22,5 @@ The research and development activities at UAS Technikum Wien have grown signifi
 - Automation & Robotics.
 
 UAS Technikum Wien was founded in 1994 and in 2000 it became the first institution in Vienna to receive the status of a university of applied sciences. It became a member of the European University Association (EUA) in 2012 and is also a network partner of FEEI – Association of the Electrical and Electronics Industries.
+
+<!-- more -->

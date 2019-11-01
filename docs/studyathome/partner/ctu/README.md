@@ -27,3 +27,5 @@ CTU currently occupies the following positions according to QS World University 
 * Computer Science and Information Systems – 251st to 300th position
 * Mathematics and Material Sciences – 301st to 350th position
 * Engineering & Technology – 256th position.
+
+<!-- more -->

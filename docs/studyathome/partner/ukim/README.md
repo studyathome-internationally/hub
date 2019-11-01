@@ -20,3 +20,5 @@ Nowadays, the illustration of UKIM through figures is as follows: over 60.000 en
 The University has produced around 150.000 graduated high-professional staff (with obtained Bachelor degree); 10.000 candidates obtained Master’s and Specialist's degree and around 4.000 candidates obtained the doctoral degree in all teaching and scientific fields.
 
 The overall activities of the University also include sport, artistic, informative, recreational and other activities organized within many associations, clubs etc.
+
+<!-- more -->

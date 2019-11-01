@@ -36,3 +36,5 @@ There is a thriving research and postgraduate community in WIT. Many of the rese
 ## International & Industry Links
 
 WIT has formal academic exchange and research partnerships with over 40 universities worldwide. These range from the old established Universities such as Oxford, Trinity College Dublin and University College London to newer technological universities such as Budapest University of Technology and Nanjing University of Science and Technology. In addition WIT has very close relationships with industry & commerce, the professions and the public service for research, consultancy, student and graduate placements etc. A culture of entrepreneurship and innovation is fostered at all levels in the organisation. This can be illustrated by one year enterprise platform programme offered to graduates by the School of Business. Through its School of Humanities it plays a very significant role in the Social and cultural life of its region.
+
+<!-- more -->
