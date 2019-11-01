@@ -9,17 +9,17 @@ if [[ -z "$1" ]] ; then
     mv next-backup gh-pages/next 
     cd gh-pages/ 
     git add . 
-    git commit -m "Publish" 
+    git commit -m "docs: release hub" 
     git push
 else
     if [[ "$1" == "next" ]] ; then
         rm -rf build/ 
         BASE="/hub-public/next/" yarn build 
-        rm -rf gh-pages/next/* 
+        rm -rf gh-pages/next
         cp -r build gh-pages/next
         cd gh-pages/next 
         git add . 
-        git commit -m "Publish" 
+        git commit -m "docs: release hub" 
         git push
     fi
 fi
