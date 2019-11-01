@@ -1,5 +1,4 @@
 ---
-layout: Enrollment
 enrollment:
   cc:
     - studyathome@technikum-wien.at
