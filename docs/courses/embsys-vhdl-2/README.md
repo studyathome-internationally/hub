@@ -1,5 +1,5 @@
 ---
-sidebar: auto
+sidebar: false
 title: Specialization Embedded Systems (VHDL Part II)
 short_title: VHDL (Part II)
 description: =(short) description=
@@ -55,80 +55,3 @@ tags:
 # {{ $frontmatter.title }}
 
 {{ $description }}
-
-## Overview
-
-::: post-it
-Normally attendance phase at start, but optional
-Course perfectly designed
-:::
-
-
-### Contents
-
-* Course content 1
-* Course content 2
-* Course content 3
-
-### Outcomes
-
-* Outcome 1
-* Outcome 2
-* Outcome 3
-
-### Methods
-
-| Type        | Effort \[h\] |
-| :---------- | :----------- |
-| Independent | 40           |
-| Practical   | 40           |
-| Lecture     | 40           |
-
-## Assessment
-
-::: post-it
-Written exam+project work (HW required)
-:::
-
-### Methods
-
-| Type          | Points/Percent |
-| :------------ | :------------- |
-| Tests         | 13%            |
-| Seminar paper | 12%            |
-| Project       | 13%            |
-| Tasks         | 12%            |
-| Final exam    | 50%            |
-
-### Criteria
-
-| Grade | Grade (letter) | Scale            |
-| :---- | :------------- | :--------------- |
-| 5     | F              | up to 50 points  |
-| 6     | E              | 51 to 60 points  |
-| 7     | D              | 61 to 70 points  |
-| 8     | C              | 71 to 80 points  |
-| 9     | B              | 81 to 90 points  |
-| 10    | A              | 91 to 100 points |
-
-## Requirements
-
-### Skills
-
-::: post-it
-VHDL Part 1
-:::
-
-* Common sense
-* Intermediate calculating skills
-
-### Equipment
-
-::: post-it
-ModelSim (free)
-Basys3 Xilinx FPGA Developmentboard
-Can simulation be used as well?
-:::
-
-* Pencil(s)
-* Calculator
