@@ -13,8 +13,12 @@ language:
 - en
 
 media:
-  image: /assets/img/courses/asterics-grid.jpg
-  video: =course video=
+  image:
+    src: /assets/img/courses/asterics-grid.jpg
+    alt: Developer in front of PC running AsTeRICS Grid
+  video:
+    custom: https://abcmedia.akamaized.net/news/video/201911/NOLm_SuburbApartments_1711_1000k.mp4
+    youtube: JwL_zS3fpnU
 
 schedule:
   start: 15.2.2019
