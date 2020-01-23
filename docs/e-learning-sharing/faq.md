@@ -80,21 +80,21 @@ Ask your program lead or the responsible lecturer at your home university if you
 This depends on the lecturer holding the course.
 Generally it should have the following structure:
 
-1. Introduction (video conference)
-2. Chapter 1
+1. **Introduction (video conference)**
+2. **Chapter 1**
    1. Self study
    2. (Interactive) exercises
    3. Self assessment or assignment
-2. Chapter 2
+2. **Chapter 2**
    1. Self study
    2. (Interactive) exercises
    3. Self assessment or assignment
-2. Chapter 3
+2. **Chapter 3**
    1. Self study
    2. (Interactive) exercises
    3. Self assessment or assignment
 7. ...
-8. Exam (e.g. multiple choice test)
+8. **Exam** (e.g. multiple choice test, assignment project) or **oral exam by video converence**.
 
 ### What do I need for the course?
 
