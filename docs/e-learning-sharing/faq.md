@@ -17,7 +17,7 @@ You can enroll for a course by clicking the ```Enroll``` button on the details p
 
 ### The course starts before my semester start. Can I enroll nevertheless?
 
-Yes. Just in case, you can ask your program lead.
+Yes. Just in case, you can ask your program lead or the responsible person at your university.
 
 ## Grading
 
@@ -41,25 +41,33 @@ You are matriculated as a regular student at the partner university and have the
 
 ### Will I get a grade certificate?
 
-Yes. As soon as you have passed the course successfully, you will get a grade certificate issued by the university hosting the course. This can take up to 4 weeks after the completion of the course.
+Yes. As soon as you have passed the course successfully, you will get a grade certificate issued by the university hosting the course. This can take up to 5 weeks after the completion of the course.
 
 ### How do I get my course certificate?
 
-Send a message to the lecturer of the course or the international office of the partner university.
+Send a message to the international office of the partner university.
 In case of problems contact: [studyathome@technikum-wien.at](mailto:studyathome@technikum-wien.at).
 
 ### Is the course recognized by my home university?
 
-Yes. The universities of the partner network have agreed to recognize the courses. Nevertheless, please check with your program lead in advance.
+Yes. The universities of the partner network have agreed to recognize the courses. Nevertheless, please check with your program lead or the responsible person for grade recognition in advance.
 
 ### How do I get the course recognized by my home university?
 
-1. You must request the grade certificate.
-2. As soon, as you have the grade certificate, follow the typcial recognition process of your university. In case of trouble ask your international office.
+After finishing the course successfully, the grade certificate will be sent to your university and a copy to your email address.
+As soon, as you have the grade certificate, follow the typcial recognition process of your university. In case of trouble ask your international office.
+
+::: post-it
+The recognition should be done automatically by the home institution. Define a checklist per university. Define a contact/responsible person.
+:::
 
 ### How are the grades converted?
 
 The grades should be converted according to the conversion tables at the website of [studyineurope](https://www.studyineurope.eu/grades).
+
+::: post-it :::
+Add table of supplemental agreement.
+:::
 
 ### What if the ECTS don't match?
 
@@ -71,14 +79,14 @@ No problem
 
 #### Case 2: Achieved ECTS < Needed ECTS
 
-Ask your program lead or the responsible lecturer at your home university if you will have to do some extra work, e.g. presentation about the topic.
+Ask your program lead or the responsible person for grade recognition at your home university before course enrollment.
 
 ## Course Structure
 
 ### How does a course look like?
 
 This depends on the lecturer holding the course.
-Generally it should have the following structure:
+For example it could look like that:
 
 1. **Introduction (video conference)**
 2. **Chapter 1**
@@ -114,3 +122,7 @@ If you consider travelling abroad, ask your international office for funding opp
 ### Who can I ask in case of problems?
 
 Contact the staff of the StudyATHome project: [studyathome@technikum-wien.at](mailto:studyathome@technikum-wien.at).
+
+::: post-it :::
+List contact email addresses of partner universities here.
+:::
