@@ -45,7 +45,7 @@ university:
   faculty: Electronic-Based Systems
   program: Electronics and Business
 
-state: true
+state: false
 tags:
 - VHDL
 - FPGA

@@ -45,7 +45,7 @@ university:
   faculty: Faculty of Computer Science and Engineering
   program: Software Engineering and Information Systems
 
-state: true
+state: false
 tags:
 - User Interface
 - Interaction Design
