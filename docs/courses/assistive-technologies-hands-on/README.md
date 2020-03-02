@@ -1,10 +1,10 @@
 ---
 sidebar: false
-title: AsTeRICS - Assistive Technologies
+title: Assistive Technologies Hands On
 description: Assistive Technologies Laboratory
 license: GPL-3.0
 link: =course link=
-ects: 2
+ects: 3
 attendees: 5
 semester: Summer
 degrees:
