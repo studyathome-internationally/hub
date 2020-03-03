@@ -65,7 +65,7 @@ The recognition should be done automatically by the home institution. Define a c
 
 The grades should be converted according to the conversion tables at the website of [studyineurope](https://www.studyineurope.eu/grades).
 
-::: post-it :::
+::: post-it
 Add table of supplemental agreement.
 :::
 
@@ -123,6 +123,6 @@ If you consider travelling abroad, ask your international office for funding opp
 
 Contact the staff of the StudyATHome project: [studyathome@technikum-wien.at](mailto:studyathome@technikum-wien.at).
 
-::: post-it :::
+::: post-it
 List contact email addresses of partner universities here.
 :::

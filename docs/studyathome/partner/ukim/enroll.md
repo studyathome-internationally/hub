@@ -1,18 +1,9 @@
 :::: gslot disclaimer
+
 **Ss. Cyril and Methodius University Skopje**  
-The data communicated to us by you for the purpose of the application will be used by us exclusively for the processing of the application on the basis of pre-contractual or contractual purposes and will not be passed on to third parties with the exception described below in case of uncertainties regarding the entry requirements.
-If there is no further contact or enrollment, your data will be deleted after three years.
+I _NAME AND SURNAME_, living in _CITY_ with _ADDRESS_ and _SSN or EMB or ID number__with application number _NUMBER_, agree to give permision to the SS. Cyril and Methodius University in Skopje, _UNIT OF THE UNIVERSITY_ to use my personal data including my SSN only if there is a basic need according to the law and other obligatory rules in North Macedonia. I give this permision with free will and not under any threats or pressure.
 
-Information on your data subject rights can be found [here](https://www.technikum-wien.at/information-ueber-ihre-rechte-gemaess-datenschutz-grundverordnung/).
-
-If you have any questions, please contact us at dsvgo@ukim.edu.mk.
-
-**Data Processing Office**  
-Бул. „Гоце Делчев“ бр. 9, 1000 Скопје  
-Република Северна Македонија  
-Тел.: 3293-293 (централа), Факс: 3293-202  
-e: ukim@ukim.edu.mk
-w: www.ukim.edu.mk
+Skopje (Date)    (Signature)
 ::::
 
 <!-- more -->
