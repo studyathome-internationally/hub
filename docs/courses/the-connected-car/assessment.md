@@ -2,18 +2,13 @@
 layout: Layout
 ---
 
-
-::: post-it
-2 Assesments
-:::
-
 ### Methods
 
 | Type                 | Points/Percent |
 | :------------------- | :------------- |
-| Continous Assessment | 100%           |
-| Assignment           | 30%            |
-| Assignment           | 70%            |
+| Continous Assessment |            |
+| -Assignment           | 30%            |
+| -Assignment           | 70%            |
 
 ### Criteria
 

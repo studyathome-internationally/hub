@@ -3,8 +3,8 @@ sidebar: false
 title: The Connected Car
 description: >
   In this module, students explore and use the technologies required to exchange data between Electronic Control Units within the vehicle and with external systems outside of the vehicle, such as other vehicles, diagnostic tools, recharging stations and roadside infrastructure.
-license: XX
-link: XX
+license: WIT
+link: https://moodle.wit.ie/login/index.php
 ects: 5
 attendees: 5
 semester: Summer
@@ -13,13 +13,15 @@ degrees:
 language:
 - en
 
+# Brendan will provide image or video
 media:
   image: 
   video: XX
 
 schedule:
-  start: 15.01.2020
-  end: 27.04.2020
+# application deadline: 2 months in advance. would be good to market it in June for Winter semester and in November for Summer Semester
+  start: 04.01.2021
+  end: 30.04.2021
   duration:
 
 lecturers:
@@ -41,6 +43,9 @@ tags:
 - CAN
 - FlexRay
 - Network Simulation
+- car2x
+- LIN
+- Automotive Ethernet
 ---
 
 # {{$frontmatter.title}}
