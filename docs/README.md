@@ -10,7 +10,7 @@ footer: GPL v3.0 Licensed | Copyright © 2019-present | StudyATHome Internationa
 ---
 
 ::: danger Under construction
-The page is currently under construction. The first iteration of eLearning Sharing will start in January 2020.
+The page is currently under construction. The first iteration of eLearning Sharing will start in September 2020.
 :::
 
 ## What is it?
