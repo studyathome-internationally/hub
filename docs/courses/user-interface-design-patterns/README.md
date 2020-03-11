@@ -33,7 +33,7 @@ lecturers:
   image: =lecturer 2 image=
 
 university:
-  name: ctu
+  name: ukim
   faculty: =university faculty=
   program: =university program=
 
