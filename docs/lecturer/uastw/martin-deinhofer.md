@@ -1,6 +1,6 @@
 ---
+name: Martin Deinhofer
 email: martin.deinhofer@technikum-wien.at
-tel: 0600/12345123
 github: https://github.com/deinhofer
 ---
 
