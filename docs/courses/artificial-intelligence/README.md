@@ -26,11 +26,11 @@ schedule:
   duration: =course duration=
 
 lecturers:
-- name: =lecturer 1 name=
+- name: Martin Macas
   email: =lecturer1@email.net=
   description: =lecturer 1 description=
   image: =lecturer 1 image=
-- name: =lecturer 2 name=
+- name: Lenka Lhotska
   email: =lecturer1@email.net=
   description: =lecturer 2 description=
   image: =lecturer 2 image=
