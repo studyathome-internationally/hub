@@ -16,6 +16,8 @@ language:
 
 media:
   image:
+    src: https://science.dodlive.mil/files/2013/06/ai-image.jpg
+    alt: Abstract silhoutte of a human being symbolizing artificial intelligence. 
   video: =course video=
 
 schedule:
