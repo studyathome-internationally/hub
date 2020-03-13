@@ -26,15 +26,10 @@ schedule:
   duration: =course duration=
 
 lecturers:
-- name: =lecturer 1 name=
-  email: =lecturer1@email.net=
-  description: =lecturer 1 description=
-  image: =lecturer 1 image=
-- name: =lecturer 2 name=
-  email: =lecturer1@email.net=
-  description: =lecturer 2 description=
-  image: =lecturer 2 image=
+- name: Martin Deinhofer
   page: uastw/martin-deinhofer.html
+- name: Alija Sabic
+  page: uastw/alija-sabic.html
 
 university:
   name: uastw
