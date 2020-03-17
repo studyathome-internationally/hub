@@ -6,7 +6,7 @@ layout: Layout
 
 | Type                 | Points/Percent |
 | :------------------- | :------------- |
-| **Continous Assessment** |            |
+| **Continuous Assessment** |            |
 | Assignment           | 30%            |
 | Assignment           | 70%            |
 
