@@ -4,7 +4,7 @@ layout: Layout
 
 ### Skills
 
-* N/A
+* No Prerequisites
 
 ### Equipment
 

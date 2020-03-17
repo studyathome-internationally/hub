@@ -6,9 +6,9 @@ layout: Layout
 
 | Type                 | Points/Percent |
 | :------------------- | :------------- |
-| Continous Assessment |            |
-| -Assignment           | 30%            |
-| -Assignment           | 70%            |
+| **Continous Assessment** |            |
+| Assignment           | 30%            |
+| Assignment           | 70%            |
 
 ### Criteria
 
