@@ -1,7 +1,7 @@
 :::: gslot disclaimer
 **University of Applied Sciences Technikum Wien**  
-The data communicated to us by you for the purpose of the application will be used by us exclusively for the processing of the application on the basis of pre-contractual or contractual purposes and will not be passed on to third parties with the exception described below in case of uncertainties regarding the entry requirements.
-If there is no further contact or enrollment, your data will be deleted after three years.
+The data you provide us with for the purpose of the application will only be used by us to process the application on the basis of pre-contractual or contractual purposes. The data will not be passed on to third parties, except to check the university entrance requirements.
+If there is no further contact or application, your data will be deleted after three years.
 
 Information on your data subject rights can be found [here](https://www.technikum-wien.at/information-ueber-ihre-rechte-gemaess-datenschutz-grundverordnung/).
 

@@ -3,69 +3,61 @@ enrollment:
   cc:
     - studyathome@technikum-wien.at
   bcc:
-    - studyathome.bcc@technikum-wien.at
-  subject: Matriculation / Course Enrollment (StudyATHome Internationally)
+    - 
+  subject: Application / Course Enrollment (StudyATHome Internationally)
   body:
     before: >
       Dear Sir or Madam,\n\n
-      I would like to enroll to course: {{ title }} (cf. {{ link }}).\n\n
+      I would like to enroll to the course: '{{ title }}' at the university {{ university.name }}.\n\n
     form: >
       Personal \n
        * Name:  \n
        * Surname (Family name):  \n
        * Date of Birth:  \n
-       * Sex:  \n
+       * Gender:  \n
        * Nationality:  \n\n
        * Address:  \n
        * Post Code:  \n
        * Municipality:  \n
        * Country:  \n
        * University:  \n\n
-      A-Levels (University Entrance Qualification, e.g. High School)  \n
-       * Date:  \n
-       * Country of Awarding Institution:  \n\n
     after: >
       Kind regards,\n\n
 ---
 
 :::: gslot content
 
-The course enrollment requires your matriculation first.
-Please send an email containing your **matriculation data** to the International Office of the University holding the course by clicking `Compose E-Mail` below.
+The course enrollment requires the **nomination** by the sending university first.
+Please send an **email** with your **application to the International Office** of the sending  university by clicking 
+
+`Compose E-Mail` 
+
+below.
+
+Within **two weeks**, you will be informed about the **acceptance of your application** and will get further information for registration and course enrollment.
+
+Please ensure to apply before the application deadline.
+
+::: tip Application Deadline
+June, 15^th^ 2020
+:::
 
 ::::
 
 :::: gslot matriculation-data
 
-::: tip Matriculation Data
+::: tip Application Data
 
-* Course Name / Link
+* Course Title
+* Host University
 * Personal
   * Name, Surname (Family name)
   * Date of Birth
-  * Sex
+  * Gender
   * Nationality
   * Address
   * University
-* A-Levels (University Entrance Qualification)
-  * Date
-  * Country of Awarding Institution
-
-:::
-
-If you are studying a Master degree, please also provide that entrance qualification (Bachelor degree).
-
-::: tip Master Entrance Qualification (Optional)
-* Date
-* Country of Awarding Institution
-:::
-
-Then you will get an email containing the **matriculation receipt** and the **course login information**.
-
-Please ensure to enroll before the matriculation deadline.
-
-::: tip Matriculation Deadline
-January, 26^th^ 2020
+  
 :::
 
 ::::
@@ -73,8 +65,8 @@ January, 26^th^ 2020
 :::: gslot disclaimer
 
 **StudyATHome Internationally**  
-The data communicated to us by you for the purpose of the application will be used by us exclusively for the processing of the application on the basis of pre-contractual or contractual purposes and will not be passed on to third parties with the exception described below in case of uncertainties regarding the entry requirements.
-If there is no further contact or enrollment, your data will be deleted after three years.
+The data you provide us with for the purpose of the application will only be used by us to assist the application process on the basis of pre-contractual or contractual purposes. The data will not be passed on to third parties, except to check the university entrance requirements and for the purpose of evaluating the services and workflows of StudyATHome Internationally.
+If there is no further contact or application, your data will be deleted after three years.
 
 If you have any questions, please contact us at studyathome@technikum-wien.at.
 
