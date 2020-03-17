@@ -39,10 +39,16 @@ Collaboration and regular contact with businesses give students and graduates of
 Incoming exchange students from partner universities are free to select courses from different study programs and different semesters.
 The academic year at UAS Technikum Wien is divided into winter (September – January) and summer term (February – July).
 UAS Technikum Wien recommends 30 ECTS per semester, but demands that Incomings at least complete 15 ECTS per semester.
-The English Course Guide, which can be downloaded on the [website](https://www.technikum-wien.at/en/international/incoming-mobility/incoming-students/), will help applicants to preselect courses.
+The English Course Guide, which can be downloaded from the [website for incoming students](https://www.technikum-wien.at/en/international/incoming-mobility/incoming-students/), will help applicants to preselect courses.
 Courses taught in German language are only available for Incomings with a sufficient command of the spoken and written language, which is level B2, according to the Common European Framework of Languages.
-Further information about the incoming application process you can find in the video below:
+Further information about the application process for incoming students can be found in the video below:
 
 <Video id="Kq8CMjZZ-M8" hl="en"/>
+
+## Vienna
+
+[Vienna](https://www.wien.info/en) is regularely ranked as one of the best [liveable cities](https://www.economist.com/graphic-detail/2019/09/04/vienna-remains-the-worlds-most-liveable-city) in the world. Get a taste of Vienna by watching this timelapse video created by [FilmSpektakel](https://filmspektakel.at/).
+
+<Video id="JfKKjD0GSZo"/>
 
 <!-- more -->
