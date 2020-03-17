@@ -33,7 +33,7 @@ lecturers:
 
 university:
   name: uastw
-  faculty: Electronic-Based Systems
+  faculty: Electronic Based Systems
   program: Smart Homes & Assistive Technologies
 
 
