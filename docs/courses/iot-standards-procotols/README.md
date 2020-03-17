@@ -1,23 +1,23 @@
 ---
 sidebar: false
 title: IoT-Standards-Protocols
-description: =(short) description=
-license: =license=
+description: The Internet of Things(IoT) encompasses a broad range and scale of devices and applications. This module examines the protocols and standards used to interconnect the various devices and applications in the Internet of Things.
+license: CC by SA?
 link: =course link=
 ects: 5
-attendees: 6
-semester: Winter
+attendees: 5
+semester: Summer
 degrees:
 - bachelor
-- master
-- phd
 language: 
-- =LANG=
-- =LANG=
+- en
 
 media:
   image:
-  video: =course video=
+    src: https://wit-computing.github.io/IoT-Standards-Protocols-2018/topic-01/talk-1/talk-1.jpg
+    alt: Picture of the globe with internet of things items connected to it.
+  video:
+    youtube: 72o9Tbmhtss
 
 schedule:
   start: =course start=
@@ -26,18 +26,12 @@ schedule:
 
 lecturers:
 - name: Frank Walsh
-  email: =lecturer1@email.net=
-  description: =lecturer 1 description=
-  image: =lecturer 1 image=
-- name: Kumar Yelamarthi
-  email: =lecturer1@email.net=
-  description: =lecturer 2 description=
-  image: =lecturer 2 image=
+  page: wit/frank-walsh.html
 
 university:
   name: wit
-  faculty: =university faculty=
-  program: =university program=
+  faculty: Computing and Mathematics
+  program: Bachelor of Science (Honours) in the Internet of Things
 
 state: true
 tags:
