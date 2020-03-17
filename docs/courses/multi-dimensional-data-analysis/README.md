@@ -13,9 +13,12 @@ degrees:
 language: 
 - en
 
-media:
-  image: 
-  video: =course video=
+media: 
+  image:
+    src: https://www.frontiersin.org/files/Articles/288471/fnagi-10-00111-HTML/image_m/fnagi-10-00111-g001.jpg
+    alt: Screenshot of a program for data analysis.
+  video:
+    youtube:
 
 schedule:
   start: =course start=

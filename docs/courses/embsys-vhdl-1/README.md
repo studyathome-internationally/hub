@@ -13,9 +13,12 @@ degrees:
 language: 
 - en
 
-media:
+media: 
   image:
-  video: <<course video>>
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Mux-Symbol_DIN40900.svg/170px-Mux-Symbol_DIN40900.svg.png
+    alt: Symbol of the Mux block element.
+  video:
+    youtube:
 
 schedule:
   start: <<course start>>

@@ -14,8 +14,11 @@ language:
 - mk
 
 media:
-  image: 
-  video: =course video=
+  image:
+    src: https://i.stack.imgur.com/aexha.gif
+    alt: Diagram of the User centered design process
+  video:
+    youtube:
 
 schedule:
   start: =course start=
