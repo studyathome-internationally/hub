@@ -4,17 +4,11 @@ layout: Layout
 
 ### Skills
 
-* Common sense
-* Intermediate calculating skills
+* ?
 
 ### Equipment
 
-::: post-it
-No HW required
-ModelSim (free)
-:::
-
 * No hardware required
-* Software ModelSim (free)
+* [Software ModelSim (free)](https://www.intel.com/content/www/us/en/software/programmable/quartus-prime/model-sim.html)
 
 <!-- more -->

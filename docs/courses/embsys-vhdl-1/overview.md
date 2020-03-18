@@ -2,16 +2,15 @@
 layout: Layout
 ---
 
-::: post-it
-AsTeRICS eLearning course as of project work package
-- FLipMouse, PiROSBot not suitable
-:::
-
 ### Contents
 
-* Course content 1
-* Course content 2
-* Course content 3
+![8 Bit Adder block element](/assets/img/courses/vhdl-adder.png)
+
+* VHDL Basics
+* Combinational Logic
+* Synchronous Logic
+* Finite State Machines
+* Verification and Designflow
 
 ### Outcomes
 
@@ -23,8 +22,8 @@ AsTeRICS eLearning course as of project work package
 
 | Type        | Effort \[h\] |
 | :---------- | :----------- |
-| Independent | 40           |
-| Practical   | 40           |
-| Lecture     | 40           |
+| Independent | ?           |
+| Practical   | ?           |
+| Lecture     | ?           |
 
 <!-- more -->
