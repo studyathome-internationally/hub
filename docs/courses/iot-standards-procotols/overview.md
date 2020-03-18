@@ -11,11 +11,20 @@ layout: Layout
 
 :::
 
+The [course material](https://wit-computing.github.io/IoT-Standards-Protocols-2018/) can be found online, the major topics are:
+
 * The Internet of Things protocol stack
-* Device level communication bus protocols: Event-driven bus protocols; serial communication
+* Device level communication bus protocols
+  * Event-driven bus protocols
+  * serial communication
 * Device interfacing and embedded application APIs
-* Wireless communication for the IoT: Introduction to Wireless Networks; wireless protocols for low power devices; short-range wireless technologies
-* Messaging protocols for the Internet of Things: Request-Response; Publish-Subscribe
+* Wireless communication for the IoT
+  * Introduction to Wireless Networks
+  * wireless protocols for low power devices
+  * short-range wireless technologies
+* Messaging protocols for the Internet of Things
+  * Request-Response
+  * Publish-Subscribe
 
 ### Outcomes
 
