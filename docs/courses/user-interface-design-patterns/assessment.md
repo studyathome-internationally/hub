@@ -2,6 +2,16 @@
 layout: Layout
 ---
 
+<!-- Describe Assessment procedure verbally -->
+
+#### Example Assignment
+
+<!-- Describe an example assignment definition -->
+
+#### Final Exam
+
+<!-- The final exam will be ... -->
+
 ### Methods
 
 | Type                  | Points/Percent |

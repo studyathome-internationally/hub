@@ -2,6 +2,16 @@
 layout: Layout
 ---
 
+<!-- Describe Assessment procedure verbally -->
+
+#### Example Assignment
+
+<!-- Describe an example assignment definition -->
+
+#### Final Exam
+
+<!-- The final exam will be ... -->
+
 ::: post-it
 written test (currently paper test, can maybe changed to moodle test)
 :::
