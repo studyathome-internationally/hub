@@ -15,12 +15,11 @@ enrollment:
        * Surname (Family name):  \n
        * Date of Birth:  \n
        * Gender:  \n
-       * Nationality:  \n\n
        * Address:  \n
-       * Post Code:  \n
-       * Municipality:  \n
-       * Country:  \n
-       * University:  \n\n
+       * Nationality:  \n
+       * University Name: \n
+       * University E-Mail: \n
+       * Study Program: \n\n
     after: >
       Kind regards,\n\n
 ---
@@ -48,15 +47,22 @@ June, 15^th^ 2020
 
 ::: tip Application Data
 
-* Course Title
-* Host University
-* Personal
+* Course
+  * Title
+  * Host University
+* Personal Data
   * Name, Surname (Family name)
   * Date of Birth
   * Gender
-  * Nationality
   * Address
-  * University
+  * Nationality
+  * University Name
+  * University E-mail
+  * Study Program
+
+**On Request**
+
+* Scan of passport or student id card
   
 :::
 
