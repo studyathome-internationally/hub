@@ -19,16 +19,18 @@ layout: Layout
 
 ### Outcomes
 
-* Outcome 1
-* Outcome 2
-* Outcome 3
+After passing this course successfully students are able to
+
+* describe the basic components of digital logic designs
+* implement the basic components of digital logic designs via VHDL and interpret VHDL code
+* design a verification environment in VHDL for a given design specification
+* verify a VHDL design by simulation in Modelsim
 
 ### Methods
 
 | Type        | Effort \[h\] |
 | :---------- | :----------- |
-| Independent | ?           |
-| Practical   | ?           |
-| Lecture     | ?           |
+| Independent |  30         |
+| Lecture     | 4           |
 
 <!-- more -->

@@ -7,13 +7,12 @@ They students will have to do several assignments using the [Modelsim FPGA simul
 #### Example Assignment
 
 Write an 8 Bit Adder element in VHDL.
-![8 Bit Adder block element](/assets/img/courses/vhdl-adder.png)
+
+![8 Bit Adder block element](/assets/img/courses/vhdl-adder.png =300x)
 
 #### Final Exam
 
-::: post-it
-The final exam will be ...
-:::
+The final exam will be a moodle based multiple choice test.
 
 ### Methods
 

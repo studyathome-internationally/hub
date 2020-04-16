@@ -3,8 +3,8 @@ sidebar: false
 title: Specialization Embedded Systems (VHDL Part I)
 short_title: VHDL (Part I)
 description: <<(short) description>>
-license: <<license>>
-link: <<course link>>
+license: uastw
+link: https://moodle.technikum-wien.at/
 ects: 6
 attendees: 5
 semester: Winter
@@ -16,15 +16,15 @@ language:
 media: 
   image:
     src: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Mux-Symbol_DIN40900.svg/170px-Mux-Symbol_DIN40900.svg.png
-    # src: /assets/img/courses/vhdl-adder.png
-    alt: Symbol of the Mux block element.
+    # src: /assets/img/courses/VHDL1Cover.png
+    alt: Symbol of a block element.
   video:
     youtube:
 
 schedule:
-  start: <<course start>>
-  end: <<course end>>
-  duration: <<course duration>>
+  start: CW45 2020
+  end: CW2 2021
+  duration: 10 weeks
 
 lecturers:
 - name: Andreas Puhm
