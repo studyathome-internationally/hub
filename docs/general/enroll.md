@@ -13,29 +13,21 @@ enrollment:
       Personal \n
        * Name:  \n
        * Surname (Family name):  \n
-       * Date of Birth:  \n
-       * Gender:  \n
-       * Address:  \n
-       * Nationality:  \n
        * University Name: \n
        * University E-Mail: \n
        * Study Program: \n\n
     after: >
+      I confirm reading and understanding the privacy information (https://hub.studyathome.technikum-wien.at/studyathome/privacy.html) and consent the data processing.\n\n
       Kind regards,\n\n
 ---
 
 :::: gslot content
 
-The course enrollment requires the **nomination** by the sending university first.
-Please send an **email** with your **application to the International Office** of the sending  university by clicking 
+Please send an **email** with your **application** to the International Office of the home university by clicking _**Compose E-Mail**_ below.
 
-`Compose E-Mail` 
+The International Office will forward your application to the host university, which will decide about the acceptance within **two weeks**. You will get further information for registration and course enrollment, by email.
 
-below.
-
-Within **two weeks**, you will be informed about the **acceptance of your application** and will get further information for registration and course enrollment.
-
-Please ensure to apply before the application deadline.
+Please ensure to **apply before the application deadline**.
 
 ::: tip Application Deadline
 June, 15^th^ 2020
@@ -52,16 +44,17 @@ June, 15^th^ 2020
   * Host University
 * Personal Data
   * Name, Surname (Family name)
-  * Date of Birth
-  * Gender
-  * Address
-  * Nationality
   * University Name
   * University E-mail
   * Study Program
 
-**On Request**
+**Additional Registration Data**
+_(On Request by Host University)_
 
+* Date of Birth
+* Gender
+* Address
+* Nationality
 * Scan of passport or student id card
   
 :::
@@ -71,11 +64,9 @@ June, 15^th^ 2020
 :::: gslot disclaimer
 
 **StudyATHome Internationally**  
-The data you provide us with for the purpose of the application will only be used by us to assist the application process on the basis of pre-contractual or contractual purposes. The data will not be passed on to third parties, except to check the university entrance requirements and for the purpose of evaluating the services and workflows of StudyATHome Internationally.
-If there is no further contact or application, your data will be deleted after three years.
+The data you provide us with for the purpose of the application will only be used by us to assist the application and grade recognition process. The data will not be passed on to third parties.
 
-If you have any questions, please contact us at studyathome@technikum-wien.at.
-
+I confirm reading and understanding the [privacy information](https://hub.studyathome.technikum-wien.at/studyathome/privacy.html) and consent the data processing.
 ::::
 
 <!-- more -->
