@@ -2,7 +2,7 @@ module.exports = [
   { text: "Courses", link: "/courses/" },
   {
     text: "eLearning Sharing",
-    link: "/e-learning-sharing/"
+    link: "/e-learning-sharing/",
   },
   // {
   //   text: "Project Teams",
@@ -17,16 +17,16 @@ module.exports = [
       { text: "Contact", link: "/studyathome/contact" },
       {
         text: "Partner",
-        link: "/studyathome/partner/"
+        link: "/studyathome/partner/",
       },
-      { text: "Terms & Privacy", link: "/studyathome/terms" },
-      // { text: "Privacy", link: "/studyathome/privacy" },
+      { text: "Terms", link: "/studyathome/terms" },
+      { text: "Privacy", link: "/studyathome/privacy" },
       // { text: "Sitemap", link: "/studyathome/sitemap" },
-      { text: "About", link: "/studyathome/about" }
+      { text: "About", link: "/studyathome/about" },
       // {
       //   text: "Hub Editing",
       //   link: "/studyathome/markdown"
       // }
-    ]
-  }
+    ],
+  },
 ];
