@@ -1,6 +1,6 @@
 ---
 # sidebar: auto
-sidebarDepth: 2
+sidebarDepth: 1
 ---
 
 # FAQ
