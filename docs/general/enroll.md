@@ -55,6 +55,8 @@ _(On Request by Host University)_
 * Gender
 * Address
 * Nationality
+* A-Level Date
+* A-Level Country of Awarding Institution
 * Scan of passport or student id card
   
 :::
