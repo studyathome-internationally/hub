@@ -112,4 +112,4 @@ FCSE recommends 30 ECTS per semester.
 The City of Skopje is the capital and largest city in North Macedonia, which is also an administrative-political, economic, cultural and educational-scientific center.
 It is located in the northern part of the country and in the central part of the Balkan Peninsula spread along the banks of the Vardar river.
 
-<Video id="lTdK3cqho60" hl="en"/>
+<Youtube id="lTdK3cqho60" hl="en"/>

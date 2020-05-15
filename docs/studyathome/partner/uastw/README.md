@@ -31,7 +31,7 @@ Collaboration and regular contact with businesses give students and graduates of
 ![Students sitting in a classroom of the University of Applied Science Technikum Wien.](assets/img/partner/uastw/classroom.jpg "UAS Technikum Wien (UAS TW) - Classroom")
 :::
 
-<Video id="xBFLoPRD6rE"/>
+<Youtube id="xBFLoPRD6rE"/>
 
 ## Exchange Programme
 
@@ -42,10 +42,10 @@ The English Course Guide, which can be downloaded from the [website for incoming
 Courses taught in German language are only available for Incomings with a sufficient command of the spoken and written language, which is level B2, according to the Common European Framework of Languages.
 Further information about the application process for incoming students can be found in the video below:
 
-<Video id="Kq8CMjZZ-M8" hl="en"/>
+<Youtube id="Kq8CMjZZ-M8" hl="en"/>
 
 ## Vienna
 
 [Vienna](https://www.wien.info/en) is regularely ranked as one of the best [liveable cities](https://www.economist.com/graphic-detail/2019/09/04/vienna-remains-the-worlds-most-liveable-city) in the world. Get a taste of Vienna by watching this timelapse video created by [FilmSpektakel](https://filmspektakel.at/).
 
-<Video id="JfKKjD0GSZo"/>
+<Youtube id="JfKKjD0GSZo"/>
