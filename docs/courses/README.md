@@ -1,19 +1,20 @@
 # Courses
 
-<Courses />
+Please select from the list of courses below.
+<!-- <Courses /> -->
 
-## Winter
+## Winter Semester 2020
 
 <Courses sort="name" winter/>
 
-## Summer
+## Summer Semester 2021
 
 <Courses summer/>
 
-## Sort by Date
+<!-- ## Sort by Date
 
 <Courses sort="date"/>
 
 ## Sort by Name
 
-<Courses sort="name" summer/>
+<Courses sort="name" summer/> -->

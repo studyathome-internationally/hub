@@ -25,7 +25,16 @@ Any questions? Check out the [eLearning sharing concept](/e-learning-sharing) an
 
 ## Courses
 
-<Courses path="/courses/"/>
+Please select from the list of courses below.
+<!-- <Courses /> -->
+
+### Winter Semester 2020
+
+<Courses winter path="/courses/"/>
+
+### Summer Semester 2021
+
+<Courses summer path="/courses/"/>
 
 ## Funding
 
