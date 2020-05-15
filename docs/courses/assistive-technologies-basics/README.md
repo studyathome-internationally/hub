@@ -8,7 +8,7 @@ tags:
 
 state: true
 
-semester: Winter
+semester: Summer
 license: GPL-3.0
 link: =course link=
 ects: 2
