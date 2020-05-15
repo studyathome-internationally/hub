@@ -37,7 +37,7 @@ June, 15^th^ 2020
 <CourseSelection path="/courses/" placeholder="-- Please choose a course --"/>
 <UniversitySelection path="/studyathome/partner/" placeholder="-- Please choose your home university --"/>
 
-<RequiredData title="Matriculation Data">
+<RequiredData title="Application Data">
 
 ::: tip Application Data
 
@@ -57,6 +57,9 @@ _(On Request by Host University)_
 - Gender
 - Address
 - Nationality
+- A-Levels (University Entrance Qualification)
+  - Date
+  - Country of Awarding Institution
 - Scan of passport or student id card
 
 :::
@@ -68,12 +71,10 @@ _(On Request by Host University)_
 **StudyATHome Internationally**  
 The data you provide us with for the purpose of the application will only be used by us to assist the application and grade recognition process. The data will not be passed on to third parties.
 
-I confirm reading and understanding the [privacy information](https://hub.studyathome.technikum-wien.at/studyathome/privacy.html) and consent the data processing.
-
 </Disclaimer>
 
 ::: slot confirmation
-I confirm reading this information.
+I confirm reading and understanding the [privacy information](/studyathome/privacy.md) and consent the data processing.
 :::
 
 <EMail>Write E-Mail</EMail>
