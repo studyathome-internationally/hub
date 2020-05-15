@@ -1,5 +1,4 @@
 ---
-short: uastw
 international-office:
   - international-coordinator@technikum-wien.at
   - international-office@technikum-wien.at
@@ -7,15 +6,15 @@ international-office:
 
 # UAS Technikum Wien
 
-## About
+::: full-width-image
+![UAS Technikum Wien Main Entrance at Night](assets/img/partner/uastw/uastw-at-night.jpg "UAS Technikum Wien (UAS TW) - Main Entrance")
+:::
 
 [UAS Technikum Wien](https://www.technikum-wien.at/en/) was founded in 1994 and is Austria’s only University of Applied Sciences focused solely on technical subjects.
 UAS Technikum Wien offers high-quality teaching, research, and training.
 As of December 2018, around 4,400 students are studying in [12 bachelor‘s](https://www.technikum-wien.at/en/study_programs/bachelor_s/) and [18 master’s](https://www.technikum-wien.at/en/study_programs/master_s/) degree programs, and the number of graduates is about 11,000.
 
-::: full-width-image
-<img :src="$withBase('/assets/img/partner/uastw/uastw-at-night.jpg')" title="UAS Technikum Wien (UAS TW) - Main Entrance" alt="UAS Technikum Wien Main Entrance at Night">
-:::
+<!-- more -->
 
 ## Academics
 
@@ -27,9 +26,9 @@ There are a number of specialist laboratories (e.g., photonics lab, simulation o
 Collaboration and regular contact with businesses give students and graduates of UAS Technikum Wien the very best career opportunities.
 
 ::: image-triplet
-<img :src="$withBase('/assets/img/partner/uastw/digital-factory-2.jpg')" title="UAS Technikum Wien (UAS TW) - Digital Factory" alt="A student with smart goggles interacting with a manufacturing robot.">
-<img :src="$withBase('/assets/img/partner/uastw/digital-factory-3.jpg')" title="UAS Technikum Wien (UAS TW) - Digital Factory" alt="A student with a robotic arm exoskeleton at an arm wrestling match against a robotic arm.">
-<img :src="$withBase('/assets/img/partner/uastw/classroom.jpg')" title="UAS Technikum Wien (UAS TW) - Classroom" alt="Students sitting in a classroom of the University of Applied Science Technikum Wien.">
+![A student with smart goggles interacting with a manufacturing robot.](assets/img/partner/uastw/digital-factory-2.jpg "UAS Technikum Wien (UAS TW) - Digital Factory")
+![A student with a robotic arm exoskeleton at an arm wrestling match against a robotic arm.](assets/img/partner/uastw/digital-factory-3.jpg "UAS Technikum Wien (UAS TW) - Digital Factory")
+![Students sitting in a classroom of the University of Applied Science Technikum Wien.](assets/img/partner/uastw/classroom.jpg "UAS Technikum Wien (UAS TW) - Classroom")
 :::
 
 <Video id="xBFLoPRD6rE"/>
@@ -50,5 +49,3 @@ Further information about the application process for incoming students can be f
 [Vienna](https://www.wien.info/en) is regularely ranked as one of the best [liveable cities](https://www.economist.com/graphic-detail/2019/09/04/vienna-remains-the-worlds-most-liveable-city) in the world. Get a taste of Vienna by watching this timelapse video created by [FilmSpektakel](https://filmspektakel.at/).
 
 <Video id="JfKKjD0GSZo"/>
-
-<!-- more -->
