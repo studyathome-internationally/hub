@@ -6,7 +6,7 @@ tags:
   - Image Processing
 
 # state: false
-state: true
+state: false
 
 semester: Winter
 license: =license=

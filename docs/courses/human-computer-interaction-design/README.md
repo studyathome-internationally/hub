@@ -7,7 +7,7 @@ tags:
   - Interaction Design
 
 # state: false
-state: true
+state: false
 
 semester: Summer
 license: =license=

@@ -8,7 +8,7 @@ tags:
   - Embedded Systems
 
 # state: false
-state: true
+state: false
 
 semester: Summer
 license: =license=
