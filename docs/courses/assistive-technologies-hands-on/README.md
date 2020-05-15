@@ -6,7 +6,7 @@ tags:
   - Assistive Technologies
   - Smart Homes
 
-state: true
+state: false
 
 semester: Summer
 license: GPL-3.0
