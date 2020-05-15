@@ -32,6 +32,8 @@ email: puhm@technikum-wien.at
 Andreas was born in 1982 in Vienna. During his study in Electronics on the University of Applied Science Technikum Wien he joined the Vienna Cubes Robocup team which participated in the Robocup WM 2005 in Osaka, Japan. In this project he found his interest for Embedded Systems.
 He finished his Electronics study in 2006 as Dipl. Ing. (FH) and finished a Master study in Embedded Systems on the Technikum Wien in 2008.
 
+<!-- more -->
+
 In 2006 he joined the [Automotive Gateway](http://embsys.technikum-wien.at/projects/coordes/index.php) project team on the Technikum Wien as assistant.
 In 2008 he worked on a industrial project with [Zelisko](http://www.zelisko.at) on building a PC/104 based LED Display Matrix for highways.
 From 2008 to 2011 he has been working in the [COORDES](http://embsys.technikum-wien.at/projects/coordes/index.php) project with a focus on ASIC toolflow (UMC 90nm process) and design.
