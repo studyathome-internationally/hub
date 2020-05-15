@@ -3,7 +3,7 @@ sidebar: false
 email: suzana.loshkovska@finki.ukim.mk
 ---
 
-# Suzana Loshkovka
+# Suzana Loshkovska
 
 ![Portrait of Suzana Loshkovka](assets/img/partner/ukim/lecturer/suzana-loshkovka.png "Portrait of Suzana Loshkovka")
 
