@@ -1,33 +1,24 @@
 ---
 sidebar: false
-email: petre.lameski@finki.ukim.mk
+layout: Lecturer
+contact:
+  mail: petre.lameski@finki.ukim.mk
+  linkedin: https://www.linkedin.com/in/petre-lameski-7a791919/
+  reasearchgate: https://www.researchgate.net/profile/Petre_Lameski
+experience:
+  - Artificial Intelligence
+  - Data Mining
+  - Machine Learning
+  - Pattern Recognition
+  - Computer Vision
+position:
+  href: https://www.finki.ukim.mk/en/staff/petre-lameski
+  role: Vice Dean for Academic affairs, Professor
+  department: Faculty of Computer Science and Engineering
+portrait: /assets/img/partner/ukim/lecturer/petre-lameski.jpg
 ---
 
 # Petre Lameski
-
-![Portrait of Petre Lameski](assets/img/partner/ukim/lecturer/petre-lameski.jpg "Portrait of Petre Lameski")
-
-::: tip Contact
-
-- :fas-envelope: [petre.lameski@finki.ukim.mk](mailto:petre.lameski@finki.ukim.mk)
-- :fab-linkedin: [LinkdedIn](https://www.linkedin.com/in/petre-lameski-7a791919/)
-- :fab-researchgate: [Researchgate](https://www.researchgate.net/profile/Petre_Lameski)
-
-:::
-
-::: tip Expertise
-
-- Artificial Intelligence
-- Data Mining
-- Machine Learning
-- Pattern Recognition
-- Computer Vision
-
-:::
-
-::: tip Position
-[Vice Dean for Academic affairs, Professor / Faculty of Computer Science and Engineering](https://www.finki.ukim.mk/en/staff/petre-lameski)
-:::
 
 Petre was born in 1985 in Kavadarci.
 

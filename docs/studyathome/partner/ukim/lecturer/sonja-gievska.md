@@ -1,34 +1,25 @@
 ---
 sidebar: false
-email: sonja.gievska@finki.ukim.mk
+layout: Lecturer
+contact:
+  mail: sonja.gievska@finki.ukim.mk
+  linkedin: https://www.linkedin.com/in/sonja-gievska-93956433/
+  reasearchgate: https://www.researchgate.net/profile/Sonja_Gievska
+experience:
+  - Software Engineering
+  - Neural Networks
+  - Artificial Intelligence
+  - Human-computer Interaction
+  - Pattern Classification
+  - Recognition
+position:
+  href: https://www.finki.ukim.mk/en/staff/sonja-gievska
+  role: Associate Professor
+  department: Faculty of Computer Science and Engineering
+portrait: /assets/img/partner/ukim/lecturer/sonja-gievska.jpg
 ---
 
 # Sonja Gievska
-
-![Portrait of Sonja Gievska](assets/img/partner/ukim/lecturer/sonja-gievska.jpg "Portrait of Sonja Gievska")
-
-::: tip Contact
-
-- :fas-envelope: [sonja.gievska@finki.ukim.mk](mailto:sonja.gievska@finki.ukim.mk)
-- :fab-linkedin: [LinkdedIn](https://www.linkedin.com/in/sonja-gievska-93956433/)
-- :fab-researchgate: [Researchgate](https://www.researchgate.net/profile/Sonja_Gievska)
-
-:::
-
-::: tip Expertise
-
-- Software Engineering
-- Neural Networks
-- Artificial Intelligence
-- Human-computer Interaction
-- Pattern Classification
-- Recognition
-
-:::
-
-::: tip Position
-[Associate Professor / Faculty of Computer Science and Engineering](https://www.finki.ukim.mk/en/staff/sonja-gievska)
-:::
 
 Sonja was born in 1963 in Skope.
 She received her bachelor degree in computer science from the University of Sts. Cyril and Methodius Skopje, Macedonia in 1986.

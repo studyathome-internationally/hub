@@ -63,9 +63,7 @@ At vero eos et accusam et.
 * Bild unter /assets/... wird bei base="/hub-public/" nicht angezeigt
  -->
 
-![8 Bit Adder block element](assets/img/courses/vhdl-adder.png)
-
-<!-- ![8 Bit Adder block element](./img/vhdl-adder.png) -->
+![8 Bit Adder block element](./img/vhdl-adder.png)
 
 - VHDL Basics
 - Combinational Logic
@@ -97,7 +95,7 @@ They students will have to do several assignments using the [Modelsim FPGA simul
 
 Write an 8 Bit Adder element in VHDL.
 
-![8 Bit Adder block element](assets/img/courses/vhdl-adder.png =300x)
+![8 Bit Adder block element](./img/vhdl-adder.png)
 
 ### Final Exam
 

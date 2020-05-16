@@ -1,37 +1,29 @@
 ---
 sidebar: false
-email: sabic@technikum-wien.at
+layout: Lecturer
+contact:
+  mail: alija.sabic@technikum-wien.at
+  linkedin: https://ch.linkedin.com/in/lenka-lhotsk%C3%A1-6949156
+  reasearchgate: https://www.researchgate.net/profile/Alija_Sabic
+  github:
+    href: https://github.com/sabicalija
+    label: GitHub
+    icon: fab-github
+experience:
+  - Software Development
+  - Computer Science
+  - Embedded Systems
+  - Computer Security and Reliability
+  - Electrical Engineering
+  - Web Development
+position:
+  href: https://embsys.technikum-wien.at/staff/sabic/index.php
+  role: Lecturer, Researcher
+  department: Department of Electronic Based Systems
+portrait: /assets/img/partner/uastw/lecturer/alija-sabic.jpg
 ---
 
 # Alija Sabic
-
-![Portrait of Alija Sabic](assets/img/partner/uastw/lecturer/alija-sabic.jpg "Portrait of Alija Sabic")
-
-::: tip Contact
-
-- :fas-envelope: [sabic@technikum-wien.at](mailto:sabic@technikum-wien.at)
-- :fab-linkedin: [LinkdedIn](https://ch.linkedin.com/in/lenka-lhotsk%C3%A1-6949156)
-- :fab-researchgate: [Researchgate](https://www.researchgate.net/profile/Alija_Sabic)
-- :fab-github: [GitHub](https://github.com/sabicalija)
-
-:::
-
-::: tip Expertise
-
-- Software Development
-- Computer Science
-- Embedded Systems
-- Computer Security and Reliability
-- Electrical Engineering
-- Web Development
-
-:::
-
-::: tip Position
-
-[Lecturer, Researcher / Department of Electronic Based Systems](https://embsys.technikum-wien.at/staff/sabic/index.php)
-
-:::
 
 Alija was born in 1988 in Zvornik, Bosnia and Herzegovina.
 He graduated at the HTL Hollabrunn (Electrical Engineering / Information Technology) in 2007.

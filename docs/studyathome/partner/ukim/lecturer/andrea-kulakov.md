@@ -1,33 +1,24 @@
 ---
 sidebar: false
-email: mailaddress
+layout: Lecturer
+contact:
+  mail: andrea.kulakov@finki.ukim.mk
+  linkedin: https://www.linkedin.com/in/andreakulakov/
+  reasearchgate: https://www.researchgate.net/profile/Andrea_Kulakov
+experience:
+  - Cognitive Science
+  - Aritificial Neural Network
+  - Artiificial Intelligence
+  - Neural Networks
+  - Wireless Sensor Network
+position:
+  href: https://www.finki.ukim.mk/en/staff/andrea-kulakov
+  role: Professor
+  department: Faculty of Computer Science and Engineering
+portrait: /assets/img/partner/ukim/lecturer/andrea-kulakov.jpg
 ---
 
 # Andrea Kulakov
-
-![Portrait of Andrea Kulakov](assets/img/partner/ukim/lecturer/andrea-kulakov.jpg "Portrait of Andrea Kulakov")
-
-::: tip Contact
-
-- :fas-envelope: [mailaddress](mailto:mailaddress)
-- :fab-linkedin: [LinkdedIn](https://www.linkedin.com/in/andreakulakov/)
-- :fab-researchgate: [Researchgate](https://www.researchgate.net/profile/Andrea_Kulakov)
-
-:::
-
-::: tip Expertise
-
-- Cognitive Science
-- Aritificial Neural Network
-- Artiificial Intelligence
-- Neural Networks
-- Wireless Sensor Network
-
-:::
-
-::: tip Position
-[Professor / Faculty of Computer Science and Engineering](https://www.finki.ukim.mk/en/staff/andrea-kulakov)
-:::
 
 Andrea finished the secondary school in 1990, at age of 16, as he managed twice to take two school years during one year (7th and 8th grade in primary school and then 3rd and 4th year in high school).
 After that, he enrolled at the Faculty of Electrical Engineering in Skopje, Macedonia at the Computer Science Department and in 1995 graduated with the highest average grade (9.91 out of 10.00) in the generation 1990-95.

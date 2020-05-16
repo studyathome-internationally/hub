@@ -7,7 +7,7 @@ international-office:
 # Ss. Cyril and Methodius University Skopje
 
 ::: full-width-image
-![Image of UKIM's University Campus](assets/img/partner/ukim/campus.jpg)
+<img :src="$withBase('/assets/img/partner/ukim/campus.jpg')" alt="Image of UKIM's University Campus" title="Image of UKIM's University Campus">
 :::
 
 The Ss. Cyril and Methodius University in Skopje (UKIM) is the first and biggest public University in the Republic of North Macedonia, founded in 1949.
@@ -32,7 +32,7 @@ The overall activities of the University also include sport, artistic, informati
 The Faculty of Computer Science and Engineering (FCSE) within the Ss. Cyril and Methodius University is the largest and most prestigious faculty in the field of computer science and technologies in Macedonia, and among the largest faculties in that field in the region.
 
 ::: full-width-image
-![Young people jumping and raising their hands. Logo of the Faculty of Computer Science in the background.](assets/img/partner/ukim/people.png)
+<img :src="$withBase('/assets/img/partner/ukim/people.png')" alt="Young people jumping and raising their hands. Logo of the Faculty of Computer Science in the background." title="Young people jumping and raising their hands. Logo of the Faculty of Computer Science in the background.">
 :::
 
 The FCSE teaching staff consists of **62 professors** and **22 associates**.

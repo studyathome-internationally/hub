@@ -1,34 +1,25 @@
 ---
 name: Brendan Jackman
-email: bjackman@wit.ie
+layout: Lecturer
+contact:
+  tel: +353 51 834087
+  mail: bjackman@wit.ie
+  linkedin: https://www.linkedin.com/in/bjackmanwit/
+  reasearchgate: https://www.researchgate.net/profile/Brendan_Jackman
+experience:
+  - Automotive Systems
+  - Automation & Robotics
+  - Real Time Software
+  - Embedded Systems
+  - Vehicle Diagnostics
+position:
+  href: https://www.wit.ie/about_wit/contact_us/staff_directory/brendan_jackman
+  role: Lecturer, Research Supervisor
+  department: Department Computing & Mathematics / Automotive, Automation & Internet of Things
+portrait: /assets/img/partner/wit/lecturer/brendan-jackman.png
 ---
 
 # Brendan Jackman
-
-![Portrait of Brendan Jackman](assets/img/partner/wit/lecturer/brendan-jackman.png "Portrait of Brendan Jackman")
-
-::: tip Contact
-
-- :fas-telephone: +353 51 834087
-- :fas-envelope: [bjackman@wit.ie](mailto:bjackman@wit.ie)
-- :fab-linkedin: [LinkdedIn](https://www.linkedin.com/in/bjackmanwit/)
-- :fab-researchgate: [Researchgate](https://www.researchgate.net/profile/Brendan_Jackman)
-
-:::
-
-::: tip Expertise
-
-- Automotive Systems
-- Automation & Robotics
-- Real Time Software
-- Embedded Systems
-- Vehicle Diagnostics
-
-:::
-
-::: tip Position
-[Lecturer, Research Supervisor / Department Computing & Mathematics / Automotive, Automation & Internet of Things](https://www.wit.ie/about_wit/contact_us/staff_directory/brendan_jackman)
-:::
 
 Brendan Jackman has over three decades’ experience in the development, teaching and research of embedded systems. Since joining Waterford Institute of Technology in 1991 Brendan has founded the Automotive Control Group to research the use of software and networks in vehicles.
 He is also responsible for curriculum development on the undergraduate Automotive & Automation computing programme and the Internet of Things programme.

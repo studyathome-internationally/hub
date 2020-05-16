@@ -1,11 +1,5 @@
 module.exports = [
   [
-    "base",
-    {
-      href: "/",
-    },
-  ],
-  [
     "link",
     {
       rel: "apple-touch-icon",

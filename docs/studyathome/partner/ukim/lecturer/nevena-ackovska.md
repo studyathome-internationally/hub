@@ -1,35 +1,26 @@
 ---
 sidebar: false
-email: nevena.ackovska@finki.ukim.mk
+layout: Lecturer
+contact:
+  mail: nevena.ackovska@finki.ukim.mk
+  linkedin: https://www.linkedin.com/in/nevenaackovska/
+  reasearchgate: https://www.researchgate.net/profile/Nevena_Ackovska
+experience:
+  - Computer Science
+  - Bioinformatics
+  - Artificial Intelligence
+  - Distributed Computing
+  - Robotics
+  - Bioinformatics and Computational Biology
+  - Genetic Engineering
+position:
+  href: https://www.finki.ukim.mk/en/staff/nevena-ackovska
+  role: Professor
+  department: Faculty of Computer Science and Engineering
+portrait: /assets/img/partner/ukim/lecturer/nevena-ackovska.jpg
 ---
 
 # Nevena Ackovska
-
-![Portrait of Nevena Ackovska](assets/img/partner/ukim/lecturer/nevena-ackovska.jpg "Portrait of Nevena Ackovska")
-
-::: tip Contact
-
-- :fas-envelope: [nevena.ackovska@finki.ukim.mk](mailto:nevena.ackovska@finki.ukim.mk)
-- :fab-linkedin: [LinkdedIn](https://www.linkedin.com/in/nevenaackovska/)
-- :fab-researchgate: [Researchgate](https://www.researchgate.net/profile/Nevena_Ackovska)
-
-:::
-
-::: tip Expertise
-
-- Computer Science
-- Bioinformatics
-- Artificial Intelligence
-- Distributed Computing
-- Robotics
-- Bioinformatics and Computational Biology
-- Genetic Engineering
-
-:::
-
-::: tip Position
-[Professor / Faculty of Computer Science and Engineering](https://www.finki.ukim.mk/en/staff/nevena-ackovska)
-:::
 
 Nevena is Assistant Professor at the Faculty of Computer Science and Engineering at “Sts. Cyril and Methodius” University in Skopje, Macedonia.
 She holds B.Sc. in Computer Engineering, Informatics and Automation at Electrical Engineering Faculty (2000) and M. Sc. in Bioinformatics (2003) and a Ph.D. in the field of Bioinformatics (2008) from Faculty of Natural Sciences and Mathematics at “Sts. Cyril and Methodius University” in Skopje, Macedonia.

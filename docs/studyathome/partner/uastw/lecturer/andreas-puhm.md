@@ -1,33 +1,22 @@
 ---
 sidebar: false
-email: puhm@technikum-wien.at
+layout: Lecturer
+contact:
+  mail: andreas.puhm@technikum-wien.at
+  linkedin: https://www.linkedin.com/in/andreas-puhm-86a36640/)
+  reasearchgate: https://www.researchgate.net/profile/Andreas_Puhm
+experience:
+  - Embedded Systems
+  - Digital Signal Processing
+  - FPGA Programming
+position:
+  href: https://embsys.technikum-wien.at/staff/puhm/index.php
+  role: Lecturer, Researcher
+  department: Department of Electronic Based Systems
+portrait: /assets/img/partner/uastw/lecturer/andreas-puhm.png
 ---
 
 # Andreas Puhm
-
-![Portrait of Andreas Puhm](assets/img/partner/uastw/lecturer/andreas-puhm.png "Portrait of Andreas Puhm")
-
-::: tip Contact
-
-- :fas-envelope: [puhm@technikum-wien.at](mailto:puhm@technikum-wien.at)
-- :fab-linkedin: [LinkdedIn](https://www.linkedin.com/in/andreas-puhm-86a36640/)
-- :fab-researchgate: [Researchgate](https://www.researchgate.net/profile/Andreas_Puhm)
-
-:::
-
-::: tip Expertise
-
-- Embedded Systems
-- Digital Signal Processing
-- FPGA Programming
-
-:::
-
-::: tip Position
-
-[Lecturer, Researcher / Department of Electronic Based Systems](https://embsys.technikum-wien.at/staff/puhm/index.php)
-
-:::
 
 Andreas was born in 1982 in Vienna. During his study in Electronics on the University of Applied Science Technikum Wien he joined the Vienna Cubes Robocup team which participated in the Robocup WM 2005 in Osaka, Japan. In this project he found his interest for Embedded Systems.
 He finished his Electronics study in 2006 as Dipl. Ing. (FH) and finished a Master study in Embedded Systems on the Technikum Wien in 2008.
