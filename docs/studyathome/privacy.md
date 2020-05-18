@@ -12,16 +12,14 @@ asked to fill out a questionaire before and after the participation.
 
 ## Data Flow
 
-In course of the enrollment process you will be asked to **send your
-application data** to the International Office of your university (home
+In course of the enrollment process you will be asked to send your
+**application data** to the International Office of your university (home
 university), which will then forward the data to the International
-Office of the host university by e-mail. A carbon copy (CC) of the
-application will be sent to the team of StudyATHome Internationally
-([studyathome\@technikum-wien.at](mailto:studyathome@technikum-wien.at)).
-On request, you will be asked by the host university to provide more
-data needed for registration and course enrollment. After successful
-completion of the course the International Office of the home university
-will get a digital copy of your transcript of records.
+Office of the host university, by e-mail. 
+
+A carbon copy (CC) of the application will be sent to the team of StudyATHome Internationally ([studyathome\@technikum-wien.at](mailto:studyathome@technikum-wien.at)).
+
+**On request**, you will be asked by the host university to provide more data needed for the **registration** and course enrollment. After successful completion of the course, the International Office of the home university will get a digital copy of your transcript of records.
 
 ## Data Protection
 
@@ -39,20 +37,23 @@ officer of the university processing your data.**
 ::: tip UAS Technikum Wien
 
 [Data Protection Officer](https://www.technikum-wien.at/en/information-about-your-rights-accordance-general-data-protection-regulation/)
-Höchstädtplatz 6
-1200 Vienna
+
+Höchstädtplatz 6,
+1200 Vienna,
 Austria
 
 [**datenschutz@technikum-wien.at**](mailto:datenschutz@technikum-wien.at)
+
 :::
 
 ::: tip WIT
 
 [Data Protection Officer](https://www.wit.ie/about_wit/documents_and_policies/staff_data_protection)
 
-Main Campus Cork Road
-Waterford City
-Ireland
+Main Campus Cork Road,
+Waterford City,
+Ireland,
+Eircode: X91 K0EK
 
 [**dataprotection@wit.ie**](mailto:dataprotection@wit.ie)
 :::
@@ -61,9 +62,9 @@ Ireland
 
 [Data Protection Officer](https://www.cvut.cz/en/data-processing-and-protection-gdpr)
 
-Jugoslávských partyzánů 1580/3
-160 00 Praha 6 - Dejvice
-Česká Republika
+Jugoslávských partyzánů 1580/3,
+160 00 Praha 6 - Dejvice,
+Czech Republic
 
 [**dpo@cvut.cz**](mailto:dpo@cvut.cz)
 :::
@@ -71,8 +72,8 @@ Jugoslávských partyzánů 1580/3
 ::: tip UKIM
 [Data Protection Officer](http://www.ukim.edu.mk/en_content.php?meni=62&glavno=10)
 
-Blvd. Goce Delcev 9
-1000 Skopje
+Blvd. Goce Delcev 9,
+1000 Skopje,
 Republic of North Macedonia
 
 [**ukim@ukim.edu.mk**](mailto:ukim@ukim.edu.mk)
@@ -84,7 +85,8 @@ Republic of North Macedonia
 The following table lists which data categories are processed by which
 institution.
 
-::: tip Processed by StudyATHome Hub (UAS Technikum Wien)
+::: tip Application Data 
+(_Processed by **StudyATHome Hub (UAS Technikum Wien**_)
 
 - Course
   - Title
@@ -96,7 +98,8 @@ institution.
   - Study Program
 :::
 
-::: tip Processed by Host University
+::: tip Registration Data
+(_Processed by **Host University on Request**_)
 - Course
   - Title
   - Host University
