@@ -19,7 +19,7 @@ Office of the host university, by e-mail.
 
 A carbon copy (CC) of the application will be sent to the team of StudyATHome Internationally ([studyathome\@technikum-wien.at](mailto:studyathome@technikum-wien.at)).
 
-**On request**, you will be asked by the host university to provide more data needed for the **registration** and course enrollment. After successful completion of the course, the International Office of the home university will get a digital copy of your transcript of records.
+**On request**, you will be asked by the host university to provide the registrtion data needed for the registration and course enrollment. After successful completion of the course, the International Office of the home university will get a digital copy of your transcript of records.
 
 ## Data Protection
 
