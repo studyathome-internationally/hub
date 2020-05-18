@@ -55,7 +55,6 @@ The topics cover state-space search methods, knowledge and its representation, a
 
 ## Overview
 
-
 ### Contents
 
  * Lecture 1: Goals, problems, and tools of artificial intelligence
