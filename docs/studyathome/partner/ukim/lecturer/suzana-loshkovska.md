@@ -3,15 +3,15 @@ sidebar: false
 layout: Lecturer
 contact:
   mail: suzana.loshkovska@finki.ukim.mk
-  linkedin: http://videolectures.net/suzana_loshkovska/
   reasearchgate: https://www.researchgate.net/institution/Ss_Cyril_and_Methodius_University
   videolectures:
     href: http://videolectures.net/suzana_loshkovska/
     label: Videolectures.net
     icon: fas-video
 experience:
-  - Software Engineering
-  - Experience 1
+  - Human Computer Interaction
+  - Visualization
+  - Technology Enhanced Learning
 position:
   href: https://www.finki.ukim.mk/en/staff/suzana-loshkovska
   role: Professor
