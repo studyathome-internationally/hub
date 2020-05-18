@@ -5,10 +5,10 @@ contact:
   mail: ivica.dimitrovski@finki.ukim.mk
   linkedin: https://www.linkedin.com/in/ivica-dimitrovski-98830586/
   reasearchgate: https://www.researchgate.net/institution/Ss_Cyril_and_Methodius_University
-  github:
-    href: https://www.github.com/test/
-    label: GitHub
-    icon: fab-github
+  # github:
+  #   href: https://www.github.com/test/
+  #   label: GitHub
+  #   icon: fab-github
 experience:
   - Image Processing
   - Computer Vision
