@@ -37,9 +37,10 @@ June, 15^th^ 2020
 <CourseSelection path="/courses/" placeholder="-- Please choose a course --"/>
 <UniversitySelection path="/studyathome/partner/" placeholder="-- Please choose your home university --"/>
 
-<RequiredData title="Application Data">
+<RequiredData title="Data">
 
-::: tip Application Data
+::: tip Application Data 
+(_Processed by **StudyATHome Hub (UAS Technikum Wien**_)
 
 - Course
   - Title
@@ -49,18 +50,26 @@ June, 15^th^ 2020
   - University Name
   - University E-mail
   - Study Program
+:::
 
-**Additional Registration Data**
-_(On Request by Host University)_
-
-- Date of Birth
-- Gender
-- Address
-- Nationality
-- A-Levels (University Entrance Qualification)
-  - Date
-  - Country of Awarding Institution
-- Scan of passport or student id card
+::: tip Registration Data
+(_Processed by **Host University on Request**_)
+- Course
+  - Title
+  - Host University
+- Personal Data
+  - Name, Surname (Family name)
+  - University Name
+  - University E-mail
+  - Study Program
+  - Date of Birth
+  - Gender
+  - Address
+  - Nationality
+  - A-Levels (University Entrance Qualification)
+    - Date
+    - Country of Awarding Institution
+  - Scan of passport or student id card
 
 :::
 
@@ -69,12 +78,17 @@ _(On Request by Host University)_
 <Disclaimer title="Privacy Disclaimer" open>
 
 **StudyATHome Internationally**  
-The data you provide us with for the purpose of the application will only be used by us to assist the application and grade recognition process. The data will not be passed on to third parties.
+Your **application data** is processed by the International Office of the home university and will be forwarded to the International Office of the host university, by e-mail.
+
+A carbon copy (CC) will be sent to [studyathome\@technikum-wien.at](mailto:studyathome@technikum-wien.at).
+The data you provide will only be used to assist the application and grade recognition process. The data will not be passed on to third parties.
+
+You can revoke this consent at any time, but this will cancel your participation at the eLearning sharing program.
 
 </Disclaimer>
 
 ::: slot confirmation
-I confirm reading and understanding the [privacy information](/studyathome/privacy.md) and consent the data processing.
+I confirm reading and understanding the full [privacy information](/studyathome/privacy.md) text and consent the data processing.
 :::
 
 <EMail>Write E-Mail</EMail>
