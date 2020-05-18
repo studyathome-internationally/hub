@@ -4,13 +4,14 @@ sidebar: auto
 
 tags:
   - UI Design
-  - Navigation
-  - Interaction Patterns
+  - User interfaces 
+  - User Interface Patterns
+  - Usability
 
 state: true
 
 semester: Winter
-license: =license=
+license: ukim
 link: =course link=
 ects: 6
 
@@ -21,7 +22,6 @@ degrees:
   - Bachelor
 language:
   - English
-  - Macedonian
 
 media:
   main:
@@ -39,110 +39,99 @@ lecturers:
 
 university:
   page: /studyathome/partner/ukim/
-  faculty: =university faculty=
-  program: =university program=
+  faculty: Faculty of Computer Science and Engineering
+  program: Software Engineering and Information Systems
 ---
 
 # User interface design patterns
 
 ::: slot description
-[Lorem ipsum](https://loremipsum.de/) dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
-At vero eos et accusam et justo duo dolores et ea rebum.
-Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
-At vero eos et accusam et.
+The purpose of the course is to introduce the basic problems of user interfaces and approaches of how to solve them for different types of user interfaces and user interactions.
 :::
 
 ## Overview
 
 ### Contents
 
-- Introduction
-- User behavior when working with interactive systems, patterns to describe user behavior
-- Content organization in interactive systems
-  - Organizational schemes
-  - Structure organization
-  - Patterns for organizing and displaying data
-- Navigation
-  - Problems and principles for good navigation
-  - Patterns in interactive systems
-    - Navigation models
-    - Combining appearance and navigation models
-    - Tagging
-    - Animated transition
-- Screen organization
-  - Basic concepts
-    - Visual hierarchy
-    - Visual flow
-- Techniques for grouping and arranging elements
-- Gestalt principles
-- Patterns for organizing screens
-- Forms and data entry
-  - Principles for designing forms
-  - Types of input data and controls
-  - Patterns for designing forms (relationships between elements, values of elements ...)
-- Actions and commands
-  - Representation and rendering of actions
-  - Commands patterns
-    - Display of actions
-    - Improvement of action selection
-    - ...
-- Interaction with data lists
-- Information architecture
-- Interaction patterns
-  - Interaction in social media
-    - Principles of communicating with social media, interaction patterns
-  - Interaction in mobile devices, features of the interaction in mobile devices, interaction patterns.
+* Introduction
+* User behavior when working with interactive systems, patterns to describe user behavior
+* Information architecture
+* Interaction patterns
+* Content organization in interactive systems
+  * Organizational schemes
+  * Structure organization
+  * Patterns for organizing and displaying data
+* Navigation
+  * Problems and principles for good navigation
+  * Patterns in interactive systems
+* Screen organization
+    * Basic concepts
+    * Techniques for grouping and arranging elements
+     * Patterns for organizing screens
+* Forms and data entry
+  * Principles for designing forms
+  * Types of input data and controls
+  * Patterns for designing forms (relationships between elements, values of elements ...)
+* Actions and commands
+  * Representation and rendering of actions
+  * Commands patterns
+* Interaction with data lists
+* Interaction in social media
+* Interaction in mobile devices, features of the interaction in mobile devices, interaction patterns.
 
 ### Outcomes
 
-The purpose of the course is to introduce basic problems of user interfaces and approaches of solving them for different types of user interfaces and user interaction.
-
 Upon completion of the course, the student is expected to
 
-- Demonstrate knowledge of the basic principles of effective and efficient user interaction
-- The principles for their design
-- Independently develop interactive applications using programming tools following the learned principles
+- demonstrate knowledge about the basic principles of effective and efficient user interaction
+- apply the basic principles when designing a user interface
+- develop an interactive application following the learned principles
 
 ### Methods
 
-Lectures using presentations, interactive lectures, exercises (using equipment and software packages), teamwork, case studies, invited guest lecturers, independent preparation and defense of a project assignment and seminar work.
+Lectures using presentations, interactive lectures, exercises (using equipment and software packages), teamwork, case studies, invited guest lecturers, independent preparation and defense of a project assignment and a seminar work.
 
 | Type                       | Effort \[h\] |
 | :------------------------- | :----------- |
 | Lectures                   | 30           |
 | Exercises                  | 45           |
 | Project Tasks              | 15           |
-| Independent Learning Tasks | 15           |
-| Home Learning              | 75           |
+| Home Learning              | 60           |
 
 ### Materials
 
 | Author                   | Title                                                                                        | Publisher      | Year |
 | :----------------------- | :------------------------------------------------------------------------------------------- | :------------- | :--- |
-| Jenifer Tidwell          | Designing Interfaces, (2^nd^ edition)                                                        | O’Reilly Media | 2010 |
-| Bill Scott, Theresa Neil | Designing Web: Interfaces Principles and Patterns for Rich Interactions                      | O’Reilly Media | 2009 |
-| Jesse James Garrett      | The Elements of User Experience: User-Centered Design for the Web and Beyond (2^nd^ Edition) | New Riders     | 2010 |
+| Jenifer Tidwell          | Designing Interfaces, (2^nd edition)                                                        | O’Reilly Media | 2010 |
+| Bill Scott, Theresa Neil | Designing Web: Interfaces, Principles and Patterns for Rich Interactions                      | O’Reilly Media | 2009 |
+| Jesse James Garrett      | The Elements of User Experience: User-Centered Design for the Web and Beyond (2^nd Edition) | New Riders     | 2010 |
 
 ## Assessment
 
-<!-- Describe Assessment procedure verbally -->
-
-#### Example Assignment
-
-<!-- Describe an example assignment definition -->
-
-#### Final Exam
-
-<!-- The final exam will be ... -->
-
 ### Methods
 
-| Type                  | Points/Percent |
+| Type                  | Points |
 | :-------------------- | :------------- |
-| Tests                 | 20 points      |
-| Activity and learning | 10 points      |
-| Final exam            | 70 points      |
+| Lab exercises         | x points      |
+| Quizzes |xx points      |
+| Colloquium 1            | x points      |
+| Colloquium 2            | x points      |
+
+### Minimum Requirements
+
+The course is passed if at least 50% of the points (101 points) are collected from all activities (practical exam, laboratory exercises and theoretical tests) no matter how many points are collected from each of the activities.
+
+### Laboratory exercises
+
+Each student should solve and upload tasks within the given deadline. We count all timely uploaded solutions. To obtain points for this part, each student has to take an exam that consists of one of already assigned tasks. The exam can be taken ONLY ONCE during the January examination period. The total number of points is calculated by scaling the number of points earned on the test with the number of timely uploaded solution. The maximum number of points is won only if all exercises are uploaded on time. If the student does not take the laboratory test, he will obtain 0 points of the same.
+
+### Quizzes for theory
+
+These tests consist of short questions related to details of the lectures. Quizzes are taken on Moodle along with colloquiums (two separate quizzes with the first and second colloquium) or the practical exam (single quiz together with the practical exam in examination period). 
+
+### Colloquiums (recommended)
+
+Colloquiums consist of a practical problem. You need to solve the problem by programming (if the solution is correct you can obtain the maximum number of points defined for the task) or by drawing the screen layout (if the solution is correct you can obtain only a part of the points defined for the tasks). No minimum points for passing the colloquium are defined (You can participate in the second colloquium even if you obtain zero points on the first colloquium). 
 
 ### Criteria
 
@@ -159,10 +148,8 @@ Lectures using presentations, interactive lectures, exercises (using equipment a
 
 ### Skills
 
-- Common sense
-- Intermediate calculating skills
+Basic programming skills
 
 ### Equipment
 
-- Pencil(s)
-- Calculator
+Computer
