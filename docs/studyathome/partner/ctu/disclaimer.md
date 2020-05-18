@@ -2,17 +2,9 @@
 layout: NotFound
 ---
 
-**Czech Technical University Prague**  
-Information on the processing of your data and your rights as subject can be found [here](https://www.cvut.cz/en/data-processing-and-protection-gdpr).
+**Czech Technical University Prague (CTU)**  
+**On request**, you will be asked by the host university to provide the **registration data** needed for the registration and course enrollment.
 
-If you have any questions, please contact:
-
-**Data Protection Office**  
-CTU Prague  
-Jugoslávských partyzánů 1580/3  
-160 00 Praha 6 - Dejvice  
-Česká Republika
-Ing. Josef Svoboda, Ph.D.
-e: dpo@cvut.cz
-
+Here you can read more about [CTU data protection](https://www.cvut.cz/en/data-processing-and-protection-gdpr).
+In case of any concern, please directly contact [**dpo@cvut.cz**](mailto:dpo@cvut.cz).
 <!-- more -->

@@ -2,19 +2,9 @@
 layout: NotFound
 ---
 
-**Waterford Institute of Technology**  
-The data communicated to us by you for the purpose of the application will be used by us exclusively for the processing of the application on the basis of pre-contractual or contractual purposes and will not be passed on to third parties with the exception described below in case of uncertainties regarding the entry requirements.
-If there is no further contact or enrollment, your data will be deleted after three years.
+**Waterford Institute of Technology (WIT)**  
+**On request**, you will be asked by the host university to provide the **registration data** needed for the registration and course enrollment.
 
-Information on your data subject rights can be found [here](https://www.technikum-wien.at/information-ueber-ihre-rechte-gemaess-datenschutz-grundverordnung/).
-
-If you have any questions, please contact us at dsvgo@wit.ie.
-
-**Data Processing Office**  
-Main Campus Cork Road  
-Waterford City  
-Co. Waterford, Ireland  
-t: +353 51 30 2000  
-e: info@wit.ie
-
+Here you can read more about [WIT data protection](https://www.wit.ie/about_wit/documents_and_policies/staff_data_protection).
+In case of any concern, please directly contact [**dataprotection@wit.ie**](mailto:dataprotection@wit.ie)
 <!-- more -->

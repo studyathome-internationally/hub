@@ -2,9 +2,11 @@
 layout: NotFound
 ---
 
-**Ss. Cyril and Methodius University Skopje**  
-I _NAME AND SURNAME_, living in _CITY_ with _ADDRESS_ and _SSN or EMB or ID number\_\_with application number \_NUMBER_, agree to give permision to the SS. Cyril and Methodius University in Skopje, _UNIT OF THE UNIVERSITY_ to use my personal data including my SSN only if there is a basic need according to the law and other obligatory rules in North Macedonia. I give this permision with free will and not under any threats or pressure.
+**Ss. Cyril and Methodius University Skopje (UKIM)**  
+**On request**, you will be asked by the host university to provide the **registration data** needed for the registration and course enrollment.
 
-Skopje (Date) (Signature)
+**Please note that your selected course and therefore course-related processing of personal data will take place outside the European Union (North Macedonia).**
 
+Here you can read more about [UKIM data protection](http://www.ukim.edu.mk/en_content.php?meni=62&glavno=10).
+In case of any concern, please directly contact [**ukim@ukim.edu.mk**](mailto:ukim@ukim.edu.mk)
 <!-- more -->
