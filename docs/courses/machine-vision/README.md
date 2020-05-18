@@ -1,5 +1,6 @@
 ---
-sidebar: false
+# sidebar: false
+sidebar: auto
 
 tags:
   - Computer Vision

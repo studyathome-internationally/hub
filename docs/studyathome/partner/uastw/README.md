@@ -7,7 +7,7 @@ international-office:
 # UAS Technikum Wien
 
 ::: full-width-image
-![UAS Technikum Wien Main Entrance at Night](assets/img/partner/uastw/uastw-at-night.jpg "UAS Technikum Wien (UAS TW) - Main Entrance")
+<img :src="$withBase('/assets/img/partner/uastw/uastw-at-night.jpg')" alt="UAS Technikum Wien Main Entrance at Night" title="UAS Technikum Wien (UAS TW) - Main Entrance">
 :::
 
 [UAS Technikum Wien](https://www.technikum-wien.at/en/) was founded in 1994 and is Austria’s only University of Applied Sciences focused solely on technical subjects.
@@ -26,9 +26,9 @@ There are a number of specialist laboratories (e.g., photonics lab, simulation o
 Collaboration and regular contact with businesses give students and graduates of UAS Technikum Wien the very best career opportunities.
 
 ::: image-triplet
-![A student with smart goggles interacting with a manufacturing robot.](assets/img/partner/uastw/digital-factory-2.jpg "UAS Technikum Wien (UAS TW) - Digital Factory")
-![A student with a robotic arm exoskeleton at an arm wrestling match against a robotic arm.](assets/img/partner/uastw/digital-factory-3.jpg "UAS Technikum Wien (UAS TW) - Digital Factory")
-![Students sitting in a classroom of the University of Applied Science Technikum Wien.](assets/img/partner/uastw/classroom.jpg "UAS Technikum Wien (UAS TW) - Classroom")
+<img :src="$withBase('/assets/img/partner/uastw/digital-factory-2.jpg')" alt="A student with smart goggles interacting with a manufacturing robot." title="UAS Technikum Wien (UAS TW) - Digital Factory">
+<img :src="$withBase('/assets/img/partner/uastw/digital-factory-3.jpg')" alt="A student with a robotic arm exoskeleton at an arm wrestling match against a robotic arm." title="UAS Technikum Wien (UAS TW) - Digital Factory">
+<img :src="$withBase('/assets/img/partner/uastw/classroom.jpg')" alt="Students sitting in a classroom of the University of Applied Science Technikum Wien." title="UAS Technikum Wien (UAS TW) - Classroom">
 :::
 
 <Youtube id="xBFLoPRD6rE"/>

@@ -1,37 +1,30 @@
 ---
 sidebar: false
-email: lenka.lhotska@cvut.cz
+layout: Lecturer
+contact:
+  mail: lenka.lhotska@cvut.cz
+  linkedin: https://ch.linkedin.com/in/lenka-lhotsk%C3%A1-6949156
+  reasearchgate: https://www.researchgate.net/profile/Lenka_Lhotska
+  orcid:
+    href: https://orcid.org/0000-0003-0742-5645
+    label: Orcid
+    icon: fab-orcid
+experience:
+  - Biomedical engineering
+  - Signal Processing
+  - Pattern Recognition
+  - Feature Extraction
+  - Machine Learning
+position:
+  href: https://usermap.cvut.cz/profile/5d436153-da61-4103-a2c5-95080f63c84b
+  role: Head
+  department: Department of Cognitive Systems and Neurosciences
+portrait: /assets/img/partner/ctu/lecturer/lenka-lhotska.png
 ---
 
 # Lenka Lhotská
 
 *[Ph.D.]: Philosophiae Doctor
-
-
-![Portrait of Lenka Lhotská](assets/img/partner/ctu/lecturer/lenka-lhotska.png "Portrait of Lenka Lhotská")
-
-::: tip Contact
-
-- :fas-envelope: [lenka.lhotska@cvut.cz](mailto:lenka.lhotska@cvut.cz)
-- :fab-linkedin: [LinkdedIn](https://ch.linkedin.com/in/lenka-lhotsk%C3%A1-6949156)
-- :fab-researchgate: [Researchgate](https://www.researchgate.net/profile/Lenka_Lhotska)
-- :fab-orcid: [Orcid](https://orcid.org/0000-0003-0742-5645)
-
-:::
-
-::: tip Expertise
-
-- Biomedical engineering
-- Signal Processing
-- Pattern Recognition
-- Feature Extraction
-- Machine Learning
-
-:::
-
-::: tip Position
-[Head / Department of Cognitive Systems and Neurosciences / Czech Institute of Informatics, Robotics and Cybernetics](https://usermap.cvut.cz/profile/5d436153-da61-4103-a2c5-95080f63c84b)
-:::
 
 Lenka Lhotská, Ph.D., CEng, MIET, MIEEE, graduated as Master of Science in Electrical Engineering at the Czech Technical University in Prague (CVUT), Czech Republic.
 In 1989 she got her Ph.D. degree in Cybernetics from CVUT.

@@ -1,31 +1,26 @@
 ---
 sidebar: false
-email: ivica.dimitrovski@finki.ukim.mk
+layout: Lecturer
+contact:
+  mail: ivica.dimitrovski@finki.ukim.mk
+  linkedin: https://www.linkedin.com/in/ivica-dimitrovski-98830586/
+  reasearchgate: https://www.researchgate.net/institution/Ss_Cyril_and_Methodius_University
+  github:
+    href: https://www.github.com/test/
+    label: GitHub
+    icon: fab-github
+experience:
+  - Image Processing
+  - Computer Vision
+  - Machine Learning
+position:
+  href: https://www.finki.ukim.mk/staff/ivica-dimitrovski
+  role: Associate Professor
+  department: Faculty of Computer Science and Engineering
+portrait: /assets/img/partner/ukim/lecturer/ivica-dimitrovski.png
 ---
 
 # Ivica Dimitrovski
-
-![Portrait of Ivica Dimitrovski](assets/img/partner/ukim/lecturer/ivica-dimitrovski.png "Portrait of Ivica Dimitrovski")
-
-::: tip Contact
-
-- :fas-envelope: [ivica.dimitrovski@finki.ukim.mk](mailto:ivica.dimitrovski@finki.ukim.mk)
-- :fab-linkedin: [LinkdedIn](https://www.linkedin.com/in/ivica-dimitrovski-98830586/)
-- :fab-researchgate: [Researchgate](https://www.researchgate.net/institution/Ss_Cyril_and_Methodius_University)
-
-:::
-
-::: tip Expertise
-
-- Image Processing
-- Computer Vision
-- Machine Learning
-
-:::
-
-::: tip Position
-[Associate Professor / Faculty of Computer Science and Engineering / Ss. Cyril and Methodius University / Skopje](https://www.finki.ukim.mk/staff/ivica-dimitrovski)
-:::
 
 Ivica was born in 1981 in Kratovo, Macedonia.
 In 2000, he started his studies with the Faculty of Electrical Engineering and Information Technologies, Saints Cyril and Methodius University of Skopje.

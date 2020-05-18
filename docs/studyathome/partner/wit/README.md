@@ -7,7 +7,7 @@ international-office:
 # Waterford Institute of Technology
 
 ::: full-width-image
-![Image of illuminated WIT University Building](https://www.wit.ie/images/uploads/About_Pics/WIT_front.JPG "Waterford Institute of Technology (WIT)")
+<img :src="$withBase('/assets/img/partner/wit/wit-front.webp')" alt="Image of illuminated WIT University Building" title="Waterford Institute of Technology (WIT)">
 :::
 
 Waterford Institute of Technology (WIT) is a university-level institution in the South-East of Ireland with over 10,000 students and 1,000 staff.

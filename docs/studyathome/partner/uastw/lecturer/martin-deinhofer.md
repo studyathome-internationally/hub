@@ -1,37 +1,21 @@
 ---
 sidebar: false
-email: martin.deinhofer@technikum-wien.at
+layout: Lecturer
+contact:
+  mail: martin.deinhofer@technikum-wien.at
+  linkedin: https://www.linkedin.com/in/martin-deinhofer-4b585b4/
+  reasearchgate: https://www.researchgate.net/scientific-contributions/2084163077_Martin_Deinhofer
+experience:
+  - Software Development
+  - Assistive Technologies
+position:
+  href: https://embsys.technikum-wien.at/staff/deinhofer/index.php
+  role: Project Manager, Lecturer, Researcher, International Coordinator
+  department: Department of Electronic Based Systems
+portrait: /assets/img/partner/uastw/lecturer/martin-deinhofer.jpg
 ---
 
 # Martin Deinhofer
-
-![Portrait of Martin Deinhofer](assets/img/partner/uastw/lecturer/martin-deinhofer.jpg "Portrait of Martin Deinhofer")
-
-::: tip Contact
-
-- :fas-envelope: [martin.deinhofer@technikum-wien.at](mailto:martin.deinhofer@technikum-wien.at)
-- :fab-linkedin: [LinkdedIn](https://www.linkedin.com/in/martin-deinhofer-4b585b4/)
-- :fab-researchgate: [Researchgate](https://www.researchgate.net/scientific-contributions/2084163077_Martin_Deinhofer)
-- :fab-github: [GitHub](https://github.com/deinhofer)
-
-:::
-
-::: tip Expertise
-
-- Software Development
-- Computer Science
-- Embedded Systems
-- Computer Security and Reliability
-- Electrical Engineering
-- Web Development
-
-:::
-
-::: tip Position
-
-[Project Manager, Lecturer, Researcher, International Coordinator / Department of Electronic Based Systems](https://embsys.technikum-wien.at/staff/deinhofer/index.php)
-
-:::
 
 Martin was born in Amstetten 1978.
 After graduation at the HTL St. Pölten (Research Group Informatics) 1997, he worked in several companies as a software developer (Java, Linux) for network management systems and traffic control systems.

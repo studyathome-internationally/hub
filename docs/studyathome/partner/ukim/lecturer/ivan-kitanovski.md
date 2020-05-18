@@ -1,31 +1,22 @@
 ---
 sidebar: false
-email: ivan.kitanovski@finki.ukim.mk
+layout: Lecturer
+contact:
+  mail: ivan.kitanovski@finki.ukim.mk
+  linkedin: https://www.linkedin.com/in/ivan-kitanovski/
+  reasearchgate: https://www.researchgate.net/profile/Ivan_Kitanovski
+experience:
+  - Information Science
+  - Natural Language Processing
+  - Information Extraction
+position:
+  href: https://www.finki.ukim.mk/en/staff/ivan-kitanovski
+  role: Assistent Professor
+  department: Faculty of Computer Science and Engineering
+portrait: /assets/img/partner/ukim/lecturer/ivan-kitanovski.jpg
 ---
 
 # Ivan Kitanovski
-
-![Portrait of Ivan Kitanovski](assets/img/partner/ukim/lecturer/ivan-kitanovski.jpg "Portrait of Ivan Kitanovski")
-
-::: tip Contact
-
-- :fas-envelope: [ivan.kitanovski@finki.ukim.mk](mailto:ivan.kitanovski@finki.ukim.mk)
-- :fab-linkedin: [LinkdedIn](https://www.linkedin.com/in/ivan-kitanovski/)
-- :fab-researchgate: [Researchgate](https://www.researchgate.net/profile/Ivan_Kitanovski)
-
-:::
-
-::: tip Expertise
-
-- Information Science
-- Natural Language Processing
-- Information Extraction
-
-:::
-
-::: tip Position
-[Assistent Professor / Faculty of Computer Science and Engineering](https://www.finki.ukim.mk/en/staff/ivan-kitanovski)
-:::
 
 Ivan was born on 18.09.1986 in Bitola.
 In 2005 he enrolled on Faculty of Electrical Engineering and Information Technologies, on the module Information and Computer Engineering.

@@ -7,7 +7,7 @@ international-office:
 # Czech Technical University Prague
 
 ::: full-width-image
-![Yound students illustrating the letters of CTU by according body postures](https://www.cvut.cz/sites/default/files/content/2603a70a-6d3f-4ccc-8fc7-005fcd6c90a6/e73602fb-9f40-4cd7-ad34-da1fedf1c813.jpg "Czech Technical University in Prague (CTU)")
+<img :src="$withBase('/assets/img/partner/ctu/people.jpg')" alt="Yound students illustrating the letters of CTU by according body postures" title="Czech Technical University in Prague (CTU)">
 :::
 
 The Czech Technical University in Prague (CTU) is one of the biggest and oldest technical universities in Europe.

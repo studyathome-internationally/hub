@@ -1,27 +1,25 @@
 ---
 sidebar: false
-email: suzana.loshkovska@finki.ukim.mk
+layout: Lecturer
+contact:
+  mail: suzana.loshkovska@finki.ukim.mk
+  linkedin: http://videolectures.net/suzana_loshkovska/
+  reasearchgate: https://www.researchgate.net/institution/Ss_Cyril_and_Methodius_University
+  videolectures:
+    href: http://videolectures.net/suzana_loshkovska/
+    label: Videolectures.net
+    icon: fas-video
+experience:
+  - Software Engineering
+  - Experience 1
+position:
+  href: https://www.finki.ukim.mk/en/staff/suzana-loshkovska
+  role: Professor
+  department: Faculty of Computer Science and Engineering
+portrait: /assets/img/partner/ukim/lecturer/suzana-loshkovska.png
 ---
 
 # Suzana Loshkovska
-
-![Portrait of Suzana Loshkovka](assets/img/partner/ukim/lecturer/suzana-loshkovka.png "Portrait of Suzana Loshkovka")
-
-::: tip Contact
-
-- :fas-envelope: [suzana.loshkovska@finki.ukim.mk](mailto:suzana.loshkovska@finki.ukim.mk)
-- :fas-video: [Videolectures.net](http://videolectures.net/suzana_loshkovska/)
-- :fab-researchgate: [Researchgate](https://www.researchgate.net/institution/Ss_Cyril_and_Methodius_University)
-
-:::
-
-::: tip Expertise
-
-:::
-
-::: tip Position
-[Professor / Faculty of Computer Science and Engineering / Ss. Cyril and Methodius University / Skopje](https://www.finki.ukim.mk/en/staff/suzana-loshkovska)
-:::
 
 Suzana Loshkovska received the bachelor and master degrees in computer science and automation from the Faculty of Electrical Engineering, Skopje, in 1988 and 1992, respectively, and the Ph.D. from the Technical University of Wien, Wien, Austria in 1995.
 

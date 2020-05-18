@@ -42,4 +42,4 @@ The StudyATHome Internationally project is funded by the **City of Vienna, Depar
 
 The duration of the project is from Feb. 2018 to Jan. 2022.
 
-![Logo of City of Vienna](assets/img/logos/ma23_funded.png "Logo of the City of Vienna")
+<img :src="$withBase('/assets/img/logos/ma23_funded.png')" alt="Logo of City of Vienna" title="Logo of the City of Vienna">

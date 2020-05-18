@@ -43,7 +43,7 @@ university:
   program: =university program=
 ---
 
-# User interfaces design patterns
+# User interface design patterns
 
 ::: slot description
 [Lorem ipsum](https://loremipsum.de/) dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.

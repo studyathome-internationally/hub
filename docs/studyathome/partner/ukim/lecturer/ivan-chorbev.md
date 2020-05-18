@@ -1,35 +1,24 @@
 ---
 sidebar: false
-email: ivan.chorbev@finki.ukim.mk
+layout: Lecturer
+contact:
+  mail: ivan.chorbev@finki.ukim.mk
+  linkedin: https://www.linkedin.com/in/ivan-chorbev-7878823/
+  reasearchgate: https://www.researchgate.net/profile/Ivan_Chorbev
+experience:
+  - Artificial Intelligence
+  - Data Mining
+  - Software Engineering
+  - Optimzation
+  - E-Health
+position:
+  href: https://finki.ukim.mk/en/staff/ivan-chorbev
+  role: Dean, Professor
+  department: Faculty of Computer Science and Engineering
+portrait: /assets/img/partner/ukim/lecturer/ivan-chorbev.jpg
 ---
 
 # Ivan Chorbev
-
-![Portrait of Ivan Chorbev](assets/img/partner/ukim/lecturer/ivan-chorbev.jpg "Portrait of Ivan Chorbev")
-
-<!-- <img :src="$withBase('/assets/img/partner/ukim/lecturer/ivan-chorbev.jpg')" alt="Portrait of Ivan Chorbev" title="Portrait of Ivan Chorbev" /> -->
-
-::: tip Contact
-
-- :fas-envelope: [ivan.chorbev@finki.ukim.mk](mailto:ivan.chorbev@finki.ukim.mk)
-- :fab-linkedin: [LinkdedIn](https://www.linkedin.com/in/ivan-chorbev-7878823/)
-- :fab-researchgate: [Researchgate](https://www.researchgate.net/profile/Ivan_Chorbev)
-
-:::
-
-::: tip Expertise
-
-- Artificial Intelligence
-- Data Mining
-- Software Engineering
-- Optimzation
-- E-Health
-
-:::
-
-::: tip Position
-[Dean, Professor / Faculty of Computer Science and Engineering](https://finki.ukim.mk/en/staff/ivan-chorbev)
-:::
 
 Ivan was born in 1980 in Ohrid.
 He earned his bachelor and master degrees at the Faculty of Electrical Engineering in Skopje in 2004 and 2006.
