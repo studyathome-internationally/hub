@@ -7,7 +7,7 @@ tags:
   - Bio-Medical
   - Statistics
 
-state: true
+state: false
 
 semester: Summer
 license: =license=
