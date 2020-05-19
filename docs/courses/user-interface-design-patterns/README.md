@@ -29,8 +29,8 @@ media:
     alt: Diagram of the User centered design process
 
 schedule:
-  start: 15.06.2021
-  end: 16.06.2021
+  start: 01.10.2020
+  end: 15.01.2021
   duration: =course duration=
 
 lecturers:
@@ -89,14 +89,16 @@ Upon completion of the course, the student is expected to
 
 ### Methods
 
-Lectures using presentations, interactive lectures, exercises (using equipment and software packages), teamwork, case studies, invited guest lecturers, independent preparation and defense of a project assignment and a seminar work.
+Lectures as online presentations (video conferences), lab exercises (assignments), teamwork, case studies, invited guest lecturers, self-study.  
+
+The lectures will be held weekly with several groups (dates) offered.
 
 | Type                       | Effort \[h\] |
 | :------------------------- | :----------- |
 | Lectures                   | 30           |
-| Exercises                  | 45           |
-| Project Tasks              | 15           |
-| Home Learning              | 60           |
+| Lab Exercises (Assignments)                 | 40           |
+| Colloquiums                | 50           |
+| Self-Study              | 30           |
 
 ### Materials
 
@@ -108,30 +110,49 @@ Lectures using presentations, interactive lectures, exercises (using equipment a
 
 ## Assessment
 
+The assessment consists of several elements like lab exercises (assignments), quizzes (related to the online lectures) and 2 colloquiums. If a student does not collect enough points he/she will have to do an additional practical exam.
+
+Students of StudyATHome Internationally are advised to do both colloquiums for being able to finish the course within the semester (end of January).
+
 ### Methods
 
 | Type                  | Points |
 | :-------------------- | :------------- |
-| Lab exercises         | x points      |
-| Quizzes |xx points      |
-| Colloquium 1            | x points      |
-| Colloquium 2            | x points      |
+| Lab exercises (Assignments)        | 5 points      |
+| Quizzes |15 points      |
+| Colloquium 1            | 40 points      |
+| Colloquium 2            | 40 points      |
 
 ### Minimum Requirements
 
-The course is passed if at least 50% of the points (101 points) are collected from all activities (practical exam, laboratory exercises and theoretical tests) no matter how many points are collected from each of the activities.
+The course is passed if at least 50% of the points are collected from all assessments, no matter how many points are collected from each of them.
 
-### Laboratory exercises
+### Lab exercises (Assignments)
 
-Each student should solve and upload tasks within the given deadline. We count all timely uploaded solutions. To obtain points for this part, each student has to take an exam that consists of one of already assigned tasks. The exam can be taken ONLY ONCE during the January examination period. The total number of points is calculated by scaling the number of points earned on the test with the number of timely uploaded solution. The maximum number of points is won only if all exercises are uploaded on time. If the student does not take the laboratory test, he will obtain 0 points of the same.
+The students will have to do graded lab exercises (assignments) that have to be solved at home and uploaded until a given deadline.
 
-### Quizzes for theory
+We count all timely uploaded solutions. To obtain points, each student has to take an exam that is related to the uploaded solution.
+The exam can only be taken once during the January examination period.
 
-These tests consist of short questions related to details of the lectures. Quizzes are taken on Moodle along with colloquiums (two separate quizzes with the first and second colloquium) or the practical exam (single quiz together with the practical exam in examination period). 
+The total number of points is calculated by scaling the number of points earned on the exam with the number of timely uploaded solutions. The maximum number of points is won only if all lab exercises are uploaded on time. If the student does not take the lab exam, he will obtain 0 points of the same.
 
-### Colloquiums (recommended)
+### Colloquiums (1 & 2)
 
-Colloquiums consist of a practical problem. You need to solve the problem by programming (if the solution is correct you can obtain the maximum number of points defined for the task) or by drawing the screen layout (if the solution is correct you can obtain only a part of the points defined for the tasks). No minimum points for passing the colloquium are defined (You can participate in the second colloquium even if you obtain zero points on the first colloquium). 
+Colloquiums consist of a practical problem. You need to solve the problem by programming (100% of points) or by drawing the screen layout (not all points).
+
+No minimum points for passing the colloquium are defined (You can participate in the second colloquium even if you obtain zero points on the first colloquium).
+
+### Quizzes
+
+The quizzes are short tests related to details of the lectures.
+
+Quizzes are taken on Moodle along with colloquiums (two separate quizzes with the first and second colloquium) or the practical exam (single quiz together with the practical exam in examination period).
+
+### Practical Exam
+
+The practical exam is mandatory only, **if** the student failed to collect **at least 50%** of the points of the colloquia.
+
+You need to solve the problem by programming (100% of points) or by drawing the screen layout (not all points).
 
 ### Criteria
 
