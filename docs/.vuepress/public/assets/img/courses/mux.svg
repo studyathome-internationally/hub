@@ -1,0 +1,533 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:xhtml="http://www.w3.org/1999/xhtml"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="242.2382"
+   height="180.86563"
+   viewBox="-0.5 -0.5 215.24677 180.86555"
+   content="&lt;mxfile host=&quot;www.draw.io&quot; modified=&quot;2020-05-19T14:39:26.269Z&quot; agent=&quot;5.0 (X11)&quot; version=&quot;13.1.3&quot; etag=&quot;PLEhS5SXpvlkOBhPy8cP&quot; type=&quot;device&quot;&gt;&lt;diagram id=&quot;3oF5KAOhMWcKdPE_qS90&quot;&gt;xVVNc5swEP01XD0gHNdny+nHIb3k0GNGIFkoFogIEeP8+j4ZAWagM+0l9cxblqeVtHq7wlFKy+6bZXXxZLjQEYl5F6XHiJAk+ZLi4Zlrz+zIriekVTwETcSz+hCBjAPbKi6aWaAzRjtVz8ncVJXI3Yxj1prLPOxk9HzXmkmxIJ5zppfsL8Vd0bP7h3jivwsli2HnJA4jGcvP0pq2CvtFJD3dfv1wyYa1QnxTMG4ud1T6GKXUGuN6r+yo0F7bQbZ+3tc/jI55W1G5v5lA+gnvTLdiyPiWl7sOWvjj1CFMWCe6tQqwbAiPlykk48HQMMKUwtkrQsJC6TZMCb2yD6+XSXgyyFvciT6SLBRbjktPB4YTzrx+/nTl/DuNHQ4ZHOmdH3SgsNjILmQaKxljlLOmEDy8MK1kBT+HIMKCKFyJfI4J3MZZcx57jHimYLVfsuykv1sboSGvVejNjTZS5S+SOdFs3k71i8oRr1km9E9W3q4LiwhFijQHOCAAtB6VQAEo4BU4A5CBlkAFGAA1pm+ABRrAAS3wDlyADoC29ANgid/Im9wb7o3w5uSN9KbwRnnz6s3ZG+1N6U2VDKkfxhtDjTaQ51iZCgIcTqZy4cuQPIyKr7TgfauR9Vb7lF7aLnrpqe3+R5+wDOEsd5uy7cin6hwm7OY3eru80fuVIiTk34uA1+ljeRu7+0dKH38D&lt;/diagram&gt;&lt;/mxfile&gt;"
+   id="svg176"
+   sodipodi:docname="mux.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <metadata
+     id="metadata180">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1043"
+     id="namedview178"
+     showgrid="false"
+     fit-margin-top="10"
+     fit-margin-left="40"
+     fit-margin-right="39.7"
+     fit-margin-bottom="10"
+     inkscape:zoom="1.1683168"
+     inkscape:cx="116.03958"
+     inkscape:cy="209.45038"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg176"
+     viewbox-width="280" />
+  <defs
+     id="defs2" />
+  <g
+     id="g166"
+     transform="matrix(0.80432783,0,0,0.80432783,24.650518,8.6956677)"
+     style="stroke-width:1.24327421">
+    <path
+       d="m 16,11 h 170 l 5,5 v 170 l -5,5 H 16 l -5,-5 V 16 Z"
+       stroke-miterlimit="10"
+       pointer-events="all"
+       id="path4"
+       inkscape:connector-curvature="0"
+       style="fill:#ffffff;stroke:#000000;stroke-width:2.48654842;stroke-miterlimit:10" />
+    <g
+       font-size="12px"
+       id="g8"
+       style="font-size:12px;font-family:Arial, Helvetica;text-anchor:middle;fill:#000000;stroke-width:1.24327421">
+      <text
+         x="20.5"
+         y="35.5"
+         id="text6"
+         style="stroke-width:1.24327421">25</text>
+    </g>
+    <g
+       font-size="12px"
+       id="g12"
+       style="font-size:12px;font-family:Arial, Helvetica;text-anchor:middle;fill:#000000;stroke-width:1.24327421">
+      <text
+         x="180.5"
+         y="35.5"
+         id="text10"
+         style="stroke-width:1.24327421">16</text>
+    </g>
+    <g
+       font-size="12px"
+       id="g16"
+       style="font-size:12px;font-family:Arial, Helvetica;text-anchor:middle;fill:#000000;stroke-width:1.24327421">
+      <text
+         x="20.5"
+         y="55.5"
+         id="text14"
+         style="stroke-width:1.24327421">26</text>
+    </g>
+    <g
+       font-size="12px"
+       id="g20"
+       style="font-size:12px;font-family:Arial, Helvetica;text-anchor:middle;fill:#000000;stroke-width:1.24327421">
+      <text
+         x="180.5"
+         y="55.5"
+         id="text18"
+         style="stroke-width:1.24327421">15</text>
+    </g>
+    <g
+       font-size="12px"
+       id="g24"
+       style="font-size:12px;font-family:Arial, Helvetica;text-anchor:middle;fill:#000000;stroke-width:1.24327421">
+      <text
+         x="20.5"
+         y="75.5"
+         id="text22"
+         style="stroke-width:1.24327421">27</text>
+    </g>
+    <g
+       font-size="12px"
+       id="g28"
+       style="font-size:12px;font-family:Arial, Helvetica;text-anchor:middle;fill:#000000;stroke-width:1.24327421">
+      <text
+         x="180.5"
+         y="75.5"
+         id="text26"
+         style="stroke-width:1.24327421">14</text>
+    </g>
+    <g
+       font-size="12px"
+       id="g32"
+       style="font-size:12px;font-family:Arial, Helvetica;text-anchor:middle;fill:#000000;stroke-width:1.24327421">
+      <text
+         x="20.5"
+         y="95.5"
+         id="text30"
+         style="stroke-width:1.24327421">28</text>
+    </g>
+    <g
+       font-size="12px"
+       id="g36"
+       style="font-size:12px;font-family:Arial, Helvetica;text-anchor:middle;fill:#000000;stroke-width:1.24327421">
+      <text
+         x="180.5"
+         y="95.5"
+         id="text34"
+         style="stroke-width:1.24327421">13</text>
+    </g>
+    <g
+       font-size="12px"
+       id="g40"
+       style="font-size:12px;font-family:Arial, Helvetica;text-anchor:middle;fill:#000000;stroke-width:1.24327421">
+      <text
+         x="20.5"
+         y="115.5"
+         id="text38"
+         style="stroke-width:1.24327421">29</text>
+    </g>
+    <g
+       font-size="12px"
+       id="g44"
+       style="font-size:12px;font-family:Arial, Helvetica;text-anchor:middle;fill:#000000;stroke-width:1.24327421">
+      <text
+         x="180.5"
+         y="115.5"
+         id="text42"
+         style="stroke-width:1.24327421">12</text>
+    </g>
+    <g
+       font-size="12px"
+       id="g48"
+       style="font-size:12px;font-family:Arial, Helvetica;text-anchor:middle;fill:#000000;stroke-width:1.24327421">
+      <text
+         x="20.5"
+         y="135.5"
+         id="text46"
+         style="stroke-width:1.24327421">30</text>
+    </g>
+    <g
+       font-size="12px"
+       id="g52"
+       style="font-size:12px;font-family:Arial, Helvetica;text-anchor:middle;fill:#000000;stroke-width:1.24327421">
+      <text
+         x="180.5"
+         y="135.5"
+         id="text50"
+         style="stroke-width:1.24327421">11</text>
+    </g>
+    <g
+       font-size="12px"
+       id="g56"
+       style="font-size:12px;font-family:Arial, Helvetica;text-anchor:middle;fill:#000000;stroke-width:1.24327421">
+      <text
+         x="20.5"
+         y="155.5"
+         id="text54"
+         style="stroke-width:1.24327421">31</text>
+    </g>
+    <g
+       font-size="12px"
+       id="g60"
+       style="font-size:12px;font-family:Arial, Helvetica;text-anchor:middle;fill:#000000;stroke-width:1.24327421">
+      <text
+         x="180.5"
+         y="155.5"
+         id="text58"
+         style="stroke-width:1.24327421">10</text>
+    </g>
+    <g
+       font-size="12px"
+       id="g64"
+       style="font-size:12px;font-family:Arial, Helvetica;text-anchor:middle;fill:#000000;stroke-width:1.24327421">
+      <text
+         x="20.5"
+         y="175.5"
+         id="text62"
+         style="stroke-width:1.24327421">32</text>
+    </g>
+    <g
+       font-size="12px"
+       id="g68"
+       style="font-size:12px;font-family:Arial, Helvetica;text-anchor:middle;fill:#000000;stroke-width:1.24327421">
+      <text
+         x="180.5"
+         y="175.5"
+         id="text66"
+         style="stroke-width:1.24327421">9</text>
+    </g>
+    <g
+       font-size="12px"
+       id="g72"
+       style="font-size:12px;font-family:Arial, Helvetica;text-anchor:middle;fill:#000000;stroke-width:1.24327421">
+      <text
+         x="30.5"
+         y="185.5"
+         id="text70"
+         style="stroke-width:1.24327421">1</text>
+    </g>
+    <g
+       font-size="12px"
+       id="g76"
+       style="font-size:12px;font-family:Arial, Helvetica;text-anchor:middle;fill:#000000;stroke-width:1.24327421">
+      <text
+         x="30.5"
+         y="25.5"
+         id="text74"
+         style="stroke-width:1.24327421">24</text>
+    </g>
+    <g
+       font-size="12px"
+       id="g80"
+       style="font-size:12px;font-family:Arial, Helvetica;text-anchor:middle;fill:#000000;stroke-width:1.24327421">
+      <text
+         x="50.5"
+         y="185.5"
+         id="text78"
+         style="stroke-width:1.24327421">2</text>
+    </g>
+    <g
+       font-size="12px"
+       id="g84"
+       style="font-size:12px;font-family:Arial, Helvetica;text-anchor:middle;fill:#000000;stroke-width:1.24327421">
+      <text
+         x="50.5"
+         y="25.5"
+         id="text82"
+         style="stroke-width:1.24327421">23</text>
+    </g>
+    <g
+       font-size="12px"
+       id="g88"
+       style="font-size:12px;font-family:Arial, Helvetica;text-anchor:middle;fill:#000000;stroke-width:1.24327421">
+      <text
+         x="70.5"
+         y="185.5"
+         id="text86"
+         style="stroke-width:1.24327421">3</text>
+    </g>
+    <g
+       font-size="12px"
+       id="g92"
+       style="font-size:12px;font-family:Arial, Helvetica;text-anchor:middle;fill:#000000;stroke-width:1.24327421">
+      <text
+         x="70.5"
+         y="25.5"
+         id="text90"
+         style="stroke-width:1.24327421">22</text>
+    </g>
+    <g
+       font-size="12px"
+       id="g96"
+       style="font-size:12px;font-family:Arial, Helvetica;text-anchor:middle;fill:#000000;stroke-width:1.24327421">
+      <text
+         x="90.5"
+         y="185.5"
+         id="text94"
+         style="stroke-width:1.24327421">4</text>
+    </g>
+    <g
+       font-size="12px"
+       id="g100"
+       style="font-size:12px;font-family:Arial, Helvetica;text-anchor:middle;fill:#000000;stroke-width:1.24327421">
+      <text
+         x="90.5"
+         y="25.5"
+         id="text98"
+         style="stroke-width:1.24327421">21</text>
+    </g>
+    <g
+       font-size="12px"
+       id="g104"
+       style="font-size:12px;font-family:Arial, Helvetica;text-anchor:middle;fill:#000000;stroke-width:1.24327421">
+      <text
+         x="110.5"
+         y="185.5"
+         id="text102"
+         style="stroke-width:1.24327421">5</text>
+    </g>
+    <g
+       font-size="12px"
+       id="g108"
+       style="font-size:12px;font-family:Arial, Helvetica;text-anchor:middle;fill:#000000;stroke-width:1.24327421">
+      <text
+         x="110.5"
+         y="25.5"
+         id="text106"
+         style="stroke-width:1.24327421">20</text>
+    </g>
+    <g
+       font-size="12px"
+       id="g112"
+       style="font-size:12px;font-family:Arial, Helvetica;text-anchor:middle;fill:#000000;stroke-width:1.24327421">
+      <text
+         x="130.5"
+         y="185.5"
+         id="text110"
+         style="stroke-width:1.24327421">6</text>
+    </g>
+    <g
+       font-size="12px"
+       id="g116"
+       style="font-size:12px;font-family:Arial, Helvetica;text-anchor:middle;fill:#000000;stroke-width:1.24327421">
+      <text
+         x="130.5"
+         y="25.5"
+         id="text114"
+         style="stroke-width:1.24327421">19</text>
+    </g>
+    <g
+       font-size="12px"
+       id="g120"
+       style="font-size:12px;font-family:Arial, Helvetica;text-anchor:middle;fill:#000000;stroke-width:1.24327421">
+      <text
+         x="150.5"
+         y="185.5"
+         id="text118"
+         style="stroke-width:1.24327421">7</text>
+    </g>
+    <g
+       font-size="12px"
+       id="g124"
+       style="font-size:12px;font-family:Arial, Helvetica;text-anchor:middle;fill:#000000;stroke-width:1.24327421">
+      <text
+         x="150.5"
+         y="25.5"
+         id="text122"
+         style="stroke-width:1.24327421">18</text>
+    </g>
+    <g
+       font-size="12px"
+       id="g128"
+       style="font-size:12px;font-family:Arial, Helvetica;text-anchor:middle;fill:#000000;stroke-width:1.24327421">
+      <text
+         x="170.5"
+         y="185.5"
+         id="text126"
+         style="stroke-width:1.24327421">8</text>
+    </g>
+    <g
+       font-size="12px"
+       id="g132"
+       style="font-size:12px;font-family:Arial, Helvetica;text-anchor:middle;fill:#000000;stroke-width:1.24327421">
+      <text
+         x="170.5"
+         y="25.5"
+         id="text130"
+         style="stroke-width:1.24327421">17</text>
+    </g>
+    <path
+       d="m 1,31 h 10 m 180,0 h 10 M 1,51 h 10 m 180,0 h 10 M 1,71 h 10 m 180,0 h 10 M 1,91 h 10 m 180,0 h 10 M 1,111 h 10 m 180,0 h 10 M 1,131 h 10 m 180,0 h 10 M 1,151 h 10 m 180,0 h 10 M 1,171 h 10 m 180,0 h 10 M 31,1 v 10 m 0,180 v 10 M 51,1 v 10 m 0,180 v 10 M 71,1 v 10 m 0,180 v 10 M 91,1 v 10 m 0,180 v 10 M 111,1 v 10 m 0,180 v 10 M 131,1 v 10 m 0,180 v 10 M 151,1 v 10 m 0,180 v 10 M 171,1 v 10 m 0,180 v 10"
+       stroke-miterlimit="10"
+       pointer-events="all"
+       id="path134"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:2.48654842;stroke-miterlimit:10" />
+    <circle
+       cx="21"
+       cy="181"
+       pointer-events="all"
+       id="ellipse136"
+       r="5"
+       style="fill:#000000;stroke:#000000;stroke-width:2.48654842" />
+    <g
+       transform="translate(-0.5,-0.5)"
+       id="g142"
+       style="stroke-width:1.24327421">
+      <switch
+         id="switch140"
+         style="stroke-width:1.24327421">
+        <foreignObject
+           style="overflow: visible; text-align: left;"
+           pointer-events="none"
+           width="100%"
+           height="100%"
+           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <xhtml:div
+             style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 101px; margin-left: 101px;">
+            <xhtml:div
+               style="box-sizing: border-box; font-size: 0; text-align: center; ">
+              <xhtml:div
+                 style="display: inline-block; font-size: 15px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; white-space: nowrap; ">
+                <xhtml:b>IC</xhtml:b>
+              </xhtml:div>
+            </xhtml:div>
+          </xhtml:div>
+        </foreignObject>
+        <text
+           x="101"
+           y="106"
+           font-size="15px"
+           id="text138"
+           style="font-size:15px;font-family:Helvetica;text-anchor:middle;fill:#000000;stroke-width:1.24327421">IC</text>
+      </switch>
+    </g>
+    <path
+       d="m 71,41 60,12 v 86 l -60,12 z"
+       stroke-miterlimit="10"
+       pointer-events="all"
+       id="path144"
+       inkscape:connector-curvature="0"
+       style="fill:#ffffff;stroke:#000000;stroke-width:2.48654842;stroke-miterlimit:10" />
+    <g
+       font-size="7.5px"
+       id="g148"
+       style="font-size:7.5px;font-family:Arial, Helvetica;text-anchor:middle;fill:#000000;stroke-width:1.24327421">
+      <text
+         x="74.5"
+         y="73.25"
+         id="text146"
+         style="stroke-width:1.24327421">0</text>
+    </g>
+    <g
+       font-size="7.5px"
+       id="g152"
+       style="font-size:7.5px;font-family:Arial, Helvetica;text-anchor:middle;fill:#000000;stroke-width:1.24327421">
+      <text
+         x="74.5"
+         y="125.25"
+         id="text150"
+         style="stroke-width:1.24327421">1</text>
+    </g>
+    <g
+       font-size="7.5px"
+       id="g156"
+       style="font-size:7.5px;font-family:Arial, Helvetica;text-anchor:middle;fill:#000000;stroke-width:1.24327421">
+      <text
+         x="105.5"
+         y="159.25"
+         id="text154"
+         style="stroke-width:1.24327421">S0</text>
+    </g>
+    <path
+       d="m 61,70 h 10 m -10,52 h 10 m 60,-26 h 10 m -40,49 v 16"
+       stroke-miterlimit="10"
+       pointer-events="all"
+       id="path158"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:2.48654842;stroke-miterlimit:10" />
+    <g
+       transform="translate(-0.5,-0.5)"
+       id="g164"
+       style="stroke-width:1.24327421">
+      <switch
+         id="switch162"
+         style="stroke-width:1.24327421">
+        <foreignObject
+           style="overflow: visible; text-align: left;"
+           pointer-events="none"
+           width="100%"
+           height="100%"
+           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <xhtml:div
+             style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 101px; margin-left: 101px;">
+            <xhtml:div
+               style="box-sizing: border-box; font-size: 0; text-align: center; ">
+              <xhtml:div
+                 style="display: inline-block; font-size: 15px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; white-space: nowrap; ">Mux</xhtml:div>
+            </xhtml:div>
+          </xhtml:div>
+        </foreignObject>
+        <text
+           x="101"
+           y="106"
+           font-size="15px"
+           id="text160"
+           style="font-size:15px;font-family:Helvetica;text-anchor:middle;fill:#000000;stroke-width:1.24327421">Mux</text>
+      </switch>
+    </g>
+  </g>
+  <switch
+     id="switch174"
+     transform="matrix(0.80432783,0,0,0.80432783,24.650518,8.6956677)"
+     style="stroke-width:1.24327421">
+    <g
+       requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+       id="g168"
+       style="stroke-width:1.24327421" />
+    <a
+       transform="translate(0,-5)"
+       xlink:href="https://desk.draw.io/support/solutions/articles/16000042487"
+       target="_blank"
+       id="a172"
+       style="stroke-width:1.24327421">
+      <text
+         font-size="10px"
+         x="50%"
+         y="100%"
+         id="text170"
+         style="font-size:10px;text-anchor:middle;stroke-width:1.24327421">Viewer does not support full SVG 1.1</text>
+    </a>
+  </switch>
+</svg>

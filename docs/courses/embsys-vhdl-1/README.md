@@ -23,10 +23,9 @@ language:
   - English
 
 media:
-  main:
-    src: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Mux-Symbol_DIN40900.svg/170px-Mux-Symbol_DIN40900.svg.png
-    # src: /assets/img/courses/VHDL1Cover.png
-    alt: Symbol of a block element.
+  main:    
+    src: /assets/img/courses/mux.svg
+    alt: Symbol of an adder block element.
 
 schedule:
   # CW45 2020
@@ -44,14 +43,21 @@ university:
   program: Electronics and Business
 ---
 
-# Specialization Embedded Systems (VHDL Part I)
+# Embedded Systems: VHDL I
 
 ::: slot description
-[Lorem ipsum](https://loremipsum.de/) dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
-At vero eos et accusam et justo duo dolores et ea rebum.
-Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
-At vero eos et accusam et.
+## What is VHDL?
+
+VHDL is a **H**ardware **D**escription **L**anguage to design digital circuits (e.g. NOT, AND, ...) for a [Field Programmable Gate Array (FPGA)](https://www.xilinx.com/products/silicon-devices/fpga/what-is-an-fpga.html).
+
+## Why do we need it?
+
+Imagine a designer that can place and route one transistor per minute, therefore he/she would need over 13000 years for the [NVIDIA Kepler GK110](https://www.nvidia.com/content/dam/en-zz/Solutions/Data-Center/tesla-product-literature/NVIDIA-Kepler-GK110-GK210-Architecture-Whitepaper.pdf) (7.1 billion transistors).
+
+By using a hardware description language the design synthesis (translate HDL to logic gates) can be automated.
+This might result in a speed-up to a total work time (non-stop!) of 1.3 years workload.
+
+This course is an introduction to the topic including exercises to design simple logic gates in VHDL.
 :::
 
 ## Overview
@@ -63,7 +69,7 @@ At vero eos et accusam et.
 * Bild unter /assets/... wird bei base="/hub-public/" nicht angezeigt
  -->
 
-![8 Bit Adder block element](./img/vhdl-adder.png)
+<!-- ![8 Bit Adder block element](./img/vhdl-adder.png) -->
 
 - VHDL Basics
 - Combinational Logic
@@ -95,7 +101,7 @@ They students will have to do several assignments using the [Modelsim FPGA simul
 
 Write an 8 Bit Adder element in VHDL.
 
-![8 Bit Adder block element](./img/vhdl-adder.png)
+![8 Bit Adder block element](./img/vhdl-adder.png =300x)
 
 ### Final Exam
 
