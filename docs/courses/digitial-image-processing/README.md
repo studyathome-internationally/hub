@@ -37,7 +37,8 @@ schedule:
 
 lecturers:
   - /studyathome/partner/ukim/lecturer/ivica-dimitrovski.html
-  - /studyathome/partner/ukim/lecturer/andrea-kulakov.html
+  # we will have to check first, if kulakov is also a lecturer of the course and wants to be listed.
+  # - /studyathome/partner/ukim/lecturer/andrea-kulakov.html
 
 university:
   page: /studyathome/partner/ukim/
