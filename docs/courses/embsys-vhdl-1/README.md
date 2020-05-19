@@ -25,7 +25,7 @@ language:
 media:
   main:    
     src: /assets/img/courses/mux.svg
-    alt: Symbol of an adder block element.
+    alt: Symbol of a mux block element.
 
 schedule:
   # CW45 2020
