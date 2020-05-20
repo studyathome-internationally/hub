@@ -6,7 +6,7 @@ tags:
   - Computer Vision
   - Image Processing
 
-# state: false
+layout: NotFound
 state: false
 
 semester: Winter

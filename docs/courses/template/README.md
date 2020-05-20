@@ -1,5 +1,4 @@
 ---
-layout: NotFound
 # sidebar: false
 sidebar: auto
 
@@ -7,6 +6,7 @@ tags:
   - =tag=
   - Template
 
+layout: NotFound
 state: false
 
 semester: =Summer|Winter=

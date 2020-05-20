@@ -6,7 +6,7 @@ tags:
   - Animation
   - Rendering
 
-# state: false
+layout: NotFound
 state: false
 
 semester: Summer

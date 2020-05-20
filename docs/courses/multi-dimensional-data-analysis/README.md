@@ -7,6 +7,7 @@ tags:
   - Bio-Medical
   - Statistics
 
+layout: NotFound
 state: false
 
 semester: Summer

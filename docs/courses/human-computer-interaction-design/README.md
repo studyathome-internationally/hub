@@ -6,7 +6,7 @@ tags:
   - User Interface
   - Interaction Design
 
-# state: false
+layout: NotFound
 state: false
 
 semester: Summer

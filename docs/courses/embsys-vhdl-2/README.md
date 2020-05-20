@@ -7,7 +7,7 @@ tags:
   - FPGA
   - Embedded Systems
 
-# state: false
+layout: NotFound
 state: false
 
 semester: Summer

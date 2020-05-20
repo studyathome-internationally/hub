@@ -6,6 +6,7 @@ tags:
   - Assistive Technologies
   - Smart Homes
 
+layout: NotFound
 state: false
 
 semester: Summer
