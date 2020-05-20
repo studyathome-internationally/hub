@@ -31,7 +31,7 @@ media:
     alt: Picture of a female face (left side) and matrix data (right side)
 
 schedule:
-  start: 15.06.2021
+  start: 15.02.2021
   end: 16.06.2021
   duration: =course duration=
 
@@ -49,12 +49,7 @@ university:
 # Digital Image Processing
 
 ::: slot description
-The basics of digital image processing.
-[Lorem ipsum](https://loremipsum.de/) dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
-At vero eos et accusam et justo duo dolores et ea rebum.
-Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
-At vero eos et accusam et.
+The course contains basiscs of digital image processing.
 :::
 
 ## Overview
@@ -129,10 +124,6 @@ Lectures using presentations, interactive lectures, exercises (using equipment a
 #### Final Exam
 
 <!-- The final exam will be ... -->
-
-::: post-it
-Project; Final Exam
-:::
 
 ### Methods
 

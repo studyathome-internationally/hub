@@ -34,7 +34,7 @@ media:
     src: https://www.youtube.com/watch?v=72o9Tbmhtss
 
 schedule:
-  start: 15.06.2021
+  start: 04.01.2021
   end: 16.06.2021
   duration: =course duration=
 
