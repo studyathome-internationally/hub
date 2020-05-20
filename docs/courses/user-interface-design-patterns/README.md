@@ -129,10 +129,9 @@ The course is passed if at least 50% of the points are collected from all assess
 
 ### Lab exercises (Assignments)
 
-The students will have to do graded lab exercises (assignments) that have to be solved at home and uploaded until a given deadline.
+The students will have to do 5-7 lab exercises (assignments) that have to be solved at home and uploaded until a given deadline.
 
-We count all timely uploaded solutions. To obtain points, each student has to take an exam that is related to the uploaded solution.
-The exam can only be taken once during the January examination period.
+We count all timely uploaded solutions. To obtain points, each student has to take an exam that is related to the uploaded solutions. The student has to prove that he/she understands the solution and must be able to explain it. The exam can only be taken once during the January examination period.
 
 The total number of points is calculated by scaling the number of points earned on the exam with the number of timely uploaded solutions. The maximum number of points is won only if all lab exercises are uploaded on time. If the student does not take the lab exam, he will obtain 0 points of the same.
 
