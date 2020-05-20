@@ -49,7 +49,7 @@ university:
 
 # IoT-Standards-Protocols
 
-::: slot description
+::: slot information
 The _Internet of Things_ (IoT) encompasses a broad range and scale of devices and applications.
 This module examines the protocols and standards used to interconnect the various devices and applications in the Internet of Things.
 :::

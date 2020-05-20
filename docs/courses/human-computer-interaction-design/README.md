@@ -47,7 +47,7 @@ university:
 
 # Human-computer Interaction Design
 
-::: slot description
+::: slot information
 The purpose of the course is to introduce the _basic principles_ for designing interactive computer systems to students.
 :::
 

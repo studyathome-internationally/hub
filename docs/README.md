@@ -17,15 +17,27 @@ The StudyATHome hub is a listing of eLearning courses hosted and operated by uni
 
 Students which are registered at any of the partner universities may enroll in one of the listed [courses](/courses/). They will have to do exercises, assignments and exams remotely and will get a grade certificate issued by the host university upon completion of the course. Finally, the students will get a grade certificate for recognition at the home university.
 
-::: centered-image
-![Workflow of eLearning Sharing: Select Course, Enroll Virtually, Study at Home, Get Credits](./e-learning-sharing/img/simple-workflow-all.svg "eLearning sharing Workflow Illustration" =400x)
+::: full-width-image
+
+![Workflow of eLearning Sharing: Select Course, Enroll Virtually, Study at Home, Get Credits](./e-learning-sharing/img/simple-workflow-all-line-arrows-studyat.svg "eLearning sharing Workflow Illustration" =400x)
+
+<!-- ![Workflow of eLearning Sharing: Select Course, Enroll Virtually, Study at Home, Get Credits](./e-learning-sharing/img/simple-workflow-all-line-arrows.svg "eLearning sharing Workflow Illustration" =400x) -->
+
+<!-- ![Workflow of eLearning Sharing: Select Course, Enroll Virtually, Study at Home, Get Credits](./e-learning-sharing/img/simple-workflow-all-line.svg "eLearning sharing Workflow Illustration" =400x) -->
+
 :::
+
+<!-- ::: centered-image -->
+<!-- ![Workflow of eLearning Sharing: Select Course, Enroll Virtually, Study at Home, Get Credits](./e-learning-sharing/img/simple-workflow-all-curved.svg "eLearning sharing Workflow Illustration" =400x) -->
+<!-- ![Workflow of eLearning Sharing: Select Course, Enroll Virtually, Study at Home, Get Credits](./e-learning-sharing/img/simple-workflow-all.svg "eLearning sharing Workflow Illustration" =400x) -->
+<!-- ::: -->
 
 Any questions? Check out the [eLearning sharing concept](/e-learning-sharing) and the [FAQs](/e-learning-sharing/faq.html).
 
 ## Courses
 
 Please select from the list of courses below.
+
 <!-- <Courses /> -->
 
 ### Winter Semester 2020

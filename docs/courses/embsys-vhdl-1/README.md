@@ -23,7 +23,7 @@ language:
   - English
 
 media:
-  main:    
+  main:
     src: /assets/img/courses/mux.svg
     alt: Symbol of a mux block element.
 
@@ -45,7 +45,8 @@ university:
 
 # Embedded Systems: VHDL I
 
-::: slot description
+::: slot information
+
 ## What is VHDL?
 
 VHDL is a **H**ardware **D**escription **L**anguage to design digital circuits (e.g. NOT, AND, ...) for a [Field Programmable Gate Array (FPGA)](https://www.xilinx.com/products/silicon-devices/fpga/what-is-an-fpga.html).
@@ -58,6 +59,7 @@ By using a hardware description language the design synthesis (translate HDL to 
 This might result in a speed-up to a total work time (non-stop!) of 1.3 years workload.
 
 This course is an introduction to the topic including exercises to design simple logic gates in VHDL.
+
 :::
 
 ## Overview

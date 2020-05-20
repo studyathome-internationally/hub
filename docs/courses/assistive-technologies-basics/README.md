@@ -51,19 +51,19 @@ This course is an introduction to Disability and Assistive Technologies. You wil
 
 ### Contents
 
-* Introduction
-* Anatomical and Physiological Background
-* Types of Disabilities
-* Basics in Communication and Rehabilitation Technologies
-* Basics in Augmentative and Alternative Communication Technologies (AAC)
-* Basics in Active Assisted Living (AAL)
-* Basics in Web Accessibility
-* Principles of Design for All
+- Introduction
+- Anatomical and Physiological Background
+- Types of Disabilities
+- Basics in Communication and Rehabilitation Technologies
+- Basics in Augmentative and Alternative Communication Technologies (AAC)
+- Basics in Active Assisted Living (AAL)
+- Basics in Web Accessibility
+- Principles of Design for All
 
 ### Outcomes
 
-Upon completion of the course, students will be able to 
-  
+Upon completion of the course, students will be able to
+
 - explain types of disabilities and their medical background
 - select Assistitve Technologies for certain use cases.
 - indicate methods of AAC and select appropriate apps.

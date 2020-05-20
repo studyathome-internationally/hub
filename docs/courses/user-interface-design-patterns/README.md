@@ -4,7 +4,7 @@ sidebar: auto
 
 tags:
   - UI Design
-  - User interfaces 
+  - User interfaces
   - User Interface Patterns
   - Usability
 
@@ -45,7 +45,7 @@ university:
 
 # User interface design patterns
 
-::: slot description
+::: slot information
 The purpose of the course is to introduce the basic problems of user interfaces and approaches of how to solve them for different types of user interfaces and user interactions.
 :::
 
@@ -53,31 +53,31 @@ The purpose of the course is to introduce the basic problems of user interfaces 
 
 ### Contents
 
-* Introduction
-* User behavior when working with interactive systems, patterns to describe user behavior
-* Information architecture
-* Interaction patterns
-* Content organization in interactive systems
-  * Organizational schemes
-  * Structure organization
-  * Patterns for organizing and displaying data
-* Navigation
-  * Problems and principles for good navigation
-  * Patterns in interactive systems
-* Screen organization
-    * Basic concepts
-    * Techniques for grouping and arranging elements
-     * Patterns for organizing screens
-* Forms and data entry
-  * Principles for designing forms
-  * Types of input data and controls
-  * Patterns for designing forms (relationships between elements, values of elements ...)
-* Actions and commands
-  * Representation and rendering of actions
-  * Commands patterns
-* Interaction with data lists
-* Interaction in social media
-* Interaction in mobile devices, features of the interaction in mobile devices, interaction patterns.
+- Introduction
+- User behavior when working with interactive systems, patterns to describe user behavior
+- Information architecture
+- Interaction patterns
+- Content organization in interactive systems
+  - Organizational schemes
+  - Structure organization
+  - Patterns for organizing and displaying data
+- Navigation
+  - Problems and principles for good navigation
+  - Patterns in interactive systems
+- Screen organization
+  - Basic concepts
+  - Techniques for grouping and arranging elements
+  - Patterns for organizing screens
+- Forms and data entry
+  - Principles for designing forms
+  - Types of input data and controls
+  - Patterns for designing forms (relationships between elements, values of elements ...)
+- Actions and commands
+  - Representation and rendering of actions
+  - Commands patterns
+- Interaction with data lists
+- Interaction in social media
+- Interaction in mobile devices, features of the interaction in mobile devices, interaction patterns.
 
 ### Outcomes
 
@@ -89,23 +89,23 @@ Upon completion of the course, the student is expected to
 
 ### Methods
 
-Lectures as online presentations (video conferences), lab exercises (assignments), teamwork, case studies, invited guest lecturers, self-study.  
+Lectures as online presentations (video conferences), lab exercises (assignments), teamwork, case studies, invited guest lecturers, self-study.
 
 The lectures will be held weekly with several groups (dates) offered.
 
-| Type                       | Effort \[h\] |
-| :------------------------- | :----------- |
-| Lectures                   | 30           |
-| Lab Exercises (Assignments)                 | 40           |
-| Colloquiums                | 50           |
-| Self-Study              | 30           |
+| Type                        | Effort \[h\] |
+| :-------------------------- | :----------- |
+| Lectures                    | 30           |
+| Lab Exercises (Assignments) | 40           |
+| Colloquiums                 | 50           |
+| Self-Study                  | 30           |
 
 ### Materials
 
-| Author                   | Title                                                                                        | Publisher      | Year |
-| :----------------------- | :------------------------------------------------------------------------------------------- | :------------- | :--- |
+| Author                   | Title                                                                                       | Publisher      | Year |
+| :----------------------- | :------------------------------------------------------------------------------------------ | :------------- | :--- |
 | Jenifer Tidwell          | Designing Interfaces, (2^nd edition)                                                        | O’Reilly Media | 2010 |
-| Bill Scott, Theresa Neil | Designing Web: Interfaces, Principles and Patterns for Rich Interactions                      | O’Reilly Media | 2009 |
+| Bill Scott, Theresa Neil | Designing Web: Interfaces, Principles and Patterns for Rich Interactions                    | O’Reilly Media | 2009 |
 | Jesse James Garrett      | The Elements of User Experience: User-Centered Design for the Web and Beyond (2^nd Edition) | New Riders     | 2010 |
 
 ## Assessment
@@ -116,12 +116,12 @@ Students of StudyATHome Internationally are advised to do both colloquiums for b
 
 ### Methods
 
-| Type                  | Points |
-| :-------------------- | :------------- |
-| Lab exercises (Assignments)        | 5 points      |
-| Quizzes |15 points      |
-| Colloquium 1            | 40 points      |
-| Colloquium 2            | 40 points      |
+| Type                        | Points    |
+| :-------------------------- | :-------- |
+| Lab exercises (Assignments) | 5 points  |
+| Quizzes                     | 15 points |
+| Colloquium 1                | 40 points |
+| Colloquium 2                | 40 points |
 
 ### Minimum Requirements
 
