@@ -1,7 +1,6 @@
 ---
 international-office:
-  - international-coordinator@ctu.cz
-  - international-office@ctu.cz
+  - kulhankova@fbmi.cvut.cz
 ---
 
 # Czech Technical University Prague

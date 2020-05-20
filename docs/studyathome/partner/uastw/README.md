@@ -1,7 +1,6 @@
 ---
 international-office:
-  - international-coordinator@technikum-wien.at
-  - international-office@technikum-wien.at
+  - incoming.students@technikum-wien.at
 ---
 
 # UAS Technikum Wien

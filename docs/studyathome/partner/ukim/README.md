@@ -1,7 +1,6 @@
 ---
 international-office:
-  - international-coordinator@ukim.at
-  - international-office@ukim.at
+  - suzana.loshkovska@finki.ukim.mk
 ---
 
 # Ss. Cyril and Methodius University Skopje

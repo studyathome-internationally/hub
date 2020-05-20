@@ -1,7 +1,6 @@
 ---
 international-office:
-  - international-coordinator@wit.at
-  - international-office@wit.at
+  - doconnell@wit.ie
 ---
 
 # Waterford Institute of Technology
