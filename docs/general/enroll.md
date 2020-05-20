@@ -18,7 +18,7 @@ enrollment:
        * University E-Mail: \n
        * Study Program: \n\n
     after: >
-      I confirm reading and understanding the privacy information (https://hub.studyathome.technikum-wien.at/studyathome/privacy.html) and consent the data processing.\n\n
+      I confirm reading and understanding the privacy information (https://hub.studyathome.technikum-wien.at/studyathome/privacy.html) and consent to processing of personal data.\n\n
       Kind regards,\n\n
 ---
 
@@ -88,7 +88,7 @@ You can revoke this consent at any time, but this will cancel your participation
 </Disclaimer>
 
 ::: slot confirmation
-I confirm reading and understanding the full [privacy information](/studyathome/privacy.md) text and consent the data processing.
+I confirm reading and understanding the full [privacy information](/studyathome/privacy.md) text and consent to processing of personal data.
 :::
 
 <EMail>Write E-Mail</EMail>
