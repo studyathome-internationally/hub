@@ -27,7 +27,7 @@ media:
     alt: User with motor impairment sitting in front of a computer.
 
 schedule:
-  start: 15.2.2019
+  start: 15.2.2021
   end: 15.6.2021
   duration: =course duration=
 
@@ -44,67 +44,31 @@ university:
 # Assistive Technologies Basics
 
 ::: slot description
-Introduction to Disability and Assistive Technologies.
-[Lorem ipsum](https://loremipsum.de/) dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
-At vero eos et accusam et justo duo dolores et ea rebum.
-Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
-At vero eos et accusam et.
+This course is an introduction to Disability and Assistive Technologies. You will learn types of disabilities and related medical basics. You will get to know the daily challenges of people with disabilities and how to face them with Assistive Technologies.
 :::
 
 ## Overview
 
-Introduction to Disability, Gap Theory, Physiological and Pathological Background...
-
 ### Contents
 
-1.  Introduction (Martin)
-    1. Definition
-    2. Gap Theory
-    3. Terms
-2.  Accessiblity: Was ist Barrierefreiheit? Wie kann diese erreicht werden?
-    1. Barrierefreie Umwelt
-       1. Web
-          1. Standards
-       2. Dokumente
-       3. Infrastruktur (Bauen)
-    2. Tools
-       1. Allgemein
-    3. Umgebungssteuerung
-3.  Basics of Anatomie/Physiologie allgemein? (Anmerkung Chris)
-4.  Sehbeeinträchtigt/Blind
-    1. Fallbeschreibung & Interview
-    2. Anatomie
-    3. Physiologie
-    4. Pathologie
-    5. Gesetze/Normen/Standards (Anmerkung Chris: vermutlich besser als eigenes Kapitel)
-    6. Technologien
-       1. Allgemein (Blindenstock, Braille)
-       2. IT Standards und Normen?
-       3. Web Accessibility
-       4. Accessible Documents
-       5. Bauen Standards und Normen?
-       6. Infrastruktur (Straßen, Bahnen, etc.) Standards und Normen?
-5.  Hörbeeinträchtigt/Gehörlos (Alija)
-6.  Motorisch
-7.  Kognitiv und Lernen (Alija)
-8.  Sprechen/Sprache
-    1. AAC
-9.  Altersbedingt
-    1. AAL
-10. Situationsbedingt
-    1. Universal Access (UA)+ähnliche
-11. Glossar
-    1. AAL
-    2. AAC
-    3. UA
-    4. AT
+* Introduction
+* Anatomical and Physiological Background
+* Types of Disabilities
+* Basics in Communication and Rehabilitation Technologies
+* Basics in Augmentative and Alternative Communication Technologies (AAC)
+* Basics in Active Assisted Living (AAL)
+* Basics in Web Accessibility
+* Principles of Design for All
 
 ### Outcomes
 
-- Outcome 1
-- Outcome 2
-- Outcome 3
+Upon completion of the course, students will be able to 
+  
+- explain types of disabilities and their medical background
+- select Assistitve Technologies for certain use cases.
+- indicate methods of AAC and select appropriate apps.
+- explain basics of of AAL
+- state the 4 principles of Web Accessibility
 
 ### Methods
 
@@ -150,17 +114,9 @@ Introduction to Disability, Gap Theory, Physiological and Pathological Backgroun
 
 ### Skills
 
-- Common Sense
-- Intermediate calculating skills
+- No prior skills
 
 ### Equipment
 
-::: post-it
-
-- AsTeRICS
-- Webcam, Selected HW (optionally)
-
-:::
-
-- Pencil(s)
-- Calculator
+- Computer
+- Webcam
