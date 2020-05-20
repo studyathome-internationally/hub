@@ -25,7 +25,7 @@ language:
 
 media:
   main:
-    src: https://i.stack.imgur.com/aexha.gif
+    src: /assets/img/courses/stock-photo-website-development-layout-sketch-drawing-617330408.jpg
     alt: Diagram of the User centered design process
 
 schedule:

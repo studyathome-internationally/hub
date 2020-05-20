@@ -25,7 +25,8 @@ language:
 
 media:
   main:
-    src: https://miro.medium.com/max/1400/1*rchGC6ySU1CEezcLEMJkzg.jpeg
+    # src: https://miro.medium.com/max/1400/1*rchGC6ySU1CEezcLEMJkzg.jpeg
+    src: /assets/img/courses/stock-photo-ai-artificial-intelligence-concept-691438969.jpg
     alt: Abstract image about Artificial Intelligence.
   description:
     src: https://www.youtube.com/watch?v=Pls_q2aQzHg
