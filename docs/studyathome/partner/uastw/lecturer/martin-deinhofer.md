@@ -3,15 +3,15 @@ sidebar: false
 layout: Lecturer
 contact:
   mail: martin.deinhofer@technikum-wien.at
-  linkedin: https://www.linkedin.com/in/martin-deinhofer-4b585b4/
-  reasearchgate: https://www.researchgate.net/scientific-contributions/2084163077_Martin_Deinhofer
+  # linkedin: https://www.linkedin.com/in/martin-deinhofer-4b585b4/
+  # reasearchgate: https://www.researchgate.net/scientific-contributions/2084163077_Martin_Deinhofer
 experience:
   - Software Development
   - Assistive Technologies
 position:
   href: https://embsys.technikum-wien.at/staff/deinhofer/index.php
   role: Project Manager, Lecturer, Researcher, International Coordinator
-  department: Department of Electronic Based Systems
+  department: Department Electronic Engineering
 portrait: /assets/img/partner/uastw/lecturer/martin-deinhofer.jpg
 ---
 
