@@ -31,7 +31,7 @@ The International Office will forward your application to the host university, w
 Please ensure to **apply before the application deadline**.
 
 ::: tip Application Deadline
-June, 15^th^ 2020
+June, 12^th^ 2020
 :::
 
 <CourseSelection path="/courses/" placeholder="-- Please choose a course --"/>
