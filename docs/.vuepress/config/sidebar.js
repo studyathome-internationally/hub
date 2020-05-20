@@ -14,9 +14,15 @@ module.exports = {
     },
   ],
   "/studyathome/partner/": [
-    ["wit/", "WIT"],
-    ["ctu/", "CTU"],
-    ["ukim/", "UKIM"],
-    ["uastw/", "UAS TW"],
+    {
+      title: "Partner Universities",
+      collapsable: false,
+      children: [
+        ["wit/", "WIT"],
+        ["ctu/", "CTU"],
+        ["ukim/", "UKIM"],
+        ["uastw/", "UAS TW"],
+      ],
+    },
   ],
 };
