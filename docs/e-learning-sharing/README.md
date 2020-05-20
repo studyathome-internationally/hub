@@ -13,7 +13,7 @@ Imagine each of the universities manages and hosts its own courses in a local in
 The universities would like to share some of the eLearning courses with other universities in a way that students from other universities can enroll into the shared course, participate at moderated sessions, do exercises and finally get graded by the foreign lecturer.
 The **StudyATHome Internationally hub** provides a central course listing, which is used to disseminate the shared courses and to make it easier for students to search for topics of interest and respective courses.
 In the example shown in the image, course A2 is hosted at university A and has 3 enrolled students from university A, 1 from University B, and 1 from University C.
-Course C1 has 3 students from University C and 1 from University B.
+Course C1 has 3 students from University B and 1 from University C.
 
 ::: full-width-image
 ![3 university pictures and 1 listing of courses in the center of the image](./img/elearning_course_sharing.svg "eLearning Sharing Concept Illustration")
