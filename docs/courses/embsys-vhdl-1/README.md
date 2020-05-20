@@ -46,20 +46,13 @@ university:
 # Embedded Systems: VHDL I
 
 ::: slot information
-
 ## What is VHDL?
 
-VHDL is a **H**ardware **D**escription **L**anguage to design digital circuits (e.g. NOT, AND, ...) for a [Field Programmable Gate Array (FPGA)](https://www.xilinx.com/products/silicon-devices/fpga/what-is-an-fpga.html).
+VHDL is a **H**ardware **D**escription **L**anguage to design digital circuits (NOT, AND, ...) for a [Field Programmable Gate Array (FPGA)](https://www.xilinx.com/products/silicon-devices/fpga/what-is-an-fpga.html).
 
-## Why do we need it?
-
-Imagine a designer that can place and route one transistor per minute, therefore he/she would need over 13000 years for the [NVIDIA Kepler GK110](https://www.nvidia.com/content/dam/en-zz/Solutions/Data-Center/tesla-product-literature/NVIDIA-Kepler-GK110-GK210-Architecture-Whitepaper.pdf) (7.1 billion transistors).
-
-By using a hardware description language the design synthesis (translate HDL to logic gates) can be automated.
-This might result in a speed-up to a total work time (non-stop!) of 1.3 years workload.
-
-This course is an introduction to the topic including exercises to design simple logic gates in VHDL.
-
+<!-- ## Why do we need it? -->
+Imagine a designer that can place and route one transistor per minute, therefore he/she would need over 13000 years for the [NVIDIA Kepler GK110](https://www.nvidia.com/content/dam/en-zz/Solutions/Data-Center/tesla-product-literature/NVIDIA-Kepler-GK110-GK210-Architecture-Whitepaper.pdf) (7.1 billion transistors). By using a hardware description language the design synthesis (translate HDL to logic gates) can be automated. By applying other advanced methods and spreading the workload to multiple engineers a new chip generation can be designed within one year.  
+This course is an introduction to the topic including exercises to design and simulate simple digital logic designs in VHDL.
 :::
 
 ## Overview
