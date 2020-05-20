@@ -19,7 +19,7 @@ experience:
 position:
   href: https://embsys.technikum-wien.at/staff/sabic/index.php
   role: Lecturer, Researcher
-  department: Department of Electronic Based Systems
+  department: Department Electronic Engineering
 portrait: /assets/img/partner/uastw/lecturer/alija-sabic.jpg
 ---
 
