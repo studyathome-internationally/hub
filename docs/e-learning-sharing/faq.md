@@ -11,7 +11,7 @@ On this page **F**requently **A**sked **Q**uestions about eLearning Sharing can 
 
 ### How can I enroll for a course?
 
-In order to enroll for a course, you must be registered as a regular student at the host university.
+In order to enroll for a course, you must apply to the International Office or International Coordinator at your home university specifying which partner university you would like to study with. The home university must nominate you first at the partner university hosting the course.
 
 You can enroll for a course by clicking the ```Enroll Now``` button on the details page of the course. Then you will get to the [enrollment page](../general/enroll.html) with further information.
 
@@ -29,11 +29,11 @@ No certification is required. English language proficiency is deemed acceptable 
 
 Yes. The actual number of assignments and exams is dependent on the course. You can find the information about grading at the respective details page of the course.
 
-### How does a typical exam look like?
+### What does a typical exam/assessment look like?
 
 This depends on the course and the lecturer. This can be for example an online multiple choice test or an oral exam using video conferencing.  
 
-### How does a typical assignment look like?
+### What does a typical assignment look like?
 
 An assignment is typically a graded exercise, where your result must be uploaded to the learning management system of the course. The lecturer might schedule a video conference to proof the authenticity of your result.
 
