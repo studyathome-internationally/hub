@@ -13,7 +13,7 @@ On this page **F**requently **A**sked **Q**uestions about eLearning Sharing can 
 
 In order to enroll for a course, you must apply to the International Office or International Coordinator at your home university specifying which partner university you would like to study with. The home university must nominate you first at the partner university hosting the course.
 
-You can enroll for a course by clicking the ```Enroll Now``` button on the details page of the course. Then you will get to the [enrollment page](../general/enroll.html) with further information.
+You can enroll for a course by clicking the ```Enroll Now``` button on the details page of the course. Then you will get to the [enrollment page](/courses/enroll/) with further information.
 
 ### The course starts before my semester start. Can I enroll nevertheless?
 
@@ -64,12 +64,12 @@ The host university will send a digital copy to the International Office of the 
 
 The grades are converted according to the following table:
 
-| Country         | A (excellent)                          | B (very good, with few errors)              | C (good, with some errors)                  | D (satisfactory, with many errors) | E (sufficient)  |
-|-----------------|----------------------------------------|---------------------------------------------|---------------------------------------------|------------------------------------|-----------------|
-| **Austria**         | 1 (Sehr gut)                           | 2 (Gut)                                     | 3 (Befriedigend)                            | 4 (Genügend)                       | 4 (Genügend)    |
-| **North Macedonia** | 10 (excellent)                         | 9 (very good)                               | 8 (good)                                    | 7 (satisfactory)                   | 6 (sufficient)  |
-| **Czech Republic**  | A (Výborně)                             | B (Velmi dobře)                              | C Dobře)                                    | D (Uspokojivě)                      | E (Dostatečně)   |
-| **Ireland**         | H1 - First Class Honours (70% or above) | H21 - Upper Second Class Honours (60% - 69%) | H22 - Lower Second Class Honours (50% - 59%) | Pass (45% - 49%)                    | Pass (40% - 44%) |
+| Country             | A (excellent)                           | B (very good, with few errors)               | C (good, with some errors)                   | D (satisfactory, with many errors) | E (sufficient)   |
+| ------------------- | --------------------------------------- | -------------------------------------------- | -------------------------------------------- | ---------------------------------- | ---------------- |
+| **Austria**         | 1 (Sehr gut)                            | 2 (Gut)                                      | 3 (Befriedigend)                             | 4 (Genügend)                       | 4 (Genügend)     |
+| **North Macedonia** | 10 (excellent)                          | 9 (very good)                                | 8 (good)                                     | 7 (satisfactory)                   | 6 (sufficient)   |
+| **Czech Republic**  | A (Výborně)                             | B (Velmi dobře)                              | C Dobře)                                     | D (Uspokojivě)                     | E (Dostatečně)   |
+| **Ireland**         | H1 - First Class Honours (70% or above) | H21 - Upper Second Class Honours (60% - 69%) | H22 - Lower Second Class Honours (50% - 59%) | Pass (45% - 49%)                   | Pass (40% - 44%) |
 
 ### What if the ECTS don't match?
 

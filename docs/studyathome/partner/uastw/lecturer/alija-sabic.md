@@ -3,7 +3,7 @@ sidebar: false
 layout: Lecturer
 contact:
   mail: alija.sabic@technikum-wien.at
-  linkedin: https://ch.linkedin.com/in/lenka-lhotsk%C3%A1-6949156
+  linkedin: https://www.linkedin.com/in/sabicalija/
   reasearchgate: https://www.researchgate.net/profile/Alija_Sabic
   github:
     href: https://github.com/sabicalija
