@@ -29,6 +29,14 @@ Yes. Just in case, you can ask your program lead or the responsible person at yo
 
 No certification is required. English language proficiency is deemed acceptable if the relevant coordinator of your International Office approves it.
 
+### Are the courses for free?
+
+Yes, the courses are free of charge.
+
+### How many participants will be accepted?
+
+The courses typically have a capacity of 5 participants.
+
 ## Grading
 
 ### Do I have to do an exam or assignments?
