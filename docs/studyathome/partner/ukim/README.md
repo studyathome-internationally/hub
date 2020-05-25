@@ -1,6 +1,7 @@
 ---
 international-office:
-  - suzana.loshkovska@finki.ukim.mk
+  - studyathome@technikum-wien.at
+  # - suzana.loshkovska@finki.ukim.mk
 ---
 
 # Ss. Cyril and Methodius University Skopje

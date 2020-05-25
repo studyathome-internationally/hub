@@ -2,7 +2,7 @@
 permalink: /courses/enroll/
 enrollment:
   cc:
-    - studyathome@technikum-wien.at
+    -
   bcc:
     -
   subject: Application / Course Enrollment (StudyATHome Internationally)
@@ -11,7 +11,7 @@ enrollment:
       Dear Sir or Madam,\n\n
       I would like to enroll to the course: '{{ title }}' at the university {{ university.name }}.\n\n
     form: >
-      Personal \n
+      Personal Data \n
        * Name:  \n
        * Surname (Family name):  \n
        * University Name: \n
@@ -24,10 +24,11 @@ enrollment:
 
 # Course Enrollment
 
-Please send an **email** with your **application** to the International Office of the home university by clicking _**Write E-Mail**_ below.
+Please send an **email** with your **application** by clicking _**Write E-Mail**_ below.
 
-The International Office will forward your application to the host university, which will decide about the acceptance within **two weeks**. You will get further information for registration and course enrollment, by email.
+Your application must be approved by the home university and will be forwarded to the host university, which will decide about the acceptance within **two weeks**. You will get further information for registration and course enrollment, by email.
 
+The course is free of charge but the capacity is limited to 5 participants. The applications are treated first come, first serve.
 Please ensure to **apply before the application deadline**.
 
 ::: tip Application Deadline
@@ -78,9 +79,8 @@ June, 12^th^ 2020
 <Disclaimer title="Privacy Disclaimer" open>
 
 **StudyATHome Internationally**  
-Your **application data** is processed by the International Office of the home university and will be forwarded to the International Office of the host university, by e-mail.
+Your **application data** is processed by the StudyATHome team (studyathome@technikum-wien.at) and must be approved by the home university. It will be forwarded to the International Office of the host university, by e-mail.
 
-A carbon copy (CC) will be sent to [studyathome\@technikum-wien.at](mailto:studyathome@technikum-wien.at).
 The data you provide will only be used to assist the application and grade recognition process. The data will not be passed on to third parties.
 
 You can revoke this consent at any time, but this will cancel your participation at the eLearning sharing program.

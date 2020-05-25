@@ -11,9 +11,15 @@ On this page **F**requently **A**sked **Q**uestions about eLearning Sharing can 
 
 ### How can I enroll for a course?
 
-In order to enroll for a course, you must apply to the International Office or International Coordinator at your home university specifying which partner university you would like to study with. The home university must nominate you first at the partner university hosting the course.
+In order to enroll for a course, you must send an application to the StudyATHome team. The application will be approved by the International Office of the home university and forwarded to the International Office of the host university, by e-mail.
 
-You can enroll for a course by clicking the ```Enroll Now``` button on the details page of the course. Then you will get to the [enrollment page](/courses/enroll/) with further information.
+You can enroll for a course by clicking the ```Enroll Now``` button on the details page of the course. Then you will get to the [enrollment page](/courses/enroll/). 
+At the enrollment page you will have to 
+
+1. Select the course
+2. Select the home university (your university)
+3. Consent to processing of personal data
+4. Click on ```Write E-Mail```
 
 ### The course starts before my semester start. Can I enroll nevertheless?
 

@@ -1,6 +1,7 @@
 ---
 international-office:
-  - incoming.students@technikum-wien.at
+  - studyathome@technikum-wien.at
+  # - incoming.students@technikum-wien.at
 ---
 
 # UAS Technikum Wien

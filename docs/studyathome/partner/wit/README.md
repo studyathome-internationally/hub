@@ -1,6 +1,7 @@
 ---
 international-office:
-  - doconnell@wit.ie
+  - studyathome@technikum-wien.at
+  # - doconnell@wit.ie
 ---
 
 # Waterford Institute of Technology

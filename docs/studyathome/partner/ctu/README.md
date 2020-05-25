@@ -1,6 +1,7 @@
 ---
 international-office:
-  - kulhankova@fbmi.cvut.cz
+  - studyathome@technikum-wien.at
+  # - kulhankova@fbmi.cvut.cz
 ---
 
 # Czech Technical University Prague
