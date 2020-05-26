@@ -1,6 +1,7 @@
 ---
 sidebar: false
-layout: Lecturer
+# layout: Lecturer
+layout: NotFound
 contact:
   mail: andrea.kulakov@finki.ukim.mk
   linkedin: https://www.linkedin.com/in/andreakulakov/

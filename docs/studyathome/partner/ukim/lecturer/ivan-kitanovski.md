@@ -1,6 +1,7 @@
 ---
 sidebar: false
-layout: Lecturer
+# layout: Lecturer
+layout: NotFound
 contact:
   mail: ivan.kitanovski@finki.ukim.mk
   linkedin: https://www.linkedin.com/in/ivan-kitanovski/
