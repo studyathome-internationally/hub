@@ -1,33 +1,43 @@
-# Terms
+# Legal Notice
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-Praesent venenatis mauris ID est interdum euismod.
-Aenean consequat tellus quis nunc malesuada iaculis.
-Donec tellus nulla, porta at tellus vitae, sollicitudin rhoncus libero.
-Suspendisse aliquet risus a libero auctor, nec hendrerit nulla gravida.
-Vivamus sit amet turpis ac diam semper ultricies eget eu dui.
-Integer justo diam, tempor vel arcu non, consequat scelerisque turpis.
-Duis ullamcorper ac libero see mollis.
+## Publisher and editorial responsibility
 
-Mauris non viverra risus.
-Curabitur pellentesque sapien a nibh sagittis, at sagittis lorem laoreet.
-See ut malesuada ante, in gravida mi.
-Nunc tincidunt consequat dui, ID imperdiet justo mattis molestie.
-Cras ultricies sodales laoreet.
-Maecenas elementum mattis odio.
-See vel dictum massa.
-In vitae orci nec mi tempor sagittis.
-See nunc, et malesuada dui ultrices sit amet.
-Praesent accumsan, mi eu iaculis mollis, elit lectus pretium mi, ac eleifend arcu est nec enim.
+UAS Technikum Wien
 
-Vivamus et orci vel dui mattis placerat.
-Vivamus pretium viverra placerat.
-Vivamus sit amet eros lorem.
-Curabitur venenatis quam quam, sit amet mattis nunc congue vitae.
-Etiam congue pellentesque augue.
-Nam vehicula nulla ac risus tincidunt, a ornare nunc aliquet.
-See sem eget elit dignissim maximus at see diam.
-Ut et lacus et purus egestas facilisis.
-See pharetra sapien bibendum ipsum pulvinar viverra.
-Curabitur faucibus tellus a orci placerat auctor.
-Praesent gravida nulla ID tortor auctor, sit amet tempus mauris sodales.
+Mariahilfer Strasse 37-39
+1060 Vienna
+
+T: +43 1 588 39-0
+F: +43 1 588 39-49
+
+[E-Mail](mailto:info@technikum-wien.at)
+
+## Management
+
+Gabriele Költringer, EMBA (Managing Director), Mag. Angelika Ott (Deputy Managing Director)
+
+## Managing Comitee
+
+Dr. Ulrike Baumgartner-Gabitzer, Mag. Wilhelm Grosseibl, DI Dr. Kurt Hofstädter (vice chairman), Dr. Kari Kapsch, DI Anton Plimon, Dr. Lothar Roitner (chairman), Mag. Dr. Gerhard Riemer
+
+## Basic objective
+
+Internet presence to promote and support activities of the organization.
+
+## Responsible for Content & Webmaster
+
+Project: [StudyATHome Internationally](https://studyathome.technikum-wien.at), Lead: Martin Deinhofer
+
+[E-Mail](mailto:martin.deinhofer@technikum-wien.at)
+
+## Disclaimer
+
+The UAS Technikum Wien makes every effort to ensure that the material contained on its website is current, complete and correct. Despite this, errors and mistakes cannot be completely ruled out. The UAS Technikum Wien does not accept liability for the relevance, accuracy or completeness of the information and material offered on its website. 
+
+Links to external websites have been chosen carefully. As they are outside the control of the UAS Technikum Wien, the UAS Technikum Wien accepts no responsibility for these sites.
+
+## Copyright
+
+Copyright and legal right of use for texts, graphics, design, und source code belong to the UAS Technikum Wien, so does the legal right for the photos, if not linked from external websites. 
+
+Issuing, usage and disclosure of information for not commercial reasons is enabled, as long as the content remains unchanged and the source is mentioned (Source: UAS Technikum Wien). The layout of the homepage, graphics and pictures used and the collection of individual contributions are protected by copyright.
