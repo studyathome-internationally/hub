@@ -7,6 +7,7 @@ tags:
   - Disability
 
 state: true
+enrollment: false
 
 semester: Summer
 license: GPL-3.0

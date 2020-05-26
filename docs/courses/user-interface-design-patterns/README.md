@@ -9,6 +9,7 @@ tags:
   - Usability
 
 state: true
+enrollment: true
 
 semester: Winter
 license: ukim
@@ -102,11 +103,11 @@ The lectures will be held weekly with several groups (dates) offered.
 
 ### Materials
 
-| Author                   | Title                                                                                       | Publisher      | Year |
-| :----------------------- | :------------------------------------------------------------------------------------------ | :------------- | :--- |
-| Jenifer Tidwell          | Designing Interfaces, (2^nd edition)                                                        | O’Reilly Media | 2010 |
-| Bill Scott, Theresa Neil | Designing Web: Interfaces, Principles and Patterns for Rich Interactions                    | O’Reilly Media | 2009 |
-| Jesse James Garrett      | The Elements of User Experience: User-Centered Design for the Web and Beyond (2^nd Edition) | New Riders     | 2010 |
+| Author                   | Title                                                                                        | Publisher      | Year |
+| :----------------------- | :------------------------------------------------------------------------------------------- | :------------- | :--- |
+| Jenifer Tidwell          | Designing Interfaces, (2^nd^ edition)                                                        | O’Reilly Media | 2010 |
+| Bill Scott, Theresa Neil | Designing Web: Interfaces, Principles and Patterns for Rich Interactions                     | O’Reilly Media | 2009 |
+| Jesse James Garrett      | The Elements of User Experience: User-Centered Design for the Web and Beyond (2^nd^ Edition) | New Riders     | 2010 |
 
 ## Assessment
 

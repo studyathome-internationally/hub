@@ -8,6 +8,7 @@ tags:
 
 layout: NotFound
 state: false
+enrollment: false
 
 semester: Summer
 license: GPL-3.0

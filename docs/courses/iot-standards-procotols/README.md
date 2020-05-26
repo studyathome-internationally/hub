@@ -11,6 +11,7 @@ tags:
   - MQTT
 
 state: true
+enrollment: false
 
 semester: Summer
 license: CC by SA?

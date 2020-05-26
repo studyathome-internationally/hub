@@ -11,6 +11,7 @@ tags:
   - Automotive Ethernet
 
 state: true
+enrollment: false
 
 semester: Summer
 license: WIT

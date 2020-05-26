@@ -9,6 +9,7 @@ tags:
 
 layout: NotFound
 state: false
+enrollment: false
 
 semester: Summer
 license: =license=

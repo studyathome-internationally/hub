@@ -10,6 +10,7 @@ tags:
   - OpenCV
 
 state: true
+enrollment: false
 
 semester: Summer
 license: =license=

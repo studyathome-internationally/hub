@@ -2,14 +2,16 @@
 permalink: /courses/enroll/
 enrollment:
   cc:
-    -
+    - studyathome@technikum-wien.at
+    - test0@mail.com
   bcc:
-    -
+    - test1@mail.com
+    - test2@mail.com
   subject: Application / Course Enrollment (StudyATHome Internationally)
   body:
     before: >
       Dear Sir or Madam,\n\n
-      I would like to enroll to the course: '{{ title }}' at the university {{ university.name }}.\n\n
+      I would like to enroll in the course: '{{ title }}' at the university {{ university.name }}.\n\n
     form: >
       Personal Data \n
        * Name:  \n
@@ -18,7 +20,7 @@ enrollment:
        * University E-Mail: \n
        * Study Program: \n\n
     after: >
-      I confirm reading and understanding the privacy information (https://hub.studyathome.technikum-wien.at/studyathome/privacy.html) and consent to processing of personal data.\n\n
+      I confirm reading and understanding the privacy information (https://hub.studyathome.technikum-wien.at/studyathome/privacy.html) and consent to the processing of personal data.\n\n
       Kind regards,\n\n
 ---
 
@@ -40,7 +42,7 @@ June, 12^th^ 2020
 
 <RequiredData title="Data">
 
-::: tip Application Data 
+::: tip Application Data
 (_Processed by **StudyATHome Hub (UAS Technikum Wien**_)
 
 - Course
@@ -51,10 +53,11 @@ June, 12^th^ 2020
   - University Name
   - University E-mail
   - Study Program
-:::
+    :::
 
 ::: tip Registration Data
 (_Processed by **Host University on Request**_)
+
 - Course
   - Title
   - Host University

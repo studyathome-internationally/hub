@@ -8,6 +8,7 @@ tags:
 
 layout: NotFound
 state: false
+enrollment: false
 
 semester: =Summer|Winter=
 license: =license=

@@ -964,10 +964,10 @@
   resolved "https://registry.yarnpkg.com/@sindresorhus/is/-/is-0.14.0.tgz#9fb3a3cf3132328151f353de4632e01e52102bea"
   integrity sha512-9NET910DNaIPngYnLLPeg+Ogzqsi9uM4mSboU5y6p8S5DzMTVEsJZrawi+BoDNUVBa2DhJqQYUFvMDfgU062LQ==
 
-"@studyathome-internationally/vuepress-theme-hub@1.0.4-beta.0":
-  version "1.0.4-beta.0"
-  resolved "https://registry.yarnpkg.com/@studyathome-internationally/vuepress-theme-hub/-/vuepress-theme-hub-1.0.4-beta.0.tgz#cdad92382c9bd2ef4371fcf456bbd9589830632d"
-  integrity sha512-JugW3fhGHVC8nYhsydOvWm12NL5JQCfCgYp8CmyZZIPBG3SGxVXxLV3RddS+1PfchOwIa+Frwvpp9e8S+6nT2g==
+"@studyathome-internationally/vuepress-theme-hub@1.0.4-beta.1":
+  version "1.0.4-beta.1"
+  resolved "https://registry.yarnpkg.com/@studyathome-internationally/vuepress-theme-hub/-/vuepress-theme-hub-1.0.4-beta.1.tgz#a5505eb8f055cfc9eea3990217503f17d49f5a18"
+  integrity sha512-z27a0zE5ZlTW+ddFa48QOcW5ilBiH7hUjE/qk04NqzcGHH/BcoPUCgVsvLTPdGrlkKBkj/n0tPPASJ/vNar2Hg==
   dependencies:
     "@fortawesome/fontawesome-free" "^5.13.0"
     "@fortawesome/fontawesome-svg-core" "^1.2.28"
@@ -991,6 +991,7 @@
     node-sass "^4.14.1"
     sass-loader "^8.0.2"
     twemoji "^13.0.0"
+    uri-js "^4.2.2"
     vuepress "1.4.1"
     vuepress-plugin-directory-classifier "^0.1.0"
     vuex "^3.4.0"
