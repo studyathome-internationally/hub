@@ -79,7 +79,7 @@ June, 12^th^ 2020
 <Disclaimer title="Privacy Disclaimer" open>
 
 **StudyATHome Internationally**  
-Your **application data** is processed by the StudyATHome team (studyathome@technikum-wien.at), by the coordinators of the home university and the cooridnators of the host university. The data will be transmitted by e-mail.
+Your **application data** is processed by the StudyATHome team (studyathome@technikum-wien.at), by the coordinators of the home university and the coordinators of the host university. The data will be transmitted by e-mail.
 
 The data you provide will only be used to assist the application and grade recognition process. The data will not be passed on to third parties.
 

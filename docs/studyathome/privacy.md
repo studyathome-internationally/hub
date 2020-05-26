@@ -12,7 +12,7 @@ asked to fill out a questionaire before and after the participation.
 
 ## Data Flow
 
-Your **application data** is processed by the StudyATHome team (studyathome@technikum-wien.at), by the coordinators of the home university and the cooridnators of the host university. The data will be transmitted by e-mail.
+Your **application data** is processed by the StudyATHome team (studyathome@technikum-wien.at), by the coordinators of the home university and the coordinators of the host university. The data will be transmitted by e-mail.
 
 **On request**, you will be asked by the host university to provide the registration data needed for the registration and course enrollment. After successful completion of the course, the International Office of the home university will get a digital copy of your transcript of records.
 
