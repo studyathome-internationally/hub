@@ -6,7 +6,7 @@ module.exports = [
     items: [
       { text: "Contact", link: "/studyathome/contact" },
       { text: "Partner", link: "/studyathome/partner/" },
-      { text: "Terms", link: "/studyathome/terms" },
+      { text: "Legal Notice", link: "/studyathome/legal-notice" },
       { text: "Privacy", link: "/studyathome/privacy" },
       { text: "About", link: "/studyathome/about" },
     ],

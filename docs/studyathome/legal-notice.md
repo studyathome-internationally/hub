@@ -26,9 +26,8 @@ Internet presence to promote and support activities of the organization.
 
 ## Responsible for Content & Webmaster
 
-Project: [StudyATHome Internationally](https://studyathome.technikum-wien.at), Lead: Martin Deinhofer
-
-[E-Mail](mailto:martin.deinhofer@technikum-wien.at)
+Project: [StudyATHome Internationally](https://studyathome.technikum-wien.at)  
+E-Mail: [Martin Deinhofer, Project Lead](mailto:martin.deinhofer@technikum-wien.at)
 
 ## Disclaimer
 
