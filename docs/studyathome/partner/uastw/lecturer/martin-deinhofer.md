@@ -17,12 +17,10 @@ portrait: /assets/img/partner/uastw/lecturer/martin-deinhofer.jpg
 
 # Martin Deinhofer
 
-Martin was born in Amstetten 1978.
-After graduation at the vocational school HTL St. Pölten (Computer Science) in 1997, he worked in several companies as a software developer (Java, Linux) for network management systems and traffic control systems.
-He started his studies in Sports Equipment Technology at UAS Technikum Wien in the year of 2007.
-Afterwards he graduated in the master program Healthcare and Rehabilitation Technology.
+Martin graduated at the vocational school HTL St. Pölten (Computer Science) in 1997. He worked in several companies as a software developer (Java, Linux).
+He studied the bachelor program Sports Equipment Technology and the master program Healthcare and Rehabilitation Technology at the UAS Technikum Wien.
 
-Since September 2013 he is working as researcher and lecturer at the Department of Electronic Engineering in the field of Assistive Technologies.
+Since September 2013 he has been working as researcher and lecturer at the Department of Electronic Engineering in the field of Assistive Technologies.
 
 <!-- more -->
 
