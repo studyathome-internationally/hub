@@ -130,7 +130,7 @@ Typically the course starts with a video conference. The lecturer may also decid
 
 ### Do I have to travel to the partner university?
 
-No, but you are encouraged to do so.
+No, but you could combine it with a short-term visit at the host university.
 If you consider travelling abroad, ask your International Office for funding opportunities.
 
 ## Support
