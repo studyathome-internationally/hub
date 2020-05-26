@@ -19,7 +19,8 @@ Students which are registered at any of the partner universities may enroll in o
 
 ::: full-width-image
 
-![Workflow of eLearning Sharing: Select Course, Enroll Virtually, Study at Home, Get Credits](./e-learning-sharing/img/simple-workflow-all-line-arrows-studyat.svg "eLearning sharing Workflow Illustration" =400x)
+![Workflow of eLearning Sharing: Select Course, Enroll Virtually, Study at Home, Get Credits](./e-learning-sharing/img/simple-workflow-all-line-arrows-studyat.svg "eLearning sharing Workflow Illustration" =400x){class="hide-on-desktop"}
+![Workflow of eLearning Sharing: Select Course, Enroll Virtually, Study at Home, Get Credits](./e-learning-sharing/img/simple-workflow-all-line-arrows-studyat-mobile.svg "eLearning sharing Workflow Illustration" =400x){class="hide-on-mobile"}
 
 <!-- ![Workflow of eLearning Sharing: Select Course, Enroll Virtually, Study at Home, Get Credits](./e-learning-sharing/img/simple-workflow-all-line-arrows.svg "eLearning sharing Workflow Illustration" =400x) -->
 
