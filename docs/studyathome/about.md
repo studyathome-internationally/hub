@@ -1,4 +1,4 @@
-# StudyATHome Internationally
+# About StudyATHome Internationally
 
 The faculty of Communication Technologies & Electronic Engineering of the University of Applied Sciences Technikum Wien (UAS Technikum Wien) offers 8 (6 part-time, 2 full-time) study programs in German (2 in English). In the winter semester 2016/17 no students of the faculty decided to go for student's exchange abroad. According to a survey conducted with students of the faculty, the majority (64%-96%) would like to go abroad for student's exchange but cannot realize it due to personal or vocational reasons (50%-75%). Additionally, many study programs of the faculty don't offer English teaching material for the technical courses.
 
@@ -11,7 +11,7 @@ In course of the project, the following activities will be done:
   * [Sharing of eLearning courses](../e-learning-sharing/) between partner universities
 * **AsTeRICS eLearning**
   * [AsTeRICS Webpage](https://www.asterics.eu): Development of a new responsive and accessible web page for AsTeRICS users and developers.
-  * [AsTeRICS eLearning course](../courses/asterics-assistive-technologies/): Creation of an eLearning course for AsTeRICS developers.
+  * [Assistive Technologies eLearning course](../courses/assistive-technologies-basics/): Creation of an eLearning course about the bascis of Assistive Technologies and AsTeRICS.
 * **International Summer School for AT and SH**
 * **Competence network with partner universities in the area of AT and SH**
   * Visiting partner sites
