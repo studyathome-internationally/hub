@@ -11,7 +11,7 @@ On this page **F**requently **A**sked **Q**uestions about eLearning Sharing can 
 
 ### How can I enroll for a course?
 
-In order to enroll for a course, you must send an application to the StudyATHome team. The application will be approved by the International Office of the home university and forwarded to the International Office of the host university, by e-mail.
+In order to enroll for a course, you must send an application to the StudyATHome team. The application will be approved by the coordinators of the home university and forwarded to the coordinators of the host university, by e-mail.
 
 You can enroll for a course by clicking the ```Enroll Now``` button on the details page of the course. Then you will get to the [enrollment page](/courses/enroll/). 
 At the enrollment page you will have to 
@@ -68,7 +68,7 @@ In case of problems contact: [studyathome@technikum-wien.at](mailto:studyathome@
 
 ### Is the course recognized by my university?
 
-Yes. The universities of the partner network have agreed to recognize the courses. Nevertheless, please check with your program lead or the responsible person for grade recognition, in advance.
+Yes. The universities of the partner network have agreed to recognize the courses. Nevertheless, **please check with your program lead or the responsible person for grade recognition**, in advance.
 
 ### How do I get the course recognized by my university?
 
