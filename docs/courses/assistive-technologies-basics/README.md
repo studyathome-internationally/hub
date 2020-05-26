@@ -43,8 +43,10 @@ university:
 
 # Assistive Technologies Basics
 
-::: slot description
+::: slot information
+
 This course is an introduction to Disability and Assistive Technologies. You will learn types of disabilities and related medical basics. You will get to know the daily challenges of people with disabilities and how to face them with Assistive Technologies.
+
 :::
 
 ## Overview
@@ -65,7 +67,7 @@ This course is an introduction to Disability and Assistive Technologies. You wil
 Upon completion of the course, students will be able to
 
 - explain types of disabilities and their medical background
-- select Assistitve Technologies for certain use cases.
+- select Assistive Technologies for certain use cases.
 - indicate methods of AAC and select appropriate apps.
 - explain basics of of AAL
 - state the 4 principles of Web Accessibility
