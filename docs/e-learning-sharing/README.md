@@ -24,7 +24,12 @@ Course C1 has 3 students from University B and 1 from University C.
 Students which are matriculated at any of the partner universities may enroll in one of the listed [courses](/courses/). They will have to do exams and assignments remotely and will get a grade certificate issued by the partner university upon completion of the course. Finally, the students will have to take the certificate for recognition at the home university.
 
 ::: full-width-image
-![Workflow of eLearning Sharing: Search, Enroll, Study, Get Graded](./img/simple-workflow-all-line-arrows-studyat.svg "eLearning Sharing Workflow Illustration")
+
+![Workflow of eLearning Sharing: Select Course, Enroll Virtually, Study at Home, Get Credits](./img/simple-workflow-all-line-arrows-studyat.svg "eLearning sharing Workflow Illustration" =400x){class="hide-on-desktop"}
+![Workflow of eLearning Sharing: Select Course, Enroll Virtually, Study at Home, Get Credits](./img/simple-workflow-all-line-arrows-studyat-mobile.svg "eLearning sharing Workflow Illustration" =400x){class="hide-on-mobile"}
+
+
+<!-- ![Workflow of eLearning Sharing: Search, Enroll, Study, Get Graded](./img/simple-workflow-all-line-arrows-studyat.svg "eLearning Sharing Workflow Illustration") -->
 :::
 
 <!-- ::: centered-image
