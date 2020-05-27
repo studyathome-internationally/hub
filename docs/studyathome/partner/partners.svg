@@ -16,7 +16,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
-   sodipodi:docname="partners-02.svg">
+   sodipodi:docname="partners.svg">
   <defs
      id="defs4">
     <linearGradient
@@ -268,14 +268,14 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.0899858"
-     inkscape:cx="148.15416"
-     inkscape:cy="105.83169"
+     inkscape:cx="61.789937"
+     inkscape:cy="103.9178"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g28170"
      showgrid="false"
-     inkscape:window-width="2560"
-     inkscape:window-height="1403"
-     inkscape:window-x="2560"
+     inkscape:window-width="1920"
+     inkscape:window-height="1043"
+     inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      fit-margin-top="0"
@@ -310,7 +310,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -12660,12 +12660,12 @@
        id="g28170"
        transform="matrix(0.9,0,0,0.9,161.28871,12.932658)">
       <rect
-         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#71787d;stroke-width:0.88646412;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#71787d;stroke-width:0.88646406;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="rect28117-4"
-         width="134.11354"
+         width="133.48854"
          height="19.113535"
          x="302.854"
-         y="385.79422" />
+         y="385.79419" />
       <text
          id="text28063"
          y="392.73257"
@@ -12681,7 +12681,7 @@
            style="font-size:7.5px;line-height:1.25"
            y="402.10757"
            x="305.57117"
-           sodipodi:role="line">Skopje, Republic of Macedonia</tspan></text>
+           sodipodi:role="line">Skopje, North Macedonia</tspan></text>
     </g>
     <text
        transform="scale(1.0066061,0.99343722)"
