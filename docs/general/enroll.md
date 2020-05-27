@@ -2,11 +2,11 @@
 permalink: /courses/enroll/
 enrollment:
   cc:
-    - studyathome@technikum-wien.at
-    - test0@mail.com
+    # - studyathome@technikum-wien.at
+    # - test0@mail.com
   bcc:
-    - test1@mail.com
-    - test2@mail.com
+    # - test1@mail.com
+    # - test2@mail.com
   subject: Application / Course Enrollment (StudyATHome Internationally)
   body:
     before: >
