@@ -5,10 +5,6 @@ tagline: Sharing of eLearning courses between partner universities
 footer: Copyright © 2020-present | StudyATHome Internationally @ UAS Technikum Wien
 ---
 
-<!-- ::: danger Under construction
-The page is currently under construction. The first iteration of eLearning Sharing will start in September 2020.
-::: -->
-
 ## What is it?
 
 The StudyATHome hub is a listing of eLearning courses hosted and operated by universities of the StudyATHome [partner network](/studyathome/partner/).
@@ -22,24 +18,13 @@ Students which are registered at any of the partner universities may enroll in o
 ![Workflow of eLearning Sharing: Select Course, Enroll Virtually, Study at Home, Get Credits](./e-learning-sharing/img/simple-workflow-all-line-arrows-studyat.svg "eLearning sharing Workflow Illustration" =400x){class="hide-on-desktop"}
 ![Workflow of eLearning Sharing: Select Course, Enroll Virtually, Study at Home, Get Credits](./e-learning-sharing/img/simple-workflow-all-line-arrows-studyat-mobile.svg "eLearning sharing Workflow Illustration" =400x){class="hide-on-mobile"}
 
-<!-- ![Workflow of eLearning Sharing: Select Course, Enroll Virtually, Study at Home, Get Credits](./e-learning-sharing/img/simple-workflow-all-line-arrows.svg "eLearning sharing Workflow Illustration" =400x) -->
-
-<!-- ![Workflow of eLearning Sharing: Select Course, Enroll Virtually, Study at Home, Get Credits](./e-learning-sharing/img/simple-workflow-all-line.svg "eLearning sharing Workflow Illustration" =400x) -->
-
 :::
-
-<!-- ::: centered-image -->
-<!-- ![Workflow of eLearning Sharing: Select Course, Enroll Virtually, Study at Home, Get Credits](./e-learning-sharing/img/simple-workflow-all-curved.svg "eLearning sharing Workflow Illustration" =400x) -->
-<!-- ![Workflow of eLearning Sharing: Select Course, Enroll Virtually, Study at Home, Get Credits](./e-learning-sharing/img/simple-workflow-all.svg "eLearning sharing Workflow Illustration" =400x) -->
-<!-- ::: -->
 
 Any questions? Check out the [eLearning sharing concept](/e-learning-sharing) and the [FAQs](/e-learning-sharing/faq.html).
 
 ## Courses
 
 Please select from the list of courses below.
-
-<!-- <Courses /> -->
 
 ### Winter Semester 2020
 
@@ -58,5 +43,3 @@ The duration of the project is from Feb. 2018 to Jan. 2022.
 ![Logo of University of Applied Sciences Technikum Wien](/assets/img/logos/FH_Technikum_Wien_logo.svg "Logo of University of Applied Sciences Technikum Wien" =x100){align="left"; style="margin: 3% 2% 3% 2%;"}
 ![Logo of StudyATHome Internationally project](/assets/img/logos/studyathome-noir.svg "Logo of StudyATHome Internationally project" =x100){align="left"; style="margin: 3% 2% 3% 2%;"}
 ![Logo of City of Vienna](/assets/img/logos/CV_MA23-orbit1_pos_web.svg "Logo of City of Vienna" =x100){align="right"; style="margin: 3% 2% 3% 2%;"}
-
-<!-- <img :src="$withBase('/assets/img/logos/ma23_funded.png')" alt="Logo of City of Vienna" title="Logo of the City of Vienna"> -->

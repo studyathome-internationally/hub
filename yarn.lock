@@ -929,10 +929,10 @@
   resolved "https://registry.yarnpkg.com/@sindresorhus/is/-/is-0.14.0.tgz#9fb3a3cf3132328151f353de4632e01e52102bea"
   integrity sha512-9NET910DNaIPngYnLLPeg+Ogzqsi9uM4mSboU5y6p8S5DzMTVEsJZrawi+BoDNUVBa2DhJqQYUFvMDfgU062LQ==
 
-"@studyathome-internationally/vuepress-theme-hub@^1.0.4-beta.6":
-  version "1.0.4-beta.6"
-  resolved "https://registry.yarnpkg.com/@studyathome-internationally/vuepress-theme-hub/-/vuepress-theme-hub-1.0.4-beta.6.tgz#ae2b2e38e82ce1ac7c2d59d9468acafaafc2bdef"
-  integrity sha512-Qv7lQUopuvlwLsnHQinCsO5frpFYp8E1uN7fRy86IFAvx1WIaUy5nhYSRIYH+6TTtms75KZDOXo63oYrTluy5A==
+"@studyathome-internationally/vuepress-theme-hub@^1.0.4-beta.7":
+  version "1.0.4-beta.7"
+  resolved "https://registry.yarnpkg.com/@studyathome-internationally/vuepress-theme-hub/-/vuepress-theme-hub-1.0.4-beta.7.tgz#4a9cbea605bd22184f8e292c4beeae5cc5b5bc76"
+  integrity sha512-BPlpOW9rlCEFd/yiYZz4WeX5ULnY1wRY08etGti4fyeygUC/GYs9jP12bOFV3nbWp6rwHnzG7jaD0xkZyAoQBg==
   dependencies:
     "@fortawesome/fontawesome-free" "^5.13.0"
     "@fortawesome/fontawesome-svg-core" "^1.2.28"

@@ -9,7 +9,7 @@
     "access": "public"
   },
   "dependencies": {
-    "@studyathome-internationally/vuepress-theme-hub": "^1.0.4-beta.6",
+    "@studyathome-internationally/vuepress-theme-hub": "^1.0.4-beta.7",
     "@textlint-rule/textlint-rule-no-unmatched-pair": "^1.0.7",
     "lint-staged": "^9.5.0",
     "remark-cli": "^7.0.1",

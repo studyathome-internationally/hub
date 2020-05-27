@@ -60,9 +60,9 @@ This module examines the protocols and standards used to interconnect the variou
 ### Contents
 
 ::: image-triplet
-<img src="https://wit-computing.github.io/IoT-Standards-Protocols-2018/topic-02/talk-1/talk-1.jpg" title="Internet of Things sensor" alt="PCB of a sensor">
-<img src="https://wit-computing.github.io/IoT-Standards-Protocols-2018/topic-05/topic.png" title="Pictrogram of radio signal sending tower" alt="Pictrogram of radio signal sending tower">
-<img src="https://wit-computing.github.io/IoT-Standards-Protocols-2018/topic-07/topic.png" title="Diagram illustrating publish and subscribe mechanism" alt="Diagram illustrating publish and subscribe mechanism.">
+<img src="./img/talk-1.jpg" title="Internet of Things sensor" alt="PCB of a sensor">
+<img src="./img/topic-5.png" title="Pictrogram of radio signal sending tower" alt="Pictrogram of radio signal sending tower">
+<img src="./img/topic-7.png" title="Diagram illustrating publish and subscribe mechanism" alt="Diagram illustrating publish and subscribe mechanism.">
 
 :::
 
@@ -138,13 +138,13 @@ On successful completion of this module, a student will be able to:
 
 ## Requirements
 
-### Skills
+<!-- ### Skills
 
-- ??
+- ?? -->
 
 ### Equipment
 
 - [Raspberry Pi 3](https://www.raspberrypi.org/)  
-   ![Raspberry Pi PCB](https://www.raspberrypi.org/homepage-9df4b/static/8ca4b04c6593a114ae562d25b6161d94/052d8/8c67a3e02f41441dae98f8b91c792c1e1b4afef1_770a5842.jpg)
-- [SenseHAT Add-On board](https://www.raspberrypi.org/products/sense-hat/)
-  ![SenseHAT Add-On board](https://www.raspberrypi.org/homepage-9df4b/static/9b4bc8cbb37f886e1b68cf0122ff9474/052d8/a222a1d657906db95efbca8b8467037fa1a89def_sense-hat-1733x1080-1-1733x1080.jpg)
+   ![Raspberry Pi PCB](./img/raspberry-pi-3.png =x300)
+- [SenseHAT Add-On board](https://www.raspberrypi.org/products/sense-hat/)  
+  ![SenseHAT Add-On board](./img/sensehat.png =x300)
