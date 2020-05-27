@@ -25,12 +25,10 @@ portrait: /assets/img/partner/uastw/lecturer/alija-sabic.png
 
 # Alija Sabic
 
-Alija was born in 1988 in Zvornik, Bosnia and Herzegovina.
-He graduated at the HTL Hollabrunn (Electrical Engineering / Information Technology) in 2007.
-After attending the military service in 2008 he continued his studies of Electrical Engineering/Information Technology at the Vienna University of Technology, only until 2009.
+Alija graduated at the HTL Hollabrunn _Electrical Engineering/Information Technology_ in 2007.
+In 2016 he finished the bachelor program _Electronics and Business_ and in 2018 the master program _Embedded Systems_, at UAS Technikum Wien.
 
 <!-- more -->
 
-From 2008 on he worked for different technic related companies, including Siemens from 2012 until 2016.
-In 2014 he started the bachelor program "Electronics and Business", at UAS Technikum Wien and continued with the master program "Embedded Systems" in 2016.
-In the same year (2016) he started working at the UAS Technikum Wien at the ViTAL project, as junior researcher.
+From 2008 on he worked for different companies in this field, including Siemens until 2016.
+Since 2016 he is lecturer and researcher at the UAS Technikum Wien.
