@@ -55,8 +55,8 @@ The StudyATHome Internationally project is funded by the **City of Vienna, Depar
 
 The duration of the project is from Feb. 2018 to Jan. 2022.
 
-![Logo of University of Applied Sciences Technikum Wien](/assets/img/logos/FH_Technikum_Wien_logo.svg "Logo of University of Applied Sciences Technikum Wien" =x100){align="left"; style="margin: 3% 3% 3% 3%;"}
-![Logo of StudyATHome Internationally project](/assets/img/logos/studyathome-noir.svg "Logo of StudyATHome Internationally project" =x100){align="left"; style="margin: 3% 3% 3% 3%;"}
-![Logo of City of Vienna](/assets/img/logos/ma23_funded.png "Logo of City of Vienna" =x100){align="right"; style="margin: 3% 3% 3% 3%;"}
+![Logo of University of Applied Sciences Technikum Wien](/assets/img/logos/FH_Technikum_Wien_logo.svg "Logo of University of Applied Sciences Technikum Wien" =x100){align="left"; style="margin: 3% 2% 3% 2%;"}
+![Logo of StudyATHome Internationally project](/assets/img/logos/studyathome-noir.svg "Logo of StudyATHome Internationally project" =x100){align="left"; style="margin: 3% 2% 3% 2%;"}
+![Logo of City of Vienna](/assets/img/logos/CV_MA23-orbit1_pos_web.svg "Logo of City of Vienna" =x100){align="right"; style="margin: 3% 2% 3% 2%;"}
 
 <!-- <img :src="$withBase('/assets/img/logos/ma23_funded.png')" alt="Logo of City of Vienna" title="Logo of the City of Vienna"> -->
