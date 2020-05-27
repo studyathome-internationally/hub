@@ -5,9 +5,9 @@ tagline: Sharing of eLearning courses between partner universities
 footer: Copyright © 2020-present | StudyATHome Internationally @ UAS Technikum Wien
 ---
 
-::: danger Under construction
+<!-- ::: danger Under construction
 The page is currently under construction. The first iteration of eLearning Sharing will start in September 2020.
-:::
+::: -->
 
 ## What is it?
 
