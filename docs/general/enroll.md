@@ -26,7 +26,7 @@ enrollment:
 
 # Course Enrollment
 
-Please send an **email** with your **application** by clicking _**Write E-Mail**_ below.
+Please send an **email** with your **application** by clicking ```Write E-Mail``` below.
 
 Your application must be approved by the home university and will be forwarded to the host university, which will decide about the acceptance within **two weeks**. You will get further information for registration and course enrollment, by email.
 
@@ -36,9 +36,6 @@ Please ensure to **apply before the application deadline**.
 ::: tip Application Deadline
 June, 12^th^ 2020
 :::
-
-<CourseSelection path="/courses/" placeholder="-- Please choose a course --"/>
-<UniversitySelection path="/studyathome/partner/" placeholder="-- Please choose your home university --"/>
 
 <RequiredData title="Data">
 
@@ -53,7 +50,8 @@ June, 12^th^ 2020
   - University Name
   - University E-mail
   - Study Program
-    :::
+
+:::
 
 ::: tip Registration Data
 (_Processed by **Host University on Request**_)
@@ -94,4 +92,17 @@ You can revoke this consent at any time, but this will cancel your participation
 I confirm reading and understanding the full [privacy information](/studyathome/privacy.md) text and consent to processing of personal data.
 :::
 
+<CourseSelection path="/courses/" placeholder="-- Please choose a course --"/>
+<UniversitySelection path="/studyathome/partner/" placeholder="-- Please choose your home university --"/>
+
 <EMail>Write E-Mail</EMail>
+
+## Troubleshooting
+
+In case of problems with the ```Write E-Mail``` button, simply open your e-mail client of choice and write an e-mail to
+
+[studyathome@technikum-wien.at](mailto:studyathome@technikum-wien.at)
+
+**Subject**: Application / Course Enrollment (StudyATHome Internationally)
+
+**Body**: **Application Data** (see **Data** above)
