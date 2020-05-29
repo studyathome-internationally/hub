@@ -14,7 +14,7 @@ F: +43 1 588 39-49
 
 ## Management
 
-Gabriele Költringer, EMBA (Managing Director), Mag. Angelika Ott (Deputy Managing Director)
+Gabriele Költringer, EMBA (Managing Director)
 
 ## Managing Comitee
 
