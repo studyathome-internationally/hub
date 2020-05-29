@@ -16,7 +16,6 @@ module.exports = (ctx) => ({
       permalink: true,
     },
   },
-  // extraWatchFiles: ["**/*.md", "**/*.vue"],
   extraWatchFiles: [".vuepress/config/**/*.js"],
   themeConfig: {
     docsRepo: "studyathome-internationally/hub",
@@ -27,7 +26,6 @@ module.exports = (ctx) => ({
     lastUpdated: "Last Updated",
     logo: "/assets/img/logos/studyathome-noir.svg",
     nav: require("./config/nav/en"),
-    // displayAllHeaders: true,
     sidebarDepth: 2,
     sidebar: require("./config/sidebar.js"),
   },

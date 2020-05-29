@@ -88,9 +88,11 @@ You can revoke this consent at any time, but this will cancel your participation
 
 </Disclaimer>
 
-::: slot confirmation
+<Confirmation>
+
 I confirm reading and understanding the full [privacy information](/studyathome/privacy.md) text and consent to processing of personal data.
-:::
+
+</Confirmation>
 
 <CourseSelection path="/courses/" placeholder="-- Please choose a course --"/>
 <UniversitySelection path="/studyathome/partner/" placeholder="-- Please choose your home university --"/>
