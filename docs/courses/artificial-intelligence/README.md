@@ -104,6 +104,10 @@ Additionally, the student is expected to do independent study at home and to del
 Students will get three smaller single-choice tests (10 points each) and two homeworks (15 points each). The final exam will be a multiplce choice test (40 points).
 The final score is the sum of all tests and homeworks.
 
+### Example Assignment
+
+In the topic of search algorithms a typical example can be the [8 puzzle problem](https://en.wikipedia.org/wiki/15_puzzle). The student has to use breadth-first search / depth-first search / branch-and-bound algorithm or the A-star algorithm and find at least one solution. In case the algorithm uses a heuristic, the student has to propose the heuristic and justify the proposal.
+
 ### Minimum Requirements
 
 At least 50% from smaller tests, 50% from home-works, 50% from final exam.
