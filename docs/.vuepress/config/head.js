@@ -42,7 +42,10 @@ module.exports = [
       content: "StudyATHome Internationally - Hub",
     },
   ],
-  ["meta", { name: "application-name", content: "StudyATHome Internationally - Hub" }],
+  [
+    "meta",
+    { name: "application-name", content: "StudyATHome Internationally - Hub" },
+  ],
   ["meta", { name: "msapplication-TileColor", content: "#00aba9" }],
   [
     "meta",
@@ -56,7 +59,7 @@ module.exports = [
     "meta",
     {
       name: "google-site-verification",
-      content: "qqt-J7hgZj0V-7cL1RH8tBhRdQajbXPlxBteXhfkTM0",
+      content: "2HwQRaUDC-mJxMQVQXyY7V7RhN-pLAIyWbEYmocaSDQ",
     },
   ],
 ];
