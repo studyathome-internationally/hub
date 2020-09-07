@@ -24,8 +24,7 @@ degrees:
   - Bachelor
 language:
   - English
-  - Macedonian
-
+  
 media:
   main:
     src: https://blogs.commons.georgetown.edu/cctp-820-fall2016/files/2016/10/2-1.png
@@ -93,11 +92,11 @@ The course contains basiscs of digital image processing.
 
 ### Outcomes
 
-Upon the completion of the course the student is expected to rule and use the basic toolsand methods for image processing.
+Upon the completion of the course the student is expected to rule and use the basic tools and methods for image processing.
 
 ### Methods
 
-Lectures using presentations, interactive lectures, exercises (using equipment and softwarepackages), teamwork, case studies, invited guest lecturers, independent preparation anddefense of a project assignment and seminar work.
+Lectures using presentations, interactive lectures, exercises (using equipment and software packages), teamwork, case studies, invited guest lecturers, independent preparation and defense of a project assignment and seminar work.
 
 | Type                 | Effort \[h\] |
 | :------------------- | :----------: |
