@@ -97,14 +97,12 @@ On successful completion of this module, a student will be able to:
 ## Assessment
 
 <!-- Describe Assessment procedure verbally -->
+The grade is comprised of a main assignment (70%) and a minor assignment (30%), which is typically an essay or a research report investigating some protocol in more detail.
 
-#### Example Assignment
+### Example Assignment
 
 <!-- Describe an example assignment definition -->
-
-#### Final Exam
-
-<!-- The final exam will be ... -->
+Implement a CAN network on the Vector CANoe simulator software to test a **car climate control system** according to a given interface description.
 
 ### Methods
 
