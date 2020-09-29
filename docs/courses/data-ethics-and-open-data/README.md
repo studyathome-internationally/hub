@@ -72,7 +72,7 @@ The course consists of - lectures combined with discussions - project work and e
 
 ### Contents
 
-* Open Data applications in different fields: Healthcare, finance, Smart Cities etc.
+* Open Data applications in different fields: Healthcare, Finance, Smart Cities etc.
 * Open Data formats
 * Open Data policies
 * Project: analysing and processing open data
