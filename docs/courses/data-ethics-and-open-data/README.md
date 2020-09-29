@@ -141,11 +141,9 @@ Basic Knowledge in Web Technologies, Database Systems, and Data Management.
 
 ### Skills
 
-- Common sense
-- Intermediate calculating skills
+- Programming?
+- Databases?
 
 ### Equipment
 
-- Pencil(s)
-- Calculator
-- Calculator
+- spezielle HW od. SW??
