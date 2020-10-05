@@ -48,10 +48,6 @@ university:
 
 # Data Ethics & Open Data
 
-::: post-it
-TODO: Check!
-:::
-
 ::: slot information
 
 Open data is accessible public data that people, companies and organisations can use and process.
@@ -63,10 +59,6 @@ In lectures on Open Data students will learn about Open Data from a technical vi
 :::
 
 ## Overview
-
-::: post-it
-TODO: Check!
-:::
 
 The course consists of - lectures combined with discussions - project work and exercises
 
@@ -92,58 +84,52 @@ After passing this course successfully students are able to
 
 ### Methods
 
-| Type | Effort \[h\] |
-| :--- | :----------- |
-| Task | Hours        |
-| Task | Hours        |
-| Task | Hours        |
+| Type | Effort [h] |
+| :---------- | :-- |
+| Data Ethics | 50  |
+| Open Data   | 100 |
 
 ### Materials
 
-| Author                | Title                              | Publisher | Year |
-| :-------------------- | :--------------------------------- | :-------- | :--- |
-| Ethics Advisory Group | Ethics Advisory Group Report 2018  |           | 2018 |
-| European Union        | Open Data Maturity in Europe 2017  |           | 2017 |
-|                       | Specific papers related to domains |           |      |
-|                       | Open data Web sites and catalogues |           |      |
+| Author                | Title                              | Year |
+| :-------------------- | :--------------------------------- | :--- |
+| Ethics Advisory Group | Ethics Advisory Group Report 2018  | 2018 |
+| European Union        | Open Data Maturity in Europe 2017  | 2017 |
+|                       | Specific papers related to domains |      |
+|                       | Open data Web sites and catalogues |      |
 
 ## Assessment
 
-::: post-it
-TODO: Write & Check!
-:::
+| Type                                                        | Percent       |
+| :------------------------------------------ | :------------ |
+| Data Ethics: Presentation and handout       | 33.33 percent |
+| Open Data: Project results and presentation | 66.67 percent |
 
 ### Methods
 
-| Type                                                        | Points    |
-| :---------------------------------------------------------- | :-------- |
-| Participation in discussions and presentation (Data Ethics) | xy points |
-| Project results and project presentation (Open Data)        | yx points |
+Data Ethics: Participation in discussions
+Open Data: Problem based learning (excercises and project)
+
 
 ### Criteria
 
-| Grade | Grade (letter) | Scale            |
-| :---- | :------------- | :--------------- |
-| 5     | F              | up to 50 points  |
-| 6     | E              | 51 to 60 points  |
-| 7     | D              | 61 to 70 points  |
-| 8     | C              | 71 to 80 points  |
-| 9     | B              | 81 to 90 points  |
-| 10    | A              | 91 to 100 points |
+| Grade | Grade (letter) | Scale             |
+| :---- | :------------- | :---------------- |
+| 5     | Nicht Genügend | <50 percent       |
+| 4     | Genügend       | 50 to <63 percent |
+| 3     | Befriedigent   | 63 to <75 percent |
+| 2     | Gut            | 75 to <88 percent |
+| 1     | Sehr gut       | 88 to 100 percent |
 
 ## Requirements
-
-::: post-it
-TODO: Write & Check!
-:::
 
 Basic Knowledge in Web Technologies, Database Systems, and Data Management.
 
 ### Skills
 
-- Programming?
-- Databases?
+- Webdevelopment
+- Data handling
 
 ### Equipment
 
-- spezielle HW od. SW??
+- Used Software will be introduced within the course
