@@ -42,6 +42,8 @@ university:
   page: /studyathome/partner/uastw/
   faculty: Electronic Based Systems
   program: Electronics and Business
+
+pageClass: cover-image-contain
 ---
 
 # Embedded Systems: VHDL I
