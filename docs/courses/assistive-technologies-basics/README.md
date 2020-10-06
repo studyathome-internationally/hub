@@ -34,7 +34,9 @@ schedule:
 
 lecturers:
   - /studyathome/partner/uastw/lecturer/martin-deinhofer.html
-  - /studyathome/partner/uastw/lecturer/alija-sabic.html
+  - /studyathome/partner/uastw/lecturer/christoph-veigl.html
+  - /studyathome/partner/uastw/lecturer/iris-nemec.html
+  - /studyathome/partner/uastw/lecturer/christina-hochleitner.html
 
 university:
   page: /studyathome/partner/uastw/
