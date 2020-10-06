@@ -3,34 +3,23 @@ sidebar: false
 layout: Lecturer
 contact:
   mail: lukas.rohatsch@technikum-wien.at
-  linkedin: https://www.linkedin.com/
-  reasearchgate: https://www.researchgate.net/
+  linkedin: https://www.linkedin.com/in/LukasRohatsch/
+  ORCID iD: https://orcid.org/0000-0002-6168-2717
 experience:
-  - Experience 1
-  - Experience 2
-  - Experience 3
+  - Software Engineering
+  - Data acquisition and visualization
+  - IoT
 position:
   href: https://www.technikum-wien.at/
   role: Lecturer, Researcher
-  department: Department of Software Engeineering & DevOps
+  department: Department Computer Science
 portrait: /assets/img/partner/uastw/lecturer/lukas-rohatsch.png
 ---
 
 # Lukas Rohatsch
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
-At vero eos et accusam et justo duo dolores et ea rebum.
-Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+Lukas Rohatsch holds a master's degree in Integrated Urban Development as well as a bachelor's degree in Transport and Environment issued by the UAS Technikum Wien.
 
 <!-- more -->
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
-At vero eos et accusam et justo duo dolores et ea rebum.
-Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
-At vero eos et accusam et justo duo dolores et ea rebum.
-
-Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
-At vero eos et accusam et justo duo dolores et ea rebum.
-Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+He is currently a lecturer and researcher and teaches in the study programs Computer Science, Business Informatics, Mechanical Engineering and Integrative Urban Development – Smart City. Furthermore, he teaches the technical part of the course Data Ethics & Open Data in the Campus International and supervises bachelor and master theses in the named study programs.
