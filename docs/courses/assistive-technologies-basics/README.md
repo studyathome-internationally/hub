@@ -5,14 +5,16 @@ sidebar: auto
 tags:
   - Assistive Technologies
   - Disability
+  - Usability
+  - Accessibility
 
 state: true
 enrollment: false
 
 semester: Summer
-license: GPL-3.0
+license: partly CC by
 link: =course link=
-ects: 2
+ects: 3
 
 attendees:
   total: 5
@@ -56,54 +58,61 @@ This course is an introduction to Disability and Assistive Technologies. You wil
 
 ### Contents
 
-- Introduction
-- Anatomical and Physiological Background
+- Anatomical and Physiological Background of Disability
 - Types of Disabilities
-- Basics in Communication and Rehabilitation Technologies
-- Basics in Augmentative and Alternative Communication Technologies (AAC)
-- Basics in Active Assisted Living (AAL)
-- Basics in Web Accessibility
+- Types of Assistive Technologies per disability
+- Basics of Alternative and Augmentative Communication (AAC)
+- Basics in Digital Accessibility
+- Basics in Human Computer Interaction (HCI), Usability and User Interface Design
 - Principles of Design for All
+- Use of the [Assistive Technology Integration and Construction Set (AsTeRICS)](https://www.asterics.eu/)
+- Use of [Arduino IDE](https://www.arduino.cc/en/Main/software) and introduction to the Assistive Technologies [FLipMouse](https://www.asterics-foundation.org/projects/the-flipmouse/) and [FABI](https://www.asterics-foundation.org/projects/fabi/)
 
 ### Outcomes
 
 Upon completion of the course, students will be able to
 
-- explain types of disabilities and their medical background
-- select Assistive Technologies for certain use cases.
-- indicate methods of AAC and select appropriate apps.
-- explain basics of of AAL
-- state the 4 principles of Web Accessibility
+- recognize and classify different kinds of disabilities
+- identify the anatomical and physiological reasons for a disability
+- list the impairments and restrictions due to a disability
+- state accessibility requirements of digital documents and web pages
+- evaluate documents for accessibility
+- understand the terms "HCI", "Usability" and "UX" and their definitions
+- know about the User Centered Design process and related standardisation
+- know about basic design principles and methods applied in the User Centered Design process
+- Create simple AsTeRICS models
+- Identify use cases of FLipMouse and FABI
 
 ### Methods
 
+The course is divided in self-study units and practical session at the UAS Technikum Wien on-site. The practical sessions won't be accessible for virtual students, but the course material contains everything to do them at home as well. The practical sessions are not relevant for grading.
+
 | Type        | Effort \[h\] |
 | :---------- | :----------- |
-| Independent | 40           |
-| Practical   | 40           |
-| Lecture     | 40           |
+| Independent | 50           |
+| Practical   | 25           |
 
 ## Assessment
 
 <!-- Describe Assessment procedure verbally -->
+There will be 4 assignments individually or in group works and a final exam (multiple choice test).
 
 #### Example Assignment
 
 <!-- Describe an example assignment definition -->
+Analyze a given use case (person with disability) in terms of anatomy, physiology, pathology, applicable laws and standards and suitable Assistive Technologies.
 
 #### Final Exam
 
 <!-- The final exam will be ... -->
+There will be a multiple choice test reflecting all areas of the course contents.
 
 ### Methods
 
 | Type          | Points/Percent |
 | :------------ | :------------- |
-| Tests         | 13%            |
-| Seminar paper | 12%            |
-| Project       | 13%            |
-| Tasks         | 12%            |
-| Final exam    | 50%            |
+| Assignments         | 80%            |
+| Exam    | 20%            |
 
 ### Criteria
 
@@ -125,3 +134,4 @@ Upon completion of the course, students will be able to
 
 - Computer
 - Webcam
+- optional: [Arduino Uno or similar microcontroller](https://www.arduino.cc/en/Main/Products)
