@@ -3,18 +3,18 @@
 sidebar: auto
 
 tags:
-  - Colors
-  - Histogramm
-  - Filters
-  - Edge Detection
   - OpenCV
+  - Convolution
+  - Edge Detection
+  - Color Space
+  - Computer Vision
 
 state: true
 enrollment: false
 
 semester: Summer
 license: =license=
-link: =course link=
+link: https://courses.finki.ukim.mk/course/view.php?id=1654
 ects: 6
 
 attendees:
@@ -32,8 +32,8 @@ media:
 
 schedule:
   start: 15.02.2021
-  end: 16.06.2021
-  duration: =course duration=
+  end: 31.05.2021
+  duration: 13 weeks
 
 lecturers:
   - /studyathome/partner/ukim/lecturer/ivica-dimitrovski.html
@@ -49,46 +49,32 @@ university:
 # Digital Image Processing
 
 ::: slot description
-The course contains basiscs of digital image processing.
+The course will consist of theoretical material introducing the mathematics of images and imaging, as well as homeworks designed to introduce methods of real-world data manipulation. 
+Within the homework the students will learn how to implement methods for contrast enhancement, color correction, edge detection, visual features extraction, panorama stitching, image matching and similarity, key-point detection and matching, image classification.
 :::
 
 ## Overview
 
 ### Contents
 
-- The basics of digital image processing
-- Representation and digitalization of images
-- Tools and programs for digital image processing
-- Digital images and pixels
-- Color components
-- Application domains
-- 2-D sampling and reconstruction
-- Quantization
-- Digitalization
-- Introduction to OpenCV and Python
-- Basic operations with images
-- Pointbased operations
-- Image histograms
-- Contrast and gamma
-- Histogram equalization
-- Adaptive histogram equalization
-- Color space
-- Theory of colour, Colour correction and special effects
-- Linear filters and convolution
-- Blurring and Sharpening Images
-- Edge detection
-- Image segmentation
-- Morphological operations:
-  - dilatation / erosion
-  - opening / closing
-- Contour extraction
-- Region filling
-- Skeletonization
-- Transformations
-  - effects, filters and deformation
-- Visual descriptors
-- Key-point extraction
-- Panoramastitching
+The course will consist of theoretical material introducing the mathematics of images and imaging, as well as homeworks designed to introduce methods of real-world data manipulation. 
+Within the homework the students will learn how to implement methods for contrast enhancement, color correction, edge detection, visual features extraction, panorama stitching, image matching and similarity, key-point detection and matching, image classification.
+
+* Introduction to Python and OpenCV
+* Introduction to digital image processing
+* Basic operations on images: representation and digitization of images, viewing digital images, pixels, matrix transformations, scaling, translation and rotations
+* Image histograms and point-based operations
+* Color representation
+* Linear filters and convolution
+* Edge detection
+* Image segmentation
+* Morphological operations
+* Contour extraction
+* Frequency domain, power spectral density and FFT
+* Key-point extraction and local visual features
+* Content-based image retrieval
+* Image classification
+* Convolutional neural networks
 
 ### Outcomes
 
@@ -103,8 +89,7 @@ Lectures using presentations, interactive lectures, exercises (using equipment a
 | Lectures             |      30      |
 | Exercises            |      45      |
 | Project Tasks        |      15      |
-| Independent Learning |      15      |
-| Home Learning        |      75      |
+| Home Learning        |      90      |
 
 ### Materials
 
@@ -116,21 +101,24 @@ Lectures using presentations, interactive lectures, exercises (using equipment a
 ## Assessment
 
 <!-- Describe Assessment procedure verbally -->
+Grades will be based on homeworks (five in total), final exam or final project. 
 
 #### Example Assignment
 
 <!-- Describe an example assignment definition -->
+Within the homework the students will learn how to implement methods for contrast enhancement, color correction, edge detection, visual features extraction, panorama stitching, image matching and similarity, key-point detection and matching, image classification.
 
-#### Final Exam
+#### Final Project
 
 <!-- The final exam will be ... -->
+Gesture-based user interface: Implement an automatic face and hand gesture recognition system which is able to control computer media player. Hand gestures and the human face are the key elements to interact with the smart system. Use face recognition for viewer verification and hand gesture recognition to control the computer media player, for instance, volume down/up, next music, stop, pause and etc.
 
 ### Methods
 
 | Type       | Points/Percent |
 | :--------- | :------------- |
-| Project    | 30 points      |
-| Final exam | 70 points      |
+| Project or final exam    | 50 points      |
+| Home work | 50 points      |
 
 ### Criteria
 
