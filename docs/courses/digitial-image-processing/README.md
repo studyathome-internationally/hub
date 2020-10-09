@@ -48,9 +48,11 @@ university:
 
 # Digital Image Processing
 
-::: slot description
+::: slot information
+
 The course will consist of theoretical material introducing the mathematics of images and imaging, as well as homeworks designed to introduce methods of real-world data manipulation. 
 Within the homework the students will learn how to implement methods for contrast enhancement, color correction, edge detection, visual features extraction, panorama stitching, image matching and similarity, key-point detection and matching, image classification.
+
 :::
 
 ## Overview
