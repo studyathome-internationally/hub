@@ -85,7 +85,7 @@ Upon completion of the course, students will be able to
 
 ### Methods
 
-The course is divided in self-study units and practical session at the UAS Technikum Wien on-site. The practical sessions won't be accessible for virtual students, but the course material contains everything to do them at home as well. The practical sessions are not relevant for grading.
+The course is divided in self-study units and practical session at the UAS Technikum Wien on-site. The practical sessions won't be accessible for virtual students but they are not relevant for the grading.
 
 | Type        | Effort \[h\] |
 | :---------- | :----------- |
@@ -100,7 +100,7 @@ There will be 4 assignments individually or in group works and a final exam (mul
 #### Example Assignment
 
 <!-- Describe an example assignment definition -->
-Analyze a given use case (person with disability) in terms of anatomy, physiology, pathology, applicable laws and standards and suitable Assistive Technologies.
+Analyze a given use case (person with disability) in terms of anatomy, physiology, pathology, applicable laws, standards and suitable Assistive Technologies.
 
 #### Final Exam
 
