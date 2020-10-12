@@ -13,7 +13,7 @@ position:
   href: https://www.technikum-wien.at/
   role: Lecturer, Researcher
   department: Department Computer Science
-portrait: /assets/img/partner/uastw/lecturer/lukas-rohatsch.png
+portrait: /assets/img/partner/uastw/lecturer/lukas-rohatsch.jpg
 ---
 
 # Lukas Rohatsch
