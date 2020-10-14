@@ -50,7 +50,7 @@ university:
 
 ::: slot information
 
-This course is an introduction to Disability and Assistive Technologies. You will learn types of disabilities and related medical basics. You will get to know the daily challenges of people with disabilities and how to face them with Assistive Technologies.
+This course is an introduction to Disability and Assistive Technologies. You will learn about types of disabilities and related medical basics. You will get to know the daily challenges of people with disabilities and how to face them with Assistive Technologies. Additionally you will learn basics in Human Computer Interaction (HCI) and User Interface Design.
 
 :::
 
@@ -60,7 +60,8 @@ This course is an introduction to Disability and Assistive Technologies. You wil
 
 - Anatomical and Physiological Background of Disability
 - Types of Disabilities
-- Types of Assistive Technologies per disability
+- Causes and characteristics of motor, visual, auditory and cognitive disabilities
+- Types of Assistive Technologies per disability, e.g. screen reader, key-based input devices
 - Basics of Alternative and Augmentative Communication (AAC)
 - Basics in Digital Accessibility
 - Basics in Human Computer Interaction (HCI), Usability and User Interface Design
@@ -72,16 +73,13 @@ This course is an introduction to Disability and Assistive Technologies. You wil
 
 Upon completion of the course, students will be able to
 
-- recognize and classify different kinds of disabilities
-- identify the anatomical and physiological reasons for a disability
-- list the impairments and restrictions due to a disability
-- state accessibility requirements of digital documents and web pages
-- evaluate documents for accessibility
-- understand the terms "HCI", "Usability" and "UX" and their definitions
-- know about the User Centered Design process and related standardisation
-- know about basic design principles and methods applied in the User Centered Design process
-- Create simple AsTeRICS models
-- Identify use cases of FLipMouse and FABI
+- identify and classify different types of disabilities
+- know the anatomical and physiological reasons for a disability and the resulting impairments
+- know the current technical aids to support people with disabilities and to be able to select suitable technologies for certain applications
+- Knowing the accessibility requirements for digital documents and websites and being able to check documents for - essibility
+- Understand the terms "HCI", "Usability" and "UX" and their definitions
+- have information on the user centered design process and the associated standardization and to be able to apply it 
+- identify use cases for the tools AsTeRICS, FABI and FLipMouse.
 
 ### Methods
 
@@ -135,3 +133,5 @@ There will be a multiple choice test reflecting all areas of the course contents
 - Computer
 - Webcam
 - optional: [Arduino Uno or similar microcontroller](https://www.arduino.cc/en/Main/Products)
+
+If you don't have the hardware at home ask your lab assistent at the home university or write to [studyathome@technikum-wien.at](mailto:studyathome@technikum-wien.at)
