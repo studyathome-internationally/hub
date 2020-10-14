@@ -9,8 +9,6 @@ experience:
   - Orthopaedic
   - Healthcare
   - Rehabilitation Technology
-  - Experience ...
-  - Experience n
 position:
   href: https://www.technikum-wien.at/
   role: Lecturer, Researcher
