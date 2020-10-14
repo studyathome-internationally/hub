@@ -26,13 +26,20 @@ Any questions? Check out the [eLearning sharing concept](/e-learning-sharing) an
 
 Please select from the list of courses below.
 
+### Summer Semester 2021
+
+<Courses summer path="/courses/"/>
+
+### Summer School July 2021
+
+**ASSIST HEIDI** - Vienna summer school for creating an inclusive environment for people with disabilities.
+
+[![Image of flyer for the ASSIST HEIDI summer school](/assets/pdf/summer-school/at-summer-school-2021.png =x450)](/studyathome/summer-school)
+
 ### Winter Semester 2020
 
 <Courses winter path="/courses/"/>
 
-### Summer Semester 2021
-
-<Courses summer path="/courses/"/>
 
 ## Funding
 
