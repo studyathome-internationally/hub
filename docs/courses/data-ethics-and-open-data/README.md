@@ -28,7 +28,7 @@ language:
 
 media:
   main:
-    src: /assets/img/courses/digits.jpg
+    src: /assets/img/courses/opendata.svg
     alt: Zeros and ones in front of an abstract face.
 
 schedule:
@@ -64,6 +64,7 @@ The course consists of - lectures combined with discussions - project work and e
 
 ### Contents
 
+* Basics of ethical decision making
 * Open Data applications in different fields: Healthcare, Finance, Smart Cities etc.
 * Open Data formats
 * Open Data policies

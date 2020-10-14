@@ -15,7 +15,7 @@ position:
   href: https://www.technikum-wien.at/
   role: Lecturer, Researcher
   department: Department Electronic Engineering
-portrait: /assets/img/partner/uastw/lecturer/iris-nemec.jpg
+portrait: /assets/img/partner/uastw/lecturer/iris-nemec.png
 ---
 
 # Iris Nemec

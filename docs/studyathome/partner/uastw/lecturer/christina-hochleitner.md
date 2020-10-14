@@ -16,16 +16,19 @@ position:
   href: https://www.technikum-wien.at
   role: Scientist
   department: Department Electronic Engineering
-portrait: /assets/img/partner/uastw/lecturer/christina-hochleitner.png
+portrait: /assets/img/partner/uastw/lecturer/christina-hochleitner.jpg
 ---
 
 # Christina Hochleitner
 
-Ich beschäftige mich mit Forschung im Bereich Mensch-Maschine Interaktion: HCI, Usability, User Experience, Interaction und Interface Design, Computer Games und Personas.
+Christina studied Digital Media at the Upper Austria University of Applied Sciences Hagenberg with focus on interactive media.
+In her masters thesis she designed and tested heuristics for the evaluation of tabletop games.
+Christina completed a second master degree in Medialogy at Aalborg University Copenhagen (Denmark) where she concentrated her studies on international usability and usability issues in virtual reality.
+Christina could acquire international working experience during an internship at the University of South Australia where she also conducted usability studies.
 
 <!-- more -->
 
-spezieller Fokus auf Advanced Interfaces, Usability und User Experience für menschliche
-Werte wie Datenschutz, Sicherheit und Vertrauen.
-Dabei ist es mein Ziel, durch meine Forschungstätigkeit Interaktionskonzepte für moderne und innovative Technologien und (Sicherheits)kritische Informationen verständlich für NutzerInnen aufzubereiten und somit der Nutzerin/dem Nutzer die Kontrolle über ihre/seine Daten zu geben.
-Dabei forsche ich auch zur Verwendung von Spielekonzepten und Kleidung (Wearable Computing) in Kombination mit modernen Technologien, sowie die Verwendung von Virtueller Realität zur Simulation von realistischen Umgebungen.
+Since 2008 Christina works in HCI, Usability and User Experience research and consulting, currently working as research coordinator at RISC Software GmbH.
+She previously researched at the Center for Usability Research & Engineering (CURE), celum and AIT – Austrian Institute of Technology.
+Christina has actively contributed to several national and international research projects focusing on privacy, security, trust (uTRUSTit, PrimeLife), social networks (Picos), software engineering (Softnet), HCI issues for special user groups (Apsis4All), advanced interactions (AIR), serious games (HERMES, CATRINA) and image search (PinView).
+In addition, Christina is a CPUX-F certified usability professional.

@@ -4,7 +4,10 @@ layout: Lecturer
 contact:
   mail: lukas.rohatsch@technikum-wien.at
   linkedin: https://www.linkedin.com/in/LukasRohatsch/
-  ORCID iD: https://orcid.org/0000-0002-6168-2717
+  orcid:
+    label: ORCID iD
+    icon: fab-orcid
+    href: https://orcid.org/0000-0002-6168-2717
 experience:
   - Software Engineering
   - Data acquisition and visualization

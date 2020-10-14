@@ -13,24 +13,21 @@ position:
   href: https://www.technikum-wien.at/
   role: Lecturer, Researcher
   department: Department of Software Engeineering & DevOps
-portrait: /assets/img/partner/uastw/lecturer/michael-graf.png
+portrait: /assets/img/partner/uastw/lecturer/michael-graf.jpg
 ---
 
 # Michael Graf
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
-At vero eos et accusam et justo duo dolores et ea rebum.
-Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+Studies in philosophy and theology.
+Master´s degree at the university of Vienna.
+
+Development and coordinaton of the ethics-programme at UAS Technikum Wien since 1995.
 
 <!-- more -->
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
-At vero eos et accusam et justo duo dolores et ea rebum.
-Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
-At vero eos et accusam et justo duo dolores et ea rebum.
+Teaching in several study programmes at the UAS Technikum Wien (Biomedical Engineering, Medical Engineering & eHealth, Tissue Engineering and Regenerative Medicine, Smart Homes and Assistive Technologies, International Business and Engineering, Computer Science, Campus International).
 
-Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
-At vero eos et accusam et justo duo dolores et ea rebum.
-Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+Subjects area and lectures: Data Ethics, Media-Ethics, Internet-Ethics, Bio-Ethics, Medical Ethics, Business Ethics, Philosophy of Technology, Social Media Behaviour, Conflict Management.
+
+Supervises bachelor and master theses in sevaral study programmes.
+Lecturer in trainig programmes for teachers.
