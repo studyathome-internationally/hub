@@ -6,10 +6,9 @@ Vienna summer school for creating an inclusive environment for people with disab
 
 </PdfContainer>
 
-
 ## About
 
-ASSIST HEIDI brings students and clients together, in order to design and prototype an assistive technology solution for people with disabilities in their day-to-day life.
+**ASSIST HEIDI brings students and people with disabilities together**, in order to design and prototype an individual assistive technology solution for them.
 Students will have access to materials, tools and equipment (e.g. 3D printer etc.).
 The Smart Living Lab and the IoT Lab of UAS Technikum Wien provide the perfect environment for the participants.
 This is the best opportunity to get to know people with disabilities, to contribute, develop and implement your own ideas.
@@ -32,7 +31,7 @@ To apply you need to send the following documents to [studyathome@technikum-wien
 ::: note
 
 Participants: 15 students max.  
-Application Deadline: May 30th, 2021  
+Application Deadline: February 28th, 2021  
 Information: [studyathome@technikum-wien.at](mailto:studyathome@technikum-wien.at)
 
 :::
@@ -48,7 +47,10 @@ The Summer School lectures will be held in English.
 **Shadi Abou-Zahra**: Web Accessibility Expert (W3C, Web Accessibility Working Group)  
 **Susanne Buchner-Sabathy**: Expert for people with visual impairment, use of ScreenReaders, digital accessibility  
 **HEIDI**: Human BEeIngs with DisabilIties telling their story  
-**Further experts**: Occupational Therapist of the outpatient clinic for people with disabilities “VKKJ Strebersdorf”, Experts in the field of Smart Homes etc.  
+**Further experts**: Experts in the field of Occupational
+Therapy (VKKJ, outpatient clinic), Smart Homes (UAS
+Technikum Wien) and Security (Czech Technical
+University Prague)  
 
 ## Venue
 
