@@ -66,7 +66,7 @@ This module examines the protocols and standards used to interconnect the variou
 
 :::
 
-The [course material](https://wit-computing.github.io/IoT-Standards-Protocols-2018/) can be found online, the major topics are:
+The [course material](https://tutors-design.netlify.app/course/iot-protocols-2020.netlify.app) can be found online, the major topics are:
 
 - The Internet of Things protocol stack
 - Device level communication bus protocols
@@ -144,7 +144,10 @@ On successful completion of this module, a student will be able to:
 
 ### Equipment
 
+If you don't have the hardware at home ask your lab assistent at the home university or write to [studyathome@technikum-wien.at](mailto:studyathome@technikum-wien.at)
+
 - [Raspberry Pi 3](https://www.raspberrypi.org/)  
    ![Raspberry Pi PCB](./img/raspberry-pi-3.png =x300)
 - [SenseHAT Add-On board](https://www.raspberrypi.org/products/sense-hat/)  
   ![SenseHAT Add-On board](./img/sensehat.png =x300)
+- [SiPy development board + PyCom expansion board](https://tutors-design.netlify.app/lab/iot-protocols-2020.netlify.app/topic-07/book-1/Equipment)
