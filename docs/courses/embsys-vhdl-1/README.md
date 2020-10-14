@@ -8,7 +8,7 @@ tags:
   - Embedded Systems
 
 state: true
-enrollment: true
+enrollment: false
 
 semester: Winter
 license: uastw

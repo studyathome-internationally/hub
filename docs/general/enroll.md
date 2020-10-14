@@ -34,7 +34,7 @@ The course is free of charge but the capacity is limited to 5 participants. The 
 Please ensure to **apply before the application deadline**.
 
 ::: tip Application Deadline
-June, 19^th^ 2020
+October, 30^th^ 2020
 :::
 
 <RequiredData title="Data">
