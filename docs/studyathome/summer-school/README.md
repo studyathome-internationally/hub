@@ -2,9 +2,15 @@
 
 <PdfContainer title="ASSIST HEIDI*" href="/assets/pdf/summer-school/at-summer-school-2021.pdf" thumb="/assets/pdf/summer-school/at-summer-school-2021.png">
 
-Vienna summer school for creating an inclusive environment for people with disabilities.
+**Vienna summer school** for creating an inclusive environment for people with disabilities.  
+
+**JULY 5-13, 2021**
+
+ASSIST HEIDI brings students and people with disabilities together.
 
 </PdfContainer>
+
+\* **H**uman B**E**e**I**ngs with **D**isabil**I**ties and female name.
 
 ## About
 
@@ -46,7 +52,7 @@ The Summer School lectures will be held in English.
 
 **Shadi Abou-Zahra**: Web Accessibility Expert (W3C, Web Accessibility Working Group)  
 **Susanne Buchner-Sabathy**: Expert for people with visual impairment, use of ScreenReaders, digital accessibility  
-**HEIDI**: Human BEeIngs with DisabilIties telling their story  
+**HEIDI**: **H**uman B**E**e**I**ngs with **D**isabil**I**ties telling their story  
 **Further experts**: Experts in the field of Occupational
 Therapy (VKKJ, outpatient clinic), Smart Homes (UAS
 Technikum Wien) and Security (Czech Technical
