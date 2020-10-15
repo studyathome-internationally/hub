@@ -34,13 +34,15 @@ Please select from the list of courses below.
 
 **ASSIST HEIDI** - Vienna [summer school](/studyathome/summer-school/) for creating an inclusive environment for people with disabilities.
 
-![Image of flyer for the ASSIST HEIDI summer school](/assets/pdf/summer-school/at-summer-school-2021.png =x450)
+ASSIST HEIDI brings students and people with disabilities together, in order to design and prototype an individual assistive technology solution for them.
 
-<PdfContainer title="ASSIST HEIDI*" href="/assets/pdf/summer-school/at-summer-school-2021.pdf" thumb="/assets/pdf/summer-school/at-summer-school-2021.png">
+::: image-triplet
+<img :src="$withBase('/assets/pdf/summer-school/summer-school-1.jpg')" title="" alt="">
+<img :src="$withBase('/assets/pdf/summer-school/summer-school-2.jpg')" title="" alt="">
+<img :src="$withBase('/assets/pdf/summer-school/summer-school-3.jpg')" title="" alt="">
+:::
 
-Vienna summer school for creating an inclusive environment for people with disabilities.
-
-</PdfContainer>
+<!-- ![Image of flyer for the ASSIST HEIDI summer school](/assets/pdf/summer-school/at-summer-school-2021.png =x450) -->
 
 ### Winter Semester 2020
 
