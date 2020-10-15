@@ -6,13 +6,16 @@ contact:
   linkedin: https://www.linkedin.com/in/iris-nemec-83140315b/
   reasearchgate: https://www.researchgate.net/profile/Iris_Nemec
 experience:
-  - Orthopaedic
+  - Prosthetic
   - Healthcare
+  - Motion Analysis
+  - Biosignal Analysis
   - Rehabilitation Technology
+  - Assistive Technology
 position:
   href: https://www.technikum-wien.at/
   role: Lecturer, Researcher
-  department: Department Electronic Engineering
+  department: Department Life Science Engineering
 portrait: /assets/img/partner/uastw/lecturer/iris-nemec.png
 ---
 
