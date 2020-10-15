@@ -32,9 +32,15 @@ Please select from the list of courses below.
 
 ### Summer School July 2021
 
-**ASSIST HEIDI** - Vienna summer school for creating an inclusive environment for people with disabilities.
+**ASSIST HEIDI** - Vienna [summer school](/studyathome/summer-school/) for creating an inclusive environment for people with disabilities.
 
-[![Image of flyer for the ASSIST HEIDI summer school](/assets/pdf/summer-school/at-summer-school-2021.png =x450)](/studyathome/summer-school/)
+![Image of flyer for the ASSIST HEIDI summer school](/assets/pdf/summer-school/at-summer-school-2021.png =x450)
+
+<PdfContainer title="ASSIST HEIDI*" href="/assets/pdf/summer-school/at-summer-school-2021.pdf" thumb="/assets/pdf/summer-school/at-summer-school-2021.png">
+
+Vienna summer school for creating an inclusive environment for people with disabilities.
+
+</PdfContainer>
 
 ### Winter Semester 2020
 
