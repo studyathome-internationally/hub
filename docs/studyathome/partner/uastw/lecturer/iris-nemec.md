@@ -13,7 +13,7 @@ experience:
   - Rehabilitation Technology
   - Assistive Technology
 position:
-  href: https://www.technikum-wien.at/
+  href: https://embsys.technikum-wien.at/staff/nemec/index.php
   role: Lecturer, Researcher
   department: Department Life Science Engineering
 portrait: /assets/img/partner/uastw/lecturer/iris-nemec.png
