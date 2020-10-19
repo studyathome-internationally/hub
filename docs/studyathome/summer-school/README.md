@@ -60,10 +60,12 @@ University Prague)
 
 ## Venue
 
-University of Applied Sciences Technikum Wien, Höchstädtplatz 6, 1200 Vienna, Austria
+[University of Applied Sciences Technikum Wien](/studyathome/partner/uastw/), Höchstädtplatz 6, 1200 Vienna, Austria
 
 * Smart Living Lab
 * IoT-Lab
+
+<Youtube id="xBFLoPRD6rE"/>
 
 ## Certificate
 
