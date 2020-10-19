@@ -31,7 +31,7 @@ media:
 
 schedule:
   start: 15.2.2021
-  end: 15.6.2021
+  end: 2.7.2021
   duration: =course duration=
 
 lecturers:
