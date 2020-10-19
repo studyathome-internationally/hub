@@ -3,16 +3,9 @@ sidebar: false
 layout: Lecturer
 contact:
   mail: michael.graf@technikum-wien.at
-  linkedin: https://www.linkedin.com/
-  reasearchgate: https://www.researchgate.net/
-experience:
-  - Experience 1
-  - Experience 2
-  - Experience 3
 position:
-  href: https://www.technikum-wien.at/
-  role: Lecturer, Researcher
-  department: Department of Software Engeineering & DevOps
+  role: Lecturer
+  department: Department of Entrepreneurship & Communications
 portrait: /assets/img/partner/uastw/lecturer/michael-graf.jpg
 ---
 

@@ -3,19 +3,7 @@ sidebar: false
 layout: Lecturer
 contact:
   mail: christina.a.hochleitner@gmail.com
-  linkedin: https://www.linkedin.com/in/
   reasearchgate: https://www.researchgate.net/profile/Christina_Hochleitner
-experience:
-  - Human-Computer Interaction
-  - Usability
-  - User Experience
-  - Interaction Design
-  - Experience ...
-  - Experience n
-position:
-  href: https://www.technikum-wien.at
-  role: Scientist
-  department: Department Electronic Engineering
 portrait: /assets/img/partner/uastw/lecturer/christina-hochleitner.jpg
 ---
 
