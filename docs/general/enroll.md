@@ -30,11 +30,12 @@ Please send an **email** with your **application** by clicking ```Write E-Mail``
 
 Your application must be approved by the home university and will be forwarded to the host university, which will decide about the acceptance within **two weeks**. You will get further information for registration and course enrollment, by email.
 
-The course is free of charge but the capacity is limited to 5 participants. The applications are treated first come, first serve.
-Please ensure to **apply before the application deadline**.
+The course is free of charge but the capacity is limited to 5 participants. The applications are treated first come, first serve. Depending on the study program, students of UAS Technikum Wien might be selected by their average grade, instead.
+
+Please ensure to check the [FAQs](/e-learning-sharing/faq.html) regarding course recognition and **apply before the application deadline**.
 
 ::: tip Application Deadline
-October, 30^th^ 2020
+November, 3^rd^ 2020
 :::
 
 <RequiredData title="Data">
