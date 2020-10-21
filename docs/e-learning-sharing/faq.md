@@ -55,6 +55,11 @@ An assignment is typically a graded exercise, where your result must be uploaded
 
 You are registered as a regular student at the host university and have the same rights and duties as such. If you fail, you will have to redo respective assignments and/or exams until you pass the course. The number of attempts and dates should be announced by the lecturers of the course. If all attempts fail, you will not be able to get grades for recognition at your home university.
 
+::: note
+Students of UAS Technikum Wien need to provide a successful grade certificate until April, 15th
+or November, 15th of the subsequent semester, otherwise they might loose a study year.
+:::
+
 ## Course Recognition
 
 ### Will I get a grade certificate?
@@ -72,7 +77,7 @@ Yes. The universities of the partner network have agreed to recognize the course
 
 ### How do I get the course recognized by my university?
 
-The host university will send a digital copy to the International Office of the home university. The International Office will do the course recognition for you. In case of problems contact your International Office or [studyathome@technikum-wien.at](mailto:studyathome@technikum-wien.at).
+The host university will send a digital copy to the International Office of the home university. The International Office will organize the course recognition for you. In case of problems contact your International Office or [studyathome@technikum-wien.at](mailto:studyathome@technikum-wien.at).
 
 ### How are the grades converted?
 
