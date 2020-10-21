@@ -108,23 +108,27 @@ On successful completion of this module, a student will be able to:
 ## Assessment
 
 <!-- Describe Assessment procedure verbally -->
+The course consists of several labs which can be done from at home if you have the respective [equipment](#equipment).
 
-#### Example Assignment
+Additionally, the student will have to do a project assignment in a virtual team.
+
+#### Lab
 
 <!-- Describe an example assignment definition -->
+Please have a look at the [lab descriptions](https://tutors-design.netlify.app/labs/iot-protocols-2020.netlify.app).
 
-#### Final Exam
+#### Project Assignment
 
 <!-- The final exam will be ... -->
+Please have a look at the [project assignment description](https://tutors-design.netlify.app/topic/iot-protocols-2020.netlify.app/topic-000-Assessments).
 
 ### Methods
 
 | Type                      | Points/Percent |
 | :------------------------ | :------------- |
 | **Continuous Assessment** |                |
-| Lab Report                | 50%            |
-| In-Class Assessment       | 25%            |
-| Assignment                | 25%            |
+| Lab                | 25%            |
+| Project Assignment                | 75%            |
 
 ### Criteria
 
