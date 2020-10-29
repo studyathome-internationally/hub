@@ -35,7 +35,7 @@ The course is free of charge but the capacity is limited to 5 participants. The 
 Please ensure to check the [FAQs](/e-learning-sharing/faq.html) regarding course recognition and **apply before the application deadline**.
 
 ::: tip Application Deadline
-November, 3^rd^ 2020
+November, 5^th^ 2020
 :::
 
 <RequiredData title="Data">
