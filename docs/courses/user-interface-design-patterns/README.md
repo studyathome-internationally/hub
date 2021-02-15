@@ -50,6 +50,58 @@ university:
 The purpose of the course is to introduce the basic problems of user interfaces and approaches of how to solve them for different types of user interfaces and user interactions.
 :::
 
+## Testimonials
+
+::: testimonial WS2020 Julius Duin
+
+* Course materials in English
+* 2 Lectures each week á 2-3h
+* 7 Assignments á 3-5h
+* 2 Exams á practical (2h programming) and theoretical (20min exam) parts
+
+---
+
+<div style="font-style: italic; padding: 0 0.5rem;">
+
+"The used course materials were in **English**, except for a few of the example test we got, but that didn't impose huge difficulties while learning.
+
+During the first weeks, we had several lectures on differing weekdays.
+Afterwards we had lectures on every **Monday** at 10 a.m. and every **Friday** at 2 p.m., for about **2-3 hours** each, regularly, except for few occasions.
+Regular lectures started from mid of October and were finished at the end of December.
+After the regular, theoretical lectures, we had practical programming lectures every Friday until the end of the course.
+Some of the lectures took place during Austrian holidays (Christmas).
+
+We had around **7 assignments** during December and January.
+Each of them took several hours to complete.
+The assignments were extensive, but perfectly feasible.
+The basic principle was usually the same, requiring us to find the best design pattern for a given user interface.
+
+Additionally, there were two bigger exams.
+The **first exam** was on the 5^th^ of December and the **second exam** on the 22^nd^ of January.
+Each exam consisted of a practical part for around two hours and a theoretical part for twenty minutes."
+
+</div>
+
+:::
+
+<!-- ## Schedule
+
+::: schedule WS2020
+
+### Lectures
+
+| Weekday | Start  | Duration  |
+| ------- | ------ | --------  |
+| Mo      | 10:00  | 2-3 hours |
+| Fr      | 14:00  | 2-3 hours |
+
+### Exams
+
+* Exam 1: 5^th^ December 2020
+* Exam 2: 22^nd^ January 2021
+
+::: -->
+
 ## Overview
 
 ### Contents
@@ -79,6 +131,8 @@ The purpose of the course is to introduce the basic problems of user interfaces 
 - Interaction with data lists
 - Interaction in social media
 - Interaction in mobile devices, features of the interaction in mobile devices, interaction patterns.
+
+## Schedule
 
 ### Outcomes
 
