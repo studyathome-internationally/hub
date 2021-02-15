@@ -3,6 +3,7 @@ build/
 node_modules/
 gh-pages/
 *.code-workspace
-TODO
+TODO.md
+acc/
 
 # Allow
