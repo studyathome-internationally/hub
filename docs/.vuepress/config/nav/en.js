@@ -1,7 +1,8 @@
 module.exports = [
   { text: "Courses", link: "/courses/" },
   { text: "eLearning Sharing", link: "/e-learning-sharing/" },
-  { text: "Summer School", link: "/studyathome/summer-school/"},
+  { text: "Virtual Student Interaction", link: "/virtual-student-interaction/" },
+  { text: "Summer School", link: "/studyathome/summer-school/" },
   {
     text: "General",
     items: [

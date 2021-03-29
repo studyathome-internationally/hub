@@ -7,7 +7,7 @@ The project **"StudyATHome Internationally - International Teaching Setup for St
 In course of the project, the following activities will be done:
 
 * **Internationalization at home**
-  * International, virtual project teams of students in project-based courses
+  * International, [virtual student interaction](/virtual-student-interaction/) (formerly referred to as _Virtual Project Teams_) in project-based courses
   * [Sharing of eLearning courses](../e-learning-sharing/) between partner universities
 * **AsTeRICS eLearning**
   * [AsTeRICS Webpage](https://www.asterics.eu): Development of a new responsive and accessible web page for AsTeRICS users and developers.
