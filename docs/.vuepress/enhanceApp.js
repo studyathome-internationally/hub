@@ -1,5 +1,3 @@
-// import VueMatomo from "vue-matomo";
-
 export default async ({
   Vue, // the version of Vue being used in the VuePress app
   options, // the options for the root Vue instance
@@ -14,27 +12,5 @@ export default async ({
     for (const name in pageComponents) {
       Vue.component(name, pageComponents[name]);
     }
-  }
-
-  if (!isServer) {
-    // Matomo Analytics
-    const VueMatomo = await import("vue-matomo");
-    Vue.use(VueMatomo, {
-      host: "https://analytics.wbt.wien/",
-      siteId: 6,
-      // trackerFileName: "matomo",
-      router,
-      // enableLinkTracking: true,
-      // requireConsent: false,
-      // trackInitialView: true,
-      // disableCookies: false,
-      // enableHeartBeatTimer: false,
-      // heartBeatTimerInterval: 15,
-      // debug: false,
-      // userId: undefined,
-      // cookieDomain: undefined,
-      // domains: undefined,
-      // preInitActions: [],
-    });
   }
 };

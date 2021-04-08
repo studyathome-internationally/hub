@@ -9,7 +9,7 @@
     "access": "public"
   },
   "dependencies": {
-    "@studyathome-internationally/vuepress-theme-hub": "1.0.5-beta.11",
+    "@studyathome-internationally/vuepress-theme-hub": "1.0.6",
     "@textlint-rule/textlint-rule-no-unmatched-pair": "^1.0.7",
     "lint-staged": "^9.5.0",
     "remark-cli": "^7.0.1",
@@ -25,7 +25,6 @@
     "textlint-rule-stop-words": "^1.0.18",
     "textlint-rule-terminology": "^1.1.30",
     "textlint-rule-write-good": "^1.6.2",
-    "vue-matomo": "^3.14.0-0",
     "vuepress": "1.8.1"
   },
   "scripts": {
