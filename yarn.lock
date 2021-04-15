@@ -929,10 +929,10 @@
   resolved "https://registry.yarnpkg.com/@sindresorhus/is/-/is-0.14.0.tgz#9fb3a3cf3132328151f353de4632e01e52102bea"
   integrity sha512-9NET910DNaIPngYnLLPeg+Ogzqsi9uM4mSboU5y6p8S5DzMTVEsJZrawi+BoDNUVBa2DhJqQYUFvMDfgU062LQ==
 
-"@studyathome-internationally/vuepress-theme-hub@1.0.5-beta.11":
-  version "1.0.5-beta.11"
-  resolved "https://registry.yarnpkg.com/@studyathome-internationally/vuepress-theme-hub/-/vuepress-theme-hub-1.0.5-beta.11.tgz#f0de4ecead0e7aafc3156009ded86df21d3b661d"
-  integrity sha512-2dDVE29TkgVAfbAOnYOqfZuAPGksgyyasb4pkWhI1FERAfFM8rU7/ktDr4kk+pLnCkUq8H1zLt2m30tlFWFnZA==
+"@studyathome-internationally/vuepress-theme-hub@1.0.7":
+  version "1.0.7"
+  resolved "https://registry.yarnpkg.com/@studyathome-internationally/vuepress-theme-hub/-/vuepress-theme-hub-1.0.7.tgz#2852a74d90c7db8b08aa0e215087c59fbfdcf8ef"
+  integrity sha512-HRq0QzwyvOlIC/wTSZfKWg+xxdVpfRGTQJg1x1gc27rYMX5qtk/i8a06IqWhFEiBT/kC6/zZxKNTCBfRVPSxZQ==
   dependencies:
     "@fortawesome/fontawesome-free" "^5.15.2"
     "@fortawesome/fontawesome-svg-core" "^1.2.34"
@@ -959,6 +959,7 @@
     uri-js "^4.4.1"
     vuepress "1.8.1"
     vuepress-plugin-directory-classifier "^0.1.0"
+    vuepress-plugin-matomo "^1.0.2"
     vuex "^3.6.2"
     youtube-player "^5.5.2"
 
@@ -10637,6 +10638,11 @@ vuepress-plugin-directory-classifier@^0.1.0:
   integrity sha512-vShwcN0xy87LGvSKKKklA0zGcfS0d4sesZsUafEMGXLjCsb6wy+UVdyBNORGzBiBLa7PQDZJOSilFHckVDWacQ==
   dependencies:
     vuepress "^1.4.1"
+
+vuepress-plugin-matomo@^1.0.2:
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/vuepress-plugin-matomo/-/vuepress-plugin-matomo-1.0.2.tgz#04ce864f4f10dce14f13df76416fcaabdfdc9517"
+  integrity sha512-4hTvIhz7r1nZz5U9IqH/OHfkXE5r8+RHh+EY9Fj5t5J4x2s/pr7rAgvz6y5VN4nWP45Y1a9oarUsvJSkl2De+A==
 
 vuepress-plugin-smooth-scroll@^0.0.3:
   version "0.0.3"
