@@ -6,8 +6,8 @@ tags:
   - Computer Vision
   - Image Processing
 
-layout: NotFound
-state: false
+# layout: NotFound
+state: true
 enrollment: false
 
 semester: Winter
@@ -26,8 +26,8 @@ language:
 
 media:
   main:
-    src: =media src=
-    alt: =media alt=
+    src: /assets/img/courses/machine-vision.jpg
+    alt: Human eye surrounded by computational data
 
 schedule:
   start: 15.06.2021
