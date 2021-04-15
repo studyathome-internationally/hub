@@ -80,9 +80,9 @@ The purpose of the course is to introduce the basic problems of user interfaces 
 - Interaction in social media
 - Interaction in mobile devices, features of the interaction in mobile devices, interaction patterns.
 
-## Testimonials
+### Testimonials
 
-::: testimonial WS2020 Julius Duin  
+::: testimonial WS2020 Julius Duin
 
 * Course materials in English
 * 2 Lectures each week á 2-3h
@@ -110,8 +110,6 @@ The **first exam** was on the 5^th^ of December and the **second exam** on the 2
 Each exam consisted of a practical part for around two hours and a theoretical part for twenty minutes."
 
 :::
-
-## Schedule
 
 ### Outcomes
 

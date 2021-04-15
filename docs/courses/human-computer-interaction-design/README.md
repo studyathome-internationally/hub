@@ -6,8 +6,8 @@ tags:
   - User Interface
   - Interaction Design
 
-layout: NotFound
-state: false
+# layout: NotFound
+state: true
 enrollment: false
 
 semester: Summer
@@ -26,8 +26,8 @@ language:
 
 media:
   main:
-    src: =media src=
-    alt: =media alt=
+    src: /assets/img/courses/human-computer-interaction.jpg
+    alt: User interacting with buttons on a touch panel
 
 schedule:
   start: 15.06.2021
