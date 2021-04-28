@@ -4,13 +4,17 @@
 
 **Vienna summer school** for creating an inclusive environment for people with disabilities.  
 
-**JULY 5-13, 2021**
+<!-- **JULY 5-13, 2021** -->
 
 ASSIST HEIDI brings students and people with disabilities together.
 
 </PdfContainer>
 
 \* **H**uman B**E**e**I**ngs with **D**isabil**I**ties and female name.
+
+::: danger Attention: New Dates!
+The summer school ASSIST HEIDI was postponed from summer 2021 to 2022.
+:::
 
 ## About
 
@@ -34,13 +38,13 @@ To apply you need to send the following documents to [studyathome@technikum-wien
 * Letter of Motivation
 * Confirmation of Enrollment (at your home university)
 
-::: note
+<!-- ::: note
 
 Participants: 15 students max.  
 Application Deadline: **April 9th, 2021** (*extended*)  
 Information: [studyathome@technikum-wien.at](mailto:studyathome@technikum-wien.at)
 
-:::
+::: -->
 
 ## Target Group
 
