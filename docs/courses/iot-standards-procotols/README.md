@@ -142,9 +142,9 @@ Please have a look at the [project assignment description](https://tutors-design
 
 ## Requirements
 
-<!-- ### Skills
+### Skills
 
-- ?? -->
+* Programming Skills
 
 ### Equipment
 
