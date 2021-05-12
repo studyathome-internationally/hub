@@ -109,8 +109,8 @@ There will be a multiple choice test reflecting all areas of the course contents
 
 | Type          | Points/Percent |
 | :------------ | :------------- |
-| Assignments         | 80%            |
-| Exam    | 20%            |
+| Assignments   | 80%            |
+| Exam          | 20%            |
 
 ### Criteria
 

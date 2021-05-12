@@ -3,14 +3,13 @@
 sidebar: auto
 
 tags:
-  - =tag=
-  - Template
+  - Solar Energy
+  - Building Automation
 
-layout: NotFound
-state: false
-enrollment: false
+state: true
+enrollment: true
 
-semester: =Summer|Winter=
+semester: Winter
 license: =license=
 link: =course link=
 ects: =num=
@@ -28,11 +27,11 @@ language:
 
 media:
   main:
-    src: =media src=
-    alt: =media alt=
-  description:
-    src: =media src=
-    alt: =media alt=
+    src: /assets/img/courses/building-and-solar-energy.jpg
+    alt: Solar panels with sun.
+  # description:
+  #   src: =media src=
+  #   alt: =media alt=
 
 schedule:
   start: =course start=
@@ -40,16 +39,15 @@ schedule:
   duration: =course duration=
 
 lecturers:
-  - /path/to/lecturer/page1.html
-  - /path/to/lecturer/page2.html
+  - /studyathome/partner/uastw/lecturer/momir-tabakovic.html
 
 university:
-  page: /path/to/university/
+  page: /studyathome/partner/uastw/
   faculty: =university faculty=
   program: =university program=
 ---
 
-# Template
+# Building and Solar Energy
 
 ::: slot information
 [Lorem ipsum](https://loremipsum.de/) dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
@@ -71,9 +69,9 @@ At vero eos et accusam et.
 
 Participants of this course will learn how to
 
-- Course outcome 1
-- Course outcome 2
-- Course outcome 3
+- Design digital integrated circuits and systems with the hardware description language VHDL and FPGAs as target Technology
+- Design and implement multi-task embedded software applications under a real-time operating system which is running on a microcontroller platform
+- Write a bachelor thesis under supervision in a technical field (which includes all practical work)
 
 ### Methods
 

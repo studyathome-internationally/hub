@@ -1,5 +1,5 @@
 ---
-name: Brendan Jackman
+sidebar: false
 layout: Lecturer
 contact:
   tel: +353 51 834087
