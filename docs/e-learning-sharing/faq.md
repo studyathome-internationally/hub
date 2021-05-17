@@ -11,15 +11,22 @@ On this page **F**requently **A**sked **Q**uestions about eLearning Sharing can 
 
 ### How can I enroll for a course?
 
-In order to enroll for a course, you must send an application to the StudyATHome team. The application will be approved by the coordinators of the home university and forwarded to the coordinators of the host university, by e-mail.
+In order to enroll for a course, you must send an application to the StudyATHome team. **After the application deadline**, the application will be approved (**nomination**) by the coordinators of the home university (see [selection criteria](#what-are-the-applicant-selection-criteria)) and forwarded to the coordinators of the host university, by e-mail.
 
 You can enroll for a course by clicking the ```Enroll Now``` button on the details page of the course. Then you will get to the [enrollment page](/courses/enroll/). 
 At the enrollment page you will have to 
 
-1. Select the course
-2. Select the home university (your university)
+1. Select the home university (your university)
+2. Select the course
 3. Consent to processing of personal data
 4. Click on ```Write E-Mail```
+
+### What are the applicant selection criteria?
+
+The applicants will be nominated by their international coordinators using the following criteria:
+
+1. Students must be in the 3^rd^ semester when doing the virtual exchange. The application can be done earlier already.
+2. Grade Point Average (arithmetic average) of previously finished semester. E.g. When applying for an exchange in the 3^rd^ semester, the grades of the 1^st^ semester will be considered.
 
 ### The course starts before my semester start. Can I enroll nevertheless?
 
@@ -31,11 +38,11 @@ No certification is required. English language proficiency is deemed acceptable 
 
 ### Are the courses for free?
 
-Yes, the courses are free of charge.
+Yes, the courses are **free of charge**.
 
 ### How many participants will be accepted?
 
-The courses typically have a capacity of 5 participants.
+The courses typically have a capacity of **5 participants**.
 
 ## Grading
 
@@ -56,19 +63,20 @@ An assignment is typically a graded exercise, where your result must be uploaded
 You are registered as a regular student at the host university and have the same rights and duties as such. If you fail, you will have to redo respective assignments and/or exams until you pass the course. The number of attempts and dates should be announced by the lecturers of the course. If all attempts fail, you will not be able to get grades for recognition at your home university.
 
 ::: note
-Students of UAS Technikum Wien need to provide a successful grade certificate until April, 15th
-or November, 15th of the subsequent semester, otherwise they might loose a study year.
+Please be aware that failing the course will eventually require you to do a regular course of your study program, instead. This could impact your overall study progress.
 :::
+
+**In case you failed the first attempt, please inform your international coordinator and [studyathome@technikum-wien.at](mailto:studyathome@technikum-wien.at)**
 
 ## Course Recognition
 
 ### Will I get a grade certificate?
 
-Yes. As soon as you have passed the course successfully, you will get a grade certificate issued by the host university. This can take up to 5 weeks after the release of the results online.
+Yes. As soon as you have passed the course successfully, you will get a grade certificate (**Transcript of Records**) issued by the host university. This can take up to 5 weeks after the release of the results online.
 
-### How do I get my course certificate?
+### How do I get my grade certificate?
 
-The host university will send a digital copy to the International Office of the home university.
+The host university will send a digital copy of the grade certificate to the International Office of the home university.
 In case of problems contact: [studyathome@technikum-wien.at](mailto:studyathome@technikum-wien.at).
 
 ### Is the course recognized by my university?
@@ -77,7 +85,26 @@ Yes. The universities of the partner network have agreed to recognize the course
 
 ### How do I get the course recognized by my university?
 
-The host university will send a digital copy to the International Office of the home university. The International Office will organize the course recognition for you. In case of problems contact your International Office or [studyathome@technikum-wien.at](mailto:studyathome@technikum-wien.at).
+The host university will send a digital copy of the grade certificate to the International Office of the home university.
+Afterwards, you will have to follow the internal process of grade recognition.
+
+In case of problems contact your International Office or [studyathome@technikum-wien.at](mailto:studyathome@technikum-wien.at).
+
+### Is there a deadline for the grade recognition?
+
+The grade recognition process should be finished until April, 15th or November, 15th of the subsequent semester.
+
+**In case you failed the first attempt, please inform your international coordinator and [studyathome@technikum-wien.at](mailto:studyathome@technikum-wien.at)**
+
+### Which documents do I need for grade recognition?
+
+This depends on the internal process for grade recognition at your home university.
+
+In general, this will be:
+
+* The grade certificate (Transcript of Records)
+* A completed form for grade recognition
+<!-- * A Learning Agreement -->
 
 ### How are the grades converted?
 
@@ -135,8 +162,9 @@ Typically the course starts with a video conference. The lecturer may also decid
 
 ### Do I have to travel to the partner university?
 
-No, but you could combine it with a short-term visit at the host university.
-If you consider travelling abroad, ask your International Office for funding opportunities.
+**In general no**, but there might be courses where attendance is required for some days. Anyway, you could combine the virtual exchange with a short-term visit at the host university.
+
+If you consider travelling abroad, ask your International Office for funding opportunities or ask [studyathome@technikum-wien.at](mailto:studyathome@technikum-wien.at)
 
 ## Support
 
