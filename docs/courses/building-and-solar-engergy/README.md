@@ -22,8 +22,8 @@ degrees:
   - =Master=
   - =Ph.D.=
 language:
-  - =Language=
-  - =Language=
+  - =Language 1=
+  - =Language 2=
 
 media:
   main:
@@ -50,30 +50,35 @@ university:
 # Building and Solar Energy
 
 ::: slot information
-[Lorem ipsum](https://loremipsum.de/) dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
-At vero eos et accusam et justo duo dolores et ea rebum.
-Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
-At vero eos et accusam et.
+Design of a solar system for a housing complex including technical parameter, contribution to the local electricity system including heating and mobility needs; economic calculation, ecologic impact.
 :::
 
 ## Overview
 
 ### Contents
 
-- Course content 1
-- Course content 2
-- Course content 3
+- Energy characterization and energy planning of solar building
+- Designing a building-integrated photovoltaic installation by software tools
+- Measurement and analysis of solar systems in the lab
+- Best practice of solar design (Excursion)
+- Overview of the market, legislative and drivers for solar energy and buildings
 
 ### Outcomes
 
 Participants of this course will learn how to
 
-- Design digital integrated circuits and systems with the hardware description language VHDL and FPGAs as target Technology
-- Design and implement multi-task embedded software applications under a real-time operating system which is running on a microcontroller platform
-- Write a bachelor thesis under supervision in a technical field (which includes all practical work)
+- Design preliminary concepts and design of energy efficient building supported by solar energy
+- Simulation of a solar energy system
+- Possibilities of building integrated photovoltaics and construction design
+- Overview of the market, drivers, stakeholders for integration of affordable renewable energy systems
 
 ### Methods
+
+<!-- FIXME -->
+
+Project-Based Learning method.
+Combined with lectures and practical teaching on the remote laboratories.
+Supported by virtual learning environment and simulation.
 
 | Type        | Effort \[h\] |
 | :---------- | :----------- |
@@ -81,37 +86,62 @@ Participants of this course will learn how to
 | Practical   | 40           |
 | Lecture     | 40           |
 
+### Materials
+
+| Author                                          | Title                                                                                                      | Publisher    | Year |
+| :---------------------------------------------- | :--------------------------------------------------------------------------------------------------------- | :----------- | :--- |
+| Deo Prasad, Mark Snow                           | Designing with Solar Power: A Source Book for Building Integrated Photovoltaics (BIPV)                     | Routledge    | 2005 |
+| Jarek Kurnitski (Ed.)                           | Cost Optimal and Nearly Zero-Energy Buildings (nZEB): Definitions, Calculation Principles and Case Studies | Springer     | 2013 |
+| Andreas Athienitis (Ed.), William O'Brien (Ed.) | Modeling, Design, and Optimization of Net-Zero Energy Buildings                                            | Ernst & Sohn | 2015 |
+| Simon Roberts, Nicolò Guariento                 | Building Integrated Photovoltaics: A Handbook                                                              | Birkhäuser   | 2009 |
+
+
+
 ## Assessment
 
 ### Methods
 
-| Type          | Points/Percent |
-| :------------ | :------------- |
-| Tests         | 13%            |
-| Seminar paper | 12%            |
-| Project       | 13%            |
-| Tasks         | 12%            |
-| Final exam    | 50%            |
+<!-- FIXME -->
+
+| Type                         | Points/Percent |
+| :--------------------------- | :------------- |
+| Lecture notes                | 33%            |
+| Grading of practical session | 33%            |
+| Project reports              | 34%            |
 
 ### Criteria
 
 | Grade | Grade (letter) | Scale            |
 | :---- | :------------- | :--------------- |
-| 5     | F              | up to 50 points  |
-| 6     | E              | 51 to 60 points  |
-| 7     | D              | 61 to 70 points  |
-| 8     | C              | 71 to 80 points  |
-| 9     | B              | 81 to 90 points  |
-| 10    | A              | 91 to 100 points |
+| 5     | Nicht Genügend | < 50 points      |
+| 4     | Genügend       | 50 to 62 points  |
+| 3     | Befriedigend   | 63 to 74 points  |
+| 2     | Gut            | 75 to 87 points  |
+| 1     | Sehr gut       | 88 to 100 points |
 
 ## Requirements
 
 ### Skills
 
-- Common sense
-- Intermediate calculating skills
+Basic knowledge at least in one or two of the following topics:
+
+- Building construction
+- Solar energy system
+- Energy planning of buildings
 
 ### Equipment
 
-- Pencil(s)
-- Calculator
+none
+
+## Attendance
+
+Attendance is mandatory in this course, only 20% of absence is accepted.
+
+The course starts with a compulsary 3-day attendance block in September (Calendar Week xx) including an excursion to yyy.
+Afterwards, the course can be continued virtually.
+Please ask your outgoing coordinator (International Office) for funding possibilities or write to studyathome@technikum-wien.at.
+
+
+## Comments
+
+Mixed: Incoming students in collaboration with FHTW Master students - Project-based learning on real city development project from city of Vienna (MA20) or the city of Korneuburg - Integration in the curricula of the Master program of renewable energy
