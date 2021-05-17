@@ -3,13 +3,13 @@
 Please select from the list of courses below.
 <!-- <Courses /> -->
 
-## Summer Semester 2021
-
-<Courses summer/>
-
-## Winter Semester 2020
+## Winter Semester 2021
 
 <Courses sort="name" winter/>
+
+## Summer Semester 2021
+
+<Courses sort="name" summer/>
 
 <!-- ## Sort by Date
 
