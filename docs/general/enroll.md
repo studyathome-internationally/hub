@@ -26,17 +26,26 @@ enrollment:
 
 # Course Enrollment
 
-Please send an **email** with your **application** by clicking ```Write E-Mail``` below.
-
-Your application must be approved by the home university and will be forwarded to the host university, which will decide about the acceptance within **two weeks**. You will get further information for registration and course enrollment, by email.
-
-The course is free of charge but the capacity is limited to 5 participants. The applications are treated first come, first serve. Depending on the study program, students of UAS Technikum Wien might be selected by their average grade, instead.
-
-Please ensure to check the [FAQs](/e-learning-sharing/faq.html) regarding course recognition and **apply before the application deadline**.
-
 ::: tip Application Deadline
 June, 2^nd^ 2021
 :::
+
+Please send an **email** with your **application** by clicking ```Write E-Mail``` below. The course is **free of charge** but the capacity is limited to **5 participants**.
+
+Please ensure to check the [FAQs](/e-learning-sharing/faq.html) regarding course recognition and **apply before the application deadline**.
+
+## Application Process
+
+**After the deadline**, your application must be approved by the home university and will be forwarded to the host university, which will decide about the acceptance within **two weeks**. You will get further information for registration and course enrollment, by email.
+
+## Selection Criteria
+
+The applicants will be nominated by their international coordinators using the following criteria:
+
+1. Students must be in the 3^rd^ semester when doing the virtual exchange. The application can be done earlier already.
+2. Grade Point Average (arithmetic average) of previously finished semester. E.g. When applying for an exchange in the 3^rd^ semester, the grades of the 1^st^ semester will be considered.
+
+## Application
 
 <RequiredData title="Data">
 
@@ -89,8 +98,10 @@ You can revoke this consent at any time, but this will cancel your participation
 
 </Disclaimer>
 
-<CourseSelection path="/courses/" placeholder="-- Please choose a course --"/>
+Select home university:
 <UniversitySelection path="/studyathome/partner/" placeholder="-- Please choose your home university --"/>
+Select course (you cannot select courses of your home university):
+<CourseSelection path="/courses/" placeholder="-- Please choose a course --"/>
 
 <Confirmation>
 
