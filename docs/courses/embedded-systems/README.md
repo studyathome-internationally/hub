@@ -118,4 +118,4 @@ Basic knowledge of
 ### Equipment
 
 - Laptop with Internet Browser
-- Hardware will be provided by the university
+- Hardware will be provided by the University of Applied Sciences Technikum and sent by mail to the virtual students.
