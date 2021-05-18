@@ -72,7 +72,7 @@ Please be aware that failing the course will eventually require you to do a regu
 
 ### Will I get a grade certificate?
 
-Yes. As soon as you have passed the course successfully, you will get a grade certificate (**Transcript of Records**) issued by the host university. This can take up to 5 weeks after the release of the results online.
+Yes. As soon as you have passed the course successfully, you will get a grade certificate ([**Transcript of Records**](/e-learning-sharing/glossary.html#transcript-of-records)) issued by the host university. This can take up to 5 weeks after the release of the results online.
 
 ### How do I get my grade certificate?
 
