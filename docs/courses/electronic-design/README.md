@@ -3,7 +3,7 @@
 sidebar: auto
 
 tags:
-  - Electornic Circuits
+  - Electronic Circuits
   - Simulation
   - Passive/Active Components
 
@@ -45,11 +45,10 @@ university:
 # Electronic Design
 
 ::: slot information
-[Lorem ipsum](https://loremipsum.de/) dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
-At vero eos et accusam et justo duo dolores et ea rebum.
-Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
-At vero eos et accusam et.
+This module teaches students the basic design of analog and digital electronic circuits.
+Designing a circuit includes specification, calculation, simulation and documentation of applications.
+They will learn to deploy passive and active components, to read and interpret datasheets and to verify the design by simulations.
+The focus is on the usage of operational amplifiers.
 :::
 
 ## Overview
@@ -93,12 +92,12 @@ Participants of this course will learn how to
 
 ### Methods
 
-| Type                                           | Points/Percent |
-| :--------------------------------------------- | :------------- |
-| Course immanent assessment method and end exam | 25%            |
-| Technical Report                               | 25%            |
-| Graded exercises                               | 25%            |
-| Final assessment                               | 25%            |
+| Type                                                     | Points/Percent |
+| :------------------------------------------------------- | :------------- |
+| Hand in AC exercise                                      | 10 points      |
+| Quiz combinatorial logic                                 | 10 points      |
+| Write a technical report                                 | 30 points      |
+| Exam on campus (design and simulation of an OPA circuit) | 50 points      |
 
 ### Criteria
 
@@ -112,4 +111,4 @@ Participants of this course will learn how to
 
 ## Requirements
 
-none
+No specific requirements.

@@ -14,6 +14,7 @@ experience:
   - Electrical Engineering
   - Control Systems
   - Mikrocontroller
+  - Computer Vision
 position:
   href: https://embsys.technikum-wien.at/staff/beneder/index.php
   role: Vice Rector, Program Director, Lecturer
@@ -23,12 +24,7 @@ portrait: /assets/img/partner/uastw/lecturer/christian-kollmitzer.jpg
 
 # Christian Kollmitzer
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
-At vero eos et accusam et justo duo dolores et ea rebum.
-Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
+Christian Kollmitzer graduated 1981 at the Technical University Vienna, worked for 13 years in electronic development with Philips and joined the University of applied sciences Technikum Wien 1994.
+He teaches electronics, control systems and computer vision.
 
 <!-- more -->
-
-At vero eos et accusam et justo duo dolores et ea rebum.
-Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
