@@ -30,7 +30,7 @@ enrollment:
 June, 2^nd^ 2021
 :::
 
-Please send an **email** with your **application** by clicking ```Write E-Mail``` below. The course is **free of charge** but the capacity is limited to **5 participants**.
+Please send an **email** with your **application** by clicking ```Write E-Mail``` below. The course is **free of charge** but the capacity is limited (see course description).
 
 Please ensure to check the [FAQs](/e-learning-sharing/faq.html) regarding course recognition and **apply before the application deadline**.
 
@@ -98,10 +98,10 @@ You can revoke this consent at any time, but this will cancel your participation
 
 </Disclaimer>
 
-Select home university:
-<UniversitySelection path="/studyathome/partner/" placeholder="-- Please choose your home university --"/>
 Select course (you cannot select courses of your home university):
 <CourseSelection path="/courses/" placeholder="-- Please choose a course --"/>
+Select home university:
+<UniversitySelection path="/studyathome/partner/" placeholder="-- Please choose your home university --"/>
 
 <Confirmation>
 
