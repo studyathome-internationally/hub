@@ -46,7 +46,7 @@ university:
   program: Software Engineering & DevOps
 ---
 
-# Data Ethics & Open Data
+# Data Ethics & Open Data (Summer)
 
 ::: slot information
 
