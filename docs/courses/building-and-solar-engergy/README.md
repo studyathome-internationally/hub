@@ -12,18 +12,16 @@ enrollment: true
 semester: Winter
 license: =license=
 link: =course link=
-ects: =num=
+ects: 6
 
 attendees:
-  total: =num=
-  free: =num=
+  total: 2
+  free: 2
 degrees:
-  - =Bachelor=
-  - =Master=
-  - =Ph.D.=
+  - Bachelor
+  - Master
 language:
-  - =Language 1=
-  - =Language 2=
+  - English
 
 media:
   main:
