@@ -97,7 +97,7 @@ Participants of this course will learn how to
 | Hand in AC exercise                                      | 10 points      |
 | Quiz combinatorial logic                                 | 10 points      |
 | Write a technical report                                 | 30 points      |
-| Exam on campus (design and simulation of an OPA circuit) | 50 points      |
+| Final Exam (design and simulation of an OPA circuit) | 50 points      |
 
 ### Criteria
 
