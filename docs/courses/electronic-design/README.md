@@ -59,7 +59,7 @@ The focus is on the usage of operational amplifiers.
 - active electronic devices
 - analysis of data-sheets
 - simulation of electronic circuits
-- synthesis and analysis of electronic circuits
+- design and simulation of electronic circuits
 
 ### Outcomes
 
@@ -74,9 +74,9 @@ Participants of this course will learn how to
 
 | Type        | Effort \[h\] |
 | :---------- | :----------- |
-| Independent | 40           |
-| Practical   | 40           |
-| Lecture     | 40           |
+| Independent | 120          |
+| Practical   | 0            |
+| Lecture     | 8            |
 
 ### Materials
 
@@ -97,7 +97,7 @@ Participants of this course will learn how to
 | Hand in AC exercise                                      | 10 points      |
 | Quiz combinatorial logic                                 | 10 points      |
 | Write a technical report                                 | 30 points      |
-| Final Exam (design and simulation of an OPA circuit) | 50 points      |
+| Final Exam (design and simulation of an OPA circuit)     | 50 points      |
 
 ### Criteria
 
