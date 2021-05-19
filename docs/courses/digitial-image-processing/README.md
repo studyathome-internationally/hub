@@ -10,7 +10,7 @@ tags:
   - Computer Vision
 
 state: true
-enrollment: true
+enrollment: false
 
 semester: Summer
 license: =license=
