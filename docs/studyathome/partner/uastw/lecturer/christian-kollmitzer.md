@@ -16,7 +16,7 @@ experience:
   - Mikrocontroller
   - Computer Vision
 position:
-  href: https://embsys.technikum-wien.at/staff/beneder/index.php
+  href: https://www.technikum-wien.at/en/staff/christian-kollmitzer/
   role: Vice Rector, Program Director, Lecturer
   department: Department Electronic Engineering
 portrait: /assets/img/partner/uastw/lecturer/christian-kollmitzer.jpg
