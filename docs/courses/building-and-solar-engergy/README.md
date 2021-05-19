@@ -133,13 +133,14 @@ none
 
 ## Attendance
 
-Attendance is mandatory in this course, only 20% of absence is accepted.
-
-The course starts with a compulsary 3-day attendance block in September (Calendar Week xx) including an excursion to yyy.
+The course starts with a **compulsary 3-day attendance block** in September (Calendar Week xx) including an excursion to yyy.
 Afterwards, the course can be continued virtually.
-Please ask your outgoing coordinator (International Office) for funding possibilities or write to studyathome@technikum-wien.at.
+
+Please ask your outgoing coordinator (International Office) for funding possibilities or write to [studyathome@technikum-wien.at](mailto:studyathome@technikum-wien.at).
 
 
 ## Comments
 
-Mixed: Incoming students in collaboration with FHTW Master students - Project-based learning on real city development project from city of Vienna (MA20) or the city of Korneuburg - Integration in the curricula of the Master program of renewable energy
+The course participants will be both traditional incoming students and students of the StudyATHome program.
+
+The course is setup according to project-based learning and is done in cooperation with a real city development project from the city of Vienna (MA20), the city of Korneuburg and the Master program Renewable Energy.
