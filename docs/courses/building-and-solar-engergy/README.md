@@ -50,7 +50,7 @@ university:
 ::: slot information
 Design of a solar system for a housing complex including technical parameter and the contribution to the local electricity system while considering local heating and mobility needs. Furthermore, the economic and ecologic impacts are calculated.
 
-**Please Note: The course is limited to two students and requires physical attendance in Vienna for 3 days in September.**
+**Please Note: The course is limited to two students and requires physical attendance in Vienna for 5 days in September.**
 :::
 
 ## Overview
@@ -135,7 +135,7 @@ none
 
 ## Attendance
 
-The course starts with a **compulsary 3-day attendance block** in September (Calendar Week xx) including an excursion to a city development site.
+The course starts with a **compulsary 5-day attendance block** in September (Calendar Week xx) including an excursion to a city development site.
 Afterwards, the course can be continued virtually.
 
 Please ask your outgoing coordinator (International Office) for funding possibilities or write to [studyathome@technikum-wien.at](mailto:studyathome@technikum-wien.at).
