@@ -32,8 +32,8 @@ media:
   #   alt: =media alt=
 
 schedule:
-  start: =course start=
-  end: =course end=
+  start: 13.9.2021
+  end: 28.1.2022
   duration: =course duration=
 
 lecturers:
@@ -48,7 +48,9 @@ university:
 # Building and Solar Energy
 
 ::: slot information
-Design of a solar system for a housing complex including technical parameter, contribution to the local electricity system including heating and mobility needs; economic calculation, ecologic impact.
+Design of a solar system for a housing complex including technical parameter and the contribution to the local electricity system while considering local heating and mobility needs. Furthermore, the economic and ecologic impacts are calculated.
+
+**Please Note: The course is limited to two students and requires physical attendance in Vienna for 3 days in September.**
 :::
 
 ## Overview
@@ -133,7 +135,7 @@ none
 
 ## Attendance
 
-The course starts with a **compulsary 3-day attendance block** in September (Calendar Week xx) including an excursion to yyy.
+The course starts with a **compulsary 3-day attendance block** in September (Calendar Week xx) including an excursion to a city development site.
 Afterwards, the course can be continued virtually.
 
 Please ask your outgoing coordinator (International Office) for funding possibilities or write to [studyathome@technikum-wien.at](mailto:studyathome@technikum-wien.at).
