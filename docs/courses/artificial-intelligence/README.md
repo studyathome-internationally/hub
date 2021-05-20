@@ -34,8 +34,8 @@ media:
     alt: Video Description
 
 schedule:
-  start: 21.09.2020
-  end: 10.01.2021
+  start: 13.09.2021
+  end: 28.01.2022
   duration: 14 weeks
 
 lecturers:
