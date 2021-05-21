@@ -111,4 +111,4 @@ Participants of this course will learn how to
 
 ## Requirements
 
-No specific requirements.
+Basic understanding of electronic components and Ohm's law.
