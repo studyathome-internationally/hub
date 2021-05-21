@@ -54,7 +54,7 @@ Hence, this module focuses on understanding the general functionality of common 
 
 This is achieved by starting on a higher programming level (system programing level) and gradually introducing them to the hardware programming level. 
 
-In the course of this module students are able to train embedded programming skills within an beginner friendly development toolchain.
+In the course of this module students are able to train embedded programming skills within a beginner friendly development toolchain.
 :::
 
 ## Overview
