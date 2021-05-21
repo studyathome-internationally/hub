@@ -145,6 +145,14 @@ The StudyATHome hub provides embedded videos of Youtube. Youtube uses
 cookies before playing a video. Please read the [privacy information of
 google](https://policies.google.com/technologies/cookies?hl=en).
 
+### Access analysis
+
+The access analysis tool [Matomo](https://github.com/matomo-org/matomo) is used for access tracking. All data collected this way cannot be linked to individual persons. The following data is saved:
+
+* Anonymized IP addresses of the users (the last 1 byte is deleted, e.g. 81.217.21.xxx)
+* Count and duration of access
+* Operating system, browser version and screen resolution used for access
+
 ## Data transmission
 
 The data will not be passed on to third parties. In case of problems
