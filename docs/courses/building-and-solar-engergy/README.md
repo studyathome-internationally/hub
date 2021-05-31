@@ -82,9 +82,9 @@ Supported by virtual learning environment and simulation.
 
 | Type        | Effort \[h\] |
 | :---------- | :----------- |
-| Independent | 40           |
-| Practical   | 40           |
-| Lecture     | 40           |
+| Independent (Group Work) | 80           |
+| Practical   | 50           |
+| Lecture     | 20           |
 
 ### Materials
 
@@ -105,9 +105,11 @@ Supported by virtual learning environment and simulation.
 
 | Type                         | Points/Percent |
 | :--------------------------- | :------------- |
-| Lecture notes                | 33%            |
-| Grading of practical session | 33%            |
-| Project reports              | 34%            |
+| Project reports (group)                | 60%            |
+| Poster presentation (group) | 30%            |
+| Small Assessments and activities (single)              | 10%            |
+
+The presentations can be done virtually or on-site.
 
 ### Criteria
 
@@ -131,7 +133,7 @@ Basic knowledge at least in one or two of the following topics:
 
 ### Equipment
 
-none
+* Windows OS for free Photovoltaic Emulation Software
 
 ## Attendance
 
