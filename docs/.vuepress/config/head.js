@@ -62,4 +62,5 @@ module.exports = [
       content: "2HwQRaUDC-mJxMQVQXyY7V7RhN-pLAIyWbEYmocaSDQ",
     },
   ],
+  ["meta", { name: "viewport", content: "width=device-width, initial-scale=1" }],
 ];
