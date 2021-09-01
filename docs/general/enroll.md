@@ -20,7 +20,7 @@ enrollment:
        * University E-Mail: \n
        * Study Program: \n\n
     after: >
-      I confirm reading and understanding the privacy information (https://hub.studyathome.technikum-wien.at/studyathome/privacy.html) and consent to the processing of personal data.\n\n
+      I confirm reading and understanding the [privacy information](https://hub.studyathome.technikum-wien.at/studyathome/privacy.html) and consent to the processing of personal data.\n\n
       Kind regards,\n\n
 ---
 
