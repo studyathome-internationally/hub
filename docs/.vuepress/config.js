@@ -9,6 +9,7 @@ module.exports = (ctx) => ({
   host: "localhost",
   head: require("./config/head.js"),
   title: "StudyATHome Internationally",
+  description: "Sharing of eLearning courses between partner universities.",
   theme: "@studyathome-internationally/hub",
   plugins: require("./config/plugins.js"),
   markdown: {
