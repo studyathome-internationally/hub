@@ -26,9 +26,9 @@ Any questions? Check out the [eLearning sharing concept](/e-learning-sharing) an
 
 Please select from the list of courses below.
 
-### Winter Semester 2021
+### Summer Semester 2022
 
-<Courses winter sort="name" path="/courses/"/>
+<Courses summer sort="name" path="/courses/"/>
 
 ### Summer School July 2022
 
@@ -42,9 +42,9 @@ ASSIST HEIDI brings students and people with disabilities together, in order to 
 <img :src="$withBase('/assets/pdf/summer-school/summer-school-3.jpg')" title="" alt="Two people with special needs sitting at the desk and looking at a tablet.">
 :::
 
-### Summer Semester 2021
+### Winter Semester 2021
 
-<Courses summer sort="name" path="/courses/"/>
+<Courses winter sort="name" path="/courses/"/>
 
 ## Funding
 
