@@ -30,8 +30,8 @@ media:
     alt: User interacting with buttons on a touch panel
 
 schedule:
-  start: 15.06.2021
-  end: 16.06.2021
+  start: 15.02.2022
+  end: 01.06.2022
   duration: =course duration=
 
 lecturers:
@@ -99,6 +99,8 @@ tests;project; final exam
 ::: -->
 
 ### Methods
+
+The exam will take place on the 01.06.2022 and 01.07.2022, respectively.
 
 | Type                    | Points/Percent |
 | :---------------------- | :------------- |
