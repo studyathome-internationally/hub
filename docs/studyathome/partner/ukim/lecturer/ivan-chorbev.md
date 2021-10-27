@@ -5,7 +5,7 @@ layout: NotFound
 contact:
   mail: ivan.chorbev@finki.ukim.mk
   linkedin: https://www.linkedin.com/in/ivan-chorbev-7878823/
-  reasearchgate: https://www.researchgate.net/profile/Ivan_Chorbev
+  researchgate: https://www.researchgate.net/profile/Ivan_Chorbev
 experience:
   - Artificial Intelligence
   - Data Mining

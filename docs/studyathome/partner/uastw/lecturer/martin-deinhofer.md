@@ -4,7 +4,7 @@ layout: Lecturer
 contact:
   mail: martin.deinhofer@technikum-wien.at
   # linkedin: https://www.linkedin.com/in/martin-deinhofer-4b585b4/
-  # reasearchgate: https://www.researchgate.net/scientific-contributions/2084163077_Martin_Deinhofer
+  # researchgate: https://www.researchgate.net/scientific-contributions/2084163077_Martin_Deinhofer
 experience:
   - Software Development
   - Assistive Technologies

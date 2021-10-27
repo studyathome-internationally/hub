@@ -1,11 +1,11 @@
 ---
 sidebar: false
-# layout: Lecturer
-layout: NotFound
+layout: Lecturer
+# layout: NotFound
 contact:
   mail: nevena.ackovska@finki.ukim.mk
   linkedin: https://www.linkedin.com/in/nevenaackovska/
-  reasearchgate: https://www.researchgate.net/profile/Nevena_Ackovska
+  researchgate: https://www.researchgate.net/profile/Nevena_Ackovska
 experience:
   - Computer Science
   - Bioinformatics

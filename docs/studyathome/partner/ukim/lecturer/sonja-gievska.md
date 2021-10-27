@@ -1,11 +1,11 @@
 ---
 sidebar: false
-# layout: Lecturer
-layout: NotFound
+layout: Lecturer
+# layout: NotFound
 contact:
   mail: sonja.gievska@finki.ukim.mk
   linkedin: https://www.linkedin.com/in/sonja-gievska-93956433/
-  reasearchgate: https://www.researchgate.net/profile/Sonja_Gievska
+  researchgate: https://www.researchgate.net/profile/Sonja_Gievska
 experience:
   - Software Engineering
   - Neural Networks

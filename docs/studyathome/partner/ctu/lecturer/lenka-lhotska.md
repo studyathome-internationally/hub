@@ -4,7 +4,7 @@ layout: Lecturer
 contact:
   mail: lenka.lhotska@cvut.cz
   linkedin: https://ch.linkedin.com/in/lenka-lhotsk%C3%A1-6949156
-  reasearchgate: https://www.researchgate.net/profile/Lenka_Lhotska
+  researchgate: https://www.researchgate.net/profile/Lenka_Lhotska
   orcid:
     href: https://orcid.org/0000-0003-0742-5645
     label: Orcid

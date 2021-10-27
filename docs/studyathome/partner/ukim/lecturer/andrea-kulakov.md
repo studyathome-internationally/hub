@@ -5,7 +5,7 @@ layout: NotFound
 contact:
   mail: andrea.kulakov@finki.ukim.mk
   linkedin: https://www.linkedin.com/in/andreakulakov/
-  reasearchgate: https://www.researchgate.net/profile/Andrea_Kulakov
+  researchgate: https://www.researchgate.net/profile/Andrea_Kulakov
 experience:
   - Cognitive Science
   - Aritificial Neural Network

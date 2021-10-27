@@ -4,7 +4,7 @@ layout: Lecturer
 contact:
   mail: alija.sabic@technikum-wien.at
   linkedin: https://www.linkedin.com/in/sabicalija/
-  reasearchgate: https://www.researchgate.net/profile/Alija_Sabic
+  researchgate: https://www.researchgate.net/profile/Alija_Sabic
   github:
     href: https://github.com/sabicalija
     label: GitHub

@@ -5,7 +5,7 @@ layout: NotFound
 contact:
   mail: petre.lameski@finki.ukim.mk
   linkedin: https://www.linkedin.com/in/petre-lameski-7a791919/
-  reasearchgate: https://www.researchgate.net/profile/Petre_Lameski
+  researchgate: https://www.researchgate.net/profile/Petre_Lameski
 experience:
   - Artificial Intelligence
   - Data Mining

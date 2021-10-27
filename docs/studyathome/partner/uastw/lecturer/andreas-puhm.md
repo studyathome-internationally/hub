@@ -4,7 +4,7 @@ layout: Lecturer
 contact:
   mail: andreas.puhm@technikum-wien.at
   linkedin: https://www.linkedin.com/in/andreas-puhm-86a36640/)
-  reasearchgate: https://www.researchgate.net/profile/Andreas_Puhm
+  researchgate: https://www.researchgate.net/profile/Andreas_Puhm
 experience:
   - Embedded Systems
   - Digital Signal Processing

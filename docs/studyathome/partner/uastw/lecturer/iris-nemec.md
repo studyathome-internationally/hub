@@ -4,7 +4,7 @@ layout: Lecturer
 contact:
   mail: iris.nemec@technikum-wien.at
   linkedin: https://www.linkedin.com/in/iris-nemec-83140315b/
-  reasearchgate: https://www.researchgate.net/profile/Iris_Nemec
+  researchgate: https://www.researchgate.net/profile/Iris_Nemec
 experience:
   - Prosthetic
   - Healthcare

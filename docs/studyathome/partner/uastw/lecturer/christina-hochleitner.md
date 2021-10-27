@@ -3,7 +3,7 @@ sidebar: false
 layout: Lecturer
 contact:
   mail: christina.a.hochleitner@gmail.com
-  reasearchgate: https://www.researchgate.net/profile/Christina_Hochleitner
+  researchgate: https://www.researchgate.net/profile/Christina_Hochleitner
 portrait: /assets/img/partner/uastw/lecturer/christina-hochleitner.jpg
 ---
 

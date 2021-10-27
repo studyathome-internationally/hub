@@ -5,7 +5,7 @@ contact:
   tel: +43 1 3334077 298
   mail: patrick.schmitt@technikum-wien.at
   # linkedin: https://www.linkedin.com/in/
-  # reasearchgate: https://www.researchgate.net/scientific-contributions/
+  # researchgate: https://www.researchgate.net/scientific-contributions/
   # github:
   #   href: https://github.com/...
   #   label: GitHub

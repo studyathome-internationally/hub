@@ -4,7 +4,7 @@ layout: Lecturer
 contact:
   mail: christoph.veigl@technikum-wien.at
   linkedin: https://www.linkedin.com/in/christoph-veigl-b535203/
-  reasearchgate: https://www.researchgate.net/
+  researchgate: https://www.researchgate.net/
 experience:
   - Brainwashing :)
   - Embedded Systems

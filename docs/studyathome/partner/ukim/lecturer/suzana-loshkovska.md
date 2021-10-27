@@ -3,7 +3,7 @@ sidebar: false
 layout: Lecturer
 contact:
   mail: suzana.loshkovska@finki.ukim.mk
-  reasearchgate: https://www.researchgate.net/institution/Ss_Cyril_and_Methodius_University
+  researchgate: https://www.researchgate.net/institution/Ss_Cyril_and_Methodius_University
   videolectures:
     href: http://videolectures.net/suzana_loshkovska/
     label: Videolectures.net

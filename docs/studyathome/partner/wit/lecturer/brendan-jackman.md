@@ -5,7 +5,7 @@ contact:
   tel: +353 51 834087
   mail: bjackman@wit.ie
   linkedin: https://www.linkedin.com/in/bjackmanwit/
-  reasearchgate: https://www.researchgate.net/profile/Brendan_Jackman
+  researchgate: https://www.researchgate.net/profile/Brendan_Jackman
 experience:
   - Automotive Systems
   - Automation & Robotics

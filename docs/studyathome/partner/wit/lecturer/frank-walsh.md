@@ -4,7 +4,7 @@ layout: Lecturer
 contact:
   mail: fxwalsh@wit.ie
   linkedin: http://ie.linkedin.com/pub/frank-walsh/7/886/a2b
-  reasearchgate: https://www.researchgate.net/profile/Frank_Walsh
+  researchgate: https://www.researchgate.net/profile/Frank_Walsh
 experience:
   - Internet of Things
   - Automotive Systems

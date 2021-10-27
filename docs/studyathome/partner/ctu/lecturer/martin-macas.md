@@ -4,7 +4,7 @@ layout: Lecturer
 contact:
   mail: martin.macas@cvut.cz
   linkedin: https://cz.linkedin.com/in/martin-macas-47505936
-  reasearchgate: https://www.researchgate.net/profile/Martin_Macas
+  researchgate: https://www.researchgate.net/profile/Martin_Macas
 experience:
   - AI
   - Biomedical Engineering

@@ -1,11 +1,11 @@
 ---
 sidebar: false
-# layout: Lecturer
-layout: NotFound
+layout: Lecturer
+# layout: NotFound
 contact:
   mail: ivan.kitanovski@finki.ukim.mk
   linkedin: https://www.linkedin.com/in/ivan-kitanovski/
-  reasearchgate: https://www.researchgate.net/profile/Ivan_Kitanovski
+  researchgate: https://www.researchgate.net/profile/Ivan_Kitanovski
 experience:
   - Information Science
   - Natural Language Processing
