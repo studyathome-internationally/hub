@@ -11,7 +11,7 @@ tags:
 
 # layout: NotFound
 state: true
-enrollment: true
+enrollment: false
 
 semester: Winter
 license: =license=

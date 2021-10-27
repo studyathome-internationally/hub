@@ -9,7 +9,7 @@ tags:
   - Usability
 
 state: true
-enrollment: true
+enrollment: false
 
 semester: Winter
 license: ukim

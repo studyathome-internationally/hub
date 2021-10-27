@@ -8,7 +8,7 @@ tags:
 
 # layout: NotFound
 state: true
-enrollment: false
+enrollment: true
 
 semester: Summer
 license: =license=
@@ -94,9 +94,9 @@ Lectures using presentations, interactive lectures, exercises (using equipment a
 
 ## Assessment
 
-::: post-it
+<!-- ::: post-it
 tests;project; final exam
-:::
+::: -->
 
 ### Methods
 

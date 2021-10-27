@@ -7,7 +7,7 @@ tags:
   - Machine Learning
 
 state: true
-enrollment: true
+enrollment: false
 
 semester: Winter
 license: ctu

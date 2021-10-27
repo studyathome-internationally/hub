@@ -9,7 +9,7 @@ tags:
   - Accessibility
 
 state: true
-enrollment: false
+enrollment: true
 
 semester: Summer
 license: partly CC by

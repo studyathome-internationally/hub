@@ -7,9 +7,9 @@ tags:
   - Building Automation
 
 state: true
-enrollment: false
+enrollment: true
 
-semester: Winter
+semester: Summer
 license: =license=
 link: =course link=
 ects: 6
@@ -45,7 +45,7 @@ university:
   program: =university program=
 ---
 
-# Building and Solar Energy (Winter)
+# Building and Solar Energy (Summer)
 
 ::: slot information
 Design of a solar system for a housing complex including technical parameter and the contribution to the local electricity system while considering local heating and mobility needs. Furthermore, the economic and ecologic impacts are calculated.
