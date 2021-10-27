@@ -48,6 +48,10 @@ university:
 
 # Electronic Project 2
 
+*[ADC]: Analog to Digital Converter
+*[GPIO]: General Purpose Input-Output
+*[µC]: Mikrocontroller
+
 ::: slot information
 This module focuses more on the low-level programming of embedded systems.
 Students will improve their knowledge about peripheral components and how to utilize a widely used programming toolchain.
@@ -83,15 +87,15 @@ Participants of this course will learn how to
 
 | Type        | Effort \[h\] |
 | :---------- | :----------- |
-| Independent | 40           |
-| Practical   | 40           |
-| Lecture     | 40           |
+| Independent | 14           |
+| Practical   |  0           |
+| Lecture     |  6           |
 
 ## Assessment
 
-Attendance is only required as instructed by your schedule in CIS.
+<!-- Attendance is only required as instructed by your schedule in CIS.
 
-Please ALWAYS follow the guidance of the FHTW staff as required during the current pandemic situation!
+Please ALWAYS follow the guidance of the FHTW staff as required during the current pandemic situation! -->
 
 ### Methods
 
