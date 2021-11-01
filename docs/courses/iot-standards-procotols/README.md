@@ -127,8 +127,7 @@ Please have a look at the [project assignment description](https://tutors-design
 | Type                      | Points/Percent |
 | :------------------------ | :------------- |
 | **Continuous Assessment** |                |
-| Lab                | 25%            |
-| Project Assignment                | 75%            |
+| Project Assignment        | 100%           |
 
 ### Criteria
 
@@ -151,7 +150,9 @@ Please have a look at the [project assignment description](https://tutors-design
 If you don't have the hardware at home ask your lab assistent at the home university or write to [studyathome@technikum-wien.at](mailto:studyathome@technikum-wien.at)
 
 - [Raspberry Pi 3](https://www.raspberrypi.org/)  
-   ![Raspberry Pi PCB](./img/raspberry-pi-3.png =x300)
+  ![Raspberry Pi PCB](./img/raspberry-pi-3.png =x300)
+- [Raspberry Pi Camera Module 2](https://www.raspberrypi.com/products/camera-module-v2/)  
+  ![Rasbperry Pi Camera Module 2](https://images.prismic.io/rpf-products/68fe7e4cb53767ad6c033bf3b46da3452188a24a_pi-camera-front-1-1426x1080.jpg?ixlib=gatsbyFP&auto=compress%2Cformat&fit=max&q=50&w=600&h=400 =x300)
 - [SenseHAT Add-On board](https://www.raspberrypi.org/products/sense-hat/)  
   ![SenseHAT Add-On board](./img/sensehat.png =x300)
 - [SiPy development board + PyCom expansion board](https://tutors-design.netlify.app/lab/iot-protocols-2020.netlify.app/topic-07/book-1/Equipment)
