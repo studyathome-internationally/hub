@@ -39,8 +39,8 @@ media:
 
 schedule:
   # application deadline: 2 months in advance. would be good to market it in June for Winter semester and in November for Summer Semester
-  start: 04.01.2021
-  end: 30.04.2021
+  start: 17.01.2022
+  end: 29.04.2022
   duration:
 
 lecturers:
