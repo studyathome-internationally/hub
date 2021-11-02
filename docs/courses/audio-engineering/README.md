@@ -3,7 +3,18 @@
 sidebar: auto
 
 tags:
-  - Audio
+  # - Audio
+  - Audio Engineering
+  # - Microphones
+  - Audio Processing
+  # - Audio Analysis
+  # - Audio Synthesis
+  - Amplifiers
+  - Codec
+  # - Loudspeakers
+  # - Ear Physiology
+  # - Sound Perception
+  # - Psychoacoustics
 
 # layout: NotFound
 state: true
@@ -12,7 +23,7 @@ enrollment: true
 semester: Summer
 license: =license=
 link: =course link=
-ects: =num=
+ects: 3
 
 attendees:
   total: =num=
@@ -30,8 +41,8 @@ media:
     alt: Matlab icon surrounded by analog wave signal.
 
 schedule:
-  start: =course start=
-  end: =course end=
+  start: 01.03.2022
+  end: 30.06.2022
   duration: =course duration=
 
 lecturers:
@@ -84,9 +95,9 @@ The students will complete tasks in the computer using Matlab.
 
 | Type        | Effort \[h\] |
 | :---------- | :----------- |
-| Independent | 40           |
-| Practical   | 40           |
-| Lecture     | 40           |
+| Independent | 25           |
+| Practical   | 25           |
+| Lecture     | 25           |
 
 ### Materials
 
@@ -98,15 +109,24 @@ Attendance is mandatory in this course, only 20% of absence is tolerated. In cas
 
 ### Methods
 
-The students will be assessed according to how far they completed the task at hand.
+<!-- The students will be assessed according to how far they completed the task at hand. -->
+
+This lecture will be marked exclusively with participation (40%) during the lectures and the assignments (60%).
 
 | Type          | Points/Percent |
 | :------------ | :------------- |
-| Tests         | 13%            |
-| Seminar paper | 12%            |
-| Project       | 13%            |
-| Tasks         | 12%            |
-| Final exam    | 50%            |
+| Participation | 40%            |
+| Assignments   | 60%            |
+
+The assignments  will be performed in groups of two or three people, and will consist on performing certain tasks relevant to the subject at hand.
+Then you'll write a short report describing what you did and what results you obtained, which one of the members of your team will then upload in Moodle.
+If you hand in all the parts of the assignment I asked, you will get full points for that assignment, if things are missing, you will loose points.
+Each assignment will be marked on a scale from 0 to 10 points.
+
+In order to get a positive mark at the end of the semester, you will need to fulfill the following requirements:
+
+1. come to an participate in at least 11 of the 14 scheduled sessions (mandatory attendance), and 
+1. the average mark of all the assignments ≥ 5.
 
 ### Criteria
 
@@ -128,4 +148,5 @@ The students will be assessed according to how far they completed the task at ha
 
 ### Equipment
 
-- Matlab?
+- [Audacity](https://www.audacityteam.org/)
+- [Matlab](https://www.mathworks.com/products/matlab.html)
