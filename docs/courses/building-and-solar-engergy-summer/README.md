@@ -32,7 +32,7 @@ media:
   #   alt: =media alt=
 
 schedule:
-  start: 13.9.2021
+  start: 21.2.2022
   end: 28.1.2022
   duration: =course duration=
 
@@ -137,7 +137,7 @@ Basic knowledge at least in one or two of the following topics:
 
 ## Attendance
 
-The course starts with a **compulsary 5-day attendance block** in September (Calendar Week xx) including an excursion to a city development site.
+The course starts with a **compulsary 5-day attendance block** in Februar (Calendar Week xx) including an excursion to a city development site.
 Afterwards, the course can be continued virtually.
 
 Please ask your outgoing coordinator (International Office) for funding possibilities or write to [studyathome@technikum-wien.at](mailto:studyathome@technikum-wien.at).
