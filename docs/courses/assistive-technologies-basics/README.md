@@ -30,8 +30,8 @@ media:
     alt: User with motor impairment sitting in front of a computer.
 
 schedule:
-  start: 15.2.2021
-  end: 2.7.2021
+  start: 16.2.2022
+  end: 30.6.2022
   duration: =course duration=
 
 lecturers:

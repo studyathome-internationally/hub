@@ -22,7 +22,7 @@ degrees:
   - Bachelor
 language:
   - English
-  - Macedonian
+  # - Macedonian
 
 media:
   main:
