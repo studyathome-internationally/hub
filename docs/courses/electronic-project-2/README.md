@@ -46,13 +46,16 @@ university:
   program: Electronics & Business
 ---
 
-# Electronic Project 2
+# Embedded Systems 2
+
 
 *[ADC]: Analog to Digital Converter
 *[GPIO]: General Purpose Input-Output
 *[µC]: Mikrocontroller
 
 ::: slot information
+Internal Course Name: _Electronic Project 2_  
+
 This module focuses more on the low-level programming of embedded systems.
 Students will improve their knowledge about peripheral components and how to utilize a widely used programming toolchain.
 This is achieved by combining their knowledge from the last semester and shifting the focus from system programming to low-level hardware programming.
