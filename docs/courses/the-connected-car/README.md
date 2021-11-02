@@ -31,11 +31,13 @@ language:
 # But maybe you should nevertheless check it with Vector?
 media:
   main:
-    src: https://assets.vector.com/cms/_processed_/d/c/csm_CANoe12_stage_image_5fc723944b.jpg
+    # src: https://assets.vector.com/cms/_processed_/d/c/csm_CANoe12_stage_image_5fc723944b.jpg
+    src: /assets/img/courses/can-oe.jpg
     # src: https://www.youtube.com/watch?v=vWfvNN2Vj_0
     alt: Picture of a car and a screenshot of the CANNoe software.
   description:
-    src: https://www.youtube.com/watch?v=vWfvNN2Vj_0
+    # src: https://www.youtube.com/watch?v=vWfvNN2Vj_0
+    src: https://youtu.be/DUNWZnhneiI
 
 schedule:
   # application deadline: 2 months in advance. would be good to market it in June for Winter semester and in November for Summer Semester
@@ -54,23 +56,32 @@ university:
 
 # The Connected Car
 
+
+*[ECUs]: Electronic Control Units
+*[CAN]: Controller Area Network
+*[LIN]: Local Interconnect Network
+
 ::: slot information
-In this module, students explore and use the technologies required to exchange data between Electronic Control Units within the vehicle and with external systems outside of the vehicle, such as other vehicles, diagnostic tools, recharging stations and roadside infrastructure.
+Modern vehicles contain a large number of Electronic Control Units (ECUs) that look after everything from powering the vehicle’s motion to the operation of the windscreen wipers.
+These control units exchange a huge amount of information with each other over various data networks to ensure the safe, secure and efficient operation of the vehicle.
+Think of it as like having a small internet inside your car.
+Additionally these networks are now being interconnected with the Internet itself to allow data from the vehicle to be shared with other road users for improved road safety and to access cloud services.
+This module will teach you how to design vehicle networks using modern vehicle network protocols and simulation tools.
 :::
 
 ## Overview
 
 ### Contents
 
-- Vehicle network architectures
-- Event-triggered network protocols (CAN-FD; XCP; ISO 15765)
-- Time-triggered network protocols (LIN; FlexRay)
-- Infotainment network protocols (MOST; IP)
-- Measurement, Calibration and Diagnostics
-- Car2x protocols (Context Awareness; Event Notification; Topology)
-- Car2x use cases
-- Network simulation and testing
-- Network security
+In this module you will learn all about the most widely used network protocols in today’s vehicles, such as:
+
+- A simple, low cost, single-wire protocol used to connect switches and motors to systems such as climate control and electric windows (the LIN bus).
+- The most popular vehicle network and its various modern derivatives, used for real-time control systems and vehicle diagnostics (the CAN bus and CAN-FD).
+- A robust, safety-critical network protocol used for drive-by-wire applications (FlexRay)
+- A fast, high bandwidth protocol used for advanced driver assistance systems, multimedia, service-oriented applications and remote diagnostics (Automotive Ethernet).
+
+You will learn how to use the standard automotive industry Vector CANoe application to simulate, analyse and test the various vehicle network protocols.
+A fully operational demo version of CANoe is available for use on this module.
 
 ### Outcomes
 
