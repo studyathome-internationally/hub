@@ -50,7 +50,7 @@ university:
 ::: slot information
 Design of a solar system for a housing complex including technical parameter and the contribution to the local electricity system while considering local heating and mobility needs. Furthermore, the economic and ecologic impacts are calculated.
 
-**Please Note: The course is limited to two students and requires physical attendance in Vienna for 5 days in September.**
+**Please Note: The course is limited to two students and requires physical attendance in Vienna for 5 days in February.**
 :::
 
 ## Overview
