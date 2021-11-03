@@ -66,7 +66,7 @@ This module examines the protocols and standards used to interconnect the variou
 
 :::
 
-The [course material](https://tutors-design.netlify.app/course/iot-protocols-2020.netlify.app) can be found online, the major topics are:
+The [course material](https://tutors-svelte.netlify.app/#/course/iot-protocols-2021.netlify.app) can be found online, the major topics are:
 
 - The Internet of Things protocol stack
 - Device level communication bus protocols
@@ -115,12 +115,12 @@ Additionally, the student will have to do a project assignment in a virtual team
 #### Lab
 
 <!-- Describe an example assignment definition -->
-Please have a look at the [lab descriptions](https://tutors-design.netlify.app/labs/iot-protocols-2020.netlify.app).
+Please have a look at the [lab descriptions](https://tutors-svelte.netlify.app/#/wall/lab/iot-protocols-2021.netlify.app).
 
 #### Project Assignment
 
 <!-- The final exam will be ... -->
-Please have a look at the [project assignment description](https://tutors-design.netlify.app/topic/iot-protocols-2020.netlify.app/topic-000-Assessments).
+Please have a look at the [project assignment description](https://tutors-svelte.netlify.app/#/topic/iot-protocols-2021.netlify.app/topic-000-Assessments).
 
 ### Methods
 
