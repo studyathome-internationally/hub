@@ -37,7 +37,9 @@ language:
 
 media:
   main:
-    src: /assets/img/courses/audio-matlab.jpg
+    # src: /assets/img/courses/audio-matlab.jpg
+    src: /assets/img/courses/audio.png
+    # src: /assets/img/courses/audio2.gif
     alt: Matlab icon surrounded by analog wave signal.
 
 schedule:
