@@ -33,7 +33,7 @@ media:
 
 schedule:
   start: 21.2.2022
-  end: 28.1.2022
+  end: 30.6.2022
   duration: =course duration=
 
 lecturers:
