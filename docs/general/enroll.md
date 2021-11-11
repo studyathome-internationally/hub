@@ -26,8 +26,8 @@ enrollment:
 
 # Course Enrollment
 
-::: tip Application Deadline
-November, 14^th^ 2021
+::: tip Extended Application Deadline
+November, 21^th^ 2021
 :::
 
 Please send an **email** with your **application** by clicking ```Write E-Mail``` below. The course is **free of charge** but the capacity is limited (see course description).
