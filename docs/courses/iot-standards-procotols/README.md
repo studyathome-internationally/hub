@@ -35,7 +35,7 @@ media:
     src: https://www.youtube.com/watch?v=72o9Tbmhtss
 
 schedule:
-  start: 04.01.2021
+  start: 04.01.2022
   end: 30.04.2022
   duration: =course duration=
 
