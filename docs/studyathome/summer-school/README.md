@@ -85,17 +85,17 @@ Reasonably priced accommodation in Vienna, near the University, will be recommen
 
 ## Program Preview
 
-**July 5th, 2021**  
+**July 4th, 2022**  
 Welcome Day – Introductions, Meet HEIDI, Welcome Event  
-**July 6th-8th, 2021**  
+**July 5th-7th, 2022**  
 Disability, Assistive Technologies, Smart Homes, Rapid Prototyping, Web Accessibility, Security IoT  
-**July 9th, 2021**  
+**July 8th, 2022**  
 Project Work  
-**July 10th/11th, 2021**  
+**July 9th/11th, 2022**  
 Social and Cultural Programme (optional)  
-**July 12th, 2021**  
+**July 11th, 2022**  
 Project Work, Farewell Event  
-**July 13th, 2021**  
+**July 12th, 2022**  
 Project Work Evaluation, Certificates, Closing
 
 ::: note 

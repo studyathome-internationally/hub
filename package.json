@@ -9,7 +9,7 @@
     "access": "public"
   },
   "dependencies": {
-    "@studyathome-internationally/vuepress-theme-hub": "1.1.5",
+    "@studyathome-internationally/vuepress-theme-hub": "^1.1.6",
     "@textlint-rule/textlint-rule-no-unmatched-pair": "^1.0.7",
     "caniuse-lite": "^1.0.30001271",
     "lint-staged": "^9.5.0",
