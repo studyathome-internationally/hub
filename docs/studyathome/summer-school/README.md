@@ -1,6 +1,6 @@
 # Welcome to ASSIST HEIDI!
 
-<PdfContainer title="ASSIST HEIDI*" href="/assets/pdf/summer-school/at-summer-school-2021-extended-application.pdf" thumb="/assets/pdf/summer-school/at-summer-school-2021.png">
+<PdfContainer title="ASSIST HEIDI*" href="/assets/pdf/summer-school/at-summer-school-2022.pdf" thumb="/assets/pdf/summer-school/at-summer-school-2022.png">
 
 **Vienna summer school** for creating an inclusive environment for people with disabilities.  
 
@@ -54,13 +54,14 @@ The Summer School lectures will be held in English.
 
 ## Guest Lecturers & Experts
 
-**Shadi Abou-Zahra**: Web Accessibility Expert (W3C, Web Accessibility Working Group)  
-**Susanne Buchner-Sabathy**: Expert for people with visual impairment, use of ScreenReaders, digital accessibility  
-**HEIDI**: **H**uman B**E**e**I**ngs with **D**isabil**I**ties telling their story  
+**Susanne Buchner-Sabathy**: Expert for people with
+visual impairment, use of Screen Readers, digital
+accessibility.  
+**HEIDI**: **H**uman B**E**e**I**ngs with **D**isabil**I**ties telling their
+story  
 **Further experts**: Experts in the field of Occupational
 Therapy (VKKJ, outpatient clinic), Smart Homes (UAS
-Technikum Wien) and Security (Czech Technical
-University Prague)  
+Technikum Wien),Web-Accessibility etc.
 
 ## Venue
 
@@ -79,24 +80,25 @@ The University of Applied Sciences Technikum Wien grants 3 credits according to 
 ## Fees & Accomodation
 
 Thanks to the funding of the City of Vienna you can attend the Summer School FREE OF CHARGE!
-Included are workshops, lecturers, welcome and cultural events. Travel costs, public transport, accommodation, meals, personal expenses and other incidentals are not included.
+Included are workshops, lecturers, welcome and cultural events.
+**Travel costs, public transport, accommodation, meals, personal expenses** and other incidentals are **not included**.
 It is recommended to take out an international travel insurance.
 Reasonably priced accommodation in Vienna, near the University, will be recommended.
 
 ## Program Preview
 
 **July 4th, 2022**  
-Welcome Day – Introductions, Meet HEIDI, Welcome Event  
+Welcome Day – Introductions, Meet HEIDI, Welcome Event (Dinner in the Dark)  
 **July 5th-7th, 2022**  
-Disability, Assistive Technologies, Smart Homes, Rapid Prototyping, Web Accessibility, Security IoT  
+Disability, Assistive Technologies, Smart Homes, Rapid Prototyping, Web Accessibility  
 **July 8th, 2022**  
 Project Work  
 **July 9th/11th, 2022**  
 Social and Cultural Programme (optional)  
 **July 11th, 2022**  
-Project Work, Farewell Event  
+Project Work  
 **July 12th, 2022**  
-Project Work Evaluation, Certificates, Closing
+Project Work Evaluation, Certificates, Farewell Event
 
 ::: note 
 
