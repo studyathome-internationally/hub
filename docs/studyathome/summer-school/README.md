@@ -12,10 +12,6 @@ ASSIST HEIDI brings students and people with disabilities together.
 
 \* **H**uman B**E**e**I**ngs with **D**isabil**I**ties and female name.
 
-::: danger Attention: New Dates!
-The summer school ASSIST HEIDI was postponed from summer 2021 to 2022.
-:::
-
 ## About
 
 **ASSIST HEIDI brings students and people with disabilities together**, in order to design and prototype an individual assistive technology solution for them.
@@ -59,9 +55,7 @@ visual impairment, use of Screen Readers, digital
 accessibility.  
 **HEIDI**: **H**uman B**E**e**I**ngs with **D**isabil**I**ties telling their
 story  
-**Further experts**: Experts in the field of Occupational
-Therapy (VKKJ, outpatient clinic), Smart Homes (UAS
-Technikum Wien),Web-Accessibility etc.
+**Further experts**: Smart Homes (UAS Technikum Wien),Web-Accessibility etc.
 
 ## Venue
 
