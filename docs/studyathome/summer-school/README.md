@@ -55,7 +55,7 @@ visual impairment, use of Screen Readers, digital
 accessibility.  
 **HEIDI**: **H**uman B**E**e**I**ngs with **D**isabil**I**ties telling their
 story  
-**Further experts**: Smart Homes (UAS Technikum Wien),Web-Accessibility etc.
+**Further experts**: Smart Homes (UAS Technikum Wien), Web-Accessibility etc.
 
 ## Venue
 
