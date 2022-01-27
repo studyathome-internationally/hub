@@ -34,13 +34,13 @@ To apply you need to send the following documents to [studyathome@technikum-wien
 * Letter of Motivation
 * Confirmation of Enrollment (at your home university)
 
-<!-- ::: note
+::: note
 
-Participants: 15 students max.  
-Application Deadline: **April 9th, 2021** (*extended*)  
+Participants: 18 students max.  
+Application Deadline: **February 28th, 2022**  
 Information: [studyathome@technikum-wien.at](mailto:studyathome@technikum-wien.at)
 
-::: -->
+:::
 
 ## Target Group
 
