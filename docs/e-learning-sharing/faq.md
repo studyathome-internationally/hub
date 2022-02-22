@@ -25,7 +25,7 @@ At the enrollment page you will have to
 
 The applicants will be nominated by their international coordinators using the following criteria:
 
-1. Students must be in the 3^rd^ semester when doing the virtual exchange. The application can be done earlier already.
+1. Students must be at least in the 3^rd^ semester when doing the virtual exchange. The application can be done earlier already.
 2. Grade Point Average (arithmetic average) of previously finished semester. E.g. When applying for an exchange in the 3^rd^ semester, the grades of the 1^st^ semester will be considered.
 
 ### The course starts before my semester start. Can I enroll nevertheless?
