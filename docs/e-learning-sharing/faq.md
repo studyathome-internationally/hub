@@ -88,6 +88,8 @@ Yes. The universities of the partner network have agreed to recognize the course
 The host university will send a digital copy of the grade certificate to the International Office of the home university.
 Afterwards, you will have to follow the internal process of grade recognition.
 
+In case of UAS Technikum Wien the recognition will be done by the study program lead.
+
 In case of problems contact your International Office or [studyathome@technikum-wien.at](mailto:studyathome@technikum-wien.at).
 
 ### Is there a deadline for the grade recognition?
