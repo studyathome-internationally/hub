@@ -66,6 +66,7 @@ Finally, you will get hands-on experience with some selected Assistive Technolog
 - Causes and characteristics of motor, visual, auditory and cognitive disabilities
 - Types of Assistive Technologies per disability, e.g. screen reader, key-based input devices
 - Basics of Alternative and Augmentative Communication (AAC)
+  - Try out [AsTeRICS grid](https://grid.asterics.eu) as an example AAC application
 - Basics in Digital Accessibility
 - Basics in Human Computer Interaction (HCI), Usability and User Interface Design
 - Principles of Design for All
