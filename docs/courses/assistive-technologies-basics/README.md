@@ -50,7 +50,10 @@ university:
 
 ::: slot information
 
-This course is an introduction to Disability and Assistive Technologies. You will learn about types of disabilities and related medical basics. You will get to know the daily challenges of people with disabilities and how to face them with Assistive Technologies. Additionally you will learn basics in Human Computer Interaction (HCI) and User Interface Design.
+Assistive Technologies allow people with disabilities to overcome mental or physical barriers and to participate in the modern society. Digital technology offers a huge potential for the inclusion of people with disablities, but poor design of digital products and services can also create new barriers.
+
+In this module, you will learn about different forms of disability and their cause, and you will acquire knowledge about various kinds of Assistive Technology Devices. Furthermore, fundamental concepts of accessible design, usability and human computer interaction will be presented and discussed.
+Finally, you will get hands-on experience with some selected Assistive Technologies like mouse and keyboard alternatives using a webcam and a microcontroller.
 
 :::
 
@@ -68,6 +71,13 @@ This course is an introduction to Disability and Assistive Technologies. You wil
 - Principles of Design for All
 - Use of the [Assistive Technology Integration and Construction Set (AsTeRICS)](https://www.asterics.eu/)
 - Use of [Arduino IDE](https://www.arduino.cc/en/Main/software) and introduction to the Assistive Technologies [FLipMouse](https://www.asterics-foundation.org/projects/the-flipmouse/) and [FABI](https://www.asterics-foundation.org/projects/fabi/)
+
+::: image-triplet
+<img src="./img/flipmouse-w-user.png" title="FLipMouse with user" alt="FLipMouse used by a person by controlling the joystick with lip movements.">
+<img src="./img/fabi.png" title="FABI - Flexible Assistive Button Interface" alt="FABI device with a 3D printed enclosure and a button.">
+<img src="./img/asterics-grid.jpg" title="AsTeRICS Grid - web-based AAC application" alt="Screenshot of Asterics Grid user interface showing a communication grid with symbols.">
+
+:::
 
 ### Outcomes
 
