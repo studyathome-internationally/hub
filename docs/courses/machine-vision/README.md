@@ -74,6 +74,22 @@ The goal of this course is to introduce the students to the basic concepts and p
   - Visual words dictionaries
   - Recognition and classification of visual objects
 
+### Testimonials
+
+::: testimonial WS 2021
+
+The curse consisted of a theoretical part and a practical part. The lectures were 2 hours (theory) and 1 hour (programming exercises) per week. All material and lectures were in English. From October to mid-December we learned the basic image processing, pixel manipulations, filters, edge detection, feature matching, etc. From mid-December onward we learned about deep learning. There are no Christmas holidays in Macedonia, so be prepared to have lectures during this time. 
+We had two exams in mid-December: The theory exam was two questions to answer assay like, 30 minutes time. Practical exam was one problem solving task (programming) for which we had 24 hours and it had a workload of approx. 2 to 3 hours (keep in mind you probably have other lectures or exercises during this 24 hours). Only the students who passed the two exams could make a seminar work. It was within a deep learning topic recommended by the lecturer; you could also choose your own topic. 
+
+The grading structure was:
+- 20% theoretical exam
+- 30% practical exam
+- 50% seminar work
+
+Overall, this course gave a complete introduction to image processing and deep learning. For the programming we used Jupyter Lab, openCV and PyTorch.
+
+:::
+
 ### Outcomes
 
 The goal of this course is to introduce the students to the basic concepts and principles of computer vision.
