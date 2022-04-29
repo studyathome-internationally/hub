@@ -30,8 +30,8 @@ media:
     alt: Diagram of the User centered design process
 
 schedule:
-  start: 01.10.2021
-  end: 15.01.2022
+  start: 01.10.2022
+  end: 15.01.2023
   duration: =course duration=
 
 lecturers:
