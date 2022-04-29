@@ -29,8 +29,8 @@ media:
     alt: Human eye surrounded by computational data
 
 schedule:
-  start: 01.10.2021
-  end: 15.01.2022
+  start: 01.10.2022
+  end: 15.01.2023
   duration: =course duration=
 
 lecturers:
@@ -73,6 +73,22 @@ The goal of this course is to introduce the students to the basic concepts and p
   - Scaling- and rotation-invariant feature transformation (SIFT, SURF)
   - Visual words dictionaries
   - Recognition and classification of visual objects
+
+### Testimonials
+
+::: testimonial WS 2021
+
+The course consisted of a theoretical part and a practical part. The lectures were 2 hours (theory) and 1 hour (programming exercises) per week. All material and lectures were in English. From October to mid-December we learnt the basic image processing, pixel manipulations, filters, edge detection, feature matching, etc. From mid-December onward we learnt about deep learning. There are no Christmas holidays in Macedonia, so be prepared to have lectures during this time. 
+We had two exams in mid-December: The theoretical exam was two questions to answer essay-like, 30 minutes time. The practical exam was one problem solving task (programming) for which we had 24 hours and it had a workload of approx. 2 to 3 hours (keep in mind you probably have other lectures or exercises during this 24 hours). Only the students who passed the two exams could make a seminar work. It was within a deep learning topic recommended by the lecturer; you could also choose your own topic. 
+
+The grading structure was:
+- 20% theoretical exam
+- 30% practical exam
+- 50% seminar work
+
+Overall, this course gave a complete introduction to image processing and deep learning. For the programming we used Jupyter Lab, OpenCV and PyTorch.
+
+:::
 
 ### Outcomes
 
@@ -139,11 +155,16 @@ Tests;project;final exam
 <!-- ::: post-it
 Prerequisites would be Digital image processing or Machine learning, but probably be waived
 ::: -->
+### Level
+
+Intermediate
 
 ### Skills
 
 - Basic understanding of digital image processing
-- Programming
+- Python programming
+- First steps in OpenCV
+- Recommeded Videotutorial before course start: [Learn OpenCV with Python in 3 hours](https://youtu.be/WQeoO7MI0Bs)
 
 ### Equipment
 
