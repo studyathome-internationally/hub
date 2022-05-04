@@ -29,8 +29,8 @@ media:
     alt: Electronic circuit board with components
 
 schedule:
-  start: 07.11.2021
-  end: 15.01.2022
+  start: 07.11.2022
+  end: 15.01.2023
   duration: =course duration=
 
 lecturers:
@@ -70,7 +70,9 @@ Participants of this course will learn how to
 - simulate electronic circuits
 - analyze data sheets
 
-### Methods
+### Methods & Schedule
+
+This course is organized as an **asynchronous** distance learning course with a **webinar** at the beginning of the course. You can study the assignments in a flexible way according to your schedule. Additonally, you will get lecturer support, on demand.
 
 | Type        | Effort \[h\] |
 | :---------- | :----------- |

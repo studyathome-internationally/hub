@@ -83,7 +83,7 @@ The [course material](https://tutors-svelte.netlify.app/#/course/iot-protocols-2
 
 ### Testimonials
 
-::: testimonial SS 2021
+::: testimonial SS 2021 Maria Schildbeck
 
 The lectures started on Monday, 25 January 2021 and ended Friday, 30 April 2021. We had a 1-hour theory lecture and a 3-hour practical lab exercise per week. For the labs we got a written step-by-step instruction in advance, and the lecturer was present for additional hints and to answer questions. We used the CISCO Packet Tracer, Raspberry Pi, Python/JavaScript. 
 

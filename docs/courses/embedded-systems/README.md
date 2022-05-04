@@ -28,8 +28,8 @@ media:
     alt: Embedded mikrocontroller on circuit board
 
 schedule:
-  start: 07.11.2021
-  end: 15.01.2022
+  start: 07.11.2022
+  end: 15.01.2023
   duration: =course duration=
 
 lecturers:
@@ -78,7 +78,9 @@ Participants of this course will learn how to
 - use code comments in a way, which helps them and others to understand their code
 - configure and use simple and common µC peripherals
 
-### Methods
+### Methods & Schedule
+
+This course is organized as an **asynchronous** distance learning course with a **webinar** at the beginning of the course. You can study the assignments in a flexible way according to your schedule. Additonally, you will get lecturer support, on demand.
 
 | Type        | Effort \[h\] |
 | :---------- | :----------- |
@@ -118,4 +120,4 @@ Basic knowledge of
 ### Equipment
 
 - Laptop with Internet Browser
-- Hardware will be provided by the University of Applied Sciences Technikum and sent by mail to the virtual students.
+- **Hardware will be provided** by the University of Applied Sciences Technikum and **sent by mail to the virtual students**.

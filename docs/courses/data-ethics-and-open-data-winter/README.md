@@ -32,8 +32,8 @@ media:
     alt: Zeros and ones in front of an abstract face.
 
 schedule:
-  start: 13.09.2021
-  end: 28.01.2022
+  start: 13.09.2022
+  end: 28.01.2023
   duration: =course duration=
 
 lecturers:
@@ -83,7 +83,9 @@ After passing this course successfully students are able to
 * discuss domain-related data ethics
 * analyse and describe the challenges and risks of an intelligent machine learning system (AI)
 
-### Methods
+### Methods & Schedule
+
+Lectures will be regular online presentations in **hybrid mode** (on-campus lecture + webinar room) at the beginning of the course. The Problem based learning (excercises and projects) will be organized asynchronously.
 
 | Type | Effort [h] |
 | :---------- | :-- |
