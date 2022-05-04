@@ -119,11 +119,12 @@ Upon completion of the course, the student is expected to
 - apply the basic principles when designing a user interface
 - develop an interactive application following the learned principles
 
-### Methods
+### Methods & Schedule
 
-Lectures as online presentations (video conferences), lab exercises (assignments), teamwork, case studies, invited guest lecturers, self-study.
+Lectures will be online presentations in **hybrid mode** (on-campus lecture + webinar room), lab exercises (assignments), teamwork, case studies, invited guest lecturers, self-study.
 
-The lectures will be held weekly with several groups (dates) offered.
+The lectures will be held **weekly** with several groups (dates) offered, generally **during the day**.
+Additionally, there will be some **recordings** of the lectures for watching at a later time.
 
 | Type                        | Effort \[h\] |
 | :-------------------------- | :----------- |
