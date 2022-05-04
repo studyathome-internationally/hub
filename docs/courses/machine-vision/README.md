@@ -30,7 +30,7 @@ media:
 
 schedule:
   start: 01.10.2022
-  end: 15.01.2023
+  end: 15.03.2023
   duration: =course duration=
 
 lecturers:
@@ -76,10 +76,10 @@ The goal of this course is to introduce the students to the basic concepts and p
 
 ### Testimonials
 
-::: testimonial WS 2021
+::: testimonial WS 2021 Maria Schildbeck
 
-The course consisted of a theoretical part and a practical part. The lectures were 2 hours (theory) and 1 hour (programming exercises) per week. All material and lectures were in English. From October to mid-December we learnt the basic image processing, pixel manipulations, filters, edge detection, feature matching, etc. From mid-December onward we learnt about deep learning. There are no Christmas holidays in Macedonia, so be prepared to have lectures during this time. 
-We had two exams in mid-December: The theoretical exam was two questions to answer essay-like, 30 minutes time. The practical exam was one problem solving task (programming) for which we had 24 hours and it had a workload of approx. 2 to 3 hours (keep in mind you probably have other lectures or exercises during this 24 hours). Only the students who passed the two exams could make a seminar work. It was within a deep learning topic recommended by the lecturer; you could also choose your own topic. 
+The course consisted of a theoretical part and a practical part. The lectures were **2 hours (theory)** and **1 hour (programming exercises) per week**. All material and lectures were in English. From October to mid-December we learnt the basic image processing, pixel manipulations, filters, edge detection, feature matching, etc. From mid-December onward we learnt about deep learning. There are no Christmas holidays in Macedonia, so be prepared to have lectures during this time. 
+We had **two exams in mid-December**: The theoretical exam was two questions to answer essay-like, 30 minutes time. The practical exam was one problem solving task (programming) for which we had 24 hours and it had a workload of approx. 2 to 3 hours (keep in mind you probably have other lectures or exercises during this 24 hours). Only the students who passed the two exams could make a seminar work. It was within a deep learning topic recommended by the lecturer; you could also choose your own topic. 
 
 The grading structure was:
 - 20% theoretical exam
@@ -104,7 +104,9 @@ The students who will successfully finish the course will be able to
 - Scene analysis and understanding
 - Etc.
 
-### Methods
+### Methods & Schedule
+
+The course consists of a theoretical part and a practical part. The lectures are **2 hours (theory)** and **1 hour (programming exercises)** **per week during the day** and will be provided in **hybrid mode** (on-campus lecture + webinar room). Additionally, there will be some **recordings** of the lectures for watching at a later time.
 
 Lectures using presentations, interactive lectures, exercises (using equipment and software packages), teamwork, case studies, invited guest lecturers, independent preparation and defense of a project assignment and seminar work.
 
@@ -126,6 +128,8 @@ Lectures using presentations, interactive lectures, exercises (using equipment a
 
 ## Assessment
 
+The assessment consists of a practical assignment and a final exam, which is sufficient to pass the course. After that, you can do a **seminar work/project (optional)** from **January to March** to improve the grade. Please consider the additional effort which might be during your summer semester.
+
 <!-- ::: post-it
 Tests;project;final exam
 ::: -->
@@ -134,10 +138,10 @@ Tests;project;final exam
 
 | Type                    | Points/Percent |
 | :---------------------- | :------------- |
-| Tests                   | 30 points      |
+| Tests (assignments)                   | 30 points      |
 | Seminar paper / Project | 40 points      |
 | Activity and Learning   | 10 points      |
-| Final exam              | 20 points      |
+| Final exam (theory)             | 20 points      |
 
 ### Criteria
 
