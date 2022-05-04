@@ -64,7 +64,12 @@ story
 - Smart Living Lab
 - IoT-Lab
 
-<Youtube id="xBFLoPRD6rE"/>
+<!-- <Youtube id="xBFLoPRD6rE"/> -->
+<video controls style="max-width: 100%;">
+  <!-- <source src="https://cloud.technikum-wien.at/s/i6BNgw9jL2EXL7k" type="video/mp4"/> -->
+  <source src="https://cloud.technikum-wien.at/s/i6BNgw9jL2EXL7k/download/smarthome_01_kfvgesamt_final.mp4" type="video/mp4"/>
+  Sorry, your browser doesn't support embedded videos.
+</video>
 
 ## Certificate
 
