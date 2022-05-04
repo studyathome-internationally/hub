@@ -2,7 +2,7 @@
 
 <PdfContainer title="ASSIST HEIDI*" href="/assets/pdf/summer-school/at-summer-school-2022.pdf" thumb="/assets/pdf/summer-school/at-summer-school-2022.png">
 
-**Vienna summer school** for creating an inclusive environment for people with disabilities.  
+**Vienna summer school** for creating an inclusive environment for people with disabilities.
 
 <!-- **JULY 5-13, 2021** -->
 
@@ -30,9 +30,9 @@ During the group or idea-finding phase, participants can contribute their own id
 
 To apply you need to send the following documents to [studyathome@technikum-wien.at](mailto:studyathome@technikum-wien.at):
 
-* CV
-* Letter of Motivation
-* Confirmation of Enrollment (at your home university)
+- CV
+- Letter of Motivation
+- Confirmation of Enrollment (at your home university)
 
 ::: note
 
@@ -61,10 +61,15 @@ story
 
 [University of Applied Sciences Technikum Wien](/studyathome/partner/uastw/), Höchstädtplatz 6, 1200 Vienna, Austria
 
-* Smart Living Lab
-* IoT-Lab
+- Smart Living Lab
+- IoT-Lab
 
-<Youtube id="xBFLoPRD6rE"/>
+<!-- <Youtube id="xBFLoPRD6rE"/> -->
+<video controls style="max-width: 100%;">
+  <!-- <source src="https://cloud.technikum-wien.at/s/i6BNgw9jL2EXL7k" type="video/mp4"/> -->
+  <source src="https://cloud.technikum-wien.at/s/i6BNgw9jL2EXL7k/download/smarthome_01_kfvgesamt_final.mp4" type="video/mp4"/>
+  Sorry, your browser doesn't support embedded videos.
+</video>
 
 ## Certificate
 
@@ -78,6 +83,15 @@ Included are workshops, lecturers, welcome and cultural events.
 **Travel costs, public transport, accommodation, meals, personal expenses** and other incidentals are **not included**.
 It is recommended to take out an international travel insurance.
 Reasonably priced accommodation in Vienna, near the University, will be recommended.
+
+## Program Note
+
+The summer school is planned with a **self study period** before the actual mobility and a **follow-up evaluation** after the mobility.
+A detailed program will be available at the end of May 2022.
+According to the new Erasmus+ program period (2021-2027), funding for short time mobilities with a virtual component are eligible.
+For further information on funding possibilities please contact the International Office of your home institution.
+
+Participants of the ASSIST HEIDI Summer School are asked to bring their own **laptop** to the summer school.
 
 ## Program Preview
 
@@ -94,7 +108,7 @@ Project Work
 **July 12th, 2022**  
 Project Work Evaluation, Certificates, Farewell Event
 
-::: note 
+::: note
 
 Social Programme: Sightseeing - Excursion (Details will be announced)
 
