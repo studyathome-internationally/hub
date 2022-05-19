@@ -18,7 +18,7 @@ portrait: /assets/img/partner/uastw/lecturer/martin-deinhofer.jpg
 # Martin Deinhofer
 
 Martin graduated at the vocational school HTL St. Pölten (Computer Science) in 1997. He worked in several companies as a software developer (Java, Linux).
-He studied the bachelor program Sports Equipment Technology and the master program Healthcare and Rehabilitation Technology at the UAS Technikum Wien.
+He studied the bachelor program Sports Equipment Technology and the master program Healthcare and Rehabilitation Technology at the [UAS Technikum Wien](/studyathome/partner/uastw/).
 
 Since September 2013 he has been working as researcher and lecturer at the Department of Electronic Engineering in the field of Assistive Technologies.
 

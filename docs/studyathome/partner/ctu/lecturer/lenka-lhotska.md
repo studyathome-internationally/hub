@@ -22,16 +22,17 @@ position:
 portrait: /assets/img/partner/ctu/lecturer/lenka-lhotska.png
 ---
 
-# Lenka Lhotská
-
+<!-- prettier-ignore -->
 *[Ph.D.]: Philosophiae Doctor
 
-Lenka Lhotská, Ph.D., CEng, MIET, MIEEE, graduated as Master of Science in Electrical Engineering at the Czech Technical University in Prague (CVUT), Czech Republic.
-In 1989 she got her Ph.D. degree in Cybernetics from CVUT.
+# Lenka Lhotská
+
+Lenka Lhotská, Ph.D., CEng, MIET, MIEEE, graduated as Master of Science in Electrical Engineering at the [Czech Technical University in Prague (CVUT)](/studyathome/partner/ctu/), Czech Republic.
+In 1989 she got her Ph.D. degree in Cybernetics from [CVUT](/studyathome/partner/ctu/).
 
 <!-- more -->
 
-Currently she is head of the COGSYS (Cognitive Systems and Neurosciences) Department at the Czech Institute of Informatics, Robotics and Cybernetics and head of Department of Natural Sciences of the Faculty of Biomedical Engineering, CVUT.
+Currently she is head of the COGSYS (Cognitive Systems and Neurosciences) Department at the Czech Institute of Informatics, Robotics and Cybernetics and head of Department of Natural Sciences of the Faculty of Biomedical Engineering, [CVUT](/studyathome/partner/ctu/).
 
 Her research focuses on following areas: Knowledge-based systems, data and knowledge representation, application of artificial intelligence methods to medicine, digital signal processing, machine learning, feature extraction and feature selection, semantic interoperability, mobile technologies in healthcare, electronic health record.
 

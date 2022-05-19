@@ -30,7 +30,7 @@ In 2011 he aided [Sensor Dynamics (now part of Maxim)](http://www.maxim-ic.com/l
 
 From 2011 till 2013 he has been working on the [TWASIC](http://embsys.technikum-wien.at/projects/twasic/index.php) project with the goal to provide an ASIC toolflow for the AMS 350nm process technology which can be used for other R&D and also for master student projects.
 Direct output of this project is a 8051 implementation which is also planned to be used in lectures as demonstration material.
-As a result of this project in Februar 2013 the TW8051 has been successfully tested and is currently incorporated into lecture units of the UAS Technikum Wien.
+As a result of this project in Februar 2013 the TW8051 has been successfully tested and is currently incorporated into lecture units of the [UAS Technikum Wien](/studyathome/partner/uastw/).
 
 From 2013 till 2018 he has been working in the [Josef Ressel Zentrum for Verification of Embedded Computing Systems](http://embsys.technikum-wien.at/projects/vecs/index.php) on clock synchronization in distributed embedded systems.
 In a cooperation with Bluetechnix Gmbh (now part of BECOM) a set of four BlackFin DSP based [Time-of-flight Cameras](https://www.becom-group.com/en/becom-systems/3d-time-of-flight-cameras/) was synchronized via IEEE 1588.

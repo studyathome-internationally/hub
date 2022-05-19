@@ -25,7 +25,7 @@ Frank received his Bachelor’s degree in Electrical Engineering from Trinity Co
 
 Before joining the Dept. of Computing and Maths at SETU (formerly WIT), Frank held several software engineering roles for General Motors (GM) and Eletronic Data Systems (EDS), providing software solutions across several GM locations both in EMEA, Asia and South America.
 In 2000, Frank worked with Orange PCS as a technical consultant, providing customer relationship management and billing solutions for Orange’s customer contact centres.
-In 2004, Frank joined the Telecommunications Software & Systems Group (TSSG) at SETU (formerly WIT), predominantly investigating next-generation web services.
+In 2004, Frank joined the Telecommunications Software & Systems Group (TSSG) at [SETU](/studyathome/partner/wit/) (formerly WIT), predominantly investigating next-generation web services.
 
 He is currently a Lecturer at Waterford Institute of Technology, delivering modules in the area of programming, distributed systems, model-based development, and biometrics.
 Previously he was a researcher with the Telecommunications Software and Systems Group where he worked on a number of European Commission funded projects.

@@ -26,9 +26,9 @@ portrait: /assets/img/partner/uastw/lecturer/alija-sabic.png
 # Alija Sabic
 
 Alija graduated at the HTL Hollabrunn _Electrical Engineering/Information Technology_ in 2007.
-In 2016 he finished the bachelor program _Electronics and Business_ and in 2018 the master program _Embedded Systems_, at UAS Technikum Wien.
+In 2016 he finished the bachelor program _Electronics and Business_ and in 2018 the master program _Embedded Systems_, at [UAS Technikum Wien](/studyathome/partner/uastw/).
 
 <!-- more -->
 
 From 2008 on he worked for different companies in this field, including Siemens until 2016.
-Since 2016 he is lecturer and researcher at the UAS Technikum Wien.
+Since 2016 he is lecturer and researcher at the [UAS Technikum Wien](/studyathome/partner/uastw/).

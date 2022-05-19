@@ -21,7 +21,7 @@ portrait: /assets/img/partner/uastw/lecturer/lukas-rohatsch.jpg
 
 # Lukas Rohatsch
 
-Lukas Rohatsch holds a master's degree in Integrative Urban Development – Smart City as well as a bachelor's degree in Transport and Environment issued by the UAS Technikum Wien.
+Lukas Rohatsch holds a master's degree in Integrative Urban Development – Smart City as well as a bachelor's degree in Transport and Environment issued by the [UAS Technikum Wien](/studyathome/partner/uastw/).
 
 <!-- more -->
 

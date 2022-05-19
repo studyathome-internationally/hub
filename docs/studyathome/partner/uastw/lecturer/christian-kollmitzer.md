@@ -24,7 +24,7 @@ portrait: /assets/img/partner/uastw/lecturer/christian-kollmitzer.jpg
 
 # Christian Kollmitzer
 
-Christian Kollmitzer graduated 1981 at the Technical University Vienna, worked for 13 years in electronic development with Philips and joined the University of applied sciences Technikum Wien 1994.
+Christian Kollmitzer graduated 1981 at the Technical University Vienna, worked for 13 years in electronic development with Philips and joined the [UAS Technikum Wien](/studyathome/partner/uastw/) 1994.
 He teaches electronics, control systems and computer vision.
 
 <!-- more -->

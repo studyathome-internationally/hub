@@ -27,7 +27,7 @@ portrait: /assets/img/partner/uastw/lecturer/roman-beneder.jpg
 # Roman Beneder
 
 Roman Beneder was born 1985.
-After graduation at the HTL in Wien 20 ([TGM](http://www.tgm.ac.at/)) and attending his military service he started with the bachelor program in Electronics Engineering at the University of Applied Sciences Technikum Wien in 2006.
+After graduation at the HTL in Wien 20 ([TGM](http://www.tgm.ac.at/)) and attending his military service he started with the bachelor program in Electronics Engineering at the [UAS Technikum Wien](/studyathome/partner/uastw/) in 2006.
 Till 2007 he was working as a part-time employee at the Research Group Embedded Systems.
 
 <!-- more -->
@@ -42,7 +42,7 @@ In May 2013 he started to work within the R&D Project [Josef Ressel Center for V
 He is co-responsible for implementing a verification unit on Embedded Linux based devices.
 These devices are provided by the company [Loytec GmbH](http://www.loytec.com/de) which are active on the home automation market.
 
-In April 2015 he started to work within the public funded project [OpenLab](http://embsys.technikum-wien.at/projects/openlab/index.php), which goals are mainly focused on the development of low-cost, open-source, embedded measurement equipment for various courses at the UAS Technikum Wien.
+In April 2015 he started to work within the public funded project [OpenLab](http://embsys.technikum-wien.at/projects/openlab/index.php), which goals are mainly focused on the development of low-cost, open-source, embedded measurement equipment for various courses at the [UAS Technikum Wien](/studyathome/partner/uastw/).
 
 In November 2018 he started to work within the industry-cooperation "Emerging Applications Lab" funded by Infineon Austria Technologies GmbH.
 The main focus of this industry-cooperation is the software development for unmanned aerial vehicles based on multicore microcontrollers and AIML platforms.

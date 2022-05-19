@@ -14,11 +14,11 @@ portrait: /assets/img/partner/uastw/lecturer/michael-graf.jpg
 Studies in philosophy and theology.
 Master´s degree at the university of Vienna.
 
-Development and coordinaton of the ethics-programme at UAS Technikum Wien since 1995.
+Development and coordinaton of the ethics-programme at [UAS Technikum Wien](/studyathome/partner/uastw/) since 1995.
 
 <!-- more -->
 
-Teaching in several study programmes at the UAS Technikum Wien (Biomedical Engineering, Medical Engineering & eHealth, Tissue Engineering and Regenerative Medicine, Smart Homes and Assistive Technologies, International Business and Engineering, Computer Science, Campus International).
+Teaching in several study programmes at the [UAS Technikum Wien](/studyathome/partner/uastw/) (Biomedical Engineering, Medical Engineering & eHealth, Tissue Engineering and Regenerative Medicine, Smart Homes and Assistive Technologies, International Business and Engineering, Computer Science, Campus International).
 
 Subjects area and lectures: Data Ethics, Media-Ethics, Internet-Ethics, Bio-Ethics, Medical Ethics, Business Ethics, Philosophy of Technology, Social Media Behaviour, Conflict Management.
 
