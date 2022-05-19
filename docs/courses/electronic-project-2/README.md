@@ -9,7 +9,7 @@ tags:
 
 # layout: NotFound
 state: true
-enrollment: true
+enrollment: false
 
 semester: Summer
 license: =license=
@@ -48,13 +48,11 @@ university:
 
 # Embedded Systems 2
 
-
-*[ADC]: Analog to Digital Converter
-*[GPIO]: General Purpose Input-Output
-*[µC]: Mikrocontroller
+_[ADC]: Analog to Digital Converter
+_[GPIO]: General Purpose Input-Output \*[µC]: Mikrocontroller
 
 ::: slot information
-Internal Course Name: _Electronic Project 2_  
+Internal Course Name: _Electronic Project 2_
 
 This module focuses more on the low-level programming of embedded systems.
 Students will improve their knowledge about peripheral components and how to utilize a widely used programming toolchain.
@@ -72,7 +70,7 @@ In the course of this module students are able to program embedded systems witho
 - Interrupts and ISRs
 - Timer Configuration and Usage with Interrupts
 - ADC (Analog to Digital Converter) & UART (Universal Asynchronous Receiver Transmitter)
-- PWM (Pulse-Width-Modulation) 
+- PWM (Pulse-Width-Modulation)
 - Final Exam
 
 ### Outcomes
@@ -91,8 +89,8 @@ Participants of this course will learn how to
 | Type        | Effort \[h\] |
 | :---------- | :----------- |
 | Independent | 14           |
-| Practical   |  0           |
-| Lecture     |  6           |
+| Practical   | 0            |
+| Lecture     | 6            |
 
 ## Assessment
 
@@ -105,12 +103,12 @@ Please ALWAYS follow the guidance of the FHTW staff as required during the curre
 Throughout the course students have to work on various assignments.
 At the end there will be an exam.
 
-| Type          | Points/Percent |
-| :------------ | :------------- |
-| Assignment 1  | 15 Points      |
-| Assignment 2  | 25 Points      |
-| Assignment 3  | 30 Points      |
-| Final-Exam    | 30 Points      |
+| Type         | Points/Percent |
+| :----------- | :------------- |
+| Assignment 1 | 15 Points      |
+| Assignment 2 | 25 Points      |
+| Assignment 3 | 30 Points      |
+| Final-Exam   | 30 Points      |
 
 ### Criteria
 

@@ -18,7 +18,7 @@ tags:
 
 # layout: NotFound
 state: true
-enrollment: true
+enrollment: false
 
 semester: Summer
 license: =license=
@@ -59,7 +59,7 @@ university:
 # Audio Engineering
 
 ::: slot information
-This integrated course provides students the opportunity to familiarise themselves with the basics of acoustics and audio engineering, including perception of sound, microphones, amplifiers, loudspeakers, audio processing, etc. 
+This integrated course provides students the opportunity to familiarise themselves with the basics of acoustics and audio engineering, including perception of sound, microphones, amplifiers, loudspeakers, audio processing, etc.
 :::
 
 ## Overview
@@ -120,14 +120,14 @@ This lecture will be marked exclusively with participation (40%) during the lect
 | Participation | 40%            |
 | Assignments   | 60%            |
 
-The assignments  will be performed in groups of two or three people, and will consist on performing certain tasks relevant to the subject at hand.
+The assignments will be performed in groups of two or three people, and will consist on performing certain tasks relevant to the subject at hand.
 Then you'll write a short report describing what you did and what results you obtained, which one of the members of your team will then upload in Moodle.
 If you hand in all the parts of the assignment I asked, you will get full points for that assignment, if things are missing, you will loose points.
 Each assignment will be marked on a scale from 0 to 10 points.
 
 In order to get a positive mark at the end of the semester, you will need to fulfill the following requirements:
 
-1. come to an participate in at least 11 of the 14 scheduled sessions (mandatory attendance), and 
+1. come to an participate in at least 11 of the 14 scheduled sessions (mandatory attendance), and
 1. the average mark of all the assignments ≥ 5.
 
 ### Criteria
@@ -141,7 +141,6 @@ In order to get a positive mark at the end of the semester, you will need to ful
 | 1     | Sehr gut       | 88 to 100 points |
 
 ## Requirements
-
 
 ### Skills
 

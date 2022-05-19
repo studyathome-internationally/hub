@@ -7,7 +7,7 @@ tags:
   - Mikrocontroller
 
 state: true
-enrollment: false
+enrollment: true
 
 semester: Winter
 license: =license=
@@ -44,15 +44,14 @@ university:
 
 # Embedded Systems
 
-*[ADC]: Analog to Digital Converter
-*[GPIO]: General Purpose Input-Output
-*[µC]: Mikrocontroller
+_[ADC]: Analog to Digital Converter
+_[GPIO]: General Purpose Input-Output \*[µC]: Mikrocontroller
 
 ::: slot information
 This module teaches students the basics of programming common peripherals of embedded systems.
 Hence, this module focuses on understanding the general functionality of common microcontroller applications.
 
-This is achieved by starting on a higher programming level (system programing level) and gradually introducing them to the hardware programming level. 
+This is achieved by starting on a higher programming level (system programing level) and gradually introducing them to the hardware programming level.
 
 In the course of this module students are able to train embedded programming skills within a beginner friendly development toolchain.
 :::
@@ -85,17 +84,17 @@ This course is organized as an **asynchronous** distance learning course with a 
 | Type        | Effort \[h\] |
 | :---------- | :----------- |
 | Independent | 14           |
-| Practical   |  0           |
-| Lecture     |  6           |
+| Practical   | 0            |
+| Lecture     | 6            |
 
 ## Assessment
 
 ### Methods
 
-| Type          | Points/Percent |
-| :------------ | :------------- |
-| Assignments   | 55%            |
-| Exam          | 45%            |
+| Type        | Points/Percent |
+| :---------- | :------------- |
+| Assignments | 55%            |
+| Exam        | 45%            |
 
 ### Criteria
 
@@ -113,9 +112,9 @@ This course is organized as an **asynchronous** distance learning course with a 
 
 Basic knowledge of
 
-* Computer Architecture
-* Operating Systems
-* Programming using the C language
+- Computer Architecture
+- Operating Systems
+- Programming using the C language
 
 ### Equipment
 

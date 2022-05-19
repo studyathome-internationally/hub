@@ -8,7 +8,7 @@ tags:
 
 # layout: NotFound
 state: true
-enrollment: false
+enrollment: true
 
 semester: Winter
 license: =license=
@@ -78,10 +78,11 @@ The goal of this course is to introduce the students to the basic concepts and p
 
 ::: testimonial WS 2021 Maria Schildbeck
 
-The course consisted of a theoretical part and a practical part. The lectures were **2 hours (theory)** and **1 hour (programming exercises) per week**. All material and lectures were in English. From October to mid-December we learnt the basic image processing, pixel manipulations, filters, edge detection, feature matching, etc. From mid-December onward we learnt about deep learning. There are no Christmas holidays in Macedonia, so be prepared to have lectures during this time. 
-We had **two exams in mid-December**: The theoretical exam was two questions to answer essay-like, 30 minutes time. The practical exam was one problem solving task (programming) for which we had 24 hours and it had a workload of approx. 2 to 3 hours (keep in mind you probably have other lectures or exercises during this 24 hours). Only the students who passed the two exams could make a seminar work. It was within a deep learning topic recommended by the lecturer; you could also choose your own topic. 
+The course consisted of a theoretical part and a practical part. The lectures were **2 hours (theory)** and **1 hour (programming exercises) per week**. All material and lectures were in English. From October to mid-December we learnt the basic image processing, pixel manipulations, filters, edge detection, feature matching, etc. From mid-December onward we learnt about deep learning. There are no Christmas holidays in Macedonia, so be prepared to have lectures during this time.
+We had **two exams in mid-December**: The theoretical exam was two questions to answer essay-like, 30 minutes time. The practical exam was one problem solving task (programming) for which we had 24 hours and it had a workload of approx. 2 to 3 hours (keep in mind you probably have other lectures or exercises during this 24 hours). Only the students who passed the two exams could make a seminar work. It was within a deep learning topic recommended by the lecturer; you could also choose your own topic.
 
 The grading structure was:
+
 - 20% theoretical exam
 - 30% practical exam
 - 50% seminar work
@@ -138,10 +139,10 @@ Tests;project;final exam
 
 | Type                    | Points/Percent |
 | :---------------------- | :------------- |
-| Tests (assignments)                   | 30 points      |
+| Tests (assignments)     | 30 points      |
 | Seminar paper / Project | 40 points      |
 | Activity and Learning   | 10 points      |
-| Final exam (theory)             | 20 points      |
+| Final exam (theory)     | 20 points      |
 
 ### Criteria
 
@@ -159,6 +160,7 @@ Tests;project;final exam
 <!-- ::: post-it
 Prerequisites would be Digital image processing or Machine learning, but probably be waived
 ::: -->
+
 ### Level
 
 Intermediate

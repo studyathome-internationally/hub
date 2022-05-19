@@ -11,7 +11,7 @@ tags:
   - Automotive Ethernet
 
 state: true
-enrollment: true
+enrollment: false
 
 semester: Summer
 license: WIT
@@ -56,10 +56,8 @@ university:
 
 # The Connected Car
 
-
-*[ECUs]: Electronic Control Units
-*[CAN]: Controller Area Network
-*[LIN]: Local Interconnect Network
+_[ECUs]: Electronic Control Units
+_[CAN]: Controller Area Network \*[LIN]: Local Interconnect Network
 
 ::: slot information
 Modern vehicles contain a large number of Electronic Control Units (ECUs) that look after everything from powering the vehicle’s motion to the operation of the windscreen wipers.
@@ -108,11 +106,13 @@ On successful completion of this module, a student will be able to:
 ## Assessment
 
 <!-- Describe Assessment procedure verbally -->
+
 The grade is comprised of a main assignment (70%) and a minor assignment (30%), which is typically an essay or a research report investigating some protocol in more detail.
 
 ### Example Assignment
 
 <!-- Describe an example assignment definition -->
+
 Implement a CAN network on the Vector CANoe simulator software to test a **car climate control system** according to a given interface description.
 
 ### Methods

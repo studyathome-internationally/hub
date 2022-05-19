@@ -80,11 +80,11 @@ Project-Based Learning method.
 Combined with lectures and practical teaching on the remote laboratories.
 Supported by virtual learning environment and simulation.
 
-| Type        | Effort \[h\] |
-| :---------- | :----------- |
+| Type                     | Effort \[h\] |
+| :----------------------- | :----------- |
 | Independent (Group Work) | 80           |
-| Practical   | 50           |
-| Lecture     | 20           |
+| Practical                | 50           |
+| Lecture                  | 20           |
 
 ### Materials
 
@@ -95,19 +95,17 @@ Supported by virtual learning environment and simulation.
 | Andreas Athienitis (Ed.), William O'Brien (Ed.) | Modeling, Design, and Optimization of Net-Zero Energy Buildings                                            | Ernst & Sohn | 2015 |
 | Simon Roberts, Nicolò Guariento                 | Building Integrated Photovoltaics: A Handbook                                                              | Birkhäuser   | 2009 |
 
-
-
 ## Assessment
 
 ### Methods
 
 <!-- FIXME -->
 
-| Type                         | Points/Percent |
-| :--------------------------- | :------------- |
-| Project reports (group)                | 60%            |
-| Poster presentation (group) | 30%            |
-| Small Assessments and activities (single)              | 10%            |
+| Type                                      | Points/Percent |
+| :---------------------------------------- | :------------- |
+| Project reports (group)                   | 60%            |
+| Poster presentation (group)               | 30%            |
+| Small Assessments and activities (single) | 10%            |
 
 The presentations can be done virtually or on-site.
 
@@ -133,7 +131,7 @@ Basic knowledge at least in one or two of the following topics:
 
 ### Equipment
 
-* Windows OS for free Photovoltaic Emulation Software
+- Windows OS for free Photovoltaic Emulation Software
 
 ## Attendance
 
@@ -141,7 +139,6 @@ The course starts with a **compulsary 5-day attendance block** in September (Cal
 Afterwards, the course can be continued virtually.
 
 Please ask your outgoing coordinator (International Office) for funding possibilities or write to [studyathome@technikum-wien.at](mailto:studyathome@technikum-wien.at).
-
 
 ## Comments
 

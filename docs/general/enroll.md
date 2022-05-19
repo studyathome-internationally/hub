@@ -27,10 +27,10 @@ enrollment:
 # Course Enrollment
 
 ::: tip Extended Application Deadline
-November, 21^th^ 2021
+June, 5^th^ 2022
 :::
 
-Please send an **email** with your **application** by clicking ```Write E-Mail``` below. The course is **free of charge** but the capacity is limited (see course description).
+Please send an **email** with your **application** by clicking `Write E-Mail` below. The course is **free of charge** but the capacity is limited (see course description).
 
 Please ensure to check the [FAQs](/e-learning-sharing/faq.html) regarding course recognition and **apply before the application deadline**.
 
@@ -113,7 +113,7 @@ I confirm reading and understanding the full [privacy information](/studyathome/
 
 ## Troubleshooting
 
-In case of problems with the ```Write E-Mail``` button, simply open your e-mail client of choice and write an e-mail to
+In case of problems with the `Write E-Mail` button, simply open your e-mail client of choice and write an e-mail to
 
 [studyathome@technikum-wien.at](mailto:studyathome@technikum-wien.at)
 

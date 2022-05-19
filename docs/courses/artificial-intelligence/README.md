@@ -6,7 +6,8 @@ tags:
   - Artificial Intelligence
   - Machine Learning
 
-state: true
+# layout: NotFound
+state: false
 enrollment: false
 
 semester: Winter

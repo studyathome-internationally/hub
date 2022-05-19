@@ -7,6 +7,7 @@ tags:
   - FPGA
   - Embedded Systems
 
+layout: NotFound
 state: false
 enrollment: false
 

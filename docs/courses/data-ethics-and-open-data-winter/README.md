@@ -11,7 +11,7 @@ tags:
 
 # layout: NotFound
 state: true
-enrollment: false
+enrollment: true
 
 semester: Winter
 license: =license=
@@ -64,33 +64,33 @@ The course consists of - lectures combined with discussions - project work and e
 
 ### Contents
 
-* Basics of ethical decision making
-* Open Data applications in different fields: Healthcare, Finance, Smart Cities etc.
-* Open Data formats
-* Open Data policies
-* Project: analysing and processing open data
-* Data Ethics
-* Data Privacy, Transparency
+- Basics of ethical decision making
+- Open Data applications in different fields: Healthcare, Finance, Smart Cities etc.
+- Open Data formats
+- Open Data policies
+- Project: analysing and processing open data
+- Data Ethics
+- Data Privacy, Transparency
 
 ### Outcomes
 
 After passing this course successfully students are able to
 
-* analyse and work with Open Data
-* determine different fields of Open Data applications
-* assess the quality of different Open Data sources
-* valuate the importance of responsible handling of data in different areas of application
-* discuss domain-related data ethics
-* analyse and describe the challenges and risks of an intelligent machine learning system (AI)
+- analyse and work with Open Data
+- determine different fields of Open Data applications
+- assess the quality of different Open Data sources
+- valuate the importance of responsible handling of data in different areas of application
+- discuss domain-related data ethics
+- analyse and describe the challenges and risks of an intelligent machine learning system (AI)
 
 ### Methods & Schedule
 
 Lectures will be regular online presentations in **hybrid mode** (on-campus lecture + webinar room) at the beginning of the course. The Problem based learning (excercises and projects) will be organized asynchronously.
 
-| Type | Effort [h] |
-| :---------- | :-- |
-| Data Ethics | 50  |
-| Open Data   | 100 |
+| Type        | Effort [h] |
+| :---------- | :--------- |
+| Data Ethics | 50         |
+| Open Data   | 100        |
 
 ### Materials
 
@@ -103,7 +103,7 @@ Lectures will be regular online presentations in **hybrid mode** (on-campus lect
 
 ## Assessment
 
-| Type                                                        | Percent       |
+| Type                                        | Percent       |
 | :------------------------------------------ | :------------ |
 | Data Ethics: Presentation and handout       | 33.33 percent |
 | Open Data: Project results and presentation | 66.67 percent |
@@ -112,7 +112,6 @@ Lectures will be regular online presentations in **hybrid mode** (on-campus lect
 
 Data Ethics: Participation in discussions
 Open Data: Problem based learning (excercises and project)
-
 
 ### Criteria
 

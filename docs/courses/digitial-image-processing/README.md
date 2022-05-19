@@ -10,7 +10,7 @@ tags:
   - Computer Vision
 
 state: true
-enrollment: true
+enrollment: false
 
 semester: Summer
 license: =license=
@@ -24,7 +24,7 @@ degrees:
   - Bachelor
 language:
   - English
-  
+
 media:
   main:
     src: https://blogs.commons.georgetown.edu/cctp-820-fall2016/files/2016/10/2-1.png
@@ -50,7 +50,7 @@ university:
 
 ::: slot information
 
-The course will consist of theoretical material introducing the mathematics of images and imaging, as well as homeworks designed to introduce methods of real-world data manipulation. 
+The course will consist of theoretical material introducing the mathematics of images and imaging, as well as homeworks designed to introduce methods of real-world data manipulation.
 Within the homework the students will learn how to implement methods for contrast enhancement, color correction, edge detection, visual features extraction, panorama stitching, image matching and similarity, key-point detection and matching, image classification.
 
 :::
@@ -59,24 +59,24 @@ Within the homework the students will learn how to implement methods for contras
 
 ### Contents
 
-The course will consist of theoretical material introducing the mathematics of images and imaging, as well as homeworks designed to introduce methods of real-world data manipulation. 
+The course will consist of theoretical material introducing the mathematics of images and imaging, as well as homeworks designed to introduce methods of real-world data manipulation.
 Within the homework the students will learn how to implement methods for contrast enhancement, color correction, edge detection, visual features extraction, panorama stitching, image matching and similarity, key-point detection and matching, image classification.
 
-* Introduction to Python and OpenCV
-* Introduction to digital image processing
-* Basic operations on images: representation and digitization of images, viewing digital images, pixels, matrix transformations, scaling, translation and rotations
-* Image histograms and point-based operations
-* Color representation
-* Linear filters and convolution
-* Edge detection
-* Image segmentation
-* Morphological operations
-* Contour extraction
-* Frequency domain, power spectral density and FFT
-* Key-point extraction and local visual features
-* Content-based image retrieval
-* Image classification
-* Convolutional neural networks
+- Introduction to Python and OpenCV
+- Introduction to digital image processing
+- Basic operations on images: representation and digitization of images, viewing digital images, pixels, matrix transformations, scaling, translation and rotations
+- Image histograms and point-based operations
+- Color representation
+- Linear filters and convolution
+- Edge detection
+- Image segmentation
+- Morphological operations
+- Contour extraction
+- Frequency domain, power spectral density and FFT
+- Key-point extraction and local visual features
+- Content-based image retrieval
+- Image classification
+- Convolutional neural networks
 
 ### Outcomes
 
@@ -86,12 +86,12 @@ Upon the completion of the course the student is expected to rule and use the ba
 
 Lectures using presentations, interactive lectures, exercises (using equipment and software packages), teamwork, case studies, invited guest lecturers, independent preparation and defense of a project assignment and seminar work.
 
-| Type                 | Effort \[h\] |
-| :------------------- | :----------: |
-| Lectures             |      30      |
-| Exercises            |      45      |
-| Project Tasks        |      15      |
-| Home Learning        |      90      |
+| Type          | Effort \[h\] |
+| :------------ | :----------: |
+| Lectures      |      30      |
+| Exercises     |      45      |
+| Project Tasks |      15      |
+| Home Learning |      90      |
 
 ### Materials
 
@@ -103,24 +103,27 @@ Lectures using presentations, interactive lectures, exercises (using equipment a
 ## Assessment
 
 <!-- Describe Assessment procedure verbally -->
-Grades will be based on homeworks (five in total), final exam or final project. 
+
+Grades will be based on homeworks (five in total), final exam or final project.
 
 #### Example Assignment
 
 <!-- Describe an example assignment definition -->
+
 Within the homework the students will learn how to implement methods for contrast enhancement, color correction, edge detection, visual features extraction, panorama stitching, image matching and similarity, key-point detection and matching, image classification.
 
 #### Final Project
 
 <!-- The final exam will be ... -->
+
 Gesture-based user interface: Implement an automatic face and hand gesture recognition system which is able to control computer media player. Hand gestures and the human face are the key elements to interact with the smart system. Use face recognition for viewer verification and hand gesture recognition to control the computer media player, for instance, volume down/up, next music, stop, pause and etc.
 
 ### Methods
 
-| Type       | Points/Percent |
-| :--------- | :------------- |
-| Project or final exam    | 50 points      |
-| Home work | 50 points      |
+| Type                  | Points/Percent |
+| :-------------------- | :------------- |
+| Project or final exam | 50 points      |
+| Home work             | 50 points      |
 
 ### Criteria
 

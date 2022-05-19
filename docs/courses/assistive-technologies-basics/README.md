@@ -9,7 +9,7 @@ tags:
   - Accessibility
 
 state: true
-enrollment: true
+enrollment: false
 
 semester: Summer
 license: partly CC by
@@ -89,7 +89,7 @@ Upon completion of the course, students will be able to
 - know the current technical aids to support people with disabilities and to be able to select suitable technologies for certain applications
 - Knowing the accessibility requirements for digital documents and websites and being able to check documents for - essibility
 - Understand the terms "HCI", "Usability" and "UX" and their definitions
-- have information on the user centered design process and the associated standardization and to be able to apply it 
+- have information on the user centered design process and the associated standardization and to be able to apply it
 - identify use cases for the tools AsTeRICS, FABI and FLipMouse.
 
 ### Methods
@@ -104,24 +104,27 @@ The course is divided in self-study units and practical session at the UAS Techn
 ## Assessment
 
 <!-- Describe Assessment procedure verbally -->
+
 There will be 4 assignments individually or in group works and a final exam (multiple choice test).
 
 #### Example Assignment
 
 <!-- Describe an example assignment definition -->
+
 Analyze a given use case (person with disability) in terms of anatomy, physiology, pathology, applicable laws, standards and suitable Assistive Technologies.
 
 #### Final Exam
 
 <!-- The final exam will be ... -->
+
 There will be a multiple choice test reflecting all areas of the course contents.
 
 ### Methods
 
-| Type          | Points/Percent |
-| :------------ | :------------- |
-| Assignments   | 80%            |
-| Exam          | 20%            |
+| Type        | Points/Percent |
+| :---------- | :------------- |
+| Assignments | 80%            |
+| Exam        | 20%            |
 
 ### Criteria
 

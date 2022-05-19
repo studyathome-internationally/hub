@@ -8,7 +8,7 @@ tags:
   - Passive/Active Components
 
 state: true
-enrollment: false
+enrollment: true
 
 semester: Winter
 license: =license=
@@ -94,12 +94,12 @@ This course is organized as an **asynchronous** distance learning course with a 
 
 ### Methods
 
-| Type                                                     | Points/Percent |
-| :------------------------------------------------------- | :------------- |
-| Hand in AC exercise                                      | 10 points      |
-| Quiz combinatorial logic                                 | 10 points      |
-| Write a technical report                                 | 30 points      |
-| Final Exam (design and simulation of an OPA circuit)     | 50 points      |
+| Type                                                 | Points/Percent |
+| :--------------------------------------------------- | :------------- |
+| Hand in AC exercise                                  | 10 points      |
+| Quiz combinatorial logic                             | 10 points      |
+| Write a technical report                             | 30 points      |
+| Final Exam (design and simulation of an OPA circuit) | 50 points      |
 
 ### Criteria
 
