@@ -56,8 +56,10 @@ university:
 
 # The Connected Car
 
-_[ECUs]: Electronic Control Units
-_[CAN]: Controller Area Network \*[LIN]: Local Interconnect Network
+<!-- prettier-ignore -->
+*[ECUs]: Electronic Control Units
+*[CAN]: Controller Area Network 
+*[LIN]: Local Interconnect Network
 
 ::: slot information
 Modern vehicles contain a large number of Electronic Control Units (ECUs) that look after everything from powering the vehicle’s motion to the operation of the windscreen wipers.
