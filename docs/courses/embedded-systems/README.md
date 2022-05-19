@@ -44,8 +44,9 @@ university:
 
 # Embedded Systems
 
-_[ADC]: Analog to Digital Converter
-_[GPIO]: General Purpose Input-Output \*[µC]: Mikrocontroller
+<!-- prettier-ignore -->
+*[ADC]: Analog to Digital Converter
+*[GPIO]: General Purpose Input-Output \*[µC]: Mikrocontroller
 
 ::: slot information
 This module teaches students the basics of programming common peripherals of embedded systems.
