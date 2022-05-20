@@ -43,14 +43,15 @@ Austria
 
 ::: tip WIT
 
-[Data Protection Officer](https://www.wit.ie/about_wit/documents_and_policies/staff_data_protection)
+[Data Protection Officer](https://www.setu.ie/privacy-policy)
 
-Main Campus Cork Road,
-Waterford City,
-Ireland,
-Eircode: X91 K0EK
+Data Protection Commissioner
+Canal House,
+Station Road,
+Portarlington,
+R32 AP23 Co. Laois
 
-[**dataprotection@wit.ie**](mailto:dataprotection@wit.ie)
+[**info@dataprotection.ie**](mailto:info@dataprotection.ie)
 :::
 
 ::: tip CTU Prague

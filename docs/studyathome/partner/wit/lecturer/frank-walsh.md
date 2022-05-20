@@ -2,7 +2,7 @@
 sidebar: false
 layout: Lecturer
 contact:
-  mail: fxwalsh@wit.ie
+  mail: fxwalsh@setu.ie
   linkedin: http://ie.linkedin.com/pub/frank-walsh/7/886/a2b
   researchgate: https://www.researchgate.net/profile/Frank_Walsh
 experience:

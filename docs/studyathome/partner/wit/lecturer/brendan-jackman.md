@@ -3,7 +3,7 @@ sidebar: false
 layout: Lecturer
 contact:
   tel: +353 51 834087
-  mail: bjackman@wit.ie
+  mail: bjackman@setu.ie
   linkedin: https://www.linkedin.com/in/bjackmanwit/
   researchgate: https://www.researchgate.net/profile/Brendan_Jackman
 experience:
