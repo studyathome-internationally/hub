@@ -26,7 +26,7 @@ portrait: /assets/img/partner/uastw/lecturer/patrick-schmitt.jpg
 # Patrick Schmitt
 
 Patrick Schmitt was born in 1992 in Vienna and grew up in Gänserndorf.
-After graduation at the [TGM](http://www.tgm.ac.at/) in Vienna 20 (a higher vocational-technical school), specializing in computer science, he started with the bachelor program in Electronics Engineering at the University of Applied Sciences Technikum Wien in 2011.
+After graduation at the [TGM](http://www.tgm.ac.at/) in Vienna 20 (a higher vocational-technical school), specializing in computer science, he started with the bachelor program in Electronics Engineering at the [UAS Technikum Wien](/studyathome/partner/uastw/) in 2011.
 
 <!-- more -->
 
@@ -38,4 +38,4 @@ He is working as a full-time employee at the Research Group Embedded Systems sin
 In 2018 he joined the project team of the Josef Ressel Center [INES](http://embsys.technikum-wien.at/projects/ines/index.php).
 
 In November 2018 he started to work within the industry-cooperation "Emerging Applications Lab" funded by Infineon Austria Technologies GmbH.
-The main focus of this industry-cooperation is the software development for unmanned aerial vehicles based on multicore microcontrollers and AIML platforms.
+The main focus of this industry cooperation is the software development for unmanned aerial vehicles based on multicore microcontrollers and AIML platforms.

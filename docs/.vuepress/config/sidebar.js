@@ -18,7 +18,7 @@ module.exports = {
       title: "Partner Universities",
       collapsable: false,
       children: [
-        ["wit/", "WIT"],
+        ["wit/", "SETU"],
         ["ctu/", "CTU"],
         ["ukim/", "UKIM"],
         ["uastw/", "UAS TW"],

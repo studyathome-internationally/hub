@@ -25,7 +25,7 @@ portrait: /assets/img/partner/uastw/lecturer/momir-tabakovic.png
 
 # Momir Tabakovic
 
-**FH-Prof. Ing. Momir Tabakovic PhD., MSc.,** get his PhD. degree in Renewable Energy from the Technical University in Bratislava and his MSc. degree in Renewable Energy from the University of Applied Sciences (UAS) Technikum Wien.
+**FH-Prof. Ing. Momir Tabakovic PhD., MSc.,** get his PhD. degree in Renewable Energy from the Technical University in Bratislava and his MSc. degree in Renewable Energy from the [UAS Technikum Wien](/studyathome/partner/uastw/).
 He is researcher and lecture at the University of Applied Sciences Technikum Wien in the field of renewable energy, especially in the field of Building-integrated photovoltaics, thermoelectricity and Plus energy districts.
 
 <!-- more -->
@@ -33,7 +33,6 @@ He is researcher and lecture at the University of Applied Sciences Technikum Wie
 He is a member of the Austrian Photovoltaics Technology Platform and the European Technology and Innovation Platform for Photovoltaics.
 For several years he is member of the World energy council and the International and European Thermoelectricity Society.
 
-Within the European project Dem4BiPV (Development of innovative educational material for Building-integrated Photovoltaics) he is responsible for the integration of BIPV course in the master program at the university AS Technikum Wien.
+Within the European project Dem4BiPV (Development of innovative educational material for Building-integrated Photovoltaics) he is responsible for the integration of BIPV course in the master program at the [UAS Technikum Wien](/studyathome/partner/uastw/).
 
-He is  also leading national and international smart city and building projects that deals, especially with the integration of Photovoltaics in the building skin.
-
+He is also leading national and international smart city and building projects that deals, especially with the integration of Photovoltaics in the building skin.

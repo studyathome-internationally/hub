@@ -3,7 +3,7 @@ sidebar: false
 layout: Lecturer
 contact:
   tel: +353 51 834087
-  mail: bjackman@wit.ie
+  mail: bjackman@setu.ie
   linkedin: https://www.linkedin.com/in/bjackmanwit/
   researchgate: https://www.researchgate.net/profile/Brendan_Jackman
 experience:
@@ -32,7 +32,7 @@ As an Analyst-Programmer Brendan was responsible for the specification, design, 
 Brendan returned to Ireland to work with Digital Equipment Corporation (DEC) and was responsible for managing the requirements, development and support of integrated manufacturing control systems in the Clonmel plant.
 Later his role was expanded to include project management and information modelling of the DEC Clonmel order management system as part of a European-wide distributed customer order fulfilment system.
 
-Brendan joined WIT in 1991 as Lecturer in Computing and has developed and delivered many modules in the computing and electronics areas.
+Brendan joined [SETU](/studyathome/partner/wit/) (formerly WIT) in 1991 as Lecturer in Computing and has developed and delivered many modules in the computing and electronics areas.
 His specialist area is real-time embedded systems, in particular automotive control systems, safety-critical systems and vehicle networks.
 Key achievements include founding the Automotive Control Group in 2000, supervision of more than twelve M.Sc. students, playing a lead role in establishing an Embedded Systems undergraduate stream and establishing strong research and employment collaborations with many leading international automotive companies.
 

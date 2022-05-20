@@ -45,4 +45,4 @@ Her research focused mainly on the sound and sound production of the oboe.
 
 In 2015-2016 she worked as an Electronics teacher in HTL10.
 
-She has been working as a lecturer in FHTW since 2016, where she has given theoretical and practical (laboratory) lectures in Electronics and Audio Engineering.
+She has been working as a lecturer in [UAS Technikum Wien](/studyathome/partner/uastw/) since 2016, where she has given theoretical and practical (laboratory) lectures in Electronics and Audio Engineering.

@@ -48,8 +48,9 @@ university:
 
 # Embedded Systems 2
 
-_[ADC]: Analog to Digital Converter
-_[GPIO]: General Purpose Input-Output \*[µC]: Mikrocontroller
+<!-- prettier-ignore -->
+*[ADC]: Analog to Digital Converter
+*[GPIO]: General Purpose Input-Output \*[µC]: Mikrocontroller
 
 ::: slot information
 Internal Course Name: _Electronic Project 2_

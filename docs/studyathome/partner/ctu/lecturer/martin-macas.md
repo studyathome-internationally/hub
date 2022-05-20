@@ -16,11 +16,12 @@ position:
 portrait: /assets/img/partner/ctu/lecturer/martin-macas.png
 ---
 
-# Martin Macaš
-
+<!-- prettier-ignore -->
 *[M.Sc.]: Master of Science
 
-Ing. Martin Macas, Ph.D. is currently employed at Czech Institute of Informatics, Robotics and Cybernetics, Czech Technical University in Prague, Cognitive Systems and Neurosciences research group and Intelligent Systems for Industry and Smart Distribution Networks research group.
+# Martin Macaš
+
+Ing. Martin Macas, Ph.D. is currently employed at Czech Institute of Informatics, Robotics and Cybernetics, [Czech Technical University in Prague (CVUT)](/studyathome/partner/ctu/), Cognitive Systems and Neurosciences research group and Intelligent Systems for Industry and Smart Distribution Networks research group.
 
 <!-- more -->
 
