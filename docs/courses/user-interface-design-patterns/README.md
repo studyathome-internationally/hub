@@ -9,7 +9,7 @@ tags:
   - Usability
 
 state: true
-enrollment: false
+enrollment: true
 
 semester: Winter
 license: ukim
@@ -84,10 +84,10 @@ The purpose of the course is to introduce the basic problems of user interfaces 
 
 ::: testimonial WS2020 Julius Duin
 
-* Course materials in English
-* 2 Lectures each week á 2-3h
-* 7 Assignments á 3-5h
-* 2 Exams á practical (2h programming) and theoretical (20min exam) parts
+- Course materials in English
+- 2 Lectures each week á 2-3h
+- 7 Assignments á 3-5h
+- 2 Exams á practical (2h programming) and theoretical (20min exam) parts
 
 ---
 
