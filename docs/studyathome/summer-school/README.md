@@ -117,11 +117,10 @@ Have a look at the detailed schedule in [Google Calendar](https://calendar.googl
   Project Work
 - **July 12th, 2022**  
   Project Work Evaluation, Certificates, Farewell Event at [Heurigen 10er Marie](https://10ermarie.at/)
-
-**July 13th - August 23rd, 2022**  
-**Follow-up evaluation**: Evaluate an assistive solution for a person with disability in your personal or business environment.
-The assistive solution can be an individualized communication grid or a HEIDI project prototype.
-Create a short video and publish it. Finally, discuss it in peers.
+- **July 13th - August 23rd, 2022**  
+  **Follow-up evaluation**: Evaluate an assistive solution for a person with disability in your personal or business environment.
+  The assistive solution can be an individualized communication grid or a HEIDI project prototype.
+  Create a short video and publish it. Finally, discuss it in peers.
 
 ### Schedule
 
