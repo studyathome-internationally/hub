@@ -56,8 +56,7 @@ The Summer School lectures will be held in English.
 
 ## Guest Lecturers & Experts
 
-- **HEIDI**: **H**uman B**E**e**I**ngs with **D**isabil**I**ties telling their:
-  story
+- **HEIDI**: **H**uman B**E**e**I**ngs with **D**isabil**I**ties telling their story:
   - **[Susanne Buchner-Sabathy](https://www.blindenverband-wnb.at/blog/anderen-eine-stimme-leihen/)**: Expert for people with visual impairment, use of Screen Readers, digital accessibility and visually impaired.
   - **[Dr. Kyle Keane](http://www.kylekeane.com/)**: Lecturer at Massachusetts Institute of Technology (MIT) for human-centered design, assistive technologies and computational materials science and visually impaired.
   - **Oliver Klein**: Student at UAS Technikum Wien and wheelchair user.
