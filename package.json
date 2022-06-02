@@ -9,9 +9,8 @@
     "access": "public"
   },
   "dependencies": {
-    "@studyathome-internationally/vuepress-theme-hub": "^1.1.7",
+    "@studyathome-internationally/vuepress-theme-hub": "^1.2.0",
     "@textlint-rule/textlint-rule-no-unmatched-pair": "^1.0.7",
-    "caniuse-lite": "^1.0.30001271",
     "lint-staged": "^9.5.0",
     "remark-cli": "^7.0.1",
     "remark-lint": "^6.0.6",
