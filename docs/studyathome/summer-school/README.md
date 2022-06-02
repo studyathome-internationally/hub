@@ -125,4 +125,4 @@ Create a short video and publish it. Finally, discuss it in peers.
 
 ### Schedule
 
-<GoogleCalendar height="600" src="studyathome%40technikum-wien.at&ctz=Europe%2FVienna" />
+<GoogleCalendar title="Assist HEIDI 2022" date="20220704" lang="en" height="800" bcolor="#ffffff" src="studyathome@technikum-wien.at" ctz="Europe Vienna" />
