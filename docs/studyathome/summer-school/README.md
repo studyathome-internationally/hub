@@ -16,7 +16,7 @@ ASSIST HEIDI brings students and people with disabilities together.
 
 **ASSIST HEIDI brings students and people with disabilities together**, in order to design and prototype an individual assistive technology solution for them.
 Students will have access to materials, tools and equipment (e.g. 3D printer etc.).
-The Smart Living Lab and the IoT Lab of UAS Technikum Wien provide the perfect environment for the participants.
+The Smart Living Lab of the UAS Technikum Wien provide the perfect environment for the participants.
 This is the best opportunity to get to know people with disabilities, to contribute, develop and implement your own ideas.
 
 ## Project Work
@@ -28,18 +28,23 @@ During the group or idea-finding phase, participants can contribute their own id
 
 ## Application
 
-To apply you need to send the following documents to [studyathome@technikum-wien.at](mailto:studyathome@technikum-wien.at):
+<!-- To apply you need to send the following documents to [studyathome@technikum-wien.at](mailto:studyathome@technikum-wien.at):
 
 - CV
 - Letter of Motivation
 - Confirmation of Enrollment (at your home university)
+ -->
+
+Contact: [studyathome@technikum-wien.at](mailto:studyathome@technikum-wien.at)
 
 ::: note
 
-Participants: 18 students max.  
+The summer school is fully booked, no applications possible any more.
+
+<!-- Participants: 18 students max.  
 Application Deadline: **February 28th, 2022**  
 Information: [studyathome@technikum-wien.at](mailto:studyathome@technikum-wien.at)
-
+ -->
 :::
 
 ## Target Group
@@ -50,27 +55,24 @@ The Summer School lectures will be held in English.
 
 ## Guest Lecturers & Experts
 
-**Susanne Buchner-Sabathy**: Expert for people with
-visual impairment, use of Screen Readers, digital
-accessibility.  
-**HEIDI**: **H**uman B**E**e**I**ngs with **D**isabil**I**ties telling their
-story  
-**Further experts**: Smart Homes (UAS Technikum Wien), Web-Accessibility etc.
+* **HEIDI**: **H**uman B**E**e**I**ngs with **D**isabil**I**ties telling their:
+story
+  * **[Susanne Buchner-Sabathy](https://www.blindenverband-wnb.at/blog/anderen-eine-stimme-leihen/)**: Expert for people with visual impairment, use of Screen Readers, digital accessibility and visually impaired.
+  * **[Dr. Kyle Keane](http://www.kylekeane.com/)**: Lecturer at Massachusetts Institute of Technology (MIT) for human-centered design, assistive technologies and computational materials science and visually impaired.
+  * **Oliver Klein**: Student at UAS Technikum Wien and wheelchair user.
+* **Further experts**: Assistive Technologies, Web-Accessibility, microcontrollers, 3D printing, Co-Design
 
 ## Venue
 
-[University of Applied Sciences Technikum Wien](/studyathome/partner/uastw/), Höchstädtplatz 6, 1200 Vienna, Austria
+**Smart Living Lab** of [University of Applied Sciences Technikum Wien](/studyathome/partner/uastw/), Höchstädtplatz 6, 1200 Vienna, Austria
 
-- Smart Living Lab
-- IoT-Lab
-
-<!-- <Youtube id="xBFLoPRD6rE"/> -->
-<video controls style="max-width: 100%;">
-  <!-- <source src="https://cloud.technikum-wien.at/s/i6BNgw9jL2EXL7k" type="video/mp4"/> -->
+<Youtube id="qv6cvPn4fNU"/>
+<!-- <video controls style="max-width: 100%;">
+  <!-- <source src="https://cloud.technikum-wien.at/s/i6BNgw9jL2EXL7k" type="video/mp4"/> 
   <source src="https://cloud.technikum-wien.at/s/i6BNgw9jL2EXL7k/download/smarthome_01_kfvgesamt_final.mp4" type="video/mp4"/>
   Sorry, your browser doesn't support embedded videos.
 </video>
-
+ -->
 ## Certificate
 
 All participating students receive a certificate after graduating from the Summer School.
@@ -86,30 +88,42 @@ Reasonably priced accommodation in Vienna, near the University, will be recommen
 
 ## Program Note
 
-The summer school is planned with a **self study period** before the actual mobility and a **follow-up evaluation** after the mobility.
-A detailed program will be available at the end of May 2022.
-According to the new Erasmus+ program period (2021-2027), funding for short time mobilities with a virtual component are eligible.
+The summer school will have a **self study period** before the actual mobility and a **follow-up evaluation** after the mobility, see [program details](#program-details).
+
+According to the new Erasmus+ program period (2021-2027), funding for **short term mobilities** with a virtual component are eligible.
 For further information on funding possibilities please contact the International Office of your home institution.
-
-Participants of the ASSIST HEIDI Summer School are asked to bring their own **laptop** to the summer school.
-
-## Program Preview
-
-**July 4th, 2022**  
-Welcome Day – Introductions, Meet HEIDI, Welcome Event (Dinner in the Dark)  
-**July 5th-7th, 2022**  
-Disability, Assistive Technologies, Smart Homes, Rapid Prototyping, Web Accessibility  
-**July 8th, 2022**  
-Project Work  
-**July 9th/11th, 2022**  
-Social and Cultural Programme (optional)  
-**July 11th, 2022**  
-Project Work  
-**July 12th, 2022**  
-Project Work Evaluation, Certificates, Farewell Event
 
 ::: note
 
-Social Programme: Sightseeing - Excursion (Details will be announced)
+Bring your own laptop and headphones!
 
 :::
+
+## Program Details
+
+Have a look at the detailed schedule in the [google calendar link](https://calendar.google.com/calendar/embed?src=studyathome%40technikum-wien.at&ctz=Europe%2FVienna) or [iCal link](https://calendar.google.com/calendar/ical/studyathome%40technikum-wien.at/public/basic.ics).
+
+
+**June 20th - July 3rd, 2022**  
+**Self study period**: Self-study script about fundamentals of disability and assistive technologies.
+
+**July 4th, 2022**  
+Welcome Day – Introductions, Meet HEIDIs, Welcome Event ([Dinner in the Dark](https://www.viersinne.at/wien/dinner-in-the-dark))  
+**July 5th-7th, 2022**  
+Disability, Assistive Technologies ([Switch interface FABI](https://www.asterics-foundation.org/projects/fabi/), [AAC with AsTeRICS Grid](https://www.asterics-foundation.org/projects/asterics-ergo-grid-2/),...), Rapid Prototyping, Microcontrollers and ML for Assistive Technologies, Web Accessibility  
+**July 8th, 2022**  
+Project Work  
+**July 11th, 2022**  
+Project Work  
+**July 12th, 2022**  
+Project Work Evaluation, Certificates, Farewell Event at [Heurigen 10er Marie](https://10ermarie.at/)
+
+**July 13th - August 23rd, 2022**  
+**Follow-up evaluation**: Evaluate an assistive solution for a person with disability in your personal or business environment.
+The assistive solution can be an individualized communication grid or a HEIDI project prototype.
+Create a short video and publish it. Finally, discuss it in peers.
+
+
+### Schedule
+
+<iframe src="https://calendar.google.com/calendar/embed?src=studyathome%40technikum-wien.at&ctz=Europe%2FVienna" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
