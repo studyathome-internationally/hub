@@ -57,9 +57,9 @@ The Summer School lectures will be held in English.
 ## Guest Lecturers & Experts
 
 - **HEIDIs**: **H**uman B**E**e**I**ngs with **D**isabil**I**ties telling their story:
-  - **[Susanne Buchner-Sabathy](https://www.blindenverband-wnb.at/blog/anderen-eine-stimme-leihen/) (blind)**: Member of the Association for the Blind and Visually Impaired ([BSVWNB](https://www.blindenverband-wnb.at/)) and expert for Digital Accessibility and the use of Screen Readers.
-  - **[Dr. Kyle Keane](http://www.kylekeane.com/) (visually impaired)**: Lecturer at Massachusetts Institute of Technology (MIT) for human-centered design, assistive technologies and computational materials science.
-  - **Oliver Klein (wheelchair user)**: Student at UAS Technikum Wien in the master's program AI engineering.
+  - **[Susanne Buchner-Sabathy](https://www.blindenverband-wnb.at/blog/anderen-eine-stimme-leihen/)** (blind): Member of the Association for the Blind and Visually Impaired ([BSVWNB](https://www.blindenverband-wnb.at/)) and expert for Digital Accessibility and the use of Screen Readers.
+  - **[Dr. Kyle Keane](http://www.kylekeane.com/)** (visually impaired): Lecturer at Massachusetts Institute of Technology (MIT) for human-centered design, assistive technologies and computational materials science.
+  - **Oliver Klein** (wheelchair user): Student at UAS Technikum Wien in the master's program AI engineering.
 - **Further experts**: Assistive Technologies, Web-Accessibility, Microcontrollers, 3D Printing, Co-Design
   - [Mandana Eibegger](https://www.linkedin.com/in/mandana-eibegger/?originalSubdomain=at)
   - [Benjamin Klaus](https://embsys.technikum-wien.at/staff/klaus/index.php)
@@ -68,6 +68,8 @@ The Summer School lectures will be held in English.
   - [Alija Sabic](https://hub.studyathome.technikum-wien.at/studyathome/partner/uastw/lecturer/alija-sabic.html)
   - [Martin Deinhofer](https://hub.studyathome.technikum-wien.at/studyathome/partner/uastw/lecturer/martin-deinhofer.html)
   - [Fabian Steiner](https://embsys.technikum-wien.at/staff/steiner/index.php)
+- **Administrative Support**
+  - [**Florian Ellinger**](https://www.technikum-wien.at/en/staff/florian-ellinger/): Project StudyATHome Internationally and coordinator incoming students.
 
 ## Venue
 
