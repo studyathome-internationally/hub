@@ -56,11 +56,18 @@ The Summer School lectures will be held in English.
 
 ## Guest Lecturers & Experts
 
-- **HEIDI**: **H**uman B**E**e**I**ngs with **D**isabil**I**ties telling their story:
-  - **[Susanne Buchner-Sabathy](https://www.blindenverband-wnb.at/blog/anderen-eine-stimme-leihen/)**: Expert for people with visual impairment, use of Screen Readers, digital accessibility and visually impaired.
-  - **[Dr. Kyle Keane](http://www.kylekeane.com/)**: Lecturer at Massachusetts Institute of Technology (MIT) for human-centered design, assistive technologies and computational materials science and visually impaired.
-  - **Oliver Klein**: Student at UAS Technikum Wien and wheelchair user.
-- **Further experts**: Assistive Technologies, Web-Accessibility, microcontrollers, 3D printing, Co-Design
+- **HEIDIs**: **H**uman B**E**e**I**ngs with **D**isabil**I**ties telling their story:
+  - **[Susanne Buchner-Sabathy](https://www.blindenverband-wnb.at/blog/anderen-eine-stimme-leihen/) (blind)**: Member of the Association for the Blind and Visually Impaired ([BSVWNB](https://www.blindenverband-wnb.at/)) and expert for Digital Accessibility and the use of Screen Readers.
+  - **[Dr. Kyle Keane](http://www.kylekeane.com/) (visually impaired)**: Lecturer at Massachusetts Institute of Technology (MIT) for human-centered design, assistive technologies and computational materials science.
+  - **Oliver Klein (wheelchair user)**: Student at UAS Technikum Wien in the master's program AI engineering.
+- **Further experts**: Assistive Technologies, Web-Accessibility, Microcontrollers, 3D Printing, Co-Design
+  - [Mandana Eibegger](https://www.linkedin.com/in/mandana-eibegger/?originalSubdomain=at)
+  - [Benjamin Klaus](https://embsys.technikum-wien.at/staff/klaus/index.php)
+  - [Benjamin Aigner](https://embsys.technikum-wien.at/staff/aigner/index.php)
+  - [Chris Veigl](https://hub.studyathome.technikum-wien.at/studyathome/partner/uastw/lecturer/christoph-veigl.html)
+  - [Alija Sabic](https://hub.studyathome.technikum-wien.at/studyathome/partner/uastw/lecturer/alija-sabic.html)
+  - [Martin Deinhofer](https://hub.studyathome.technikum-wien.at/studyathome/partner/uastw/lecturer/martin-deinhofer.html)
+  - [Fabian Steiner](https://embsys.technikum-wien.at/staff/steiner/index.php)
 
 ## Venue
 
@@ -90,7 +97,7 @@ Reasonably priced accommodation in Vienna, near the University, will be recommen
 
 ## Program Note
 
-The summer school will have a **self study period** before the actual mobility and a **follow-up evaluation** after the mobility, see [program details](#program-details).
+The summer school will have a **self-study period** before the actual mobility and a **follow-up evaluation** after the mobility, see [program details](#program-details).
 
 According to the new Erasmus+ program period (2021-2027), funding for **short term mobilities** with a virtual component are eligible.
 For further information on funding possibilities please contact the International Office of your home institution.
@@ -106,11 +113,11 @@ Bring your own laptop and headphones!
 Have a look at the detailed schedule in [Google Calendar](https://calendar.google.com/calendar/embed?src=studyathome%40technikum-wien.at&ctz=Europe%2FVienna) or via [iCal](https://calendar.google.com/calendar/ical/studyathome%40technikum-wien.at/public/basic.ics).
 
 - **June 20th - July 3rd, 2022**  
-  **Self study period**: Self-study script about fundamentals of disability and assistive technologies.
+  **Self-study period**: Self-study script about fundamentals of disability and assistive technologies.
 - **July 4th, 2022**  
   Welcome Day – Introductions, Meet HEIDIs, Welcome Event ([Dinner in the Dark](https://www.viersinne.at/wien/dinner-in-the-dark))
 - **July 5th-7th, 2022**  
-  Disability, Assistive Technologies ([Switch interface FABI](https://www.asterics-foundation.org/projects/fabi/), [AAC with AsTeRICS Grid](https://www.asterics-foundation.org/projects/asterics-ergo-grid-2/),...), Rapid Prototyping, Microcontrollers and ML for Assistive Technologies, Web Accessibility
+  Disability, Assistive Technologies ([Switch Interface FABI](https://www.asterics-foundation.org/projects/fabi/), [AAC with AsTeRICS Grid](https://www.asterics-foundation.org/projects/asterics-ergo-grid-2/),...), Rapid Prototyping, Microcontrollers and ML for Assistive Technologies, Web Accessibility
 - **July 8th, 2022**  
   Project Work
 - **July 11th, 2022**  
@@ -120,7 +127,7 @@ Have a look at the detailed schedule in [Google Calendar](https://calendar.googl
 - **July 13th - August 23rd, 2022**  
   **Follow-up evaluation**: Evaluate an assistive solution for a person with disability in your personal or business environment.
   The assistive solution can be an individualized communication grid or a HEIDI project prototype.
-  Create a short video and publish it. Finally, discuss it in peers.
+  Create a short video and publish it. Finally, discuss it with peers.
 
 ### Schedule
 
