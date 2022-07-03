@@ -31,7 +31,8 @@ Collaboration and regular contact with businesses give students and graduates of
 <img :src="$withBase('/assets/img/partner/uastw/classroom.jpg')" alt="Students sitting in a classroom of the University of Applied Science Technikum Wien." title="UAS Technikum Wien (UAS TW) - Classroom">
 :::
 
-<Youtube id="xBFLoPRD6rE"/>
+<!-- <Youtube id="xBFLoPRD6rE"/> -->
+<Youtube id="qv6cvPn4fNU"/>
 
 ## Exchange Programme
 
