@@ -26,25 +26,13 @@ Any questions? Check out the [eLearning sharing concept](/e-learning-sharing) an
 
 Please select from the list of courses below.
 
+### Summer Semester 2023
+
+<Courses summer sort="name" path="/courses/"/>
+
 ### Winter Semester 2022
 
 <Courses winter sort="name" path="/courses/"/>
-
-### Summer School July 2022
-
-**ASSIST HEIDI** - [Vienna summer school](/studyathome/summer-school/) for creating an inclusive environment for people with disabilities.
-
-ASSIST HEIDI brings students and people with disabilities together, in order to design and prototype an individual assistive technology solution for them.
-
-::: image-triplet
-<img :src="$withBase('/assets/pdf/summer-school/summer-school-1.jpg')" title="" alt="Young boy laughing while sitting in a wheelchair.">
-<img :src="$withBase('/assets/pdf/summer-school/summer-school-2.jpg')" title="" alt="Young boy laughing while sitting in a wheelchair and father looking happily at him.">
-<img :src="$withBase('/assets/pdf/summer-school/summer-school-3.jpg')" title="" alt="Two people with special needs sitting at the desk and looking at a tablet.">
-:::
-
-### Summer Semester 2022
-
-<Courses summer sort="name" path="/courses/"/>
 
 ## Funding
 

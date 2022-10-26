@@ -11,7 +11,7 @@ tags:
   - Automotive Ethernet
 
 state: true
-enrollment: false
+enrollment: true
 
 semester: Summer
 license: WIT
@@ -41,8 +41,8 @@ media:
 
 schedule:
   # application deadline: 2 months in advance. would be good to market it in June for Winter semester and in November for Summer Semester
-  start: 17.01.2022
-  end: 29.04.2022
+  start: 16.01.2023
+  end: 28.04.2023
   duration:
 
 lecturers:

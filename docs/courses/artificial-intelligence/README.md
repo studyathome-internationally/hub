@@ -6,7 +6,7 @@ tags:
   - Artificial Intelligence
   - Machine Learning
 
-# layout: NotFound
+layout: NotFound
 state: false
 enrollment: false
 

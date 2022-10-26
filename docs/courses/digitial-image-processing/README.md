@@ -10,7 +10,7 @@ tags:
   - Computer Vision
 
 state: true
-enrollment: false
+enrollment: true
 
 semester: Summer
 license: =license=
@@ -31,8 +31,8 @@ media:
     alt: Picture of a female face (left side) and matrix data (right side)
 
 schedule:
-  start: 15.02.2022
-  end: 01.06.2022
+  start: 14.02.2023
+  end: 31.05.2023
   duration: 13 weeks
 
 lecturers:

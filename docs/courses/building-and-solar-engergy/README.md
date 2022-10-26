@@ -6,6 +6,7 @@ tags:
   - Solar Energy
   - Building Automation
 
+layout: NotFound
 state: false
 enrollment: false
 

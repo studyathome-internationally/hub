@@ -8,7 +8,7 @@ tags:
   - Passive/Active Components
 
 state: true
-enrollment: true
+enrollment: false
 
 semester: Winter
 license: =license=

@@ -27,7 +27,7 @@ enrollment:
 # Course Enrollment
 
 ::: tip Extended Application Deadline
-June, 5^th^ 2022
+November, 7^th^ 2022
 :::
 
 Please send an **email** with your **application** by clicking `Write E-Mail` below. The course is **free of charge** but the capacity is limited (see course description).

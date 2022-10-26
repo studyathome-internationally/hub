@@ -9,7 +9,7 @@ tags:
   - Usability
 
 state: true
-enrollment: true
+enrollment: false
 
 semester: Winter
 license: ukim
@@ -44,7 +44,7 @@ university:
   program: Software Engineering and Information Systems
 ---
 
-# User interface design patterns
+# User Interface Design Patterns
 
 ::: slot information
 The purpose of the course is to introduce the basic problems of user interfaces and approaches of how to solve them for different types of user interfaces and user interactions.
