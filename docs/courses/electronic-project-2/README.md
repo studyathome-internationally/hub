@@ -9,7 +9,7 @@ tags:
 
 # layout: NotFound
 state: true
-enrollment: false
+enrollment: true
 
 semester: Summer
 license: =license=
@@ -32,8 +32,8 @@ media:
     alt: Mikrocontroller with SMD components on a printed circuit board
 
 schedule:
-  start: 19.02.2022
-  end: 22.04.2022
+  start: 18.02.2023
+  end: 21.04.2023
   duration: =course duration=
 
 lecturers:

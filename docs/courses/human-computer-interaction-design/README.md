@@ -8,7 +8,7 @@ tags:
 
 # layout: NotFound
 state: true
-enrollment: false
+enrollment: true
 
 semester: Summer
 license: =license=
@@ -30,8 +30,8 @@ media:
     alt: User interacting with buttons on a touch panel
 
 schedule:
-  start: 15.02.2022
-  end: 01.06.2022
+  start: 14.02.2023
+  end: 31.05.2023
   duration: =course duration=
 
 lecturers:

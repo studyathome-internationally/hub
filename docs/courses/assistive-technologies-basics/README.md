@@ -9,7 +9,7 @@ tags:
   - Accessibility
 
 state: true
-enrollment: false
+enrollment: true
 
 semester: Summer
 license: partly CC by
@@ -30,8 +30,8 @@ media:
     alt: User with motor impairment sitting in front of a computer.
 
 schedule:
-  start: 16.2.2022
-  end: 30.6.2022
+  start: 15.2.2023
+  end: 29.6.2023
   duration: =course duration=
 
 lecturers:

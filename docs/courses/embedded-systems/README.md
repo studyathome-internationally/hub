@@ -7,7 +7,7 @@ tags:
   - Mikrocontroller
 
 state: true
-enrollment: true
+enrollment: false
 
 semester: Winter
 license: =license=

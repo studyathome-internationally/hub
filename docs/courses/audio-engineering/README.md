@@ -18,7 +18,7 @@ tags:
 
 # layout: NotFound
 state: true
-enrollment: false
+enrollment: true
 
 semester: Summer
 license: =license=
@@ -43,8 +43,8 @@ media:
     alt: Matlab icon surrounded by analog wave signal.
 
 schedule:
-  start: 01.03.2022
-  end: 30.06.2022
+  start: 28.02.2023
+  end: 29.06.2023
   duration: =course duration=
 
 lecturers:

@@ -6,7 +6,8 @@ tags:
   - Solar Energy
   - Building Automation
 
-state: true
+layout: NotFound
+state: false
 enrollment: false
 
 semester: Summer
