@@ -26,7 +26,7 @@ enrollment:
 
 # Course Enrollment
 
-::: tip Extended Application Deadline
+::: tip Application Deadline
 November, 7^th^ 2022
 :::
 
