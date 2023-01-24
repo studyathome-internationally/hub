@@ -7,8 +7,8 @@
    viewBox="0 0 324.50049 90.125497"
    id="svg2"
    version="1.1"
-   inkscape:version="1.1.2 (1:1.1+202202050950+0a00cf5339)"
-   sodipodi:docname="partners.svg"
+   inkscape:version="1.2.2 (1:1.2.2+202212051550+b0a8486541)"
+   sodipodi:docname="partners-new.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -267,9 +267,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="8.3599432"
-     inkscape:cx="69.797125"
-     inkscape:cy="34.210759"
+     inkscape:zoom="4.1799716"
+     inkscape:cx="190.19268"
+     inkscape:cy="55.981242"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -296,7 +296,9 @@
      inkscape:snap-object-midpoints="true"
      inkscape:snap-center="true"
      inkscape:snap-text-baseline="true"
-     inkscape:pagecheckerboard="0">
+     inkscape:pagecheckerboard="0"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1">
     <inkscape:grid
        type="xygrid"
        id="grid3281"
@@ -12463,9 +12465,14 @@
          d="m 416.73444,374.45751 c -5.06709,-7.34579 -6.00763,-8.09969 -6.00763,-10.79937 0,-3.69798 2.99778,-6.69576 6.69577,-6.69576 3.69798,0 6.69576,2.99778 6.69576,6.69576 0,2.69968 -0.94054,3.45358 -6.00763,10.79937 -0.33253,0.48035 -1.04378,0.48032 -1.37627,0 z m 0.68814,-8.00947 c 1.54082,0 2.78989,-1.24907 2.78989,-2.7899 0,-1.54082 -1.24907,-2.7899 -2.78989,-2.7899 -1.54084,0 -2.78991,1.24908 -2.78991,2.7899 0,1.54083 1.24907,2.7899 2.78991,2.7899 z"
          inkscape:connector-curvature="0"
          style="fill:#71787d;fill-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 430.05022,360.34318 c -5.06709,-7.34578 -6.00763,-8.09968 -6.00763,-10.79936 0,-3.69798 2.99778,-6.69577 6.69576,-6.69577 3.69799,0 6.69577,2.99779 6.69577,6.69577 0,2.69968 -0.94054,3.45358 -6.00763,10.79936 -0.33253,0.48035 -1.04378,0.48032 -1.37627,0 z m 0.68813,-8.00946 c 1.54083,0 2.78991,-1.24907 2.78991,-2.7899 0,-1.54083 -1.24908,-2.78991 -2.78991,-2.78991 -1.54082,0 -2.7899,1.24908 -2.7899,2.78991 0,1.54083 1.24908,2.7899 2.7899,2.7899 z"
+         id="path5991"
+         style="fill:#8cb110;fill-opacity:1" />
     </g>
     <g
-       transform="matrix(0.9,0,0,0.9,60.425148,65.719613)"
+       transform="matrix(0.9,0,0,0.9,45.373929,51.192044)"
        id="g3299">
       <rect
          y="275.63611"
@@ -12473,7 +12480,7 @@
          height="19.216463"
          width="104.21646"
          id="rect3291"
-         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#8cb110;stroke-width:0.78353649;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#8cb110;stroke-width:0.783536;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <text
          xml:space="preserve"
          style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -12630,7 +12637,7 @@
            sodipodi:role="line">Waterford, Ireland</tspan></text>
     </g>
     <g
-       transform="matrix(0.9,0,0,0.9,46.989008,40.545031)"
+       transform="matrix(0.9,0,0,0.9,31.078388,28.562804)"
        id="g3289">
       <rect
          y="329.29639"
@@ -12638,7 +12645,7 @@
          height="19.293905"
          width="84.293907"
          id="rect3281"
-         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#00659c;stroke-width:0.70609397;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#00659c;stroke-width:0.706094;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <text
          xml:space="preserve"
          style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -12658,9 +12665,9 @@
     </g>
     <g
        id="g28170"
-       transform="matrix(0.9,0,0,0.9,161.28871,12.932658)">
+       transform="matrix(0.9,0,0,0.9,15.108329,12.932658)">
       <rect
-         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#71787d;stroke-width:0.88646406;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#71787d;stroke-width:0.886464;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="rect28117-4"
          width="133.48854"
          height="19.113535"
@@ -12747,6 +12754,40 @@
          y="342.19153"
          id="tspan28051"
          style="font-size:6.75007px;line-height:1.25;stroke-width:0.9px">Toronto, Canada</tspan></text>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:1.875;-inkscape-stroke:none;stop-color:#000000"
+       id="rect5922"
+       width="324.50052"
+       height="90.125488"
+       x="232.70834"
+       y="291.6004" />
+    <g
+       transform="matrix(0.9,0,0,0.9,87.011961,102.59176)"
+       id="g6028">
+      <rect
+         y="275.63611"
+         x="394.87317"
+         height="19.216463"
+         width="104.21646"
+         id="rect6020"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#8cb110;stroke-width:0.783536;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="396.98996"
+         y="282.62595"
+         id="text6026"><tspan
+           sodipodi:role="line"
+           x="396.98996"
+           y="282.62595"
+           style="font-size:7.5px;line-height:1.25"
+           id="tspan6024">Universitatea Transilvania</tspan><tspan
+           sodipodi:role="line"
+           x="396.98996"
+           y="292.00095"
+           style="font-size:7.5px;line-height:1.25"
+           id="tspan6088">Brașov, Romania</tspan></text>
+    </g>
   </g>
   <style
      id="style_css_sheet"
