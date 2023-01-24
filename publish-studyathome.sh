@@ -6,7 +6,7 @@ DOMAIN="hub.studyathome.technikum-wien.at"
 if [[ -z "$1" ]] ; then
     rm -rf build/ 
     mkdir gh-pages
-    BASE=$BASEPATH yarn build 
+    BASE=$BASEPATH pnpm run build 
     mv gh-pages/next next-backup
     rm -rf gh-pages/* 
     cp -r build/* gh-pages/ 
@@ -24,7 +24,7 @@ else
     if [[ "$1" == "next" ]] ; then
         rm -rf build/ 
         mkdir gh-pages
-        BASE=$BASEPATH"next/" yarn build 
+        BASE=$BASEPATH"next/" pnpm run build 
         rm -rf gh-pages/next
         cp -r build gh-pages/next
         cd gh-pages/next

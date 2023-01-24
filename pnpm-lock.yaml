@@ -1300,8 +1300,8 @@ packages:
       '@fortawesome/fontawesome-common-types': 6.2.1
     dev: false
 
-  /@fortawesome/vue-fontawesome/2.0.9_tsskomtn7pjpp6fcwzu7ca2rbe:
-    resolution: {integrity: sha512-tUmO92PFHbLOplitjHNBVGMJm6S57vp16tBXJVPKSI/6CfjrgLycqKxEpC6f7qsOqUdoXs5nIv4HLUfrOMHzuw==}
+  /@fortawesome/vue-fontawesome/2.0.10_tsskomtn7pjpp6fcwzu7ca2rbe:
+    resolution: {integrity: sha512-OTETSXz+3ygD2OK2/vy82cmUBpuJqeOAg4gfnnv+f2Rir1tDIhQg026Q3NQxznq83ZLz8iNqGG9XJm26inpDeg==}
     peerDependencies:
       '@fortawesome/fontawesome-svg-core': ~1 || ~6
       vue: ~2
@@ -1457,7 +1457,7 @@ packages:
       '@fortawesome/free-brands-svg-icons': 6.2.1
       '@fortawesome/free-regular-svg-icons': 6.2.1
       '@fortawesome/free-solid-svg-icons': 6.2.1
-      '@fortawesome/vue-fontawesome': 2.0.9_tsskomtn7pjpp6fcwzu7ca2rbe
+      '@fortawesome/vue-fontawesome': 2.0.10_tsskomtn7pjpp6fcwzu7ca2rbe
       '@studyathome-internationally/vuepress-plugin-pwa-autoload': 0.0.1
       '@vuepress/plugin-back-to-top': 1.9.8
       '@vuepress/plugin-medium-zoom': 1.9.8
@@ -7816,7 +7816,7 @@ packages:
       mdast-util-phrasing: 3.0.0
       mdast-util-to-string: 3.1.0
       micromark-util-decode-string: 1.0.2
-      unist-util-visit: 4.1.1
+      unist-util-visit: 4.1.2
       zwitch: 2.0.4
     dev: false
 
@@ -10119,7 +10119,7 @@ packages:
       unified-lint-rule: 2.1.1
       unist-util-generated: 2.0.1
       unist-util-position: 4.0.4
-      unist-util-visit: 4.1.1
+      unist-util-visit: 4.1.2
     dev: false
 
   /remark-lint-checkbox-character-style/4.1.1:
@@ -10129,7 +10129,7 @@ packages:
       unified: 10.1.2
       unified-lint-rule: 2.1.1
       unist-util-position: 4.0.4
-      unist-util-visit: 4.1.1
+      unist-util-visit: 4.1.2
     dev: false
 
   /remark-lint-code-block-style/3.1.0:
@@ -10140,7 +10140,7 @@ packages:
       unified-lint-rule: 2.1.1
       unist-util-generated: 2.0.1
       unist-util-position: 4.0.4
-      unist-util-visit: 4.1.1
+      unist-util-visit: 4.1.2
     dev: false
 
   /remark-lint-emphasis-marker/3.1.1:
@@ -10150,7 +10150,7 @@ packages:
       unified: 10.1.2
       unified-lint-rule: 2.1.1
       unist-util-position: 4.0.4
-      unist-util-visit: 4.1.1
+      unist-util-visit: 4.1.2
     dev: false
 
   /remark-lint-fenced-code-marker/3.1.1:
@@ -10160,7 +10160,7 @@ packages:
       unified: 10.1.2
       unified-lint-rule: 2.1.1
       unist-util-position: 4.0.4
-      unist-util-visit: 4.1.1
+      unist-util-visit: 4.1.2
     dev: false
 
   /remark-lint-final-newline/2.1.1:
@@ -10179,7 +10179,7 @@ packages:
       unified-lint-rule: 2.1.1
       unist-util-generated: 2.0.1
       unist-util-position: 4.0.4
-      unist-util-visit: 4.1.1
+      unist-util-visit: 4.1.2
     dev: false
 
   /remark-lint-heading-style/3.1.1:
@@ -10190,7 +10190,7 @@ packages:
       unified: 10.1.2
       unified-lint-rule: 2.1.1
       unist-util-generated: 2.0.1
-      unist-util-visit: 4.1.1
+      unist-util-visit: 4.1.2
     dev: false
 
   /remark-lint-link-title-style/3.1.1:
@@ -10200,7 +10200,7 @@ packages:
       unified: 10.1.2
       unified-lint-rule: 2.1.1
       unist-util-position: 4.0.4
-      unist-util-visit: 4.1.1
+      unist-util-visit: 4.1.2
       vfile-location: 4.0.1
     dev: false
 
@@ -10211,7 +10211,7 @@ packages:
       pluralize: 8.0.0
       unified: 10.1.2
       unified-lint-rule: 2.1.1
-      unist-util-visit: 4.1.1
+      unist-util-visit: 4.1.2
     dev: false
 
   /remark-lint-list-item-content-indent/3.1.1:
@@ -10222,7 +10222,7 @@ packages:
       unified: 10.1.2
       unified-lint-rule: 2.1.1
       unist-util-position: 4.0.4
-      unist-util-visit: 4.1.1
+      unist-util-visit: 4.1.2
     dev: false
 
   /remark-lint-list-item-indent/3.1.1:
@@ -10234,7 +10234,7 @@ packages:
       unified-lint-rule: 2.1.1
       unist-util-generated: 2.0.1
       unist-util-position: 4.0.4
-      unist-util-visit: 4.1.1
+      unist-util-visit: 4.1.2
     dev: false
 
   /remark-lint-no-blockquote-without-marker/5.1.1:
@@ -10245,7 +10245,7 @@ packages:
       unified-lint-rule: 2.1.1
       unist-util-generated: 2.0.1
       unist-util-position: 4.0.4
-      unist-util-visit: 4.1.1
+      unist-util-visit: 4.1.2
       vfile-location: 4.0.1
     dev: false
 
@@ -10258,7 +10258,7 @@ packages:
       unist-util-generated: 2.0.1
       unist-util-position: 4.0.4
       unist-util-stringify-position: 3.0.3
-      unist-util-visit: 4.1.1
+      unist-util-visit: 4.1.2
     dev: false
 
   /remark-lint-no-heading-content-indent/4.1.1:
@@ -10271,7 +10271,7 @@ packages:
       unified-lint-rule: 2.1.1
       unist-util-generated: 2.0.1
       unist-util-position: 4.0.4
-      unist-util-visit: 4.1.1
+      unist-util-visit: 4.1.2
     dev: false
 
   /remark-lint-no-inline-padding/4.1.1:
@@ -10282,7 +10282,7 @@ packages:
       unified: 10.1.2
       unified-lint-rule: 2.1.1
       unist-util-generated: 2.0.1
-      unist-util-visit: 4.1.1
+      unist-util-visit: 4.1.2
     dev: false
 
   /remark-lint-no-literal-urls/3.1.1:
@@ -10294,7 +10294,7 @@ packages:
       unified-lint-rule: 2.1.1
       unist-util-generated: 2.0.1
       unist-util-position: 4.0.4
-      unist-util-visit: 4.1.1
+      unist-util-visit: 4.1.2
     dev: false
 
   /remark-lint-no-shortcut-reference-image/3.1.1:
@@ -10304,7 +10304,7 @@ packages:
       unified: 10.1.2
       unified-lint-rule: 2.1.1
       unist-util-generated: 2.0.1
-      unist-util-visit: 4.1.1
+      unist-util-visit: 4.1.2
     dev: false
 
   /remark-lint-no-shortcut-reference-link/3.1.1:
@@ -10314,7 +10314,7 @@ packages:
       unified: 10.1.2
       unified-lint-rule: 2.1.1
       unist-util-generated: 2.0.1
-      unist-util-visit: 4.1.1
+      unist-util-visit: 4.1.2
     dev: false
 
   /remark-lint-no-undefined-references/4.2.0:
@@ -10326,7 +10326,7 @@ packages:
       unified-lint-rule: 2.1.1
       unist-util-generated: 2.0.1
       unist-util-position: 4.0.4
-      unist-util-visit: 4.1.1
+      unist-util-visit: 4.1.2
       vfile-location: 4.0.1
     dev: false
 
@@ -10337,7 +10337,7 @@ packages:
       unified: 10.1.2
       unified-lint-rule: 2.1.1
       unist-util-generated: 2.0.1
-      unist-util-visit: 4.1.1
+      unist-util-visit: 4.1.2
     dev: false
 
   /remark-lint-ordered-list-marker-style/3.1.1:
@@ -10348,7 +10348,7 @@ packages:
       unified-lint-rule: 2.1.1
       unist-util-generated: 2.0.1
       unist-util-position: 4.0.4
-      unist-util-visit: 4.1.1
+      unist-util-visit: 4.1.2
     dev: false
 
   /remark-lint-rule-style/3.1.1:
@@ -10358,7 +10358,7 @@ packages:
       unified: 10.1.2
       unified-lint-rule: 2.1.1
       unist-util-position: 4.0.4
-      unist-util-visit: 4.1.1
+      unist-util-visit: 4.1.2
     dev: false
 
   /remark-lint-strong-marker/3.1.1:
@@ -10368,7 +10368,7 @@ packages:
       unified: 10.1.2
       unified-lint-rule: 2.1.1
       unist-util-position: 4.0.4
-      unist-util-visit: 4.1.1
+      unist-util-visit: 4.1.2
     dev: false
 
   /remark-lint-table-cell-padding/4.1.2:
@@ -10379,7 +10379,7 @@ packages:
       unified: 10.1.2
       unified-lint-rule: 2.1.1
       unist-util-position: 4.0.4
-      unist-util-visit: 4.1.1
+      unist-util-visit: 4.1.2
     dev: false
 
   /remark-lint/9.1.1:
@@ -12055,7 +12055,7 @@ packages:
       parse-json: 6.0.2
       to-vfile: 7.2.3
       trough: 2.1.0
-      unist-util-inspect: 7.0.1
+      unist-util-inspect: 7.0.2
       vfile-message: 3.1.3
       vfile-reporter: 7.0.4
       vfile-statistics: 2.0.0
@@ -12153,8 +12153,8 @@ packages:
     resolution: {integrity: sha512-qF72kLmPxAw0oN2fwpWIqbXAVyEqUzDHMsbtPvOudIlUzXYFIeQIuxXQCRCFh22B7cixvU0MG7m3MW8FTq/S+A==}
     dev: false
 
-  /unist-util-inspect/7.0.1:
-    resolution: {integrity: sha512-gEPeSrsYXus8012VJ00p9uZC8D0iogtLLiHlBgvS61hU22KNKduQhMKezJm83viHlLf3TYS2y9SDEFglWPDMKw==}
+  /unist-util-inspect/7.0.2:
+    resolution: {integrity: sha512-Op0XnmHUl6C2zo/yJCwhXQSm/SmW22eDZdWP2qdf4WpGrgO1ZxFodq+5zFyeRGasFjJotAnLgfuD1jkcKqiH1Q==}
     dependencies:
       '@types/unist': 2.0.6
     dev: false
@@ -12209,8 +12209,8 @@ packages:
       unist-util-is: 5.2.0
     dev: false
 
-  /unist-util-visit-parents/5.1.1:
-    resolution: {integrity: sha512-gks4baapT/kNRaWxuGkl5BIhoanZo7sC/cUT/JToSRNL1dYoXRFl75d++NkjYk4TAu2uv2Px+l8guMajogeuiw==}
+  /unist-util-visit-parents/5.1.3:
+    resolution: {integrity: sha512-x6+y8g7wWMyQhL1iZfhIPhDAs7Xwbn9nRosDXl7qoPTSCy0yNxnKc+hWokFifWQIDGi154rdUqKvbCa4+1kLhg==}
     dependencies:
       '@types/unist': 2.0.6
       unist-util-is: 5.2.0
@@ -12238,12 +12238,12 @@ packages:
       unist-util-visit-parents: 4.1.1
     dev: false
 
-  /unist-util-visit/4.1.1:
-    resolution: {integrity: sha512-n9KN3WV9k4h1DxYR1LoajgN93wpEi/7ZplVe02IoB4gH5ctI1AaF2670BLHQYbwj+pY83gFtyeySFiyMHJklrg==}
+  /unist-util-visit/4.1.2:
+    resolution: {integrity: sha512-MSd8OUGISqHdVvfY9TPhyK2VdUrPgxkUtWSuMHF6XAAFuL4LokseigBnZtPnJMu+FbynTkFNnFlyjxpVKujMRg==}
     dependencies:
       '@types/unist': 2.0.6
       unist-util-is: 5.2.0
-      unist-util-visit-parents: 5.1.1
+      unist-util-visit-parents: 5.1.3
     dev: false
 
   /universalify/0.1.2:
