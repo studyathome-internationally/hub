@@ -29,5 +29,10 @@ module.exports = (ctx) => ({
     nav: require("./config/nav/en"),
     sidebarDepth: 2,
     sidebar: require("./config/sidebar.js"),
+    algolia: {
+      apiKey: "f1fd393bbed56da9dd0988564b714776",
+      indexName: "hub",
+      appId: "MKD3X349RT",
+    },
   },
 });

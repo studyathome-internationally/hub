@@ -1,0 +1,25 @@
+{
+  "index_name": "hub",
+  "start_urls": ["https://hub.studyathome.technikum-wien.at/"],
+  "stop_urls": [],
+  "selectors": {
+    "lvl0": {
+      "selector": "p.sidebar-heading.open",
+      "global": true,
+      "default_value": "Documentation"
+    },
+    "lvl1": ".content__default h1",
+    "lvl2": ".content__default h2",
+    "lvl3": ".content__default h3",
+    "lvl4": ".content__default h4",
+    "lvl5": ".content__default h5",
+    "text": ".content__default p, .content__default li"
+  },
+  "scrape_start_urls": false,
+  "strip_chars": " .,;:#",
+  "custom_settings": {
+    "attributesForFaceting": ["lang", "tags"]
+  },
+  "conversation_id": ["561346943"],
+  "nb_hits": 6474
+}
