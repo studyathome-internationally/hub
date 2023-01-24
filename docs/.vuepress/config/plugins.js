@@ -1,13 +1,5 @@
 module.exports = [
   [
-    "@vuepress/pwa",
-    {
-      serviceWorker: true,
-      popupComponent: "AutoSWUpdatePopup",
-      updatePopup: true,
-    },
-  ],
-  [
     "@vuepress/search",
     {
       // searchMaxSuggestions: 1,
