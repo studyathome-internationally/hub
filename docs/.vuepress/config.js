@@ -11,7 +11,6 @@ module.exports = (ctx) => ({
   title: "StudyATHome Internationally",
   description: "Sharing of eLearning courses between partner universities.",
   theme: "@studyathome-internationally/hub",
-  plugins: require("./config/plugins.js"),
   markdown: {
     anchor: {
       permalink: true,
@@ -19,6 +18,12 @@ module.exports = (ctx) => ({
   },
   extraWatchFiles: [".vuepress/config/**/*.js"],
   themeConfig: {
+    algolia: {
+      appId: "MKD3X349RT",
+      apiKey: "f1fd393bbed56da9dd0988564b714776",
+      indexName: "hub",
+      disableUserPersonalization: true,
+    },
     docsRepo: "studyathome-internationally/hub",
     docsDir: "docs",
     editLinks: true,
@@ -29,10 +34,5 @@ module.exports = (ctx) => ({
     nav: require("./config/nav/en"),
     sidebarDepth: 2,
     sidebar: require("./config/sidebar.js"),
-    algolia: {
-      apiKey: "f1fd393bbed56da9dd0988564b714776",
-      indexName: "hub",
-      appId: "MKD3X349RT",
-    },
   },
 });
