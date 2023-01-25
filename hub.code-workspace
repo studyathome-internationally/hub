@@ -13,6 +13,9 @@
       "path": "../hub.js/packages/@studyathome-internationally/vuepress-plugin-pwa-autoload"
     },
     {
+      "path": "../hub.js/packages/@studyathome-internationally/vuepress-plugin-searchbox"
+    },
+    {
       "path": "../hub.js/packages/@studyathome-internationally/vuepress-theme-hub"
     }
   ],
