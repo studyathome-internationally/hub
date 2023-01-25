@@ -18,12 +18,6 @@ module.exports = (ctx) => ({
   },
   extraWatchFiles: [".vuepress/config/**/*.js"],
   themeConfig: {
-    algolia: {
-      appId: "MKD3X349RT",
-      apiKey: "f1fd393bbed56da9dd0988564b714776",
-      indexName: "hub",
-      disableUserPersonalization: true,
-    },
     docsRepo: "studyathome-internationally/hub",
     docsDir: "docs",
     editLinks: true,
