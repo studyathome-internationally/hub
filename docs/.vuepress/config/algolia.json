@@ -56,6 +56,7 @@
   "custom_settings": {
     "attributesForFaceting": ["lang", "tags"]
   },
+  "selectors_exclude": [".sr-only"],
   "conversation_id": ["561346943"],
   "nb_hits": 6474
 }
