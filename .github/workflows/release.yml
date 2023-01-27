@@ -46,31 +46,14 @@ jobs:
         uses: actions/download-artifact@v3
         with:
           name: hub
-      - name: Test Check
-        run: sshpass -p ${PASS} ssh ${SSH_OPTS} ${USER}@${SERVER} "echo ${DEST}"
-      - name: Test Check 2
-        env:
-          CMD: "echo ${DEST}"
-        run: sshpass -p ${PASS} ssh ${SSH_OPTS} ${USER}@${SERVER} ${CMD}
-      - name: Check Prerelease 2
-        run: sshpass -p ${PASS} ssh ${SSH_OPTS} ${USER}@${SERVER} "if [ -d ${DEST}/next ]; then echo 'true'; else echo 'false'; fi"
       - name: Check Prerelease
         id: prerelease
         run: echo "exists=$(sshpass -p ${PASS} ssh ${SSH_OPTS} ${USER}@${SERVER} "if [ -d ${DEST}/next ]; then echo 'true'; else echo 'false'; fi")" >> $GITHUB_OUTPUT
-      - name: Print Check
-        run: echo exists ${{ steps.prerelease.exists }}
-      - name: Test Check
-        if: ${{ steps.prerelease.exists }}
-        run: echo "Prerelease exists"
-      - name: Test Check 2
-        if: ${{ !steps.prerelease.exists }}
-        run: echo "Prerelease doesn't exist"
       - name: Download Prerelease
+        if: ${{ steps.prerelease.outputs.exists }}
         run: echo sshpass -p ${PASS} scp ${SSH_OPTS} -r ${USER}@${SERVER}:${DEST}/next next
-      - name: Delete Content from Server
-        run: sshpass -p ${PASS} ssh ${SSH_OPTS} ${USER}@${SERVER} "echo rm -rf ${DEST}/*"
-      - name: Delete Content from Server
-        run: sshpass -p ${PASS} ssh ${SSH_OPTS} ${USER}@${SERVER} "echo rm -rf ${DEST}/*"
+      # - name: Delete Content from Server
+      #   run: sshpass -p ${PASS} ssh ${SSH_OPTS} ${USER}@${SERVER} "echo rm -rf ${DEST}/*"
       - name: Upload Build to StudyATHome Server
         run: echo sshpass -p ${PASS} scp ${SSH_OPTS} -r * ${USER}@${SERVER}:${DEST}/
   # We don't know when the site will be deployed, we just wait a few seconds
