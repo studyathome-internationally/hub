@@ -53,12 +53,10 @@ jobs:
           CMD: "echo ${DEST}"
         run: sshpass -p ${PASS} ssh ${SSH_OPTS} ${USER}@${SERVER} ${CMD}
       - name: Check Prerelease 2
-        run: sshpass -p ${PASS} ssh ${SSH_OPTS} ${USER}@${SERVER} "ls ${DEST}/next"
+        run: sshpass -p ${PASS} ssh ${SSH_OPTS} ${USER}@${SERVER} "if [ -d ${DEST}/next ]; then echo 'true'; else echo 'false'; fi"
       - name: Check Prerelease
         id: prerelease
-        env:
-          CMD: [ -d ${DEST}/next ]
-        run: echo "exists=$(sshpass -p ${PASS} ssh ${SSH_OPTS} ${USER}@${SERVER} ${CMD})" >> $GITHUB_OUTPUT
+        run: echo "exists=$(sshpass -p ${PASS} ssh ${SSH_OPTS} ${USER}@${SERVER} "if [ -d ${DEST}/next ]; then echo 'true'; else echo 'false'; fi")" >> $GITHUB_OUTPUT
       - name: Test Check
         if: ${{ steps.prerelease.exists }}
         run: echo "Prerelease exists"
