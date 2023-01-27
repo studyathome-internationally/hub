@@ -27,7 +27,34 @@ jobs:
         run: pnpm install --frozen-lockfile
       - name: Build
         run: pnpm run build
-      - name: Upload
+      - name: Upload Build Result
+        uses: actions/upload-artifact@v3
+        with:
+          name: hub
+          path: build
+  deploy:
+    runs-on: ubuntu-latest
+    needs: build
+    steps:
+      - name: Download Build Result
+        uses: actions/download-artifact@v3
+        with:
+          name: hub
+      - name: Upload Build to StudyATHome Server
         env:
           PASS: ${{ secrets.DEPLOY_USER_KEY }}
         run: sshpass -p "$PASS" scp -o StrictHostKeyChecking=no -o UserKnownHostsFile=/dev/null -r build/* study-deploy@studyathome.technikum-wien.at:/var/www/html/hub-public/
+  # We don't know when the site will be deployed, we just wait a few seconds
+  # Better solutions can be found
+  delay:
+    runs-on: ubuntu-latest
+    needs: deploy
+    steps:
+      - name: Delay for 120 seconds
+        run: sleep 120s
+  algolia:
+    needs: [deploy, delay]
+    uses: ./.github/workflows/algolia.yml
+    with:
+      delete_index: true
+    secrets: inherit
