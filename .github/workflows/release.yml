@@ -6,6 +6,10 @@ on:
 
 env:
   BASE: /
+  USER: study-deploy
+  SERVER: studyathome.technikum-wien.at
+  DEST: /var/www/html/hub-public
+  SSH_OPTS: -o StrictHostKeyChecking=no -o UserKnownHostsFile=/dev/null
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -35,15 +39,40 @@ jobs:
   deploy:
     runs-on: ubuntu-latest
     needs: build
+    env:
+      PASS: ${{ secrets.DEPLOY_USER_KEY }}
     steps:
       - name: Download Build Result
         uses: actions/download-artifact@v3
         with:
           name: hub
-      - name: Upload Build to StudyATHome Server
+      - name: Test Check
+        run: sshpass -p ${PASS} ssh ${SSH_OPTS} ${USER}@${SERVER} "echo ${DEST}"
+      - name: Test Check 2
         env:
-          PASS: ${{ secrets.DEPLOY_USER_KEY }}
-        run: sshpass -p "$PASS" scp -o StrictHostKeyChecking=no -o UserKnownHostsFile=/dev/null -r build/* study-deploy@studyathome.technikum-wien.at:/var/www/html/hub-public/
+          CMD: "echo ${DEST}"
+        run: sshpass -p ${PASS} ssh ${SSH_OPTS} ${USER}@${SERVER} ${CMD}
+      - name: Check Prerelease 2
+        run: sshpass -p ${PASS} ssh ${SSH_OPTS} ${USER}@${SERVER} "ls ${DEST}/next"
+      - name: Check Prerelease
+        id: prerelease
+        env:
+          CMD: "[ -d ${DEST}/next ]"
+        run: echo exists=$(sshpass -p ${PASS} ssh ${SSH_OPTS} ${USER}@${SERVER} ${CMD}) >> $GITHUB_OUTPUT
+      - name: Test Check
+        if: ${{ steps.prerelease.exists }}
+        run: echo "Prerelease exists"
+      - name: Test Check 2
+        if: ${{ !steps.prerelease.exists }}
+        run: echo "Prerelease doesn't exist"
+      - name: Download Prerelease
+        run: echo sshpass -p ${PASS} scp ${SSH_OPTS} -r ${USER}@${SERVER}:${DEST}/next next
+      - name: Delete Content from Server
+        run: sshpass -p ${PASS} ssh ${SSH_OPTS} ${USER}@${SERVER} "echo rm -rf ${DEST}/*"
+      - name: Delete Content from Server
+        run: sshpass -p ${PASS} ssh ${SSH_OPTS} ${USER}@${SERVER} "echo rm -rf ${DEST}/*"
+      - name: Upload Build to StudyATHome Server
+        run: echo sshpass -p ${PASS} scp ${SSH_OPTS} -r * ${USER}@${SERVER}:${DEST}/
   # We don't know when the site will be deployed, we just wait a few seconds
   # Better solutions can be found
   delay:
