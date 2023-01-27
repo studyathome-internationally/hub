@@ -57,8 +57,8 @@ jobs:
       - name: Check Prerelease
         id: prerelease
         env:
-          CMD: "[ -d ${DEST}/next ]"
-        run: echo exists=$(sshpass -p ${PASS} ssh ${SSH_OPTS} ${USER}@${SERVER} ${CMD}) >> $GITHUB_OUTPUT
+          CMD: [ -d ${DEST}/next ]
+        run: echo "exists=$(sshpass -p ${PASS} ssh ${SSH_OPTS} ${USER}@${SERVER} ${CMD})" >> $GITHUB_OUTPUT
       - name: Test Check
         if: ${{ steps.prerelease.exists }}
         run: echo "Prerelease exists"
