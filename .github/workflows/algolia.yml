@@ -34,6 +34,8 @@ jobs:
         run: |
           pnpm add algoliasearch
           pnpm install
+      - name: List
+        run: ls -la
       - name: Delete Index
         env:
           APPLICATION_ID: ${{ secrets.APPLICATION_ID }}
