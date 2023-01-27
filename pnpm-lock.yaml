@@ -1,7 +1,7 @@
 lockfileVersion: 5.4
 
 specifiers:
-  '@studyathome-internationally/vuepress-theme-hub': 1.3.5-alpha.3
+  '@studyathome-internationally/vuepress-theme-hub': 1.3.5
   '@textlint-rule/textlint-rule-no-unmatched-pair': ^1.0.8
   lint-staged: ^13.0.3
   remark-cli: ^11.0.0
@@ -21,7 +21,7 @@ specifiers:
   youtube-player: ^5.5.2
 
 dependencies:
-  '@studyathome-internationally/vuepress-theme-hub': 1.3.5-alpha.3
+  '@studyathome-internationally/vuepress-theme-hub': 1.3.5
   '@textlint-rule/textlint-rule-no-unmatched-pair': 1.0.9
   lint-staged: 13.1.0
   remark-cli: 11.0.0
@@ -1609,8 +1609,8 @@ packages:
       - react-dom
     dev: false
 
-  /@studyathome-internationally/vuepress-theme-hub/1.3.5-alpha.3:
-    resolution: {integrity: sha512-TjNPGe7spUtIm1/lXXuo3zWvvdtDkfo/dxw+Ka7XCGw8+1aL3K23QorYQXHo7WSKntCqkmvgTLSRKSYauWoDRA==}
+  /@studyathome-internationally/vuepress-theme-hub/1.3.5:
+    resolution: {integrity: sha512-JweCdlZSk75N5O2y/Z/ZBHwNc7ydDy07sdEtzOkwifZuPrrXK7gbjndTJJSXUq96ZoZhrMcw+Cyw5OngQfRqzg==}
     dependencies:
       '@fortawesome/fontawesome-free': 6.2.1
       '@fortawesome/fontawesome-svg-core': 6.2.1
