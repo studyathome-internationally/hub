@@ -50,4 +50,4 @@ jobs:
       # - name: Delete Content from Server
       #   run: sshpass -p ${PASS} ssh ${SSH_OPTS} ${USER}@${SERVER} "echo rm -rf ${DEST}/*"
       - name: Upload Build to StudyATHome Server
-        run: echo sshpass -p ${PASS} scp ${SSH_OPTS} -r * ${USER}@${SERVER}:${DEST}/
+        run: sshpass -p ${PASS} scp ${SSH_OPTS} -r * ${USER}@${SERVER}:${DEST}/
