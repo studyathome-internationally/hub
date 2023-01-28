@@ -46,6 +46,7 @@ jobs:
         uses: actions/download-artifact@v3
         with:
           name: hub
+      # DANGER:
       # - name: Delete Content from Server
       #   run: sshpass -p ${PASS} ssh ${SSH_OPTS} ${USER}@${SERVER} "echo rm -rf ${DEST}/*"
       - name: Upload Build to StudyATHome Server

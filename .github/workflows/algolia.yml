@@ -34,8 +34,6 @@ jobs:
         run: |
           pnpm add algoliasearch
           pnpm install
-      - name: List
-        run: ls -la
       - name: Delete Index
         env:
           APPLICATION_ID: ${{ secrets.APPLICATION_ID }}
@@ -47,8 +45,6 @@ jobs:
     steps:
       - name: Get Code
         uses: actions/checkout@v3
-      - name: List
-        run: ls -la
       - name: Crawl Website
         uses: darrenjennings/algolia-docsearch-action@master
         with:

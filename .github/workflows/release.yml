@@ -52,6 +52,7 @@ jobs:
       - name: Download Prerelease
         if: ${{ steps.prerelease.outputs.exists }}
         run: echo sshpass -p ${PASS} scp ${SSH_OPTS} -r ${USER}@${SERVER}:${DEST}/next next
+      # DANGER:
       # - name: Delete Content from Server
       #   run: sshpass -p ${PASS} ssh ${SSH_OPTS} ${USER}@${SERVER} "echo rm -rf ${DEST}/*"
       - name: Upload Build to StudyATHome Server
