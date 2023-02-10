@@ -1,7 +1,7 @@
 lockfileVersion: 5.4
 
 specifiers:
-  '@studyathome-internationally/vuepress-theme-hub': 1.3.5
+  '@studyathome-internationally/vuepress-theme-hub': 1.3.6
   '@textlint-rule/textlint-rule-no-unmatched-pair': ^1.0.8
   lint-staged: ^13.0.3
   remark-cli: ^11.0.0
@@ -21,7 +21,7 @@ specifiers:
   youtube-player: ^5.5.2
 
 dependencies:
-  '@studyathome-internationally/vuepress-theme-hub': 1.3.5
+  '@studyathome-internationally/vuepress-theme-hub': 1.3.6
   '@textlint-rule/textlint-rule-no-unmatched-pair': 1.0.9
   lint-staged: 13.1.0
   remark-cli: 11.0.0
@@ -1593,8 +1593,8 @@ packages:
     engines: {node: '>=6'}
     dev: false
 
-  /@studyathome-internationally/vuepress-plugin-pwa-autoload/0.0.1:
-    resolution: {integrity: sha512-5RMr08WTidHjKazDIHty+2KEaxztIGo1bDvVeluE2HJ0nnZLhmHyRadeY+NDG4+DMsujEmZ32fIL8DZ9/G3yEA==}
+  /@studyathome-internationally/vuepress-plugin-pwa-autoload/0.0.2:
+    resolution: {integrity: sha512-DQ+5fLvWkeQFwibfzPBQs4grCS54QLzFX6znfqVJaQ1xjdI2o9N/ECVQh+zCM7GX31XHeeHtuWPkM6vaDl2+Dg==}
     dev: false
 
   /@studyathome-internationally/vuepress-plugin-searchbox/0.0.2:
@@ -1609,8 +1609,8 @@ packages:
       - react-dom
     dev: false
 
-  /@studyathome-internationally/vuepress-theme-hub/1.3.5:
-    resolution: {integrity: sha512-JweCdlZSk75N5O2y/Z/ZBHwNc7ydDy07sdEtzOkwifZuPrrXK7gbjndTJJSXUq96ZoZhrMcw+Cyw5OngQfRqzg==}
+  /@studyathome-internationally/vuepress-theme-hub/1.3.6:
+    resolution: {integrity: sha512-bsla/rggxYVIsa2cHiTFC1Cpwg8MqOBRWJe9WNE6nw4Rwrod9zUGJnMUeE4C8gbWS+aT40tbgXYGybUOl44t1Q==}
     dependencies:
       '@fortawesome/fontawesome-free': 6.2.1
       '@fortawesome/fontawesome-svg-core': 6.2.1
@@ -1618,7 +1618,7 @@ packages:
       '@fortawesome/free-regular-svg-icons': 6.2.1
       '@fortawesome/free-solid-svg-icons': 6.2.1
       '@fortawesome/vue-fontawesome': 2.0.10_tsskomtn7pjpp6fcwzu7ca2rbe
-      '@studyathome-internationally/vuepress-plugin-pwa-autoload': 0.0.1
+      '@studyathome-internationally/vuepress-plugin-pwa-autoload': 0.0.2
       '@studyathome-internationally/vuepress-plugin-searchbox': 0.0.2
       '@vuepress/plugin-back-to-top': 1.9.8
       '@vuepress/plugin-medium-zoom': 1.9.8
