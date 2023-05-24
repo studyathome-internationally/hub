@@ -27,7 +27,7 @@ enrollment:
 # Course Enrollment
 
 ::: tip Application Deadline
-November, 7^th^ 2022
+June, 16^th^ 2023
 :::
 
 Please send an **email** with your **application** by clicking `Write E-Mail` below. The course is **free of charge** but the capacity is limited (see course description).
