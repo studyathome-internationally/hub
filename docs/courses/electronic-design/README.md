@@ -7,7 +7,8 @@ tags:
   - Simulation
   - Passive/Active Components
 
-state: true
+layout: NotFound
+state: false
 enrollment: false
 
 semester: Winter

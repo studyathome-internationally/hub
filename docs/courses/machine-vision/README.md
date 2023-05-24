@@ -8,7 +8,7 @@ tags:
 
 # layout: NotFound
 state: true
-enrollment: false
+enrollment: true
 
 semester: Winter
 license: =license=
@@ -29,8 +29,8 @@ media:
     alt: Human eye surrounded by computational data
 
 schedule:
-  start: 01.10.2022
-  end: 15.03.2023
+  start: 02.10.2023
+  end: 13.03.2024
   duration: =course duration=
 
 lecturers:

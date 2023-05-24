@@ -7,7 +7,7 @@ tags:
   - Mikrocontroller
 
 state: true
-enrollment: false
+enrollment: true
 
 semester: Winter
 license: =license=
@@ -28,8 +28,8 @@ media:
     alt: Embedded mikrocontroller on circuit board
 
 schedule:
-  start: 07.11.2022
-  end: 15.01.2023
+  start: 06.11.2023
+  end: 14.01.2024
   duration: =course duration=
 
 lecturers:

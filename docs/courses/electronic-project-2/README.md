@@ -9,7 +9,7 @@ tags:
 
 # layout: NotFound
 state: true
-enrollment: true
+enrollment: false
 
 semester: Summer
 license: =license=
