@@ -57,8 +57,17 @@ jobs:
       # DANGER:
       # - name: Delete Content from Server
       #   run: sshpass -p ${PASS} ssh ${SSH_OPTS} ${USER}@${SERVER} "echo rm -rf ${DEST}/*"
-      - name: Upload Build to StudyATHome Server
-        run: sshpass -p ${PASS} scp ${SSH_OPTS} -r * ${USER}@${SERVER}:${DEST}/
+      #- name: Upload Build to StudyATHome Server
+      #  run: sshpass -p ${PASS} scp ${SSH_OPTS} -r * ${USER}@${SERVER}:${DEST}/
+      - name: FTP-Deploy-Action
+        uses: SamKirkland/FTP-Deploy-Action@v4.3.4
+        with:
+          server: ${SERVER}
+          username: ${USER}
+          password: ${{ secrets.DEPLOY_USER_KEY }}
+          server-dir: ./html/hub-public/
+          protocol: sftp
+          port: 2222
   # We don't know when the site will be deployed, we just wait a few seconds
   # Better solutions can be found
   delay:
