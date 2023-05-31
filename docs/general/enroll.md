@@ -89,32 +89,24 @@ The applicants will be nominated by their international coordinators using the f
 :::
 
 </RequiredData>
-<!--
-<Disclaimer title="Privacy Disclaimer" open>
-
-**StudyATHome Internationally**  
-Your **application data** is processed by the StudyATHome team (studyathome@technikum-wien.at), by the coordinators of the home university and the coordinators of the host university. The data will be transmitted by e-mail.
-
-The data you provide will only be used to assist the application and grade recognition process. The data will not be passed on to third parties.
-
-You can revoke this consent at any time, but this will cancel your participation at the eLearning sharing program.
-
-</Disclaimer>
-
-Select course (you cannot select courses of your home university):
-<CourseSelection path="/courses/" placeholder="-- Please choose a course --"/>
-Select home university:
-<UniversitySelection path="/studyathome/partner/" placeholder="-- Please choose your home university --"/>
-
-<Confirmation>
-
-I confirm reading and understanding the full [privacy information](/studyathome/privacy.md) text and consent to processing of personal data.
-
-</Confirmation>
-
-<EMail>Write E-Mail</EMail>
--->
-<a href="https://www.technikum-wien.at/studyathome/">Apply Now!</a>
+<p>
+<p>
+<style>
+  .button {
+  background-color: #0f303e;
+  border: none;
+  color: white;
+  border-radius: 4px;
+  padding: 20px 34px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  margin: 4px 2px;
+  cursor: pointer;
+  }
+</style>
+<a href="https://www.technikum-wien.at/studyathome/" class="button" target="_blank">Apply Now!</a>
 
 ## Troubleshooting
 
