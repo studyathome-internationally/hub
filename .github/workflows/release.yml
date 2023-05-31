@@ -62,8 +62,8 @@ jobs:
       - name: FTP-Deploy-Action
         uses: SamKirkland/FTP-Deploy-Action@v4.3.4
         with:
-          server: ${SERVER}
-          username: ${USER}
+          server: ${{ env.SERVER}}
+          username: ${{ env.USER}}
           password: ${{ secrets.DEPLOY_USER_KEY }}
           server-dir: ./html/hub-public/
           protocol: ftps
