@@ -30,7 +30,7 @@ enrollment:
 June, 16^th^ 2023
 :::
 
-Please send an **email** with your **application** by clicking `Write E-Mail` below. The course is **free of charge** but the capacity is limited (see course description).
+Please send your **application** by clicking the `Apply Now` below. The course is **free of charge** but the capacity is limited (see course description).
 
 Please ensure to check the [FAQs](/e-learning-sharing/faq.html) regarding course recognition and **apply before the application deadline**.
 
@@ -60,6 +60,9 @@ The applicants will be nominated by their international coordinators using the f
   - University Name
   - University E-mail
   - Study Program
+  - Source of information
+  - Consent acceptance
+  - User agent string
 
 :::
 
@@ -86,7 +89,7 @@ The applicants will be nominated by their international coordinators using the f
 :::
 
 </RequiredData>
-
+<!--
 <Disclaimer title="Privacy Disclaimer" open>
 
 **StudyATHome Internationally**  
@@ -110,10 +113,12 @@ I confirm reading and understanding the full [privacy information](/studyathome/
 </Confirmation>
 
 <EMail>Write E-Mail</EMail>
+-->
+<a href="https://www.technikum-wien.at/studyathome/">Apply Now!</a>
 
 ## Troubleshooting
 
-In case of problems with the `Write E-Mail` button, simply open your e-mail client of choice and write an e-mail to
+In case of problems, simply open your e-mail client of choice and write an e-mail to
 
 [studyathome@technikum-wien.at](mailto:studyathome@technikum-wien.at)
 
