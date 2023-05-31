@@ -97,7 +97,7 @@ The applicants will be nominated by their international coordinators using the f
   border: none;
   color: white;
   border-radius: 4px;
-  padding: 20px 34px;
+  padding: 20px 0px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
@@ -107,11 +107,11 @@ The applicants will be nominated by their international coordinators using the f
   width: 100%;
   }
 a:visited {
-   text-decoration: none;
+   text-decoration: none !important;
    color: white;
 }
 a:hover {
-   text-decoration: none;
+   text-decoration: none !important;
    color: white;
 }
 </style>
