@@ -59,15 +59,16 @@ jobs:
       #   run: sshpass -p ${PASS} ssh ${SSH_OPTS} ${USER}@${SERVER} "echo rm -rf ${DEST}/*"
       #- name: Upload Build to StudyATHome Server
       #  run: sshpass -p ${PASS} scp ${SSH_OPTS} -r * ${USER}@${SERVER}:${DEST}/
-      - name: FTP-Deploy-Action
-        uses: SamKirkland/FTP-Deploy-Action@v4.3.4
+      - name: Upload Files
+        id: upload
+        uses: Creepios/sftp-action@v1.0.3
         with:
-          server: ${{ env.SERVER}}
+          host: ${{ env.SERVER}}
+          port: 2222
           username: ${{ env.USER}}
           password: ${{ secrets.DEPLOY_USER_KEY }}
-          server-dir: ./html/hub-public/
-          protocol: ftps-legacy
-          port: 2222
+          localPath: './'
+          remotePath: './html/hub-public/'         
   # We don't know when the site will be deployed, we just wait a few seconds
   # Better solutions can be found
   delay:
