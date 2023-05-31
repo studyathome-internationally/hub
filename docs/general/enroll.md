@@ -104,10 +104,19 @@ The applicants will be nominated by their international coordinators using the f
   font-size: 20px;
   margin: 4px 2px;
   cursor: pointer;
+  width: 100%;
   }
+a:visited {
+   text-decoration: none;
+   color: white;
+}
+a:hover {
+   text-decoration: none;
+   color: white;
+}
 </style>
 <a href="https://www.technikum-wien.at/studyathome/" class="button" target="_blank">Apply Now!</a>
-
+  
 ## Troubleshooting
 
 In case of problems, simply open your e-mail client of choice and write an e-mail to
