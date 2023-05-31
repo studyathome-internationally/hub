@@ -89,6 +89,9 @@ The following table lists which data categories are processed by which instituti
   - University Name
   - University E-mail
   - Study Program
+  - Source of information
+  - Consent acceptance
+  - User agent string
 
 :::
 
