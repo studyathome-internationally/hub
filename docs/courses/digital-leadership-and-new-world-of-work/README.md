@@ -39,7 +39,7 @@ lecturers:
 university:
   page: /studyathome/partner/uastw/
   faculty: Social Skills
-  program: =university program=
+  program: Sports Technology
 ---
 
 # Digital Leadership and New World of Work
