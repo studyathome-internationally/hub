@@ -1,4 +1,5 @@
 ---
+pageClass: enrollment
 permalink: /courses/enroll/
 enrollment:
   cc:
@@ -25,6 +26,13 @@ enrollment:
 ---
 
 # Course Enrollment
+
+<style lang="styl">
+  /* FIXME: update style in package '@studyathome-internationally/vuepress-theme-hub' in file 'styles/index.styl' */
+  .enrollment
+    a.button
+      color white
+</style>
 
 ::: tip Application Deadline
 November, 8^th^ 2024
