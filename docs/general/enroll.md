@@ -50,7 +50,7 @@ The applicants will be nominated by their international coordinators using the f
 <RequiredData title="Data">
 
 ::: tip Application Data
-(_Processed by **StudyATHome Hub (UAS Technikum Wien**_)
+_Processed by **StudyATHome Hub (UAS Technikum Wien)**_
 
 - Course
   - Title
@@ -67,7 +67,7 @@ The applicants will be nominated by their international coordinators using the f
 :::
 
 ::: tip Registration Data
-(_Processed by **Host University on Request**_)
+_Processed by **Host University on Request**_
 
 - Course
   - Title
