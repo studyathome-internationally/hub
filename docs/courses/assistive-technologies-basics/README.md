@@ -8,7 +8,8 @@ tags:
   - Usability
   - Accessibility
 
-state: true
+layout: NotFound
+state: false
 enrollment: false
 
 semester: Summer
