@@ -36,6 +36,9 @@
     "lint-md": "yarn lint-md:style && yarn lint-md:wording"
   },
   "devDependencies": {
+    "gray-matter": "^4.0.3",
+    "klaw": "^4.1.0",
+    "yargs": "^17.7.2",
     "youtube-player": "^5.5.2"
   }
 }
