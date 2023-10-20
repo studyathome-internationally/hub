@@ -4,6 +4,10 @@ module.exports = [
   { text: "Virtual Student Interaction", link: "/virtual-student-interaction/" },
   { text: "Summer School", link: "/studyathome/summer-school/" },
   {
+    text: "OER",
+    items: [{ text: "Rehabilitation Technology", link: "https://rehatec.studyathome.technikum-wien.at/" }],
+  },
+  {
     text: "General",
     items: [
       { text: "Contact", link: "/studyathome/contact" },
