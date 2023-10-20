@@ -30,6 +30,7 @@
   "scripts": {
     "dev": "vuepress dev docs",
     "build": "vuepress build docs",
+    "report": "node ./tool.js report REPORT.md",
     "precommit": "lint-staged",
     "lint-md:wording": "textlint ./docs/**/*.md",
     "lint-md:style": "remark --quiet --frail .",
