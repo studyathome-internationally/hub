@@ -31,8 +31,8 @@ media:
     alt: Picture of a female face (left side) and matrix data (right side)
 
 schedule:
-  start: 14.02.2023
-  end: 31.05.2023
+  start: 13.02.2024
+  end: 29.05.2024
   duration: 13 weeks
 
 lecturers:

@@ -43,8 +43,8 @@ media:
     alt: Matlab icon surrounded by analog wave signal.
 
 schedule:
-  start: 28.02.2023
-  end: 29.06.2023
+  start: 27.02.2024
+  end: 27.06.2024
   duration: =course duration=
 
 lecturers:

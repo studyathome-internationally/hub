@@ -35,8 +35,8 @@ media:
     src: https://www.youtube.com/watch?v=72o9Tbmhtss
 
 schedule:
-  start: 03.01.2023
-  end: 29.04.2023
+  start: 02.01.2024
+  end: 27.04.2024
   duration: =course duration=
 
 lecturers:

@@ -32,8 +32,8 @@ media:
     alt: Mikrocontroller with SMD components on a printed circuit board
 
 schedule:
-  start: 18.02.2023
-  end: 21.04.2023
+  start: 17.02.2024
+  end: 19.04.2024
   duration: =course duration=
 
 lecturers:
