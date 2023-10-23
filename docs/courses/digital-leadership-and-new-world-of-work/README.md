@@ -29,7 +29,7 @@ media:
     alt: Wide photo of a digital globe glowing amidst circuit lines, with silhouettes of diverse professionals collaborating around it, emphasizing the concept of global digital leadership.
 
 schedule:
-  start: 01.01.2024
+  start: 17.02.2024
   end: 30.06.2024
   duration: =course duration=
 
@@ -38,7 +38,7 @@ lecturers:
 
 university:
   page: /studyathome/partner/uastw/
-  faculty: Social Skills
+  faculty: Electronic Engineering and Entrepreneurship
   program: Sports Technology
 ---
 
@@ -84,9 +84,9 @@ In this way, acquired knowledge is placed in relation to one’s own work situat
 
 | Type        | Effort \[h\] |
 | :---------- | :----------- |
-| Independent | 40           |
-| Practical   | 40           |
-| Lecture     | 40           |
+| Independent | 10           |
+| Practical   | 15           |
+| Lecture     | 25           |
 
 ### Materials
 
@@ -114,12 +114,11 @@ Attendance is compulsory.
 
 | Grade | Grade (letter) | Scale            |
 | :---- | :------------- | :--------------- |
-| 5     | F              | up to 50 points  |
-| 6     | E              | 51 to 60 points  |
-| 7     | D              | 61 to 70 points  |
-| 8     | C              | 71 to 80 points  |
-| 9     | B              | 81 to 90 points  |
-| 10    | A              | 91 to 100 points |
+| 5     | Nicht Genügend | < 50 points      |
+| 4     | Genügend       | 50 to 62 points  |
+| 3     | Befriedigend   | 63 to 74 points  |
+| 2     | Gut            | 75 to 87 points  |
+| 1     | Sehr gut       | 88 to 100 points |
 
 ## Requirements
 
@@ -130,5 +129,4 @@ Attendance is compulsory.
 
 ### Equipment
 
-- Pencil(s)
-- Calculator
+No special equipment required.
