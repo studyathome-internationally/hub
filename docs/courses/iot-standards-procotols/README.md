@@ -6,7 +6,7 @@ tags:
   - IoT
   - Sensors
   - Actuators
-  - Wireless
+  - IoT Platforms
   - Web APIs
   - MQTT
 
@@ -32,7 +32,7 @@ media:
     # src: https://www.youtube.com/watch?v=72o9Tbmhtss
     alt: Picture of the globe with internet of things items connected to it.
   description:
-    src: https://www.youtube.com/watch?v=72o9Tbmhtss
+    src: https://www.youtube.com/watch?v=EmGc-34l3mY
 
 schedule:
   start: 02.01.2024
@@ -107,8 +107,8 @@ On successful completion of this module, a student will be able to:
 ### Methods
 
 - Combination of lectures and computer/network laboratory work.
-- Labs will provide practical knowledge into the design and implementation of IoT-specific communication protocol solutions.
-- Lectures will provide the theoretical knowledge of IoT protocols and standards.
+- Labs will provide practical knowledge of the design and implementation of IoT-specific communication protocol solutions.
+- Lectures will provide theoretical knowledge of IoT protocols and standards.
 - As part of the lectures, case studies will be used to illustrate real-world IoT solutions using the standards and protocols covered in lectures(e.g. smart spaces).
 
 | Type        | Effort \[h\] |
@@ -123,19 +123,19 @@ On successful completion of this module, a student will be able to:
 
 The course consists of several labs which can be done from at home if you have the respective [equipment](#equipment).
 
-Additionally, the student will have to do a project assignment in a virtual team.
+Additionally, the student will have to do a project assignment.
 
 #### Lab
 
 <!-- Describe an example assignment definition -->
 
-Please have a look at the [lab descriptions](https://tutors-svelte.netlify.app/#/wall/lab/iot-protocols-2021.netlify.app).
+Please have a look at the [lab descriptions](https://tutors.dev/wall/lab/iot-protocols-2023.netlify.app).
 
 #### Project Assignment
 
 <!-- The final exam will be ... -->
 
-Please have a look at the [project assignment description](https://tutors-svelte.netlify.app/#/topic/iot-protocols-2021.netlify.app/topic-000-Assessments).
+Please have a look at the [project assignment description](https://tutors.dev/topic/iot-protocols-2023/topic-000-Assessments).
 
 ### Methods
 
@@ -150,7 +150,7 @@ Please have a look at the [project assignment description](https://tutors-svelte
 | :---------------------------------------------------------------------------------------------------------------------- | :--------- |
 | Inability to specify a coherent network design.                                                                         | < 40%      |
 | Able to describe the basic network design concepts.                                                                     | 40%–49%    |
-| All the above and in addition is able demonstrate a technical understanding of the common automotive network protocols. | 50%–59%    |
+| All the above and in addition is able to demonstrate a technical understanding of the common automotive network protocols. | 50%–59%    |
 | In addition, is able to develop and test a network using two or more protocols connected with a gateway.                | 60%–69%    |
 | All of the above and able to debug network issues at a low level.                                                       | 70%–100%   |
 
@@ -162,7 +162,7 @@ Please have a look at the [project assignment description](https://tutors-svelte
 
 ### Equipment
 
-If you don't have the hardware at home ask your lab assistent at the home university or write to [studyathome@technikum-wien.at](mailto:studyathome@technikum-wien.at)
+If you don't have the hardware at home ask your lab assistant at the home university or write to [studyathome@technikum-wien.at](mailto:studyathome@technikum-wien.at)
 
 - [Raspberry Pi 3](https://www.raspberrypi.org/)  
   ![Raspberry Pi PCB](./img/raspberry-pi-3.png =x300)
@@ -170,4 +170,4 @@ If you don't have the hardware at home ask your lab assistent at the home univer
   ![Rasbperry Pi Camera Module 2](https://images.prismic.io/rpf-products/68fe7e4cb53767ad6c033bf3b46da3452188a24a_pi-camera-front-1-1426x1080.jpg?ixlib=gatsbyFP&auto=compress%2Cformat&fit=max&q=50&w=600&h=400 =x300)
 - [SenseHAT Add-On board](https://www.raspberrypi.org/products/sense-hat/)  
   ![SenseHAT Add-On board](./img/sensehat.png =x300)
-- [SiPy development board + PyCom expansion board](https://tutors-design.netlify.app/lab/iot-protocols-2020.netlify.app/topic-07/book-1/Equipment)
+- [Arduino Explore Kit Rev.2](https://store.arduino.cc/products/explore-iot-kit-rev2)
