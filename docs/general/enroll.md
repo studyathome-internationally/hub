@@ -100,7 +100,7 @@ _Processed by **Host University on Request**_
 <p>
 <p>
 <style>
-  .button {
+  #applybutton {
   background-color: #0f303e;
   border: none;
   color: white;
@@ -114,16 +114,8 @@ _Processed by **Host University on Request**_
   cursor: pointer;
   width: 100%;
   }
-a:visited {
-   text-decoration: none !important;
-   color: white;
-}
-a:hover {
-   text-decoration: none !important;
-   color: white;
-}
 </style>
-<a href="https://www.technikum-wien.at/studyathome/" class="button" target="_blank">Apply Now!</a>
+<a id="applybutton" href="https://www.technikum-wien.at/studyathome/" class="button" target="_blank">Apply Now!</a>
   
 ## Troubleshooting
 
