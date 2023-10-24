@@ -12,6 +12,8 @@ In course of the project, the following activities will be done:
 * **AsTeRICS eLearning**
   * [AsTeRICS Webpage](https://www.asterics.eu): Development of a new responsive and accessible web page for AsTeRICS users and developers.
   * [Assistive Technologies eLearning course](../courses/assistive-technologies-basics/): Creation of an eLearning course about the bascis of Assistive Technologies and AsTeRICS.
+* **Conversion of learning material to accessible formats**
+  * Creation of an Open Educational Resource (OER) about [Rehabilitation Technology (en/de)](https://rehatec.studyathome.technikum-wien.at/). 
 * **International Summer School for AT and SH**
 * **Competence network with partner universities in the area of AT and SH**
   * Visiting partner sites
