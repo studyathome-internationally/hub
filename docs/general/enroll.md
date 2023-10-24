@@ -115,7 +115,12 @@ _Processed by **Host University on Request**_
   width: 100%;
   }
 </style>
+
+<!-- Link für das Winter Semester 
 <a id="applybutton" href="https://www.technikum-wien.at/studyathome/" class="button" target="_blank">Apply Now!</a>
+-->
+<!-- Link für das Sommer Semester -->
+<a id="applybutton" href="https://www.technikum-wien.at/studyathome-elearning-sharing-application-summer-semester-2024/" class="button" target="_blank">Apply Now!</a>
   
 ## Troubleshooting
 
