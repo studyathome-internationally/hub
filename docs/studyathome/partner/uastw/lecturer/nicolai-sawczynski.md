@@ -21,8 +21,30 @@ portrait: /assets/img/partner/uastw/lecturer/nicolai-sawczynski.webp
 
 # Nicolai Sawczynski
 
-Mag. Nicolai Sawczynski, MAS, lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+Mag. Nicolai Sawczynski, MAS, studied Business Administration at the Vienna University of Economics and Business. He is the lead of the competence field Social Skills and works as a senior lecturer and trainer at UAS Technikum Wien since 2007. He is also coach for social skill development and holds workshops for Intercultural Skill Development, Gender Mainstreaming and Diversity Management. 
 
 <!-- more -->
+ 
+## Courses at UASTW
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+* Communication and (mediative) conversation management
+* Conflict management and conflict moderation
+* Teamentwicklung und Teammoderation
+* Leadership and change management
+* Organizational and personnel development
+* Interculturality
+
+## Work experience
+
+* registered management consultant, since 2003 
+* Controlling and monitoring of audits, Intercultural Centre, Vienna, 2008 to 2020 
+* Co-opted member of the board of the Intercultural Centre, Vienna, 2016 to 2018 
+* Palmers AG, 1999 to 2003 
+  * Investment Controlling, Palmers Beteiligungs AG 
+  * Commercial Manager Finance and Controlling, Procuration, Palmers
+  * Germany GmbH & CO.KG, Munich 
+* Gazelle AG, 1995 to 1999
+  * Head of Controlling and Merchandise Management
+* Interdisciplinary Balkan Studies, IDM - Institute for the Danube Region and Central Europe, 
+  * Diplomatic Academy Vienna
+
