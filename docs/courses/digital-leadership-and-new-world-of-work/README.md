@@ -30,7 +30,7 @@ media:
 
 schedule:
   start: 17.02.2024
-  end: 30.06.2024
+  end: 30.03.2024
   duration: =course duration=
 
 lecturers:
@@ -78,7 +78,9 @@ After passing this course successfully students are able to
 
 ### Methods
 
-Contents are independently researched, presented and discussed.
+The course consists of **5 blocked lectures (3h to 7h, 28h in total, online)** at the beginning of the semester (February, March). 
+
+Additionally, students will have to **research certain topics individually** and **prepare and do presentations in groups**.
 Lecturers and students systematically compare the results of their work with their practical experience.
 In this way, acquired knowledge is placed in relation to one’s own work situation.
 
