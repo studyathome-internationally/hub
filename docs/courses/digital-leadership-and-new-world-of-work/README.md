@@ -106,11 +106,11 @@ Attendance is compulsory.
 
 | Type          | Points/Percent |
 | :------------ | :------------- |
-| Tests         | 13%            |
-| Seminar paper | 12%            |
-| Project       | 13%            |
-| Tasks         | 12%            |
-| Final exam    | 50%            |
+| Project       | 60%            |
+| Exams/Tests   | 20%            |
+| Final paper   | 20%            |
+
+
 
 ### Criteria
 
