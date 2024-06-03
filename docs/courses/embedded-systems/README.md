@@ -6,7 +6,8 @@ tags:
   - Embedded Systems
   - Mikrocontroller
 
-state: true
+layout: NotFound
+state: false
 enrollment: false
 
 semester: Winter

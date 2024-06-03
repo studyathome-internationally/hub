@@ -10,7 +10,7 @@ tags:
   - Computer Vision
 
 state: true
-enrollment: true
+enrollment: false
 
 semester: Summer
 license: =license=
@@ -27,7 +27,7 @@ language:
 
 media:
   main:
-    src: https://blogs.commons.georgetown.edu/cctp-820-fall2016/files/2016/10/2-1.png
+    src: /assets/img/courses/digital-image-processing.webp
     alt: Picture of a female face (left side) and matrix data (right side)
 
 schedule:

@@ -11,7 +11,7 @@ tags:
 
 # layout: NotFound
 state: true
-enrollment: false
+enrollment: true
 
 semester: Winter
 license: =license=
@@ -32,8 +32,8 @@ media:
     alt: Zeros and ones in front of an abstract face.
 
 schedule:
-  start: 12.09.2023
-  end: 27.01.2024
+  start: 23.09.2024
+  end: 13.01.2025
   duration: =course duration=
 
 lecturers:

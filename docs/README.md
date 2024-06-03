@@ -26,13 +26,13 @@ Any questions? Check out the [eLearning sharing concept](/e-learning-sharing) an
 
 Please select from the list of courses below.
 
+### Winter Semester 2024
+
+<Courses winter sort="name" path="/courses/"/>
+
 ### Summer Semester 2024
 
 <Courses summer sort="name" path="/courses/"/>
-
-### Winter Semester 2023
-
-<Courses winter sort="name" path="/courses/"/>
 
 ## Funding
 

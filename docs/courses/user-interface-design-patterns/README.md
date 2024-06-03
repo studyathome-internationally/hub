@@ -9,7 +9,7 @@ tags:
   - Usability
 
 state: true
-enrollment: false
+enrollment: true
 
 semester: Winter
 license: ukim
@@ -30,8 +30,8 @@ media:
     alt: Diagram of the User centered design process
 
 schedule:
-  start: 02.10.2023
-  end: 14.01.2024
+  start: 07.10.2024
+  end: 12.01.2025
   duration: =course duration=
 
 lecturers:
