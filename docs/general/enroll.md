@@ -35,7 +35,7 @@ enrollment:
 </style>
 
 ::: tip Application Deadline
-June, 6^th^ 2024
+June, 16^th^ 2024
 :::
 
 Please send your **application** by clicking the `Apply Now` below. The course is **free of charge** but the capacity is limited (see course description).
