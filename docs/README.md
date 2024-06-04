@@ -44,5 +44,5 @@ The duration of the project is from Sept. 2022 to Aug. 2025.
 
 ![Logo of University of Applied Sciences Technikum Wien](/assets/img/logos/FH_Technikum_Wien_logo.svg "Logo of University of Applied Sciences Technikum Wien" =x83){align="left"; style="margin: 3% 2% 3% 2%;"}
 ![Logo of StudyATHome Internationally project](/assets/img/logos/studyathome-noir.svg "Logo of StudyATHome Internationally project" =x83){align="left"; style="margin: 3% 2% 3% 2%;"}
-![Logo of Inclusion International project](/assets/img/logos/in2-inclusion-international.webp "Logo of Inclusion International project" =x83){align="left"; style="margin: 3% 2% 3% 2%;"}
+![Logo of Inclusion International project](/assets/img/logos/inclusion-international.svg "Logo of Inclusion International project" =x83){align="left"; style="margin: 3% 2% 3% 2%;"}
 ![Logo of City of Vienna](/assets/img/logos/CV_MA23-orbit1_pos_web.svg "Logo of City of Vienna" =x83){align="right"; style="margin: 3% 2% 3% 2%;"}
