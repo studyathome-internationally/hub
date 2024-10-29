@@ -11,7 +11,7 @@ tags:
   - MQTT
 
 state: true
-enrollment: false
+enrollment: true
 
 semester: Summer
 license: CC by SA?
@@ -35,8 +35,8 @@ media:
     src: https://www.youtube.com/watch?v=EmGc-34l3mY
 
 schedule:
-  start: 02.01.2024
-  end: 27.04.2024
+  start: 02.01.2025
+  end: 27.04.2025
   duration: =course duration=
 
 lecturers:
