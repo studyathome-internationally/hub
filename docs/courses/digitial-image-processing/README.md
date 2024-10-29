@@ -9,7 +9,7 @@ tags:
   - Color Space
   - Computer Vision
 
-state: true
+state: false
 enrollment: false
 
 semester: Summer
