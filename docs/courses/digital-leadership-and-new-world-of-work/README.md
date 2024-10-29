@@ -8,7 +8,7 @@ tags:
 
 # layout: NotFound
 state: true
-enrollment: false
+enrollment: true
 
 semester: Summer
 license: =license=
@@ -29,8 +29,8 @@ media:
     alt: Wide photo of a digital globe glowing amidst circuit lines, with silhouettes of diverse professionals collaborating around it, emphasizing the concept of global digital leadership.
 
 schedule:
-  start: 17.02.2024
-  end: 30.03.2024
+  start: 10.02.2025
+  end: 30.03.2025
   duration: =course duration=
 
 lecturers:
