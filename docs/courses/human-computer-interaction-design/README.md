@@ -7,7 +7,7 @@ tags:
   - Interaction Design
 
 # layout: NotFound
-state: true
+state: false
 enrollment: false
 
 semester: Summer
