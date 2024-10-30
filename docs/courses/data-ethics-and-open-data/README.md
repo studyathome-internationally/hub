@@ -32,8 +32,8 @@ media:
     alt: Zeros and ones in front of an abstract face.
 
 schedule:
-  start: 17.02.2025
-  end: 27.06.2025
+  start: 18.02.2026
+  end: 03.06.2026
   duration: =course duration=
 
 lecturers:

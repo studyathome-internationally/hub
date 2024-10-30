@@ -6,7 +6,7 @@ tags:
   - User Interface
   - Interaction Design
 
-# layout: NotFound
+layout: NotFound
 state: false
 enrollment: false
 

@@ -8,8 +8,9 @@ tags:
   - User Interface Patterns
   - Usability
 
-state: true
-enrollment: true
+layout: NotFound
+state: false
+enrollment: false
 
 semester: Winter
 license: ukim

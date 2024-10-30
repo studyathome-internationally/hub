@@ -35,7 +35,11 @@ enrollment:
 </style>
 
 ::: tip Application Deadline
+<<<<<<< HEAD
 November, 10^th^ 2024
+=======
+November, 9^th^ 2025
+>>>>>>> be8cfbf (Update courses and enrollment date for summer semester 2026)
 :::
 
 Please send your **application** by clicking the `Apply Now` below. The course is **free of charge** but the capacity is limited (see course description).
@@ -120,7 +124,7 @@ _Processed by **Host University on Request**_
 <a id="applybutton" href="https://www.technikum-wien.at/studyathome/" class="button" target="_blank">Apply Now!</a>
 -->
 <!-- Link für das Sommer Semester -->
-<a id="applybutton" href="https://www.technikum-wien.at/studyathome-elearning-sharing-application-summer-semester-2024/" class="button" target="_blank">Apply Now!</a>
+<a id="applybutton" href="https://www.technikum-wien.at/studyathome-elearning-sharing-application-summer-semester-2026/" class="button" target="_blank">Apply Now!</a>
   
 ## Troubleshooting
 

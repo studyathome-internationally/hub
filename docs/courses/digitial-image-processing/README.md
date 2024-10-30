@@ -9,6 +9,7 @@ tags:
   - Color Space
   - Computer Vision
 
+layout: NotFound
 state: false
 enrollment: false
 

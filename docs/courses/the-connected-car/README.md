@@ -10,6 +10,7 @@ tags:
   - LIN
   - Automotive Ethernet
 
+# layout: NotFound
 state: true
 enrollment: true
 
@@ -41,8 +42,8 @@ media:
 
 schedule:
   # application deadline: 2 months in advance. would be good to market it in June for Winter semester and in November for Summer Semester
-  start: 15.01.2025
-  end: 26.04.2025
+  start: 12.01.2026
+  end: 24.04.2026
   duration:
 
 lecturers:

@@ -10,6 +10,7 @@ tags:
   - Web APIs
   - MQTT
 
+# layout: NotFound
 state: true
 enrollment: true
 
@@ -35,8 +36,8 @@ media:
     src: https://www.youtube.com/watch?v=EmGc-34l3mY
 
 schedule:
-  start: 02.01.2025
-  end: 27.04.2025
+  start: 05.01.2026
+  end: 24.04.2026
   duration: =course duration=
 
 lecturers:

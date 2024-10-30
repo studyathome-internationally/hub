@@ -6,9 +6,9 @@ tags:
   - Digital Leadership
   - Social Skills
 
-# layout: NotFound
-state: true
-enrollment: true
+layout: NotFound
+state: false
+enrollment: false
 
 semester: Summer
 license: =license=

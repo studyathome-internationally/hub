@@ -6,9 +6,9 @@ tags:
   - Computer Vision
   - Image Processing
 
-# layout: NotFound
-state: true
-enrollment: true
+layout: NotFound
+state: false
+enrollment: false
 
 semester: Winter
 license: =license=

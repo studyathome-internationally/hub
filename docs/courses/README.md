@@ -2,7 +2,11 @@
 
 Please select from the list of courses below.
 
-## Summer Semester 2025
+<!-- ## Winter Semester 2024
+
+<Courses sort="name" winter/> -->
+
+## Summer Semester 2026
 
 <Courses sort="name" summer/>
 
