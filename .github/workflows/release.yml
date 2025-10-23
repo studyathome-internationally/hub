@@ -34,7 +34,7 @@ jobs:
         env:
           NODE_OPTIONS: --openssl-legacy-provider
       - name: Upload Build Result
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: hub
           path: build
@@ -45,15 +45,15 @@ jobs:
       PASS: ${{ secrets.DEPLOY_USER_KEY }}
     steps:
       - name: Download Build Result
-        uses: actions/download-artifact@v3
+        uses: actions/download-artifact@v4
         with:
           name: hub
-     # - name: Check Prerelease
-     #   id: prerelease
-     #   run: echo "exists=$(sshpass -p ${PASS} ssh ${SSH_OPTS} ${USER}@${SERVER} "if [ -d ${DEST}/next ]; then echo 'true'; else echo 'false'; fi")" >> $GITHUB_OUTPUT
-     # - name: Download Prerelease
-     #   if: ${{ steps.prerelease.outputs.exists == 'true' }}
-     #   run: sshpass -p ${PASS} scp ${SSH_OPTS} -r ${USER}@${SERVER}:${DEST}/next next
+      # - name: Check Prerelease
+      #   id: prerelease
+      #   run: echo "exists=$(sshpass -p ${PASS} ssh ${SSH_OPTS} ${USER}@${SERVER} "if [ -d ${DEST}/next ]; then echo 'true'; else echo 'false'; fi")" >> $GITHUB_OUTPUT
+      # - name: Download Prerelease
+      #   if: ${{ steps.prerelease.outputs.exists == 'true' }}
+      #   run: sshpass -p ${PASS} scp ${SSH_OPTS} -r ${USER}@${SERVER}:${DEST}/next next
       # DANGER:
       # - name: Delete Content from Server
       #   run: sshpass -p ${PASS} ssh ${SSH_OPTS} ${USER}@${SERVER} "echo rm -rf ${DEST}/*"
@@ -67,8 +67,8 @@ jobs:
           port: 2222
           username: ${{ env.USER}}
           password: ${{ secrets.DEPLOY_USER_KEY }}
-          localPath: './'
-          remotePath: './html/hub-public/'         
+          localPath: "./"
+          remotePath: "./html/hub-public/"
   # We don't know when the site will be deployed, we just wait a few seconds
   # Better solutions can be found
   delay:
