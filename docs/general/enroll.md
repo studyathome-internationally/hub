@@ -35,11 +35,7 @@ enrollment:
 </style>
 
 ::: tip Application Deadline
-<<<<<<< HEAD
-November, 10^th^ 2024
-=======
 November, 9^th^ 2025
->>>>>>> be8cfbf (Update courses and enrollment date for summer semester 2026)
 :::
 
 Please send your **application** by clicking the `Apply Now` below. The course is **free of charge** but the capacity is limited (see course description).
